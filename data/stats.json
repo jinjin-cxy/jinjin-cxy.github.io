@@ -1,26 +1,57 @@
 {
-  "updated": "2024-01-15T00:00:00Z",
+  "updated": "2026-02-25T10:30:38.239775+00:00",
   "counts": {
-    "arxiv": 10,
-    "huggingface": 10,
-    "github_trending": 10,
-    "rss_news": 10
+    "arxiv": 0,
+    "huggingface": 15,
+    "github_trending": 15,
+    "rss_news": 20
   },
   "top_tags": [
-    {"tag": "LLM", "count": 28},
-    {"tag": "RAG", "count": 19},
-    {"tag": "Fine-tuning", "count": 17},
-    {"tag": "Multimodal", "count": 15},
-    {"tag": "Agents", "count": 13},
-    {"tag": "Diffusion", "count": 11},
-    {"tag": "Code Generation", "count": 10},
-    {"tag": "Alignment", "count": 9}
+    {
+      "tag": "transformers",
+      "count": 15
+    },
+    {
+      "tag": "safetensors",
+      "count": 13
+    },
+    {
+      "tag": "text-generation",
+      "count": 13
+    },
+    {
+      "tag": "qwen2",
+      "count": 6
+    },
+    {
+      "tag": "chat",
+      "count": 5
+    },
+    {
+      "tag": "qwen3",
+      "count": 4
+    },
+    {
+      "tag": "conversational",
+      "count": 4
+    },
+    {
+      "tag": "pytorch",
+      "count": 2
+    },
+    {
+      "tag": "tf",
+      "count": 2
+    },
+    {
+      "tag": "jax",
+      "count": 2
+    }
   ],
   "top_languages": [
-    {"language": "Python", "count": 18},
-    {"language": "C++", "count": 4},
-    {"language": "Go", "count": 3},
-    {"language": "TypeScript", "count": 3},
-    {"language": "Rust", "count": 2}
+    {
+      "language": "Python",
+      "count": 15
+    }
   ]
 }

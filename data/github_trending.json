@@ -1,85 +1,125 @@
 {
-  "updated": "2024-01-15T00:00:00Z",
+  "updated": "2026-02-25T10:30:30.521263+00:00",
   "repositories": [
     {
-      "name": "ollama/ollama",
-      "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
-      "stars": 45678,
-      "stars_today": 523,
-      "language": "Go",
-      "link": "https://github.com/ollama/ollama"
-    },
-    {
-      "name": "ggerganov/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "stars": 52341,
-      "stars_today": 487,
-      "language": "C++",
-      "link": "https://github.com/ggerganov/llama.cpp"
-    },
-    {
-      "name": "hiyouga/LLaMA-Factory",
-      "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
-      "stars": 18765,
-      "stars_today": 412,
+      "name": "huggingface/skills",
+      "description": "",
+      "stars": 5992,
+      "stars_today": 1206,
       "language": "Python",
-      "link": "https://github.com/hiyouga/LLaMA-Factory"
+      "link": "https://github.com/huggingface/skills"
     },
     {
-      "name": "openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": 58234,
-      "stars_today": 389,
+      "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe",
+      "stars": 10349,
+      "stars_today": 722,
       "language": "Python",
-      "link": "https://github.com/openai/whisper"
+      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
     },
     {
-      "name": "microsoft/autogen",
-      "description": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
-      "stars": 22456,
-      "stars_today": 356,
+      "name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 62071,
+      "stars_today": 504,
       "language": "Python",
-      "link": "https://github.com/microsoft/autogen"
+      "link": "https://github.com/OpenBB-finance/OpenBB"
     },
     {
-      "name": "langchain-ai/langchain",
-      "description": "Building applications with LLMs through composability",
-      "stars": 78965,
-      "stars_today": 312,
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": 13342,
+      "stars_today": 1970,
       "language": "Python",
-      "link": "https://github.com/langchain-ai/langchain"
+      "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
-      "name": "BerriAI/litellm",
-      "description": "Call 100+ LLM APIs in OpenAI format - Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate",
-      "stars": 8976,
-      "stars_today": 287,
+      "name": "GVCLab/PersonaLive",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+      "stars": 2200,
+      "stars_today": 73,
       "language": "Python",
-      "link": "https://github.com/BerriAI/litellm"
+      "link": "https://github.com/GVCLab/PersonaLive"
     },
     {
-      "name": "comfyanonymous/ComfyUI",
-      "description": "A powerful and modular stable diffusion GUI and backend",
-      "stars": 34567,
-      "stars_today": 265,
+      "name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 7648,
+      "stars_today": 145,
       "language": "Python",
-      "link": "https://github.com/comfyanonymous/ComfyUI"
+      "link": "https://github.com/HunxByts/GhostTrack"
     },
     {
-      "name": "unslothai/unsloth",
-      "description": "Finetune Mistral, Gemma, Llama 2-5x faster with 80% less memory!",
-      "stars": 12345,
-      "stars_today": 243,
+      "name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 17420,
+      "stars_today": 714,
       "language": "Python",
-      "link": "https://github.com/unslothai/unsloth"
+      "link": "https://github.com/VectifyAI/PageIndex"
     },
     {
-      "name": "vllm-project/vllm",
-      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "stars": 18901,
-      "stars_today": 218,
+      "name": "smittix/intercept",
+      "description": "iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.",
+      "stars": 1332,
+      "stars_today": 76,
       "language": "Python",
-      "link": "https://github.com/vllm-project/vllm"
+      "link": "https://github.com/smittix/intercept"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "stars": 31197,
+      "stars_today": 47,
+      "language": "Python",
+      "link": "https://github.com/OpenBMB/ChatDev"
+    },
+    {
+      "name": "anthropics/claude-code-security-review",
+      "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+      "stars": 3309,
+      "stars_today": 73,
+      "language": "Python",
+      "link": "https://github.com/anthropics/claude-code-security-review"
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 21730,
+      "stars_today": 187,
+      "language": "Python",
+      "link": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+      "name": "wagtail/wagtail",
+      "description": "A Django content management system focused on flexibility and user experience",
+      "stars": 20213,
+      "stars_today": 7,
+      "language": "Python",
+      "link": "https://github.com/wagtail/wagtail"
+    },
+    {
+      "name": "Netflix/metaflow",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "stars": 9843,
+      "stars_today": 22,
+      "language": "Python",
+      "link": "https://github.com/Netflix/metaflow"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 2581,
+      "stars_today": 160,
+      "language": "Python",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+      "name": "zou-group/sleepfm-clinical",
+      "description": "",
+      "stars": 557,
+      "stars_today": 7,
+      "language": "Python",
+      "link": "https://github.com/zou-group/sleepfm-clinical"
     }
   ]
 }
