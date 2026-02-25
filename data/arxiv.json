@@ -1,0 +1,95 @@
+{
+  "updated": "2024-01-15T00:00:00Z",
+  "papers": [
+    {
+      "id": "2401.00001",
+      "title": "Mixtral of Experts: Scaling Language Models with Mixture-of-Experts",
+      "authors": ["Albert Q. Jiang", "Alexandre Sablayrolles", "Antoine Roux"],
+      "summary": "We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model. Mixtral has the same architecture as Mistral 7B, with the difference that each layer is composed of 8 feedforward blocks (i.e. experts).",
+      "published": "2024-01-15",
+      "link": "https://arxiv.org/abs/2401.04088",
+      "categories": ["cs.CL", "cs.LG"]
+    },
+    {
+      "id": "2401.00002",
+      "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+      "authors": ["Zixiang Chen", "Yihe Deng", "Huizhuo Yuan"],
+      "summary": "Harnessing the power of human-annotated data through supervised fine-tuning (SFT) is pivotal for advancing Large Language Models (LLMs). In this paper, we propose a new fine-tuning method called Self-Play fIne-tuNing (SPIN).",
+      "published": "2024-01-15",
+      "link": "https://arxiv.org/abs/2401.01335",
+      "categories": ["cs.LG", "cs.AI"]
+    },
+    {
+      "id": "2401.00003",
+      "title": "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism",
+      "authors": ["DeepSeek-AI"],
+      "summary": "The rapid development of open-source large language models (LLMs) has been truly remarkable. However, the scaling law described in previous literature presents varying conclusions, which casts uncertainty on the correct strategy for long-term scaling.",
+      "published": "2024-01-14",
+      "link": "https://arxiv.org/abs/2401.02954",
+      "categories": ["cs.CL", "cs.AI"]
+    },
+    {
+      "id": "2401.00004",
+      "title": "DREAM: Efficient Video Generation with Flow Diffusion Models",
+      "authors": ["Hangjie Yuan", "Shiwei Zhang", "Xiang Wang"],
+      "summary": "We propose DREAM, an efficient video generation framework based on flow diffusion models. Our method achieves state-of-the-art performance with significantly reduced computational cost.",
+      "published": "2024-01-14",
+      "link": "https://arxiv.org/abs/2401.05577",
+      "categories": ["cs.CV", "cs.LG"]
+    },
+    {
+      "id": "2401.00005",
+      "title": "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models",
+      "authors": ["Bin Lin", "Zhenyu Tang", "Yang Ye"],
+      "summary": "In this paper, we propose MoE-LLaVA, a MoE-based sparse LVLM framework. Specifically, we use MoE as a substitute for each FFN in the LLM, which is activated sparsely via a router.",
+      "published": "2024-01-13",
+      "link": "https://arxiv.org/abs/2401.15947",
+      "categories": ["cs.CV", "cs.CL"]
+    },
+    {
+      "id": "2401.00006",
+      "title": "Chain-of-Thought Empowers Large Language Models as Planners",
+      "authors": ["Yao Fu", "Hao Peng", "Lili Yu"],
+      "summary": "We propose using chain-of-thought prompting to enhance planning capabilities in large language models. Our experiments show significant improvements across multiple planning benchmarks.",
+      "published": "2024-01-13",
+      "link": "https://arxiv.org/abs/2401.10890",
+      "categories": ["cs.AI", "cs.CL"]
+    },
+    {
+      "id": "2401.00007",
+      "title": "LLM as Operating System, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem",
+      "authors": ["Yingqiang Ge", "Yujie Ren", "Wenyue Hua"],
+      "summary": "This paper presents a vision for AIOS - a new operating system paradigm where LLMs serve as the kernel. We discuss how AI agents can be designed as applications running on this new OS.",
+      "published": "2024-01-12",
+      "link": "https://arxiv.org/abs/2312.03815",
+      "categories": ["cs.AI", "cs.OS"]
+    },
+    {
+      "id": "2401.00008",
+      "title": "Tuning Language Models by Proxy",
+      "authors": ["Alisa Liu", "Xiaochuang Han", "Yizhong Wang"],
+      "summary": "We introduce proxy-tuning, an efficient method to adapt large language models without modifying their weights. By training a smaller proxy model, we can guide the behavior of the large model at inference time.",
+      "published": "2024-01-12",
+      "link": "https://arxiv.org/abs/2401.08565",
+      "categories": ["cs.CL", "cs.LG"]
+    },
+    {
+      "id": "2401.00009",
+      "title": "RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture",
+      "authors": ["Angels Balaguer", "Vinamra Benara", "Renato Cunha"],
+      "summary": "We compare Retrieval Augmented Generation (RAG) and fine-tuning methods for adapting large language models to domain-specific tasks, using agriculture as a case study.",
+      "published": "2024-01-11",
+      "link": "https://arxiv.org/abs/2401.08406",
+      "categories": ["cs.CL", "cs.AI"]
+    },
+    {
+      "id": "2401.00010",
+      "title": "Scalable and Accurate Self-supervised Multimodal Representation Learning",
+      "authors": ["Zhen Liu", "Zhentao Tang", "Yao Wan"],
+      "summary": "We propose a scalable self-supervised learning framework for multimodal data. Our method achieves state-of-the-art performance on multiple benchmarks while being computationally efficient.",
+      "published": "2024-01-11",
+      "link": "https://arxiv.org/abs/2401.09321",
+      "categories": ["cs.CV", "cs.LG"]
+    }
+  ]
+}

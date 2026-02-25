@@ -1,0 +1,85 @@
+{
+  "updated": "2024-01-15T00:00:00Z",
+  "articles": [
+    {
+      "title": "The Batch: Andrew Ng on the Future of AI Agents",
+      "source": "The Batch (deeplearning.ai)",
+      "published": "2024-01-15",
+      "summary": "AI agents are poised to transform how we work. This week, I want to share my perspective on the key design patterns for building effective AI agents and why agentic AI represents such a significant opportunity.",
+      "link": "https://www.deeplearning.ai/the-batch/",
+      "category": "AI Insights"
+    },
+    {
+      "title": "Google Announces Gemini 1.5: The Next Generation of Multimodal AI",
+      "source": "Google AI Blog",
+      "published": "2024-01-14",
+      "summary": "We're excited to announce Gemini 1.5, featuring a breakthrough long-context understanding capability with a context window of up to 1 million tokens, enabling users to process vast amounts of information in one go.",
+      "link": "https://ai.googleblog.com/",
+      "category": "Industry News"
+    },
+    {
+      "title": "OpenAI's Sora: Generating Videos From Text",
+      "source": "OpenAI Blog",
+      "published": "2024-01-14",
+      "summary": "We're teaching AI to understand and simulate the physical world in motion, with the goal of training models that help people solve problems that require real-world interaction. Introducing Sora, our text-to-video model.",
+      "link": "https://openai.com/blog/",
+      "category": "Product Launch"
+    },
+    {
+      "title": "MIT Technology Review: The 10 Breakthrough Technologies of 2024",
+      "source": "MIT Technology Review",
+      "published": "2024-01-13",
+      "summary": "Our annual list of the most important technological advances of the coming year—and why they matter. AI tops the list again, with significant breakthroughs in reasoning, multimodality, and efficiency.",
+      "link": "https://www.technologyreview.com/",
+      "category": "Research"
+    },
+    {
+      "title": "Anthropic Claude 3: Setting New Standards for AI Safety",
+      "source": "Anthropic Blog",
+      "published": "2024-01-13",
+      "summary": "Today we're announcing Claude 3, our most capable model family to date. Claude 3 sets new industry benchmarks across a wide range of cognitive tasks while maintaining our commitment to safe and beneficial AI.",
+      "link": "https://www.anthropic.com/news/",
+      "category": "Product Launch"
+    },
+    {
+      "title": "The Rise of Mixture of Experts Models",
+      "source": "AI News",
+      "published": "2024-01-12",
+      "summary": "Mixture of Experts (MoE) architecture is rapidly gaining prominence in the AI field. From Mistral's Mixtral 8x7B to Google's Switch Transformer, MoE models are showing impressive results with lower computational costs.",
+      "link": "https://artificialintelligence-news.com/",
+      "category": "Technical Analysis"
+    },
+    {
+      "title": "Understanding RAG: Retrieval-Augmented Generation Explained",
+      "source": "Towards Data Science",
+      "published": "2024-01-12",
+      "summary": "Retrieval-Augmented Generation (RAG) has emerged as a powerful technique for grounding LLM responses in factual information. This comprehensive guide explains how RAG works and how to implement it effectively.",
+      "link": "https://towardsdatascience.com/",
+      "category": "Tutorial"
+    },
+    {
+      "title": "Meta's Latest AI Research: Scaling Laws and Efficiency",
+      "source": "Meta AI Blog",
+      "published": "2024-01-11",
+      "summary": "Our latest research explores the relationship between model size, training data, and performance. We present new findings on scaling laws that challenge existing assumptions about optimal model training.",
+      "link": "https://ai.meta.com/blog/",
+      "category": "Research"
+    },
+    {
+      "title": "Hugging Face 2024: The Open Source AI Revolution Continues",
+      "source": "Hugging Face Blog",
+      "published": "2024-01-11",
+      "summary": "As we enter 2024, the open-source AI ecosystem has never been more vibrant. We look at the trends shaping AI development this year: smaller but powerful models, multimodal capabilities, and democratized fine-tuning.",
+      "link": "https://huggingface.co/blog",
+      "category": "Industry News"
+    },
+    {
+      "title": "AI Safety Research: Progress and Challenges in 2024",
+      "source": "AI Safety Institute",
+      "published": "2024-01-10",
+      "summary": "A comprehensive review of AI safety research progress in the past year and the key challenges that lie ahead. We discuss alignment, interpretability, and robustness as central pillars of safe AI development.",
+      "link": "https://www.aisi.gov.uk/",
+      "category": "AI Safety"
+    }
+  ]
+}

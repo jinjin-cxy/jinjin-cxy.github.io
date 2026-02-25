@@ -1,0 +1,105 @@
+{
+  "updated": "2024-01-15T00:00:00Z",
+  "models": [
+    {
+      "id": "mistralai/Mistral-7B-Instruct-v0.2",
+      "name": "Mistral-7B-Instruct-v0.2",
+      "author": "mistralai",
+      "downloads": 2847563,
+      "likes": 4821,
+      "tags": ["text-generation", "conversational", "mistral"],
+      "link": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+      "updated": "2024-01-15"
+    },
+    {
+      "id": "meta-llama/Llama-2-70b-chat-hf",
+      "name": "Llama-2-70b-chat-hf",
+      "author": "meta-llama",
+      "downloads": 1923847,
+      "likes": 6234,
+      "tags": ["text-generation", "llama", "conversational"],
+      "link": "https://huggingface.co/meta-llama/Llama-2-70b-chat-hf",
+      "updated": "2024-01-14"
+    },
+    {
+      "id": "THUDM/chatglm3-6b",
+      "name": "ChatGLM3-6B",
+      "author": "THUDM",
+      "downloads": 1456789,
+      "likes": 3892,
+      "tags": ["text-generation", "zh", "bilingual"],
+      "link": "https://huggingface.co/THUDM/chatglm3-6b",
+      "updated": "2024-01-14"
+    },
+    {
+      "id": "microsoft/phi-2",
+      "name": "phi-2",
+      "author": "microsoft",
+      "downloads": 987654,
+      "likes": 2341,
+      "tags": ["text-generation", "causal-lm"],
+      "link": "https://huggingface.co/microsoft/phi-2",
+      "updated": "2024-01-13"
+    },
+    {
+      "id": "deepseek-ai/deepseek-coder-33b-instruct",
+      "name": "deepseek-coder-33b-instruct",
+      "author": "deepseek-ai",
+      "downloads": 763421,
+      "likes": 2187,
+      "tags": ["code", "text-generation", "causal-lm"],
+      "link": "https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct",
+      "updated": "2024-01-13"
+    },
+    {
+      "id": "Qwen/Qwen-72B-Chat",
+      "name": "Qwen-72B-Chat",
+      "author": "Qwen",
+      "downloads": 654321,
+      "likes": 1987,
+      "tags": ["text-generation", "conversational", "qwen"],
+      "link": "https://huggingface.co/Qwen/Qwen-72B-Chat",
+      "updated": "2024-01-12"
+    },
+    {
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "name": "stable-diffusion-xl-base-1.0",
+      "author": "stabilityai",
+      "downloads": 5432109,
+      "likes": 8765,
+      "tags": ["text-to-image", "stable-diffusion"],
+      "link": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+      "updated": "2024-01-12"
+    },
+    {
+      "id": "openai/whisper-large-v3",
+      "name": "whisper-large-v3",
+      "author": "openai",
+      "downloads": 4321098,
+      "likes": 7654,
+      "tags": ["automatic-speech-recognition", "whisper"],
+      "link": "https://huggingface.co/openai/whisper-large-v3",
+      "updated": "2024-01-11"
+    },
+    {
+      "id": "google/gemma-7b-it",
+      "name": "gemma-7b-it",
+      "author": "google",
+      "downloads": 876543,
+      "likes": 3214,
+      "tags": ["text-generation", "gemma"],
+      "link": "https://huggingface.co/google/gemma-7b-it",
+      "updated": "2024-01-11"
+    },
+    {
+      "id": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+      "name": "Nous-Hermes-2-Mixtral-8x7B-DPO",
+      "author": "NousResearch",
+      "downloads": 543210,
+      "likes": 1876,
+      "tags": ["text-generation", "mixtral", "dpo"],
+      "link": "https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+      "updated": "2024-01-10"
+    }
+  ]
+}

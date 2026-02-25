@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Daily Pulse — 每日大模型技术实时更新</title>
+  <meta name="description" content="AI Daily Pulse 每日自动聚合 arXiv 论文、HuggingFace 热门模型、GitHub Trending 和 AI 领域新闻，实时掌握大模型（LLM）技术动态。" />
+  <meta name="keywords" content="AI, LLM, 大模型, arXiv, HuggingFace, GitHub Trending, 人工智能, 机器学习" />
+  <meta property="og:title" content="AI Daily Pulse — 每日大模型技术实时更新" />
+  <meta property="og:description" content="每日自动聚合 arXiv 论文、HuggingFace 模型、GitHub Trending 和 AI 新闻。" />
+  <meta property="og:type" content="website" />
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <!-- 样式 -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- 加载遮罩 -->
+<div id="loadingOverlay" class="loading-overlay" role="status" aria-label="加载中">
+  <div class="loading-spinner"></div>
+</div>
+
+<!-- ====== Header ====== -->
+<header class="site-header" role="banner">
+  <div class="header-inner">
+    <div class="header-brand">
+      <div class="brand-icon" aria-hidden="true">🤖</div>
+      <div>
+        <div class="brand-title">AI Daily Pulse</div>
+        <div class="brand-subtitle">每日大模型技术实时更新</div>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span class="last-updated">
+        最后更新：<span id="lastUpdated">—</span>
+      </span>
+      <button
+        id="themeToggle"
+        class="theme-toggle"
+        aria-label="切换深色/浅色模式"
+        title="切换主题"
+      >🌙</button>
+    </div>
+  </div>
+</header>
+
+<!-- ====== 主内容 ====== -->
+<main class="main-content" role="main">
+  <div class="container">
+
+    <!-- ── 仪表盘概览 ── -->
+    <section class="dashboard-section fade-in" aria-label="今日数据概览">
+      <h2 class="section-title">📊 今日数据概览</h2>
+
+      <!-- 统计卡片 -->
+      <div class="stats-grid" role="list">
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">arXiv 论文</div>
+          <div class="stat-value" id="stat-arxiv">—</div>
+          <div class="stat-icon" aria-hidden="true">📄</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">热门模型</div>
+          <div class="stat-value" id="stat-hf">—</div>
+          <div class="stat-icon" aria-hidden="true">🤗</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">Trending 仓库</div>
+          <div class="stat-value" id="stat-github">—</div>
+          <div class="stat-icon" aria-hidden="true">⭐</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">AI 新闻</div>
+          <div class="stat-value" id="stat-rss">—</div>
+          <div class="stat-icon" aria-hidden="true">📰</div>
+        </div>
+      </div>
+
+      <!-- 图表区域 -->
+      <div class="charts-grid fade-in">
+        <!-- 7 天趋势折线图 -->
+        <div class="chart-card">
+          <div class="chart-title">📈 过去 7 天各数据源更新趋势</div>
+          <div class="chart-wrapper">
+            <canvas id="trendChart" aria-label="7天趋势折线图"></canvas>
+          </div>
+        </div>
+        <!-- 数据源饼图 -->
+        <div class="chart-card">
+          <div class="chart-title">🍩 数据源分布</div>
+          <div class="chart-wrapper">
+            <canvas id="pieChart" aria-label="数据源分布饼图"></canvas>
+          </div>
+        </div>
+        <!-- 热门标签柱状图 -->
+        <div class="chart-card">
+          <div class="chart-title">🏷️ 热门标签 Top 8</div>
+          <div class="chart-wrapper">
+            <canvas id="tagChart" aria-label="热门标签柱状图"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 内容分类区域 ── -->
+    <section class="content-section fade-in" aria-label="内容分类">
+      <!-- Tab 导航 -->
+      <nav class="tabs-nav" role="tablist" aria-label="数据源分类">
+        <button
+          class="tab-btn active"
+          role="tab"
+          data-tab="arxiv"
+          aria-selected="true"
+          aria-controls="panel-arxiv"
+        >
+          📄 arXiv 论文
+          <span class="tab-count" id="tab-count-arxiv">—</span>
+        </button>
+        <button
+          class="tab-btn"
+          role="tab"
+          data-tab="hf"
+          aria-selected="false"
+          aria-controls="panel-hf"
+        >
+          🤗 HuggingFace
+          <span class="tab-count" id="tab-count-hf">—</span>
+        </button>
+        <button
+          class="tab-btn"
+          role="tab"
+          data-tab="github"
+          aria-selected="false"
+          aria-controls="panel-github"
+        >
+          ⭐ GitHub Trending
+          <span class="tab-count" id="tab-count-github">—</span>
+        </button>
+        <button
+          class="tab-btn"
+          role="tab"
+          data-tab="rss"
+          aria-selected="false"
+          aria-controls="panel-rss"
+        >
+          📰 RSS 新闻
+          <span class="tab-count" id="tab-count-rss">—</span>
+        </button>
+      </nav>
+
+      <!-- Tab 内容面板 -->
+      <div class="tabs-content">
+
+        <!-- arXiv 面板 -->
+        <div id="panel-arxiv" class="tab-panel active" role="tabpanel" aria-label="arXiv 论文">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="arxiv-count"></span>
+            <select class="sort-select" data-tab="arxiv" aria-label="排序方式">
+              <option value="date">按日期排序</option>
+            </select>
+          </div>
+          <div id="arxiv-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- HuggingFace 面板 -->
+        <div id="panel-hf" class="tab-panel" role="tabpanel" aria-label="HuggingFace 模型">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="hf-count"></span>
+            <select class="sort-select" data-tab="hf" aria-label="排序方式">
+              <option value="downloads">按下载量排序</option>
+              <option value="likes">按点赞数排序</option>
+              <option value="date">按更新日期排序</option>
+            </select>
+          </div>
+          <div id="hf-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- GitHub Trending 面板 -->
+        <div id="panel-github" class="tab-panel" role="tabpanel" aria-label="GitHub Trending 仓库">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="github-count"></span>
+            <select class="sort-select" data-tab="github" aria-label="排序方式">
+              <option value="stars_today">按今日新增 Stars</option>
+              <option value="stars">按总 Stars 排序</option>
+            </select>
+          </div>
+          <div id="github-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- RSS 新闻面板 -->
+        <div id="panel-rss" class="tab-panel" role="tabpanel" aria-label="RSS AI 新闻">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="rss-count"></span>
+            <select class="sort-select" data-tab="rss" aria-label="排序方式">
+              <option value="date">按日期排序</option>
+            </select>
+          </div>
+          <div id="rss-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /.tabs-content -->
+    </section><!-- /.content-section -->
+
+  </div><!-- /.container -->
+</main>
+
+<!-- ====== Footer ====== -->
+<footer class="site-footer" role="contentinfo">
+  <div class="footer-inner">
+    <div class="footer-brand">AI Daily Pulse</div>
+    <div class="footer-links">
+      <a
+        class="footer-link"
+        href="https://github.com/jinjin-cxy/jinjin-cxy.github.io"
+        target="_blank"
+        rel="noopener"
+        aria-label="GitHub 仓库"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+        </svg>
+        GitHub 仓库
+      </a>
+      <span class="footer-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+        </svg>
+        每日自动更新
+      </span>
+      <span class="footer-link">
+        ⚡ Powered by GitHub Actions
+      </span>
+    </div>
+    <div class="footer-copy">© 2024 AI Daily Pulse · 数据来源：arXiv、HuggingFace、GitHub、各大 AI 媒体</div>
+  </div>
+</footer>
+
+<!-- 前端逻辑 -->
+<script src="js/app.js"></script>
+</body>
+</html>
