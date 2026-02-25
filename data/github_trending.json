@@ -1,0 +1,85 @@
+{
+  "updated": "2024-01-15T00:00:00Z",
+  "repositories": [
+    {
+      "name": "ollama/ollama",
+      "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+      "stars": 45678,
+      "stars_today": 523,
+      "language": "Go",
+      "link": "https://github.com/ollama/ollama"
+    },
+    {
+      "name": "ggerganov/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 52341,
+      "stars_today": 487,
+      "language": "C++",
+      "link": "https://github.com/ggerganov/llama.cpp"
+    },
+    {
+      "name": "hiyouga/LLaMA-Factory",
+      "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+      "stars": 18765,
+      "stars_today": 412,
+      "language": "Python",
+      "link": "https://github.com/hiyouga/LLaMA-Factory"
+    },
+    {
+      "name": "openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 58234,
+      "stars_today": 389,
+      "language": "Python",
+      "link": "https://github.com/openai/whisper"
+    },
+    {
+      "name": "microsoft/autogen",
+      "description": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+      "stars": 22456,
+      "stars_today": 356,
+      "language": "Python",
+      "link": "https://github.com/microsoft/autogen"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "description": "Building applications with LLMs through composability",
+      "stars": 78965,
+      "stars_today": 312,
+      "language": "Python",
+      "link": "https://github.com/langchain-ai/langchain"
+    },
+    {
+      "name": "BerriAI/litellm",
+      "description": "Call 100+ LLM APIs in OpenAI format - Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate",
+      "stars": 8976,
+      "stars_today": 287,
+      "language": "Python",
+      "link": "https://github.com/BerriAI/litellm"
+    },
+    {
+      "name": "comfyanonymous/ComfyUI",
+      "description": "A powerful and modular stable diffusion GUI and backend",
+      "stars": 34567,
+      "stars_today": 265,
+      "language": "Python",
+      "link": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Finetune Mistral, Gemma, Llama 2-5x faster with 80% less memory!",
+      "stars": 12345,
+      "stars_today": 243,
+      "language": "Python",
+      "link": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 18901,
+      "stars_today": 218,
+      "language": "Python",
+      "link": "https://github.com/vllm-project/vllm"
+    }
+  ]
+}

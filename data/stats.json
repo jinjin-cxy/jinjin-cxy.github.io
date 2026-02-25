@@ -1,0 +1,26 @@
+{
+  "updated": "2024-01-15T00:00:00Z",
+  "counts": {
+    "arxiv": 10,
+    "huggingface": 10,
+    "github_trending": 10,
+    "rss_news": 10
+  },
+  "top_tags": [
+    {"tag": "LLM", "count": 28},
+    {"tag": "RAG", "count": 19},
+    {"tag": "Fine-tuning", "count": 17},
+    {"tag": "Multimodal", "count": 15},
+    {"tag": "Agents", "count": 13},
+    {"tag": "Diffusion", "count": 11},
+    {"tag": "Code Generation", "count": 10},
+    {"tag": "Alignment", "count": 9}
+  ],
+  "top_languages": [
+    {"language": "Python", "count": 18},
+    {"language": "C++", "count": 4},
+    {"language": "Go", "count": 3},
+    {"language": "TypeScript", "count": 3},
+    {"language": "Rust", "count": 2}
+  ]
+}
