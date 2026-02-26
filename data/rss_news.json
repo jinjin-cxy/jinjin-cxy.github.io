@@ -1,28 +1,44 @@
 {
-  "updated": "2026-02-26T01:02:18.733247+00:00",
+  "updated": "2026-02-26T12:36:20.782540+00:00",
   "articles": [
+    {
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product",
+      "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "category": "AI News"
+    },
+    {
+      "title": "America was winning the race to find Martian life. Then China jumped in.",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the planet at the very moment they were forged.  For decades, NASA had been on a time capsule hunt like none other—one across Mars. Its rovers have journe",
+      "link": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
+      "category": "AI News"
+    },
+    {
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "source": "Hugging Face Blog",
+      "published": "2026-02-26",
+      "summary": "",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "category": "AI News"
+    },
+    {
+      "title": "Take a Deep Dive into Filtering in DAX",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "Have you ever wondered what happens when you apply a filter in a DAX expression? Well, Today I will take you on a deep dive into this fascinating topic, with examples to help you learn something new and surprising.The postTake a Deep Dive into Filtering in DAXappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/",
+      "category": "AI News"
+    },
     {
       "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
       "source": "MIT Technology Review - AI",
       "published": "2026-02-25",
       "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026",
       "link": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
-      "category": "AI News"
-    },
-    {
-      "title": "The Download: introducing the Crime issue",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-25",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime t",
-      "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
-      "category": "AI News"
-    },
-    {
-      "title": "Listen to Earth’s rumbling, secret soundtrack",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-25",
-      "summary": "The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living Earth, music of this one particular sphere and clues to the true nature of these dramatic events. But as loud as all these things are, they emit even more acoustic…",
-      "link": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
       "category": "AI News"
     },
     {
@@ -55,14 +71,6 @@
       "published": "2026-02-25",
       "summary": "Engineering RDMA-like performance over cloud host NICs using libfabric, DMA-BUF, and HCCL to restore distributed training scalabilityThe postBreaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performanceappeared first onTowards Data Science.",
       "link": "https://towardsdatascience.com/breaking-the-host-memory-bottleneck/",
-      "category": "AI News"
-    },
-    {
-      "title": "Aliasing in Audio, Easily Explained: From Wagon Wheels to Waveforms",
-      "source": "Towards Data Science",
-      "published": "2026-02-25",
-      "summary": "Understanding the foundational distortion of digital audio from first principles, with worked examples and visual intuitionThe postAliasing in Audio, Easily Explained: From Wagon Wheels to Waveformsappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/aliasing-in-audio-easily-explained-from-wagon-wheels-to-waveforms/",
       "category": "AI News"
     },
     {
@@ -111,14 +119,6 @@
       "published": "2026-02-20",
       "summary": "",
       "link": "https://huggingface.co/blog/ggml-joins-hf",
-      "category": "AI News"
-    },
-    {
-      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
-      "source": "Hugging Face Blog",
-      "published": "2026-02-20",
-      "summary": "",
-      "link": "https://huggingface.co/blog/unsloth-jobs",
       "category": "AI News"
     },
     {

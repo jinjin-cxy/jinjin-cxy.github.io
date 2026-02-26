@@ -1,125 +1,125 @@
 {
-  "updated": "2026-02-26T01:02:09.796448+00:00",
+  "updated": "2026-02-26T12:36:12.369094+00:00",
   "repositories": [
-    {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 15017,
-      "stars_today": 1656,
-      "language": "Python",
-      "link": "https://github.com/D4Vinci/Scrapling"
-    },
-    {
-      "name": "huggingface/skills",
-      "description": "",
-      "stars": 6383,
-      "stars_today": 1538,
-      "language": "Python",
-      "link": "https://github.com/huggingface/skills"
-    },
     {
       "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe",
-      "stars": 10713,
-      "stars_today": 1042,
+      "stars": 11349,
+      "stars_today": 923,
       "language": "Python",
       "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
     },
     {
-      "name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 21938,
-      "stars_today": 222,
+      "name": "huggingface/skills",
+      "description": "",
+      "stars": 6760,
+      "stars_today": 711,
       "language": "Python",
-      "link": "https://github.com/datawhalechina/hello-agents"
+      "link": "https://github.com/huggingface/skills"
     },
     {
-      "name": "VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 17709,
-      "stars_today": 378,
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": 16363,
+      "stars_today": 2893,
       "language": "Python",
-      "link": "https://github.com/VectifyAI/PageIndex"
+      "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
-      "name": "NevaMind-AI/memU",
-      "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-      "stars": 10794,
-      "stars_today": 187,
+      "name": "GVCLab/PersonaLive",
+      "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+      "stars": 2278,
+      "stars_today": 371,
       "language": "Python",
-      "link": "https://github.com/NevaMind-AI/memU"
+      "link": "https://github.com/GVCLab/PersonaLive"
     },
     {
-      "name": "NVIDIA/Megatron-LM",
-      "description": "Ongoing research training transformer models at scale",
-      "stars": 15350,
-      "stars_today": 10,
+      "name": "deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 101747,
+      "stars_today": 34,
       "language": "Python",
-      "link": "https://github.com/NVIDIA/Megatron-LM"
+      "link": "https://github.com/deepseek-ai/DeepSeek-V3"
     },
     {
-      "name": "business-science/ai-data-science-team",
-      "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
-      "stars": 4973,
-      "stars_today": 37,
+      "name": "alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+      "stars": 1239,
+      "stars_today": 83,
       "language": "Python",
-      "link": "https://github.com/business-science/ai-data-science-team"
-    },
-    {
-      "name": "infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": 73718,
-      "stars_today": 86,
-      "language": "Python",
-      "link": "https://github.com/infiniflow/ragflow"
-    },
-    {
-      "name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 75774,
-      "stars_today": 958,
-      "language": "Python",
-      "link": "https://github.com/anthropics/skills"
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": 44294,
-      "stars_today": 68,
-      "language": "Python",
-      "link": "https://github.com/NanmiCoder/MediaCrawler"
-    },
-    {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
-      "stars": 161235,
-      "stars_today": 359,
-      "language": "Python",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-    },
-    {
-      "name": "BerriAI/litellm",
-      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi",
-      "stars": 36914,
-      "stars_today": 124,
-      "language": "Python",
-      "link": "https://github.com/BerriAI/litellm"
+      "link": "https://github.com/alibaba/OpenSandbox"
     },
     {
       "name": "yichuan-w/LEANN",
       "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "stars": 10091,
+      "stars": 10099,
       "stars_today": 58,
       "language": "Python",
       "link": "https://github.com/yichuan-w/LEANN"
     },
     {
-      "name": "sansan0/TrendRadar",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析",
-      "stars": 47258,
-      "stars_today": 145,
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 76673,
+      "stars_today": 958,
       "language": "Python",
-      "link": "https://github.com/sansan0/TrendRadar"
+      "link": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "lintsinghua/DeepAudit",
+      "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+      "stars": 4798,
+      "stars_today": 32,
+      "language": "Python",
+      "link": "https://github.com/lintsinghua/DeepAudit"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "stars": 218147,
+      "stars_today": 106,
+      "language": "Python",
+      "link": "https://github.com/TheAlgorithms/Python"
+    },
+    {
+      "name": "qodo-ai/pr-agent",
+      "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.",
+      "stars": 10300,
+      "stars_today": 17,
+      "language": "Python",
+      "link": "https://github.com/qodo-ai/pr-agent"
+    },
+    {
+      "name": "zhayujie/chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "stars": 41517,
+      "stars_today": 54,
+      "language": "Python",
+      "link": "https://github.com/zhayujie/chatgpt-on-wechat"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 73764,
+      "stars_today": 86,
+      "language": "Python",
+      "link": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "name": "9001/copyparty",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+      "stars": 42697,
+      "stars_today": 42,
+      "language": "Python",
+      "link": "https://github.com/9001/copyparty"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "stars": 161300,
+      "stars_today": 151,
+      "language": "Python",
+      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     }
   ]
 }

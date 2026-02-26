@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T01:02:18.734874+00:00",
+  "updated": "2026-02-26T12:36:20.783950+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -21,14 +21,14 @@
     },
     {
       "tag": "qwen2",
-      "count": 6
-    },
-    {
-      "tag": "chat",
       "count": 5
     },
     {
       "tag": "qwen3",
+      "count": 5
+    },
+    {
+      "tag": "chat",
       "count": 4
     },
     {
