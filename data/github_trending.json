@@ -1,18 +1,18 @@
 {
-  "updated": "2026-02-25T12:35:52.565714+00:00",
+  "updated": "2026-02-26T01:02:09.796448+00:00",
   "repositories": [
     {
       "name": "D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 13603,
-      "stars_today": 1970,
+      "stars": 15017,
+      "stars_today": 1656,
       "language": "Python",
       "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
       "name": "huggingface/skills",
       "description": "",
-      "stars": 6072,
+      "stars": 6383,
       "stars_today": 1538,
       "language": "Python",
       "link": "https://github.com/huggingface/skills"
@@ -20,23 +20,23 @@
     {
       "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe",
-      "stars": 10391,
-      "stars_today": 1043,
+      "stars": 10713,
+      "stars_today": 1042,
       "language": "Python",
       "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
     },
     {
       "name": "datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 21785,
-      "stars_today": 187,
+      "stars": 21938,
+      "stars_today": 222,
       "language": "Python",
       "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
       "name": "VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stars": 17433,
+      "stars": 17709,
       "stars_today": 378,
       "language": "Python",
       "link": "https://github.com/VectifyAI/PageIndex"
@@ -44,80 +44,80 @@
     {
       "name": "NevaMind-AI/memU",
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-      "stars": 10590,
-      "stars_today": 508,
+      "stars": 10794,
+      "stars_today": 187,
       "language": "Python",
       "link": "https://github.com/NevaMind-AI/memU"
     },
     {
       "name": "NVIDIA/Megatron-LM",
       "description": "Ongoing research training transformer models at scale",
-      "stars": 15279,
-      "stars_today": 16,
+      "stars": 15350,
+      "stars_today": 10,
       "language": "Python",
       "link": "https://github.com/NVIDIA/Megatron-LM"
     },
     {
       "name": "business-science/ai-data-science-team",
       "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
-      "stars": 4966,
-      "stars_today": 93,
+      "stars": 4973,
+      "stars_today": 37,
       "language": "Python",
       "link": "https://github.com/business-science/ai-data-science-team"
     },
     {
       "name": "infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "stars": 73686,
-      "stars_today": 80,
+      "stars": 73718,
+      "stars_today": 86,
       "language": "Python",
       "link": "https://github.com/infiniflow/ragflow"
     },
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 75497,
-      "stars_today": 832,
+      "stars": 75774,
+      "stars_today": 958,
       "language": "Python",
       "link": "https://github.com/anthropics/skills"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": 44285,
-      "stars_today": 72,
+      "stars": 44294,
+      "stars_today": 68,
       "language": "Python",
       "link": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
       "name": "AUTOMATIC1111/stable-diffusion-webui",
       "description": "Stable Diffusion web UI",
-      "stars": 161163,
-      "stars_today": 362,
+      "stars": 161235,
+      "stars_today": 359,
       "language": "Python",
       "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
       "name": "BerriAI/litellm",
       "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi",
-      "stars": 36876,
-      "stars_today": 146,
+      "stars": 36914,
+      "stars_today": 124,
       "language": "Python",
       "link": "https://github.com/BerriAI/litellm"
     },
     {
       "name": "yichuan-w/LEANN",
       "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-      "stars": 10075,
-      "stars_today": 60,
+      "stars": 10091,
+      "stars_today": 58,
       "language": "Python",
       "link": "https://github.com/yichuan-w/LEANN"
     },
     {
       "name": "sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析",
-      "stars": 47225,
-      "stars_today": 134,
+      "stars": 47258,
+      "stars_today": 145,
       "language": "Python",
       "link": "https://github.com/sansan0/TrendRadar"
     }

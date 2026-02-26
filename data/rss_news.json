@@ -1,6 +1,22 @@
 {
-  "updated": "2026-02-25T12:35:59.520111+00:00",
+  "updated": "2026-02-26T01:02:18.733247+00:00",
   "articles": [
+    {
+      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-25",
+      "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026",
+      "link": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+      "category": "AI News"
+    },
+    {
+      "title": "The Download: introducing the Crime issue",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-25",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime t",
+      "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+      "category": "AI News"
+    },
     {
       "title": "Listen to Earth’s rumbling, secret soundtrack",
       "source": "MIT Technology Review - AI",
@@ -10,19 +26,11 @@
       "category": "AI News"
     },
     {
-      "title": "3 things Juliet Beauchamp is into right now",
-      "source": "MIT Technology Review - AI",
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "source": "OpenAI Blog",
       "published": "2026-02-25",
-      "summary": "The only reality show that matters The Real Housewives of Salt Lake City is one of the best shows on television right now. Not one of the best reality TV shows, but one of the best TV shows, period. Chronicling a shifting group of wealthy women in and around Salt Lake, the show has featured…",
-      "link": "https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/",
-      "category": "AI News"
-    },
-    {
-      "title": "Now is a good time for doing crime",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-25",
-      "summary": "Eons ago, in 2012, I had a weird experience. My iPhone suddenly shut down. When I restarted it, I found it was totally reset—clean, like a new device. This was the early days of iOS, so I wasn’t too concerned until I went to connect it to my computer to restore it from a backup.…",
-      "link": "https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/",
+      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "link": "https://openai.com/index/disrupting-malicious-ai-uses",
       "category": "AI News"
     },
     {
@@ -34,11 +42,27 @@
       "category": "AI News"
     },
     {
-      "title": "How to Define the Modeling Scope of an Internal Credit Risk Model",
+      "title": "Scaling Feature Engineering Pipelines with Feast and Ray",
       "source": "Towards Data Science",
       "published": "2026-02-25",
-      "summary": "Dataset construction for Internal Ratings-Based (IRB) Probability of Default (PD) modelsThe postHow to Define the Modeling Scope of an Internal Credit Risk Modelappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/how-to-define-the-modeling-scope-of-an-internal-credit-risk-model/",
+      "summary": "Utilizing feature stores like Feast and distributed compute frameworks like Ray in production machine learning systemsThe postScaling Feature Engineering Pipelines with Feast and Rayappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/",
+      "category": "AI News"
+    },
+    {
+      "title": "Breaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performance",
+      "source": "Towards Data Science",
+      "published": "2026-02-25",
+      "summary": "Engineering RDMA-like performance over cloud host NICs using libfabric, DMA-BUF, and HCCL to restore distributed training scalabilityThe postBreaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performanceappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/breaking-the-host-memory-bottleneck/",
+      "category": "AI News"
+    },
+    {
+      "title": "Aliasing in Audio, Easily Explained: From Wagon Wheels to Waveforms",
+      "source": "Towards Data Science",
+      "published": "2026-02-25",
+      "summary": "Understanding the foundational distortion of digital audio from first principles, with worked examples and visual intuitionThe postAliasing in Audio, Easily Explained: From Wagon Wheels to Waveformsappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/aliasing-in-audio-easily-explained-from-wagon-wheels-to-waveforms/",
       "category": "AI News"
     },
     {
@@ -74,35 +98,11 @@
       "category": "AI News"
     },
     {
-      "title": "Optimizing Token Generation in PyTorch Decoder Models",
-      "source": "Towards Data Science",
-      "published": "2026-02-24",
-      "summary": "Hiding host-device synchronization via CUDA stream interleavingThe postOptimizing Token Generation in PyTorch Decoder Modelsappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/optimizing-token-generation-in-pytorch-decoder-models/",
-      "category": "AI News"
-    },
-    {
-      "title": "Decisioning at the Edge: Policy Matching at Scale",
-      "source": "Towards Data Science",
-      "published": "2026-02-24",
-      "summary": "Policy-to-Agency Optimization with PuLPThe postDecisioning at the Edge: Policy Matching at Scaleappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/decisioning-at-the-edge-policy-matching-at-scale/",
-      "category": "AI News"
-    },
-    {
       "title": "Why we no longer evaluate SWE-bench Verified",
       "source": "OpenAI Blog",
       "published": "2026-02-23",
       "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
       "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI announces Frontier Alliance Partners",
-      "source": "OpenAI Blog",
-      "published": "2026-02-23",
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "link": "https://openai.com/index/frontier-alliance-partners",
       "category": "AI News"
     },
     {
