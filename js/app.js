@@ -285,9 +285,14 @@ function renderDevTips(data, filter) {
     <div class="content-card fade-in">
       <div class="card-header">
         <div style="font-size:1.5rem;flex-shrink:0">${escHtml(t.icon || "💡")}</div>
-        <div class="card-title">${escHtml(t.title)}</div>
+        <div class="card-title">${t.link ? `<a href="${escHtml(t.link)}" target="_blank" rel="noopener" aria-label="${escHtml(t.title)}（在新标签页中打开）">${escHtml(t.title)}</a>` : escHtml(t.title)}</div>
       </div>
       <p class="card-summary">${escHtml(t.description || "")}</p>
+      ${(t.tutorials && t.tutorials.length) ? `
+      <div class="tutorials-list">
+        <span class="tutorials-label">📚 推荐教程：</span>
+        ${t.tutorials.map((tutorial) => `<a class="tutorial-link" href="${escHtml(tutorial.url)}" target="_blank" rel="noopener" aria-label="${escHtml(tutorial.title)}（在新标签页中打开）">${escHtml(tutorial.title)}</a>`).join("")}
+      </div>` : ""}
       <div class="card-footer">
         <div class="card-tags">
           <span class="category-badge">${escHtml(t.category || "")}</span>
@@ -297,7 +302,7 @@ function renderDevTips(data, filter) {
             .map((tag) => `<span class="tag-badge">${escHtml(tag)}</span>`)
             .join("")}
         </div>
-        ${t.link ? `<a class="card-link" href="${escHtml(t.link)}" target="_blank" rel="noopener">查看详情 →</a>` : ""}
+        ${t.link ? `<a class="card-link" href="${escHtml(t.link)}" target="_blank" rel="noopener">查看教程 →</a>` : ""}
       </div>
     </div>`
     )
