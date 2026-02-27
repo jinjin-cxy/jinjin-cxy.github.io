@@ -48,6 +48,14 @@ async function loadJSON(path) {
   }
 }
 
+/** 难度等级映射 */
+function difficultyClass(difficulty) {
+  if (difficulty === "入门") return "beginner";
+  if (difficulty === "进阶") return "intermediate";
+  if (difficulty === "高级") return "advanced";
+  return "beginner";
+}
+
 // ============================================================
 // 主题切换
 // ============================================================
@@ -117,10 +125,12 @@ function renderStats(stats) {
   if (!stats) return;
   const counts = stats.counts || {};
   const map = {
-    "stat-arxiv": counts.arxiv ?? 0,
-    "stat-hf": counts.huggingface ?? 0,
+    "stat-news": counts.rss_news ?? 0,
+    "stat-tools": counts.ai_tools ?? 0,
+    "stat-tips": counts.dev_tips ?? 0,
     "stat-github": counts.github_trending ?? 0,
-    "stat-rss": counts.rss_news ?? 0,
+    "stat-hf": counts.huggingface ?? 0,
+    "stat-arxiv": counts.arxiv ?? 0,
   };
   Object.entries(map).forEach(([id, val]) => {
     const el = document.getElementById(id);
@@ -131,10 +141,12 @@ function renderStats(stats) {
 
   // 更新 tab 徽章
   const tabCountMap = {
-    "tab-count-arxiv": counts.arxiv ?? 0,
-    "tab-count-hf": counts.huggingface ?? 0,
+    "tab-count-news": counts.rss_news ?? 0,
+    "tab-count-tools": counts.ai_tools ?? 0,
+    "tab-count-tips": counts.dev_tips ?? 0,
     "tab-count-github": counts.github_trending ?? 0,
-    "tab-count-rss": counts.rss_news ?? 0,
+    "tab-count-hf": counts.huggingface ?? 0,
+    "tab-count-arxiv": counts.arxiv ?? 0,
   };
   Object.entries(tabCountMap).forEach(([id, val]) => {
     const el = document.getElementById(id);
@@ -168,6 +180,131 @@ function renderUpdatedTime(dateStr) {
     minute: "2-digit",
     timeZone: "Asia/Shanghai",
   }) + " CST";
+}
+
+// -------- AI 快讯卡片 --------
+
+function renderAINews(data) {
+  const container = document.getElementById("news-cards");
+  if (!container) return;
+  const articles = data?.articles ?? [];
+  if (!articles.length) {
+    container.innerHTML = emptyState("📰", "暂无新闻数据");
+    return;
+  }
+
+  container.innerHTML = articles
+    .map(
+      (a) => `
+    <div class="content-card fade-in">
+      <div class="card-header">
+        <div class="card-title">
+          <a href="${escHtml(a.link)}" target="_blank" rel="noopener">${escHtml(a.title)}</a>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span class="card-source">📰 ${escHtml(a.source || "")}</span>
+        <span>·</span>
+        <span class="card-date">📅 ${escHtml(formatDate(a.published))}</span>
+      </div>
+      <p class="card-summary">${escHtml(a.summary || "")}</p>
+      <div class="card-footer">
+        <div class="card-tags">
+          ${a.category ? `<span class="tag-badge primary">${escHtml(a.category)}</span>` : ""}
+        </div>
+        <a class="card-link" href="${escHtml(a.link)}" target="_blank" rel="noopener">阅读全文 →</a>
+      </div>
+    </div>`
+    )
+    .join("");
+
+  initScrollAnimations();
+  document.getElementById("news-count").textContent = `共 ${articles.length} 篇文章`;
+}
+
+// -------- AI 工具卡片 --------
+
+function renderAITools(data, filter) {
+  const container = document.getElementById("tools-cards");
+  if (!container) return;
+  let tools = data?.tools ?? [];
+  if (!tools.length) {
+    container.innerHTML = emptyState("🛠️", "暂无工具数据");
+    return;
+  }
+
+  if (filter && filter !== "all") {
+    tools = tools.filter((t) => t.category === filter);
+  }
+
+  container.innerHTML = tools
+    .map(
+      (t) => `
+    <div class="content-card fade-in">
+      <div class="tool-card-header">
+        <div class="tool-icon">${escHtml(t.icon || "🔧")}</div>
+        <div class="tool-card-info">
+          <div class="tool-card-name">${escHtml(t.name)}</div>
+          <div class="tool-card-badges">
+            <span class="category-badge">${escHtml(t.category || "")}</span>
+            <span class="difficulty-badge ${difficultyClass(t.difficulty)}">${escHtml(t.difficulty || "")}</span>
+          </div>
+        </div>
+      </div>
+      <p class="card-summary">${escHtml(t.description || "")}</p>
+      <div class="card-footer">
+        <div></div>
+        <a class="card-link" href="${escHtml(t.link)}" target="_blank" rel="noopener">访问官网 →</a>
+      </div>
+    </div>`
+    )
+    .join("");
+
+  initScrollAnimations();
+  document.getElementById("tools-count").textContent = `共 ${tools.length} 款工具`;
+}
+
+// -------- 提效技巧卡片 --------
+
+function renderDevTips(data, filter) {
+  const container = document.getElementById("tips-cards");
+  if (!container) return;
+  let tips = data?.tips ?? [];
+  if (!tips.length) {
+    container.innerHTML = emptyState("⚡", "暂无技巧数据");
+    return;
+  }
+
+  if (filter && filter !== "all") {
+    tips = tips.filter((t) => t.difficulty === filter);
+  }
+
+  container.innerHTML = tips
+    .map(
+      (t) => `
+    <div class="content-card fade-in">
+      <div class="card-header">
+        <div style="font-size:1.5rem;flex-shrink:0">${escHtml(t.icon || "💡")}</div>
+        <div class="card-title">${escHtml(t.title)}</div>
+      </div>
+      <p class="card-summary">${escHtml(t.description || "")}</p>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="category-badge">${escHtml(t.category || "")}</span>
+          <span class="difficulty-badge ${difficultyClass(t.difficulty)}">${escHtml(t.difficulty || "")}</span>
+          ${(t.tags || [])
+            .slice(0, 3)
+            .map((tag) => `<span class="tag-badge">${escHtml(tag)}</span>`)
+            .join("")}
+        </div>
+        ${t.link ? `<a class="card-link" href="${escHtml(t.link)}" target="_blank" rel="noopener">查看详情 →</a>` : ""}
+      </div>
+    </div>`
+    )
+    .join("");
+
+  initScrollAnimations();
+  document.getElementById("tips-count").textContent = `共 ${tips.length} 个技巧`;
 }
 
 // -------- arXiv 论文卡片 --------
@@ -310,56 +447,6 @@ function renderGithubTrending(data) {
   document.getElementById("github-count").textContent = `共 ${repos.length} 个仓库`;
 }
 
-// -------- RSS 新闻卡片 --------
-
-function renderRSSNews(data) {
-  const container = document.getElementById("rss-cards");
-  if (!container) return;
-  const articles = data?.articles ?? [];
-  if (!articles.length) {
-    container.innerHTML = emptyState("📰", "暂无新闻数据");
-    return;
-  }
-
-  const categoryColors = {
-    "AI Insights": "primary",
-    "Industry News": "",
-    "Product Launch": "",
-    Research: "",
-    Tutorial: "",
-    "AI Safety": "",
-    "Technical Analysis": "",
-  };
-
-  container.innerHTML = articles
-    .map(
-      (a) => `
-    <div class="content-card fade-in">
-      <div class="card-header">
-        <div class="card-title">
-          <a href="${escHtml(a.link)}" target="_blank" rel="noopener">${escHtml(a.title)}</a>
-        </div>
-      </div>
-      <div class="card-meta">
-        <span class="card-source">📰 ${escHtml(a.source || "")}</span>
-        <span>·</span>
-        <span class="card-date">📅 ${escHtml(formatDate(a.published))}</span>
-      </div>
-      <p class="card-summary">${escHtml(a.summary || "")}</p>
-      <div class="card-footer">
-        <div class="card-tags">
-          ${a.category ? `<span class="tag-badge ${categoryColors[a.category] || ""}">${escHtml(a.category)}</span>` : ""}
-        </div>
-        <a class="card-link" href="${escHtml(a.link)}" target="_blank" rel="noopener">阅读全文 →</a>
-      </div>
-    </div>`
-    )
-    .join("");
-
-  initScrollAnimations();
-  document.getElementById("rss-count").textContent = `共 ${articles.length} 篇文章`;
-}
-
 /** 空状态占位 */
 function emptyState(icon, text) {
   return `<div class="empty-state">
@@ -409,8 +496,8 @@ function initTrendChart(history) {
       labels,
       datasets: [
         {
-          label: "arXiv",
-          data: history?.arxiv ?? [],
+          label: "AI 快讯",
+          data: history?.rss_news ?? [],
           borderColor: "#6366f1",
           backgroundColor: "rgba(99,102,241,0.08)",
           fill: true,
@@ -442,8 +529,8 @@ function initTrendChart(history) {
           borderWidth: 2,
         },
         {
-          label: "RSS News",
-          data: history?.rss_news ?? [],
+          label: "arXiv",
+          data: history?.arxiv ?? [],
           borderColor: "#06b6d4",
           backgroundColor: "rgba(6,182,212,0.08)",
           fill: true,
@@ -493,14 +580,14 @@ function initPieChart(stats) {
   pieChart = new Chart(canvas, {
     type: "doughnut",
     data: {
-      labels: ["arXiv", "HuggingFace", "GitHub", "RSS"],
+      labels: ["AI 快讯", "HuggingFace", "GitHub", "arXiv"],
       datasets: [
         {
           data: [
-            counts.arxiv ?? 0,
+            counts.rss_news ?? 0,
             counts.huggingface ?? 0,
             counts.github_trending ?? 0,
-            counts.rss_news ?? 0,
+            counts.arxiv ?? 0,
           ],
           backgroundColor: ["#6366f1", "#f59e0b", "#10b981", "#06b6d4"],
           borderWidth: 0,
@@ -600,39 +687,35 @@ function initSorting() {
 }
 
 function sortCards(tab, order) {
-  const container = document.getElementById(`${tab}-cards`);
-  if (!container) return;
-  const cards = Array.from(container.querySelectorAll(".content-card"));
-  if (!cards.length) return;
-
-  // 利用已渲染数据排序
   const appData = window.__appData || {};
-  let items = [];
-  let renderFn;
 
-  if (tab === "arxiv") {
-    items = [...(appData.arxiv?.papers ?? [])];
+  if (tab === "news") {
+    const items = [...(appData.news?.articles ?? [])];
+    if (order === "date") items.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+    appData.news = { ...appData.news, articles: items };
+    renderAINews(appData.news);
+  } else if (tab === "tools") {
+    renderAITools(appData.tools, order);
+  } else if (tab === "tips") {
+    renderDevTips(appData.tips, order);
+  } else if (tab === "arxiv") {
+    const items = [...(appData.arxiv?.papers ?? [])];
     if (order === "date") items.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
     appData.arxiv = { ...appData.arxiv, papers: items };
     renderArxiv(appData.arxiv);
   } else if (tab === "hf") {
-    items = [...(appData.hf?.models ?? [])];
+    const items = [...(appData.hf?.models ?? [])];
     if (order === "date") items.sort((a, b) => (b.updated || "").localeCompare(a.updated || ""));
     else if (order === "downloads") items.sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
     else if (order === "likes") items.sort((a, b) => (b.likes || 0) - (a.likes || 0));
     appData.hf = { ...appData.hf, models: items };
     renderHuggingFace(appData.hf);
   } else if (tab === "github") {
-    items = [...(appData.github?.repositories ?? [])];
+    const items = [...(appData.github?.repositories ?? [])];
     if (order === "stars") items.sort((a, b) => (b.stars || 0) - (a.stars || 0));
     else if (order === "stars_today") items.sort((a, b) => (b.stars_today || 0) - (a.stars_today || 0));
     appData.github = { ...appData.github, repositories: items };
     renderGithubTrending(appData.github);
-  } else if (tab === "rss") {
-    items = [...(appData.rss?.articles ?? [])];
-    if (order === "date") items.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
-    appData.rss = { ...appData.rss, articles: items };
-    renderRSSNews(appData.rss);
   }
 }
 
@@ -666,33 +749,39 @@ async function main() {
 
   try {
     // 并行加载所有数据
-    const [arxivData, hfData, githubData, rssData, statsData, historyData] = await Promise.all([
+    const [newsData, toolsData, tipsData, arxivData, hfData, githubData, statsData, historyData] = await Promise.all([
+      loadJSON("data/ai_news.json"),
+      loadJSON("data/ai_tools.json"),
+      loadJSON("data/dev_tips.json"),
       loadJSON("data/arxiv.json"),
       loadJSON("data/huggingface.json"),
       loadJSON("data/github_trending.json"),
-      loadJSON("data/rss_news.json"),
       loadJSON("data/stats.json"),
       loadJSON("data/history.json"),
     ]);
 
     // 缓存数据供排序使用
     window.__appData = {
+      news: newsData,
+      tools: toolsData,
+      tips: tipsData,
       arxiv: arxivData,
       hf: hfData,
       github: githubData,
-      rss: rssData,
       stats: statsData,
       history: historyData,
     };
 
     // 渲染各部分
-    const updatedTime = statsData?.updated || arxivData?.updated || "";
+    const updatedTime = statsData?.updated || newsData?.updated || "";
     renderUpdatedTime(updatedTime);
     renderStats(statsData);
+    renderAINews(newsData);
+    renderAITools(toolsData);
+    renderDevTips(tipsData);
     renderArxiv(arxivData);
     renderHuggingFace(hfData);
     renderGithubTrending(githubData);
-    renderRSSNews(rssData);
 
     // 等待 Chart.js 加载完毕后初始化图表
     if (typeof Chart !== "undefined") {

@@ -1,0 +1,95 @@
+{
+  "updated": "2026-02-27T00:00:00+00:00",
+  "tips": [
+    {
+      "title": "Prompt Engineering 实战",
+      "description": "掌握写高质量 Prompt 的核心技巧：明确角色设定、给出具体上下文、使用示例驱动（few-shot）、分步拆解复杂任务。让 AI 更准确地帮你写代码、调试 Bug、生成 SQL 查询。",
+      "category": "Prompt 技巧",
+      "difficulty": "入门",
+      "tags": ["Prompt", "ChatGPT", "Claude", "编程"],
+      "link": "",
+      "icon": "✍️"
+    },
+    {
+      "title": "用 GitHub Copilot 提速后端开发",
+      "description": "利用 Copilot 的代码补全、函数生成和测试用例生成功能。最佳实践：写清晰的函数注释引导补全、用 /tests 命令自动生成单元测试、用 /explain 快速理解遗留代码。",
+      "category": "代码助手",
+      "difficulty": "入门",
+      "tags": ["GitHub Copilot", "单元测试", "代码补全"],
+      "link": "",
+      "icon": "🤖"
+    },
+    {
+      "title": "用 ChatGPT/Claude 做代码审查",
+      "description": "将代码片段粘贴给 AI，要求它扮演高级工程师进行 Code Review。可发现潜在 Bug、安全漏洞、性能问题和代码异味。配合具体的审查维度（安全性、可读性、性能）效果更佳。",
+      "category": "代码质量",
+      "difficulty": "入门",
+      "tags": ["Code Review", "安全", "重构"],
+      "link": "",
+      "icon": "🔍"
+    },
+    {
+      "title": "n8n + AI 自动化工作流实战",
+      "description": "使用 n8n 搭建 AI 驱动的自动化流水线：定时触发 → 调用 LLM API → 处理结果 → 发送通知。典型场景：自动生成日报、监控告警摘要、竞品分析报告，无需写大量胶水代码。",
+      "category": "工作流自动化",
+      "difficulty": "进阶",
+      "tags": ["n8n", "自动化", "LLM API"],
+      "link": "",
+      "icon": "⚙️"
+    },
+    {
+      "title": "LangChain 后端集成指南",
+      "description": "在 Spring Boot 或 FastAPI 项目中集成 LangChain：构建 RAG（检索增强生成）系统、连接向量数据库（Chroma/Pinecone）、实现对话记忆管理。适合为现有服务添加 AI 问答能力。",
+      "category": "应用开发",
+      "difficulty": "进阶",
+      "tags": ["LangChain", "RAG", "向量数据库", "FastAPI"],
+      "link": "",
+      "icon": "🔗"
+    },
+    {
+      "title": "AI 辅助数据库优化",
+      "description": "将慢查询日志和 EXPLAIN 输出提供给 AI，获取索引建议和 SQL 重写方案。让 AI 分析表结构，建议分区策略和查询优化。可节省大量手动分析时间，适合 MySQL/PostgreSQL 场景。",
+      "category": "数据库",
+      "difficulty": "进阶",
+      "tags": ["SQL", "索引优化", "MySQL", "PostgreSQL"],
+      "link": "",
+      "icon": "🗄️"
+    },
+    {
+      "title": "本地部署 Ollama + Open WebUI",
+      "description": "在内网服务器上部署私有 AI 助手：安装 Ollama 拉取开源模型（如 Qwen、Llama），配合 Open WebUI 提供 Web 界面。保证数据隐私，适合处理企业内部代码和文档。",
+      "category": "本地部署",
+      "difficulty": "进阶",
+      "tags": ["Ollama", "Open WebUI", "私有化", "Qwen"],
+      "link": "",
+      "icon": "🦙"
+    },
+    {
+      "title": "用 AI 自动生成 API 文档",
+      "description": "将接口代码、路由定义或注释提供给 AI，自动生成符合 OpenAPI/Swagger 规范的文档。配合 GitHub Copilot 的内联注释功能，可实现边写代码边生成文档，大幅降低文档维护成本。",
+      "category": "文档生成",
+      "difficulty": "入门",
+      "tags": ["Swagger", "OpenAPI", "文档", "注释"],
+      "link": "",
+      "icon": "📝"
+    },
+    {
+      "title": "AI 驱动的日志分析与异常检测",
+      "description": "将后端日志片段输入 AI，快速定位异常模式和根因。结合结构化日志（JSON 格式）和 AI 分析，可实现智能告警摘要、错误分类和修复建议生成。适合微服务架构的运维监控场景。",
+      "category": "运维监控",
+      "difficulty": "高级",
+      "tags": ["日志分析", "异常检测", "微服务", "可观测性"],
+      "link": "",
+      "icon": "📊"
+    },
+    {
+      "title": "MCP (Model Context Protocol) 入门",
+      "description": "MCP 是 Anthropic 提出的开放协议，用于标准化 AI 模型与外部工具/数据源的连接方式。理解 MCP Server/Client 架构，动手实现自定义 MCP 工具，让 AI 具备调用内部 API 的能力。",
+      "category": "协议与标准",
+      "difficulty": "高级",
+      "tags": ["MCP", "协议", "工具调用", "Anthropic"],
+      "link": "",
+      "icon": "🔌"
+    }
+  ]
+}

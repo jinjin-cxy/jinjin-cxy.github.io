@@ -1,0 +1,165 @@
+{
+  "updated": "2026-02-27T01:02:15.223238+00:00",
+  "articles": [
+    {
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur",
+      "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "category": "AI News"
+    },
+    {
+      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars cove",
+      "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+      "category": "AI News"
+    },
+    {
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product",
+      "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "category": "AI News"
+    },
+    {
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "source": "OpenAI Blog",
+      "published": "2026-02-26",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "source": "OpenAI Blog",
+      "published": "2026-02-26",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "link": "https://openai.com/index/figma-partnership",
+      "category": "AI News"
+    },
+    {
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "source": "Hugging Face Blog",
+      "published": "2026-02-26",
+      "summary": "",
+      "link": "https://huggingface.co/blog/moe-transformers",
+      "category": "AI News"
+    },
+    {
+      "title": "Designing Data and AI Systems That Hold Up in Production",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "A system-level perspective on architecture, agents, and responsible scaleThe postDesigning Data and AI Systems That Hold Up in Productionappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/",
+      "category": "AI News"
+    },
+    {
+      "title": "A Generalizable MARL-LP Approach for Scheduling in Logistics",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "Part 1. Hybrid Solution for Dynamic Vehicle Routing — Context and ArchitectureThe postA Generalizable MARL-LP Approach for Scheduling in Logisticsappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/",
+      "category": "AI News"
+    },
+    {
+      "title": "Detecting and Editing Visual Objects with Gemini",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "A practical guide to identifying, restoring, and transforming elements within your imagesThe postDetecting and Editing Visual Objects with Geminiappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/",
+      "category": "AI News"
+    },
+    {
+      "title": "Disrupting malicious uses of AI | February 2026",
+      "source": "OpenAI Blog",
+      "published": "2026-02-25",
+      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+      "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "category": "AI News"
+    },
+    {
+      "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
+      "source": "AI News",
+      "published": "2026-02-25",
+      "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network",
+      "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+      "category": "AI News"
+    },
+    {
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "source": "Hugging Face Blog",
+      "published": "2026-02-24",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
+      "source": "AI News",
+      "published": "2026-02-24",
+      "summary": "Anthropic has detailed three “industrial-scale” AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve thei",
+      "link": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
+      "category": "AI News"
+    },
+    {
+      "title": "How disconnected clouds improve AI data governance",
+      "source": "AI News",
+      "published": "2026-02-24",
+      "summary": "Disconnected clouds aim to improve AI data governance as businesses rethink their infrastructure under tighter regulatory expectations. Ensuring operational continuity in isolated environments has become increasingly vital for businesses. Facilities lacking continuous internet access face unique con",
+      "link": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
+      "category": "AI News"
+    },
+    {
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "source": "Hugging Face Blog",
+      "published": "2026-02-20",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ggml-joins-hf",
+      "category": "AI News"
+    },
+    {
+      "title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+      "source": "The Gradient",
+      "published": "2026-02-18",
+      "summary": "PrefaceThis essay argues that rational people don’t have goals, and that rational AIs shouldn’t have goals. Human actions are rational not because we direct them at some final ‘goals,’ but because we align actions topractices[1]: networks of actions, action-dispositions, action-evaluation criteria,",
+      "link": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+      "category": "AI News"
+    },
+    {
+      "title": "AGI Is Not Multimodal",
+      "source": "The Gradient",
+      "published": "2025-06-04",
+      "summary": "\"In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.\" –Terry WinogradThe recent successes of generative AI models have convinced some that AGI is imminent. While these models appear to capture the essence of human",
+      "link": "https://thegradient.pub/agi-is-not-multimodal/",
+      "category": "AI News"
+    },
+    {
+      "title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+      "source": "The Gradient",
+      "published": "2024-11-16",
+      "summary": "What is the Role of Mathematics in Modern Machine Learning?The past decade has witnessed a shift in how progress is made in machine learning. Research involving carefully designed and mathematically principled architectures result in only marginal improvements while compute-intensive and engineering",
+      "link": "https://thegradient.pub/shape-symmetry-structure/",
+      "category": "AI News"
+    },
+    {
+      "title": "Generative AI to quantify uncertainty in weather forecasting",
+      "source": "Google AI Blog",
+      "published": "2024-03-29",
+      "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google ResearchAccurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting",
+      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+      "source": "Google AI Blog",
+      "published": "2024-03-28",
+      "summary": "Posted by Urs Köster, Software Engineer, Google ResearchTime seriesproblems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends.Bayesianapproaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time se",
+      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "category": "AI News"
+    }
+  ]
+}
