@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Daily Pulse — 每日大模型技术实时更新</title>
-  <meta name="description" content="AI Daily Pulse 每日自动聚合 arXiv 论文、HuggingFace 热门模型、GitHub Trending 和 AI 领域新闻，实时掌握大模型（LLM）技术动态。" />
-  <meta name="keywords" content="AI, LLM, 大模型, arXiv, HuggingFace, GitHub Trending, 人工智能, 机器学习" />
-  <meta property="og:title" content="AI Daily Pulse — 每日大模型技术实时更新" />
-  <meta property="og:description" content="每日自动聚合 arXiv 论文、HuggingFace 模型、GitHub Trending 和 AI 新闻。" />
+  <title>AI Daily Pulse — 今今的 AI 提效信息中心</title>
+  <meta name="description" content="AI Daily Pulse 今今的 AI 提效信息中心，每日聚合 AI 快讯、AI 工具、提效技巧、热门开源项目、热门模型和前沿论文，帮助后端开发者用 AI 提升效率。" />
+  <meta name="keywords" content="AI, 后端开发, AI工具, Prompt Engineering, LangChain, GitHub Trending, 提效, 开发效率" />
+  <meta property="og:title" content="AI Daily Pulse — 今今的 AI 提效信息中心" />
+  <meta property="og:description" content="每日聚合 AI 快讯、AI 工具、提效技巧、热门开源项目和前沿论文，后端开发者的 AI 提效信息中心。" />
   <meta property="og:type" content="website" />
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -32,7 +32,7 @@
       <div class="brand-icon" aria-hidden="true">🤖</div>
       <div>
         <div class="brand-title">AI Daily Pulse</div>
-        <div class="brand-subtitle">每日大模型技术实时更新</div>
+        <div class="brand-subtitle">今今的 AI 提效信息中心</div>
       </div>
     </div>
     <div class="header-meta">
@@ -60,9 +60,24 @@
       <!-- 统计卡片 -->
       <div class="stats-grid" role="list">
         <div class="stat-card" role="listitem">
-          <div class="stat-label">arXiv 论文</div>
-          <div class="stat-value" id="stat-arxiv">—</div>
-          <div class="stat-icon" aria-hidden="true">📄</div>
+          <div class="stat-label">AI 快讯</div>
+          <div class="stat-value" id="stat-news">—</div>
+          <div class="stat-icon" aria-hidden="true">📰</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">AI 工具</div>
+          <div class="stat-value" id="stat-tools">—</div>
+          <div class="stat-icon" aria-hidden="true">🛠️</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">提效技巧</div>
+          <div class="stat-value" id="stat-tips">—</div>
+          <div class="stat-icon" aria-hidden="true">⚡</div>
+        </div>
+        <div class="stat-card" role="listitem">
+          <div class="stat-label">热门开源</div>
+          <div class="stat-value" id="stat-github">—</div>
+          <div class="stat-icon" aria-hidden="true">⭐</div>
         </div>
         <div class="stat-card" role="listitem">
           <div class="stat-label">热门模型</div>
@@ -70,16 +85,58 @@
           <div class="stat-icon" aria-hidden="true">🤗</div>
         </div>
         <div class="stat-card" role="listitem">
-          <div class="stat-label">Trending 仓库</div>
-          <div class="stat-value" id="stat-github">—</div>
-          <div class="stat-icon" aria-hidden="true">⭐</div>
-        </div>
-        <div class="stat-card" role="listitem">
-          <div class="stat-label">AI 新闻</div>
-          <div class="stat-value" id="stat-rss">—</div>
-          <div class="stat-icon" aria-hidden="true">📰</div>
+          <div class="stat-label">前沿论文</div>
+          <div class="stat-value" id="stat-arxiv">—</div>
+          <div class="stat-icon" aria-hidden="true">📄</div>
         </div>
       </div>
+
+      <!-- AI 提效学习路线 -->
+      <section class="roadmap-section fade-in" aria-label="AI 提效学习路线">
+        <h3 class="section-title">🗺️ AI 提效学习路线</h3>
+        <div class="roadmap-steps">
+          <div class="roadmap-step roadmap-step-1">
+            <div class="roadmap-step-number">1</div>
+            <div class="roadmap-step-icon">💡</div>
+            <div class="roadmap-step-content">
+              <div class="roadmap-step-title">了解 AI 能做什么</div>
+              <div class="roadmap-step-desc">了解 ChatGPT、Claude、Copilot 等工具的能力边界</div>
+            </div>
+          </div>
+          <div class="roadmap-step roadmap-step-2">
+            <div class="roadmap-step-number">2</div>
+            <div class="roadmap-step-icon">✍️</div>
+            <div class="roadmap-step-content">
+              <div class="roadmap-step-title">学会 Prompt Engineering</div>
+              <div class="roadmap-step-desc">掌握与 AI 对话的技巧，提升输出质量</div>
+            </div>
+          </div>
+          <div class="roadmap-step roadmap-step-3">
+            <div class="roadmap-step-number">3</div>
+            <div class="roadmap-step-icon">⌨️</div>
+            <div class="roadmap-step-content">
+              <div class="roadmap-step-title">AI 辅助编码</div>
+              <div class="roadmap-step-desc">使用 Copilot/Cursor 等工具加速日常开发</div>
+            </div>
+          </div>
+          <div class="roadmap-step roadmap-step-4">
+            <div class="roadmap-step-number">4</div>
+            <div class="roadmap-step-icon">🔗</div>
+            <div class="roadmap-step-content">
+              <div class="roadmap-step-title">集成 AI 到项目</div>
+              <div class="roadmap-step-desc">用 LangChain/Dify 等将 AI 能力集成到后端服务</div>
+            </div>
+          </div>
+          <div class="roadmap-step roadmap-step-5">
+            <div class="roadmap-step-number">5</div>
+            <div class="roadmap-step-icon">⚙️</div>
+            <div class="roadmap-step-content">
+              <div class="roadmap-step-title">自动化与工作流</div>
+              <div class="roadmap-step-desc">用 n8n 等工具构建 AI 驱动的自动化流程</div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       <!-- 图表区域 -->
       <div class="charts-grid fade-in">
@@ -114,22 +171,32 @@
         <button
           class="tab-btn active"
           role="tab"
-          data-tab="arxiv"
+          data-tab="news"
           aria-selected="true"
-          aria-controls="panel-arxiv"
+          aria-controls="panel-news"
         >
-          📄 arXiv 论文
-          <span class="tab-count" id="tab-count-arxiv">—</span>
+          📰 AI 快讯
+          <span class="tab-count" id="tab-count-news">—</span>
         </button>
         <button
           class="tab-btn"
           role="tab"
-          data-tab="hf"
+          data-tab="tools"
           aria-selected="false"
-          aria-controls="panel-hf"
+          aria-controls="panel-tools"
         >
-          🤗 HuggingFace
-          <span class="tab-count" id="tab-count-hf">—</span>
+          🛠️ AI 工具
+          <span class="tab-count" id="tab-count-tools">—</span>
+        </button>
+        <button
+          class="tab-btn"
+          role="tab"
+          data-tab="tips"
+          aria-selected="false"
+          aria-controls="panel-tips"
+        >
+          ⚡ 提效技巧
+          <span class="tab-count" id="tab-count-tips">—</span>
         </button>
         <button
           class="tab-btn"
@@ -138,33 +205,99 @@
           aria-selected="false"
           aria-controls="panel-github"
         >
-          ⭐ GitHub Trending
+          ⭐ 热门开源
           <span class="tab-count" id="tab-count-github">—</span>
         </button>
         <button
           class="tab-btn"
           role="tab"
-          data-tab="rss"
+          data-tab="hf"
           aria-selected="false"
-          aria-controls="panel-rss"
+          aria-controls="panel-hf"
         >
-          📰 RSS 新闻
-          <span class="tab-count" id="tab-count-rss">—</span>
+          🤗 热门模型
+          <span class="tab-count" id="tab-count-hf">—</span>
+        </button>
+        <button
+          class="tab-btn"
+          role="tab"
+          data-tab="arxiv"
+          aria-selected="false"
+          aria-controls="panel-arxiv"
+        >
+          📄 前沿论文
+          <span class="tab-count" id="tab-count-arxiv">—</span>
         </button>
       </nav>
 
       <!-- Tab 内容面板 -->
       <div class="tabs-content">
 
-        <!-- arXiv 面板 -->
-        <div id="panel-arxiv" class="tab-panel active" role="tabpanel" aria-label="arXiv 论文">
+        <!-- AI 快讯面板 -->
+        <div id="panel-news" class="tab-panel active" role="tabpanel" aria-label="AI 快讯">
           <div class="panel-toolbar">
-            <span class="panel-count" id="arxiv-count"></span>
-            <select class="sort-select" data-tab="arxiv" aria-label="排序方式">
+            <span class="panel-count" id="news-count"></span>
+            <select class="sort-select" data-tab="news" aria-label="排序方式">
               <option value="date">按日期排序</option>
             </select>
           </div>
-          <div id="arxiv-cards" class="cards-grid">
+          <div id="news-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- AI 工具面板 -->
+        <div id="panel-tools" class="tab-panel" role="tabpanel" aria-label="AI 工具">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="tools-count"></span>
+            <select class="sort-select" data-tab="tools" aria-label="筛选分类">
+              <option value="all">全部分类</option>
+              <option value="代码助手">代码助手</option>
+              <option value="工作流自动化">工作流自动化</option>
+              <option value="应用开发平台">应用开发平台</option>
+              <option value="本地部署">本地部署</option>
+            </select>
+          </div>
+          <div id="tools-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 提效技巧面板 -->
+        <div id="panel-tips" class="tab-panel" role="tabpanel" aria-label="提效技巧">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="tips-count"></span>
+            <select class="sort-select" data-tab="tips" aria-label="筛选难度">
+              <option value="all">全部难度</option>
+              <option value="入门">入门</option>
+              <option value="进阶">进阶</option>
+              <option value="高级">高级</option>
+            </select>
+          </div>
+          <div id="tips-cards" class="cards-grid">
+            <div class="empty-state">
+              <div class="empty-state-icon">⏳</div>
+              <p class="empty-state-text">正在加载...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- GitHub Trending 面板 -->
+        <div id="panel-github" class="tab-panel" role="tabpanel" aria-label="热门开源项目">
+          <div class="panel-toolbar">
+            <span class="panel-count" id="github-count"></span>
+            <select class="sort-select" data-tab="github" aria-label="排序方式">
+              <option value="stars_today">按今日新增 Stars</option>
+              <option value="stars">按总 Stars 排序</option>
+            </select>
+          </div>
+          <div id="github-cards" class="cards-grid">
             <div class="empty-state">
               <div class="empty-state-icon">⏳</div>
               <p class="empty-state-text">正在加载...</p>
@@ -173,7 +306,7 @@
         </div>
 
         <!-- HuggingFace 面板 -->
-        <div id="panel-hf" class="tab-panel" role="tabpanel" aria-label="HuggingFace 模型">
+        <div id="panel-hf" class="tab-panel" role="tabpanel" aria-label="热门模型">
           <div class="panel-toolbar">
             <span class="panel-count" id="hf-count"></span>
             <select class="sort-select" data-tab="hf" aria-label="排序方式">
@@ -190,32 +323,15 @@
           </div>
         </div>
 
-        <!-- GitHub Trending 面板 -->
-        <div id="panel-github" class="tab-panel" role="tabpanel" aria-label="GitHub Trending 仓库">
+        <!-- arXiv 面板 -->
+        <div id="panel-arxiv" class="tab-panel" role="tabpanel" aria-label="前沿论文">
           <div class="panel-toolbar">
-            <span class="panel-count" id="github-count"></span>
-            <select class="sort-select" data-tab="github" aria-label="排序方式">
-              <option value="stars_today">按今日新增 Stars</option>
-              <option value="stars">按总 Stars 排序</option>
-            </select>
-          </div>
-          <div id="github-cards" class="cards-grid">
-            <div class="empty-state">
-              <div class="empty-state-icon">⏳</div>
-              <p class="empty-state-text">正在加载...</p>
-            </div>
-          </div>
-        </div>
-
-        <!-- RSS 新闻面板 -->
-        <div id="panel-rss" class="tab-panel" role="tabpanel" aria-label="RSS AI 新闻">
-          <div class="panel-toolbar">
-            <span class="panel-count" id="rss-count"></span>
-            <select class="sort-select" data-tab="rss" aria-label="排序方式">
+            <span class="panel-count" id="arxiv-count"></span>
+            <select class="sort-select" data-tab="arxiv" aria-label="排序方式">
               <option value="date">按日期排序</option>
             </select>
           </div>
-          <div id="rss-cards" class="cards-grid">
+          <div id="arxiv-cards" class="cards-grid">
             <div class="empty-state">
               <div class="empty-state-icon">⏳</div>
               <p class="empty-state-text">正在加载...</p>
@@ -256,7 +372,7 @@
         ⚡ Powered by GitHub Actions
       </span>
     </div>
-    <div class="footer-copy">© 2024 AI Daily Pulse · 数据来源：arXiv、HuggingFace、GitHub、各大 AI 媒体</div>
+    <div class="footer-copy">© 2024 AI Daily Pulse · 今今的 AI 提效信息中心 · 数据来源：arXiv、HuggingFace、GitHub、各大 AI 媒体</div>
   </div>
 </footer>
 

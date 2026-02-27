@@ -1,0 +1,101 @@
+{
+  "updated": "2026-02-27T00:00:00+00:00",
+  "tools": [
+    {
+      "name": "n8n",
+      "description": "开源工作流自动化平台，可集成 AI 节点，适合后端自动化场景，支持与数百种服务对接。",
+      "category": "工作流自动化",
+      "link": "https://n8n.io",
+      "icon": "🔄",
+      "difficulty": "进阶"
+    },
+    {
+      "name": "LangChain",
+      "description": "构建 LLM 应用的主流框架，提供链式调用、向量检索、Agent 等能力，适合后端开发者快速搭建 AI 功能。",
+      "category": "应用开发平台",
+      "link": "https://langchain.com",
+      "icon": "🔗",
+      "difficulty": "进阶"
+    },
+    {
+      "name": "Dify",
+      "description": "开源 LLM 应用开发平台，可视化编排 AI 工作流，支持 RAG 知识库，降低 AI 应用开发门槛。",
+      "category": "应用开发平台",
+      "link": "https://dify.ai",
+      "icon": "✨",
+      "difficulty": "入门"
+    },
+    {
+      "name": "Cursor",
+      "description": "AI 驱动的代码编辑器，深度集成 LLM 辅助编码，大幅提升编码效率，支持代码库级别上下文理解。",
+      "category": "代码助手",
+      "link": "https://cursor.com",
+      "icon": "⌨️",
+      "difficulty": "入门"
+    },
+    {
+      "name": "GitHub Copilot",
+      "description": "AI 代码助手，直接集成在 VS Code、JetBrains 等主流 IDE 中，支持代码补全、生成测试、注释等。",
+      "category": "代码助手",
+      "link": "https://github.com/features/copilot",
+      "icon": "🤖",
+      "difficulty": "入门"
+    },
+    {
+      "name": "Vercel AI SDK",
+      "description": "构建 AI 驱动 Web 应用的 TypeScript SDK，支持流式输出、多模型切换，适合全栈开发者。",
+      "category": "应用开发平台",
+      "link": "https://sdk.vercel.ai",
+      "icon": "▲",
+      "difficulty": "进阶"
+    },
+    {
+      "name": "Ollama",
+      "description": "本地运行大模型的工具，支持 Llama、Mistral 等主流开源模型，适合后端开发调试和隐私场景。",
+      "category": "本地部署",
+      "link": "https://ollama.ai",
+      "icon": "🦙",
+      "difficulty": "入门"
+    },
+    {
+      "name": "FastGPT",
+      "description": "基于 LLM 的知识库问答平台，支持文档导入、对话流编排，可快速搭建企业级 AI 问答系统。",
+      "category": "应用开发平台",
+      "link": "https://fastgpt.in",
+      "icon": "⚡",
+      "difficulty": "进阶"
+    },
+    {
+      "name": "Open WebUI",
+      "description": "自托管的 AI 聊天界面，兼容 OpenAI API 和 Ollama，支持多模型管理，适合团队私有化部署。",
+      "category": "本地部署",
+      "link": "https://openwebui.com",
+      "icon": "🖥️",
+      "difficulty": "入门"
+    },
+    {
+      "name": "Flowise",
+      "description": "低代码 LLM 应用构建工具，拖拽式构建 LangChain 工作流，快速原型验证 AI 应用方案。",
+      "category": "工作流自动化",
+      "link": "https://flowiseai.com",
+      "icon": "🌊",
+      "difficulty": "入门"
+    },
+    {
+      "name": "Continue",
+      "description": "开源 AI 代码助手，支持 VS Code 和 JetBrains，可接入本地或远程 LLM，完全可定制。",
+      "category": "代码助手",
+      "link": "https://continue.dev",
+      "icon": "▶️",
+      "difficulty": "进阶"
+    },
+    {
+      "name": "Cline",
+      "description": "VS Code 中的 AI 编程助手，支持自主执行任务、读写文件、运行命令，实现更复杂的编码自动化。",
+      "category": "代码助手",
+      "link": "https://github.com/cline/cline",
+      "icon": "🛠️",
+      "difficulty": "进阶"
+    }
+  ]
+}

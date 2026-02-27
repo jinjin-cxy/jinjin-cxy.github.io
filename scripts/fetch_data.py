@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AI Daily Pulse - 数据抓取脚本
-从 arXiv、HuggingFace、GitHub Trending 和 RSS 源抓取最新 AI/LLM 相关数据
+面向后端开发者的 AI 提效信息中心，自动聚合 AI 快讯、GitHub Trending、HuggingFace 模型和 arXiv 论文
 """
 
 import json
@@ -158,11 +158,11 @@ def fetch_huggingface(limit: int = 15) -> dict:
 # ---------------------------------------------------------------------------
 
 def fetch_github_trending(language: str = "") -> dict:
-    """爬取 GitHub Trending 中的热门 AI/ML 仓库"""
+    """爬取 GitHub Trending 中的热门 AI/ML 仓库（不限语言）"""
     logger.info("正在抓取 GitHub Trending...")
 
-    # 优先尝试第三方 API
-    api_url = "https://api.gitterapp.com/repositories?language=python&since=daily"
+    # 优先尝试第三方 API（不限定语言）
+    api_url = "https://api.gitterapp.com/repositories?since=daily"
     resp = safe_request(api_url)
     if resp:
         try:
@@ -184,8 +184,8 @@ def fetch_github_trending(language: str = "") -> dict:
         except Exception as e:
             logger.warning(f"gitterapp API 解析失败: {e}")
 
-    # 备用：直接爬取 GitHub Trending 页面
-    url = "https://github.com/trending/python?since=daily"
+    # 备用：直接爬取 GitHub Trending 页面（不限语言）
+    url = "https://github.com/trending?since=daily"
     resp = safe_request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; AI-Daily-Pulse/1.0)"})
     if resp is None:
         logger.error("GitHub Trending 数据抓取失败，使用现有数据")
@@ -240,14 +240,14 @@ def fetch_github_trending(language: str = "") -> dict:
 # ---------------------------------------------------------------------------
 
 RSS_FEEDS = [
-    ("The Batch (deeplearning.ai)", "https://www.deeplearning.ai/the-batch/feed/"),
-    ("MIT Technology Review - AI", "https://www.technologyreview.com/feed/"),
     ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
     ("Google AI Blog", "https://blog.research.google/feeds/posts/default"),
+    ("The Batch (deeplearning.ai)", "https://www.deeplearning.ai/the-batch/feed/"),
+    ("Hacker News - AI", "https://hnrss.org/newest?q=AI+LLM&points=50"),
+    ("InfoQ AI", "https://feed.infoq.com/artificial-intelligence/"),
+    ("MIT Technology Review - AI", "https://www.technologyreview.com/feed/"),
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
     ("AI News", "https://artificialintelligence-news.com/feed/"),
-    ("The Gradient", "https://thegradient.pub/rss/"),
-    ("Towards Data Science", "https://towardsdatascience.com/feed"),
 ]
 
 
@@ -333,6 +333,10 @@ def update_stats(arxiv_data: dict, hf_data: dict, github_data: dict, rss_data: d
 
     top_languages = sorted(lang_counts.items(), key=lambda x: x[1], reverse=True)[:5]
 
+    # 加载静态数据文件的条目数
+    tools_data = load_json("ai_tools.json") or {}
+    tips_data = load_json("dev_tips.json") or {}
+
     return {
         "updated": datetime.now(timezone.utc).isoformat(),
         "counts": {
@@ -340,6 +344,8 @@ def update_stats(arxiv_data: dict, hf_data: dict, github_data: dict, rss_data: d
             "huggingface": len(hf_data.get("models", [])),
             "github_trending": len(github_data.get("repositories", [])),
             "rss_news": len(rss_data.get("articles", [])),
+            "ai_tools": len(tools_data.get("tools", [])),
+            "dev_tips": len(tips_data.get("tips", [])),
         },
         "top_tags": [{"tag": t, "count": c} for t, c in top_tags],
         "top_languages": [{"language": l, "count": c} for l, c in top_languages],
@@ -356,7 +362,14 @@ def update_history(stats_data: dict) -> dict:
         "huggingface": [],
         "github_trending": [],
         "rss_news": [],
+        "ai_tools": [],
+        "dev_tips": [],
     }
+
+    # 确保新字段存在（向后兼容）
+    for field in ("ai_tools", "dev_tips"):
+        if field not in history:
+            history[field] = [0] * len(history.get("dates", []))
 
     counts = stats_data.get("counts", {})
 
@@ -367,12 +380,16 @@ def update_history(stats_data: dict) -> dict:
         history["huggingface"][idx] = counts.get("huggingface", 0)
         history["github_trending"][idx] = counts.get("github_trending", 0)
         history["rss_news"][idx] = counts.get("rss_news", 0)
+        history["ai_tools"][idx] = counts.get("ai_tools", 0)
+        history["dev_tips"][idx] = counts.get("dev_tips", 0)
     else:
         history["dates"].append(today)
         history["arxiv"].append(counts.get("arxiv", 0))
         history["huggingface"].append(counts.get("huggingface", 0))
         history["github_trending"].append(counts.get("github_trending", 0))
         history["rss_news"].append(counts.get("rss_news", 0))
+        history["ai_tools"].append(counts.get("ai_tools", 0))
+        history["dev_tips"].append(counts.get("dev_tips", 0))
 
     # 只保留最近 7 天
     if len(history["dates"]) > 7:
@@ -381,6 +398,8 @@ def update_history(stats_data: dict) -> dict:
         history["huggingface"] = history["huggingface"][-7:]
         history["github_trending"] = history["github_trending"][-7:]
         history["rss_news"] = history["rss_news"][-7:]
+        history["ai_tools"] = history["ai_tools"][-7:]
+        history["dev_tips"] = history["dev_tips"][-7:]
 
     history["updated"] = datetime.now(timezone.utc).isoformat()
     return history
@@ -418,7 +437,9 @@ def main():
 
     try:
         rss_data = fetch_rss_news()
+        # Save as both rss_news.json (backward compat) and ai_news.json (new frontend)
         save_json("rss_news.json", rss_data)
+        save_json("ai_news.json", rss_data)
     except Exception as e:
         logger.error(f"RSS 抓取异常: {e}")
         rss_data = load_json("rss_news.json") or {"articles": []}

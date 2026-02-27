@@ -4,7 +4,9 @@
     "arxiv": 0,
     "huggingface": 15,
     "github_trending": 15,
-    "rss_news": 20
+    "rss_news": 20,
+    "ai_tools": 12,
+    "dev_tips": 10
   },
   "top_tags": [
     {
