@@ -1,6 +1,22 @@
 {
-  "updated": "2026-02-26T12:36:20.782540+00:00",
+  "updated": "2026-02-27T01:02:15.223238+00:00",
   "articles": [
+    {
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur",
+      "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "category": "AI News"
+    },
+    {
+      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "source": "MIT Technology Review - AI",
+      "published": "2026-02-26",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars cove",
+      "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+      "category": "AI News"
+    },
     {
       "title": "This company claims a battery breakthrough. Now they need to prove it.",
       "source": "MIT Technology Review - AI",
@@ -10,11 +26,19 @@
       "category": "AI News"
     },
     {
-      "title": "America was winning the race to find Martian life. Then China jumped in.",
-      "source": "MIT Technology Review - AI",
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "source": "OpenAI Blog",
       "published": "2026-02-26",
-      "summary": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the planet at the very moment they were forged.  For decades, NASA had been on a time capsule hunt like none other—one across Mars. Its rovers have journe",
-      "link": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "source": "OpenAI Blog",
+      "published": "2026-02-26",
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "link": "https://openai.com/index/figma-partnership",
       "category": "AI News"
     },
     {
@@ -26,19 +50,27 @@
       "category": "AI News"
     },
     {
-      "title": "Take a Deep Dive into Filtering in DAX",
+      "title": "Designing Data and AI Systems That Hold Up in Production",
       "source": "Towards Data Science",
       "published": "2026-02-26",
-      "summary": "Have you ever wondered what happens when you apply a filter in a DAX expression? Well, Today I will take you on a deep dive into this fascinating topic, with examples to help you learn something new and surprising.The postTake a Deep Dive into Filtering in DAXappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/",
+      "summary": "A system-level perspective on architecture, agents, and responsible scaleThe postDesigning Data and AI Systems That Hold Up in Productionappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/",
       "category": "AI News"
     },
     {
-      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-25",
-      "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026",
-      "link": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+      "title": "A Generalizable MARL-LP Approach for Scheduling in Logistics",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "Part 1. Hybrid Solution for Dynamic Vehicle Routing — Context and ArchitectureThe postA Generalizable MARL-LP Approach for Scheduling in Logisticsappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/",
+      "category": "AI News"
+    },
+    {
+      "title": "Detecting and Editing Visual Objects with Gemini",
+      "source": "Towards Data Science",
+      "published": "2026-02-26",
+      "summary": "A practical guide to identifying, restoring, and transforming elements within your imagesThe postDetecting and Editing Visual Objects with Geminiappeared first onTowards Data Science.",
+      "link": "https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/",
       "category": "AI News"
     },
     {
@@ -55,30 +87,6 @@
       "published": "2026-02-25",
       "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network",
       "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
-      "category": "AI News"
-    },
-    {
-      "title": "Scaling Feature Engineering Pipelines with Feast and Ray",
-      "source": "Towards Data Science",
-      "published": "2026-02-25",
-      "summary": "Utilizing feature stores like Feast and distributed compute frameworks like Ray in production machine learning systemsThe postScaling Feature Engineering Pipelines with Feast and Rayappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/",
-      "category": "AI News"
-    },
-    {
-      "title": "Breaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performance",
-      "source": "Towards Data Science",
-      "published": "2026-02-25",
-      "summary": "Engineering RDMA-like performance over cloud host NICs using libfabric, DMA-BUF, and HCCL to restore distributed training scalabilityThe postBreaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performanceappeared first onTowards Data Science.",
-      "link": "https://towardsdatascience.com/breaking-the-host-memory-bottleneck/",
-      "category": "AI News"
-    },
-    {
-      "title": "Arvind KC appointed Chief People Officer",
-      "source": "OpenAI Blog",
-      "published": "2026-02-24",
-      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "link": "https://openai.com/index/arvind-kc-chief-people-officer",
       "category": "AI News"
     },
     {
@@ -103,14 +111,6 @@
       "published": "2026-02-24",
       "summary": "Disconnected clouds aim to improve AI data governance as businesses rethink their infrastructure under tighter regulatory expectations. Ensuring operational continuity in isolated environments has become increasingly vital for businesses. Facilities lacking continuous internet access face unique con",
       "link": "https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/",
-      "category": "AI News"
-    },
-    {
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "source": "OpenAI Blog",
-      "published": "2026-02-23",
-      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
       "category": "AI News"
     },
     {
