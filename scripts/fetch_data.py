@@ -240,18 +240,34 @@ def fetch_github_trending(language: str = "") -> dict:
 # ---------------------------------------------------------------------------
 
 RSS_FEEDS = [
+    # 中文 AI 资讯源（优先）
+    ("机器之心", "https://www.jiqizhixin.com/rss"),
+    ("量子位", "https://www.qbitai.com/feed"),
+    ("InfoQ 中文", "https://www.infoq.cn/feed"),
+    ("开源中国", "https://www.oschina.net/news/rss"),
+    ("36氪", "https://36kr.com/feed"),
+    # 保留少量英文源（会自动标记 [EN]）
     ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
-    ("Google AI Blog", "https://blog.research.google/feeds/posts/default"),
-    ("The Batch (deeplearning.ai)", "https://www.deeplearning.ai/the-batch/feed/"),
-    ("Hacker News - AI", "https://hnrss.org/newest?q=AI+LLM&points=50"),
-    ("InfoQ AI", "https://feed.infoq.com/artificial-intelligence/"),
-    ("MIT Technology Review - AI", "https://www.technologyreview.com/feed/"),
     ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
-    ("AI News", "https://artificialintelligence-news.com/feed/"),
 ]
 
 
-def fetch_rss_news(max_per_feed: int = 3) -> dict:
+def is_chinese(text: str) -> bool:
+    """检测文本是否包含中文字符"""
+    for char in text:
+        if '\u4e00' <= char <= '\u9fff':
+            return True
+    return False
+
+
+def mark_english_title(title: str) -> str:
+    """对英文标题添加 [EN] 标记"""
+    if is_chinese(title):
+        return title
+    return f"[EN] {title}"
+
+
+def fetch_rss_news(max_per_feed: int = 5) -> dict:
     """从多个 RSS 源获取 AI 相关文章"""
     logger.info("正在抓取 RSS 新闻...")
     articles = []
@@ -284,7 +300,7 @@ def fetch_rss_news(max_per_feed: int = 3) -> dict:
                     clean_summary = soup.get_text(strip=True)[:300]
 
                     articles.append({
-                        "title": entry.get("title", "").strip(),
+                        "title": mark_english_title(entry.get("title", "").strip()),
                         "source": source_name,
                         "published": published_date,
                         "summary": clean_summary,
