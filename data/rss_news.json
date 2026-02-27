@@ -1,148 +1,164 @@
 {
-  "updated": "2026-02-27T06:38:04.312349+00:00",
+  "updated": "2026-02-27T06:44:07.573506+00:00",
   "articles": [
     {
-      "title": "ASML’s high-NA EUV tools clear the runway for next-gen AI chips",
-      "source": "AI News",
+      "title": "千问AI春节DAU创历史新高，单日增幅惊人",
+      "source": "量子位",
       "published": "2026-02-27",
-      "summary": "The machine that will make tomorrow’s AI chips possible has just been declared ready for mass production–and the clock for the industry’s next leap has officially started. ASML, the Dutch company that holds a global monopoly on commercial extreme ultraviolet lithography equipment, confirmed this wee",
-      "link": "https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/",
-      "category": "AI News"
-    },
-    {
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "source": "OpenAI Blog",
-      "published": "2026-02-26",
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "link": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "source": "OpenAI Blog",
-      "published": "2026-02-26",
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "link": "https://openai.com/index/figma-partnership",
-      "category": "AI News"
-    },
-    {
-      "title": "Finding value with AI and Industry 5.0 transformation",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-26",
-      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur",
-      "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-      "category": "AI News"
-    },
-    {
-      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-26",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars cove",
-      "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-      "category": "AI News"
-    },
-    {
-      "title": "This company claims a battery breakthrough. Now they need to prove it.",
-      "source": "MIT Technology Review - AI",
-      "published": "2026-02-26",
-      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product",
-      "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
-      "category": "AI News"
-    },
-    {
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "source": "Hugging Face Blog",
-      "published": "2026-02-26",
       "summary": "",
-      "link": "https://huggingface.co/blog/moe-transformers",
+      "link": "https://www.qbitai.com/2026/02/382739.html",
       "category": "AI News"
     },
     {
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "source": "OpenAI Blog",
-      "published": "2026-02-25",
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+      "title": "收购不成便带头封杀？！Meta 痛下狠手，OpenClaw 彻底失控：被拒后竟“人肉”网暴人类，实锤无人操控",
+      "source": "InfoQ 中文",
+      "published": "2026-02-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/yaqmOAg3bp294sPdyAoj?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Nokia and AWS pilot AI automation for real-time 5G network slicing",
-      "source": "AI News",
-      "published": "2026-02-25",
-      "summary": "Telecom networks may soon begin adjusting themselves in real time, as operators test systems that allow AI agents to manage traffic and service quality. AI may soon be making operational decisions. This week, Nokia and AWS presented a new network slicing system that uses AI agents to monitor network",
-      "link": "https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/",
+      "title": "OpenAI 提出 Harness Engineering：Codex 智能体驱动大规模软件开发",
+      "source": "InfoQ 中文",
+      "published": "2026-02-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/MCUXGhyIRqPLkFhljY9v?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-      "source": "Hugging Face Blog",
-      "published": "2026-02-24",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+      "title": "Gemini灵魂人物、传奇工程师Jeff Dean最新访谈：未来人均50个虚拟实习生，用不上专家了！",
+      "source": "InfoQ 中文",
+      "published": "2026-02-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/eqZKl8a3pt5Wd1LDKoZd?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Anthropic: Claude faces ‘industrial-scale’ AI model distillation",
-      "source": "AI News",
-      "published": "2026-02-24",
-      "summary": "Anthropic has detailed three “industrial-scale” AI model distillation campaigns by overseas labs designed to extract abilities from Claude. These competitors generated over 16 million exchanges using approximately 24,000 deceptive accounts. Their goal was to acquire proprietary logic to improve thei",
-      "link": "https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/",
+      "title": "曝DeepSeek新模型提前给华为等国内厂商“开绿灯”，V4 Lite 绝密参数外泄",
+      "source": "InfoQ 中文",
+      "published": "2026-02-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/2w3JgQftwv3PaM9hHS95?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-      "source": "Hugging Face Blog",
-      "published": "2026-02-20",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ggml-joins-hf",
+      "title": "代码暴减99.9%！独立开发者仅用500行代码做出安全版OpenClaw，GitHub星数狂飙",
+      "source": "InfoQ 中文",
+      "published": "2026-02-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HHm10aPdwzZxiF9k05fN?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Ask HN: Anyone Using a Mac Studio for Local AI/LLM?",
-      "source": "Hacker News - AI",
-      "published": "2026-02-05",
-      "summary": "Curious to know your experience running local LLM's with a well spec'ed out M3 Ultra or M4 Pro Mac Studio. I don't see a lot of discussion on the Mac Studio for Local LLMs but it seems like you could put big models in memory with the shared VRAM. I assume that the token generation would be slow, but",
-      "link": "https://news.ycombinator.com/item?id=46907001",
+      "title": "Lazarus 4.6 发布，Pascal 集成开发环境",
+      "source": "开源中国",
+      "published": "2026-02-27",
+      "summary": "Lazarus 4.6 现已发布，这是一个错误修复版本，基于 FPC 3.2.2 和 macOS 版 FPC 3.2.4RC1 构建。 Lazarus 是用于应用程序快速开发（RAD）的自由、跨平台的可视化集成开发环境，使用 Free Pascal 编译器，支持 Object Pascal 语言，与 Delphi 高度兼容，并被视作后者的自由软件替代品。 Lazarus 目前支持多种语言，包括中...",
+      "link": "https://www.oschina.net/news/406112/lazarus-4-6-released",
       "category": "AI News"
     },
     {
-      "title": "A guide to Gen AI / LLM vibecoding for expert programmers",
-      "source": "Hacker News - AI",
-      "published": "2025-08-22",
-      "summary": "Article URL:https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/Comments URL:https://news.ycombinator.com/item?id=44985207Points: 128# Comments: 117",
-      "link": "https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/",
+      "title": "Anthropic 向开源贡献者免费提供 6 个月 Claude Max 20x",
+      "source": "开源中国",
+      "published": "2026-02-27",
+      "summary": "Claude Code 刚刚发布对开源贡献者的赞助计划，该计划为热门开源项目的维护者和贡献者提供 6 个月免费的 Claude Max 20x 使用权益。 开源项目的维护者和贡献者，是整个生态持续运转的基石。Claude 开源支持计划（Claude for Open Source Program） 希望以实际行动表达他们的感谢——为入选者提供 6 个月免费的 Claude M...",
+      "link": "https://www.oschina.net/news/406088/claude-for-oss",
       "category": "AI News"
     },
     {
-      "title": "Ask HN: Is it time to fork HN into AI/LLM and \"Everything else/other?\"",
-      "source": "Hacker News - AI",
-      "published": "2025-07-15",
-      "summary": "I would very much like to enjoy HN the way I did years ago, as a place where I'd discover things that I never otherwise would have come across.The increasing AI/LLM domination of the site has made it much less appealing to me.Comments URL:https://news.ycombinator.com/item?id=44571740Points: 553# Com",
-      "link": "https://news.ycombinator.com/item?id=44571740",
+      "title": "微软发布 Copilot Tasks",
+      "source": "开源中国",
+      "published": "2026-02-27",
+      "summary": "微软宣布面向所有人推出 Copilot Tasks，一款可以自动运行的待办事项清单。 只需用自然语言描述你的需求，Copilot 就会自动规划并执行。你可以根据需要进行调整或完善。Tasks 在后台运行，拥有独立的计算机和浏览器，可跨多个应用程序和服务执行任务，并在完成后向你汇报。你可以根据需要设置任务的周期性、定时性或单次...",
+      "link": "https://www.oschina.net/news/406086",
       "category": "AI News"
     },
     {
-      "title": "Generative AI to quantify uncertainty in weather forecasting",
-      "source": "Google AI Blog",
-      "published": "2024-03-29",
-      "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google ResearchAccurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protecting",
-      "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+      "title": "DeepSeek 联合北大、清华发布新型 AI 推理框架 DualPath",
+      "source": "开源中国",
+      "published": "2026-02-27",
+      "summary": "DeepSeek与北京大学、清华大学合作，在ArXiv平台发表论文，提出面向智能体系统的全新大模型推理框架——DualPath。该框架旨在解决长上下文场景下KV-Cache加载引发的I/O瓶颈问题。 DualPath突破传统“存储→预填充（Prefill）”单路径模式，创新引入“存储→解码引擎（Decode）→预填充”第二路径，利用解码端闲置的存储网...",
+      "link": "https://www.oschina.net/news/406083",
       "category": "AI News"
     },
     {
-      "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-      "source": "Google AI Blog",
-      "published": "2024-03-28",
-      "summary": "Posted by Urs Köster, Software Engineer, Google ResearchTime seriesproblems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends.Bayesianapproaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new time se",
-      "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+      "title": "Elasticsearch 9.3.1 发布",
+      "source": "开源中国",
+      "published": "2026-02-27",
+      "summary": "Elasticsearch 是一个基于 Lucene 库的搜索引擎。它提供了一个分布式、支持多租户的全文搜索引擎，具有 HTTP Web 接口和无模式 JSON 文档。Elasticsearch 基于 Java 开发，并在 SSPL + Elastic License 双重授权许可下作为开源软件发布。 Elasticsearch 9.3.1 现已发布，更新内容包括： Features and enhancements ES|Q...",
+      "link": "https://www.oschina.net/news/406080/elasticsearch-9-3-1-released",
       "category": "AI News"
     },
     {
-      "title": "Computer-aided diagnosis for lung cancer screening",
-      "source": "Google AI Blog",
-      "published": "2024-03-20",
-      "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google ResearchLung cancer is the leading cause of cancer-related deaths globally with1.8 million deathsreported in 2020. Late diagnosis dramatically reduces the chances of survival.Lung cancer screeningviacomputed tomogr",
-      "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+      "title": "从短视频到长文：当抖音把资讯也交给AI",
+      "source": "36氪",
+      "published": "2026-02-27",
+      "summary": "作者 | 肖思佳编辑 | 乔芊在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更长久的价值沉淀。这一转变，从2024年9月“抖音精选内容”的推出也可见一斑。在引入更多原创优质内容的同时，抖音也在积极借助AI搜索技术整合全网信息，发力咨询内容。用户在抖音app内点击顶部“热点”中的“ai智",
+      "link": "https://36kr.com/p/3700444303814536?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
+      "source": "36氪",
+      "published": "2026-02-27",
+      "summary": "在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具备高成长潜力的新技术、新产品、新企业，划出一块聚焦未来创新科技的展示空间。创新科技展区并非对现有展区的简单补充，而是与AWE既有板块形成清晰分工与有机协同，共同构成了AWE智慧生活生态。相较于以智能白电",
+      "link": "https://36kr.com/p/3700996120915848?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+      "source": "36氪",
+      "published": "2026-02-27",
+      "summary": "文｜富充编辑｜苏建勋在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-A+轮由芯能创投、优山资本联合领投，清控金信跟投。中科第五纪创始人兼CEO刘年丰认为，两件事之间存在关联，核心逻辑是一级市场对机器人的认知更务实了。“去年，投资人更倾向通用的具身智能叙事，比如偏好‘既能搬箱子",
+      "link": "https://36kr.com/p/3700919151538052?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发",
+      "source": "36氪",
+      "published": "2026-02-27",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，高精度微米级金属3D打印企业——云耀深维（江苏）科技有限公司（以下简称“云耀深维”）完成了天使轮及Pre-A轮数千万元融资。其天使轮投资方为红杉种子基金、深圳高新投及璞跃中国。Pre-A轮融资由博远资本领投，蓝郡资本跟投。资金主要用于核心技术的迭代研发、产能提升、团队扩充以及市场拓展等。云耀深维成立于2021年，总部及产研基地位于江苏苏州太仓，是一家专注于金属3D打印的科技企业，提供覆盖金属3D打印全尺寸（常规及超高精度金属打印）的设备研发及产品打印的全套解决方案。硬氪了解到，公司核心团队源自德国弗劳恩霍夫激光技术研究所（Fraunhofer ILT）——这里是",
+      "link": "https://36kr.com/p/3700876701642374?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨玛莎拉蒂母公司全年净亏损1800亿元人民币；男童发育不良新药引爆股价，长春高新回应；德国总理默茨参访宇树科技",
+      "source": "36氪",
+      "published": "2026-02-27",
+      "summary": "今日热点导览德国总理默茨参访宇树科技魅族被曝大量欠款成坏账特斯拉中国官宣5年0息方案携程集团总裁、董事双双辞职微信上线新功能：同一文件多聊转发不重复占存储TOP3大新闻巨亏1800亿元，玛莎拉蒂母公司业绩爆雷全球第四大汽车制造商Stellantis在2025年经历了一场代价沉重的战略转身。该公司2月26日发布的财报显示，全年净亏损高达223亿欧元（以当前汇率计算约为1802亿人民币），这主要源于下半年启动业务重组产生的254亿欧元非常规费用。尽管全年数据承压，但下半年运营已出现回暖信号，营收恢复增长，现金流状况较上半年大幅改善。这家拥有Jeep、玛莎拉蒂、标致、雪铁龙等14个品牌的汽车巨头，在",
+      "link": "https://36kr.com/p/3700794963193734?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "千问3.5霸榜全球开源大模型前四，10分钟通过中级程序员5小时编程",
+      "source": "量子位",
+      "published": "2026-02-26",
+      "summary": "累计下载量超10亿，衍生模型超20万",
+      "link": "https://www.qbitai.com/2026/02/382732.html",
+      "category": "AI News"
+    },
+    {
+      "title": "云知声Unisound U1-OCR大模型发布！首个工业级文档智能基础大模型，开启OCR 3.0时代",
+      "source": "量子位",
+      "published": "2026-02-26",
+      "summary": "开启OCR 3.0时代",
+      "link": "https://www.qbitai.com/2026/02/382682.html",
+      "category": "AI News"
+    },
+    {
+      "title": "14亿元留不住！庞若鸣弃Meta加盟OpenAI",
+      "source": "量子位",
+      "published": "2026-02-26",
+      "summary": "任职仅半年",
+      "link": "https://www.qbitai.com/2026/02/382657.html",
+      "category": "AI News"
+    },
+    {
+      "title": "21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型",
+      "source": "量子位",
+      "published": "2026-02-26",
+      "summary": "比OpenClaw“更安全”",
+      "link": "https://www.qbitai.com/2026/02/382647.html",
       "category": "AI News"
     }
   ]

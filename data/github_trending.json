@@ -1,10 +1,10 @@
 {
-  "updated": "2026-02-27T06:37:52.136501+00:00",
+  "updated": "2026-02-27T06:43:53.863936+00:00",
   "repositories": [
     {
       "name": "clockworklabs/SpacetimeDB",
       "description": "Development at the speed of light",
-      "stars": 21051,
+      "stars": 21053,
       "stars_today": 441,
       "language": "Rust",
       "link": "https://github.com/clockworklabs/SpacetimeDB"
@@ -12,7 +12,7 @@
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 63749,
+      "stars": 63756,
       "stars_today": 1532,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
@@ -28,7 +28,7 @@
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
-      "stars": 21310,
+      "stars": 21312,
       "stars_today": 617,
       "language": "TypeScript",
       "link": "https://github.com/bytedance/deer-flow"
@@ -36,7 +36,7 @@
     {
       "name": "huggingface/skills",
       "description": "",
-      "stars": 7085,
+      "stars": 7088,
       "stars_today": 715,
       "language": "Python",
       "link": "https://github.com/huggingface/skills"
@@ -44,7 +44,7 @@
     {
       "name": "farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-      "stars": 20920,
+      "stars": 20925,
       "stars_today": 418,
       "language": "Rust",
       "link": "https://github.com/farion1231/cc-switch"
@@ -52,7 +52,7 @@
     {
       "name": "D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 17090,
+      "stars": 17095,
       "stars_today": 2902,
       "language": "Python",
       "link": "https://github.com/D4Vinci/Scrapling"
@@ -60,7 +60,7 @@
     {
       "name": "ruvnet/claude-flow",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 15105,
+      "stars": 15107,
       "stars_today": 215,
       "language": "TypeScript",
       "link": "https://github.com/ruvnet/claude-flow"
@@ -76,7 +76,7 @@
     {
       "name": "moonshine-ai/moonshine",
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "stars": 5444,
+      "stars": 5446,
       "stars_today": 245,
       "language": "C",
       "link": "https://github.com/moonshine-ai/moonshine"
