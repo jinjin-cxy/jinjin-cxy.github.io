@@ -712,6 +712,48 @@ a:hover {
   transform: translateY(0);
 }
 
+/* ---------- 提效技巧：推荐教程列表 ---------- */
+.tutorials-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  background: var(--bg-hover);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 0.75rem;
+}
+
+.tutorials-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin-bottom: 0.2rem;
+  display: block;
+}
+
+.tutorial-link {
+  font-size: 0.78rem;
+  color: var(--accent-1);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: color var(--transition);
+  line-height: 1.4;
+}
+
+.tutorial-link::before {
+  content: "▶";
+  font-size: 0.55rem;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+
+.tutorial-link:hover {
+  color: var(--accent-2);
+}
+
 /* ---------- 难度等级徽章 ---------- */
 .difficulty-badge {
   display: inline-flex;

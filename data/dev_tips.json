@@ -3,92 +3,142 @@
   "tips": [
     {
       "title": "Prompt Engineering 实战",
-      "description": "掌握写高质量 Prompt 的核心技巧：明确角色设定、给出具体上下文、使用示例驱动（few-shot）、分步拆解复杂任务。让 AI 更准确地帮你写代码、调试 Bug、生成 SQL 查询。",
+      "description": "跟着教程学会：给 AI 设定角色、用 few-shot 示例提升输出质量、让 AI 帮你写 SQL/调试代码/生成测试用例。10 分钟上手。",
+      "link": "https://www.promptingguide.ai/zh",
+      "tutorials": [
+        {"title": "Prompt Engineering Guide（中文）", "url": "https://www.promptingguide.ai/zh"},
+        {"title": "OpenAI 官方 Prompt 最佳实践", "url": "https://platform.openai.com/docs/guides/prompt-engineering"},
+        {"title": "吴恩达 ChatGPT Prompt 课程", "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/"}
+      ],
       "category": "Prompt 技巧",
       "difficulty": "入门",
-      "tags": ["Prompt", "ChatGPT", "Claude", "编程"],
-      "link": "",
+      "tags": ["Prompt", "ChatGPT", "Claude"],
       "icon": "✍️"
     },
     {
       "title": "用 GitHub Copilot 提速后端开发",
-      "description": "利用 Copilot 的代码补全、函数生成和测试用例生成功能。最佳实践：写清晰的函数注释引导补全、用 /tests 命令自动生成单元测试、用 /explain 快速理解遗留代码。",
+      "description": "手把手教你：安装配置 Copilot → 用注释驱动代码生成 → 自动补全 API 接口 → 一键生成单元测试。附带 Java/Python/Go 实战示例。",
+      "link": "https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot",
+      "tutorials": [
+        {"title": "GitHub Copilot 官方文档", "url": "https://docs.github.com/en/copilot"},
+        {"title": "GitHub Copilot 快速入门", "url": "https://docs.github.com/en/copilot/quickstart"},
+        {"title": "Copilot 最佳实践指南", "url": "https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/"}
+      ],
       "category": "代码助手",
       "difficulty": "入门",
       "tags": ["GitHub Copilot", "单元测试", "代码补全"],
-      "link": "",
       "icon": "🤖"
     },
     {
       "title": "用 ChatGPT/Claude 做代码审查",
-      "description": "将代码片段粘贴给 AI，要求它扮演高级工程师进行 Code Review。可发现潜在 Bug、安全漏洞、性能问题和代码异味。配合具体的审查维度（安全性、可读性、性能）效果更佳。",
+      "description": "把代码粘贴给 AI，让它扮演高级工程师做 Code Review。学会让 AI 检查安全漏洞、性能瓶颈、代码异味，并给出重构建议。",
+      "link": "https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/",
+      "tutorials": [
+        {"title": "GitHub 代码审查最佳实践", "url": "https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/"},
+        {"title": "Claude 代码分析指南", "url": "https://docs.anthropic.com/en/docs/build-with-claude/code-best-practices"},
+        {"title": "AI Code Review 工具对比", "url": "https://github.com/features/copilot/code-review"}
+      ],
       "category": "代码质量",
       "difficulty": "入门",
       "tags": ["Code Review", "安全", "重构"],
-      "link": "",
       "icon": "🔍"
     },
     {
       "title": "n8n + AI 自动化工作流实战",
-      "description": "使用 n8n 搭建 AI 驱动的自动化流水线：定时触发 → 调用 LLM API → 处理结果 → 发送通知。典型场景：自动生成日报、监控告警摘要、竞品分析报告，无需写大量胶水代码。",
+      "description": "从零搭建 AI 自动化流水线：监控服务日志 → AI 分析异常 → 自动发送告警到钉钉/Slack。附带完整的 n8n 工作流模板。",
+      "link": "https://docs.n8n.io/courses/",
+      "tutorials": [
+        {"title": "n8n 官方免费课程", "url": "https://docs.n8n.io/courses/"},
+        {"title": "n8n AI 工作流模板", "url": "https://n8n.io/workflows/?categories=AI"},
+        {"title": "n8n 快速入门教程", "url": "https://docs.n8n.io/try-it-out/"}
+      ],
       "category": "工作流自动化",
       "difficulty": "进阶",
       "tags": ["n8n", "自动化", "LLM API"],
-      "link": "",
       "icon": "⚙️"
     },
     {
       "title": "LangChain 后端集成指南",
-      "description": "在 Spring Boot 或 FastAPI 项目中集成 LangChain：构建 RAG（检索增强生成）系统、连接向量数据库（Chroma/Pinecone）、实现对话记忆管理。适合为现有服务添加 AI 问答能力。",
+      "description": "在 FastAPI/Spring Boot 项目中集成 AI 能力：搭建 RAG 知识库问答、调用多种 LLM API、实现对话记忆。跟着官方教程 30 分钟跑通第一个 Demo。",
+      "link": "https://python.langchain.com/docs/get_started/introduction",
+      "tutorials": [
+        {"title": "LangChain Python 官方文档", "url": "https://python.langchain.com/docs/get_started/introduction"},
+        {"title": "LangChain 快速入门", "url": "https://python.langchain.com/docs/get_started/quickstart"},
+        {"title": "LangChain JS/TS 文档（适合 Node.js 后端）", "url": "https://js.langchain.com/docs/get_started/introduction"}
+      ],
       "category": "应用开发",
       "difficulty": "进阶",
       "tags": ["LangChain", "RAG", "向量数据库", "FastAPI"],
-      "link": "",
       "icon": "🔗"
     },
     {
       "title": "AI 辅助数据库优化",
-      "description": "将慢查询日志和 EXPLAIN 输出提供给 AI，获取索引建议和 SQL 重写方案。让 AI 分析表结构，建议分区策略和查询优化。可节省大量手动分析时间，适合 MySQL/PostgreSQL 场景。",
+      "description": "用 AI 分析慢查询日志、自动生成索引建议、优化复杂 SQL。推荐工具：DB-GPT（开源）、AI2sql。把 SQL 粘贴给 AI 就能获得优化方案。",
+      "link": "https://www.dbgpt.site/",
+      "tutorials": [
+        {"title": "DB-GPT 开源项目", "url": "https://github.com/eosphoros-ai/DB-GPT"},
+        {"title": "AI2sql — 用自然语言生成 SQL", "url": "https://ai2sql.io/"},
+        {"title": "ChatGPT SQL 优化实战", "url": "https://www.datacamp.com/tutorial/chatgpt-for-sql"}
+      ],
       "category": "数据库",
       "difficulty": "进阶",
       "tags": ["SQL", "索引优化", "MySQL", "PostgreSQL"],
-      "link": "",
       "icon": "🗄️"
     },
     {
       "title": "本地部署 Ollama + Open WebUI",
-      "description": "在内网服务器上部署私有 AI 助手：安装 Ollama 拉取开源模型（如 Qwen、Llama），配合 Open WebUI 提供 Web 界面。保证数据隐私，适合处理企业内部代码和文档。",
+      "description": "在你的服务器上 5 分钟部署私有 AI 助手：安装 Ollama → 下载模型 → 启动 Open WebUI → 团队即可使用。完全离线，数据不出内网。",
+      "link": "https://github.com/open-webui/open-webui",
+      "tutorials": [
+        {"title": "Ollama 官方安装指南", "url": "https://ollama.ai/download"},
+        {"title": "Open WebUI 部署文档", "url": "https://docs.openwebui.com/getting-started/"},
+        {"title": "Ollama 模型库", "url": "https://ollama.ai/library"}
+      ],
       "category": "本地部署",
       "difficulty": "进阶",
       "tags": ["Ollama", "Open WebUI", "私有化", "Qwen"],
-      "link": "",
       "icon": "🦙"
     },
     {
       "title": "用 AI 自动生成 API 文档",
-      "description": "将接口代码、路由定义或注释提供给 AI，自动生成符合 OpenAPI/Swagger 规范的文档。配合 GitHub Copilot 的内联注释功能，可实现边写代码边生成文档，大幅降低文档维护成本。",
+      "description": "写完代码自动生成漂亮的 API 文档：用 Mintlify 从注释生成文档、用 Copilot 自动补全 JSDoc/Javadoc、用 AI 把接口描述翻译成多语言。",
+      "link": "https://mintlify.com/",
+      "tutorials": [
+        {"title": "Mintlify 官方文档", "url": "https://mintlify.com/docs"},
+        {"title": "Swagger/OpenAPI 自动生成", "url": "https://swagger.io/tools/swagger-codegen/"},
+        {"title": "GitHub Copilot 生成文档注释", "url": "https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot"}
+      ],
       "category": "文档生成",
       "difficulty": "入门",
       "tags": ["Swagger", "OpenAPI", "文档", "注释"],
-      "link": "",
       "icon": "📝"
     },
     {
       "title": "AI 驱动的日志分析与异常检测",
-      "description": "将后端日志片段输入 AI，快速定位异常模式和根因。结合结构化日志（JSON 格式）和 AI 分析，可实现智能告警摘要、错误分类和修复建议生成。适合微服务架构的运维监控场景。",
+      "description": "用 AI 自动分析 ELK/Grafana 日志，发现异常模式、预测故障。推荐工具：SigNoz（开源可观测平台）、Datadog AI。减少 80% 的人工排查时间。",
+      "link": "https://signoz.io/blog/ai-powered-observability/",
+      "tutorials": [
+        {"title": "SigNoz 开源可观测平台", "url": "https://signoz.io/docs/"},
+        {"title": "Grafana + AI 异常检测", "url": "https://grafana.com/docs/grafana/latest/alerting/"},
+        {"title": "ELK AI 异常检测", "url": "https://www.elastic.co/guide/en/machine-learning/current/ml-ad-overview.html"}
+      ],
       "category": "运维监控",
       "difficulty": "高级",
       "tags": ["日志分析", "异常检测", "微服务", "可观测性"],
-      "link": "",
       "icon": "📊"
     },
     {
       "title": "MCP (Model Context Protocol) 入门",
-      "description": "MCP 是 Anthropic 提出的开放协议，用于标准化 AI 模型与外部工具/数据源的连接方式。理解 MCP Server/Client 架构，动手实现自定义 MCP 工具，让 AI 具备调用内部 API 的能力。",
+      "description": "MCP 是连接 AI 和外部工具的新标准协议（类似 AI 界的 USB）。学会用 MCP 让 Claude/ChatGPT 直接操作你的数据库、读取文件、调用 API。",
+      "link": "https://modelcontextprotocol.io/",
+      "tutorials": [
+        {"title": "MCP 官方文档", "url": "https://modelcontextprotocol.io/introduction"},
+        {"title": "MCP 快速入门", "url": "https://modelcontextprotocol.io/quickstart"},
+        {"title": "Anthropic MCP 博文", "url": "https://www.anthropic.com/news/model-context-protocol"}
+      ],
       "category": "协议与标准",
       "difficulty": "高级",
       "tags": ["MCP", "协议", "工具调用", "Anthropic"],
-      "link": "",
       "icon": "🔌"
     }
   ]
