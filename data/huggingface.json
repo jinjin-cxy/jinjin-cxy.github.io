@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T12:31:06.939280+00:00",
+  "updated": "2026-02-28T00:56:32.570298+00:00",
   "models": [
     {
       "id": "Qwen/Qwen2.5-7B-Instruct",
@@ -22,7 +22,7 @@
       "name": "Qwen3-0.6B",
       "author": "Qwen",
       "downloads": 10568748,
-      "likes": 1111,
+      "likes": 1112,
       "tags": [
         "transformers",
         "safetensors",
@@ -86,7 +86,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 6505143,
-      "likes": 5496,
+      "likes": 5498,
       "tags": [
         "transformers",
         "safetensors",
@@ -102,7 +102,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 6400031,
-      "likes": 407,
+      "likes": 408,
       "tags": [
         "transformers",
         "safetensors",
@@ -118,7 +118,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 6069244,
-      "likes": 4404,
+      "likes": 4407,
       "tags": [
         "transformers",
         "safetensors",
