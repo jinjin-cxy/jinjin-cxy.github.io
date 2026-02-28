@@ -1,12 +1,108 @@
 {
-  "updated": "2026-02-28T00:56:56.327686+00:00",
+  "updated": "2026-02-28T12:22:29.471850+00:00",
   "articles": [
     {
-      "title": "苹果推出 Ferret-UI Lite：一款用于查看和控制 UI 的端侧 AI 模型",
+      "title": "OpenAI最新融资1100亿美元！英伟达亚马逊软银都抢到船票了",
+      "source": "量子位",
+      "published": "2026-02-28",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/02/382934.html",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌 Nano Banana 2 一夜补齐短板，各种图解都能画，价格才是 OpenAI 一半",
       "source": "InfoQ 中文",
       "published": "2026-02-28",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qPdlP3JlryK6gcPmLhw5?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/GcPU9NHkexyuriC2cBM2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude突遭特朗普高调 “封杀”！Altman公开声援“死对头”后，却用同款协议顺利过关了",
+      "source": "InfoQ 中文",
+      "published": "2026-02-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/h8WsVXZzHtP9W6l2mQqO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cilium 十周年：为大规模集群带来更强的加密、更安全的策略与更清晰的可观测性",
+      "source": "InfoQ 中文",
+      "published": "2026-02-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/hsajzR0xvFoaUYpTqVpO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Spring近期资讯：Boot、Security、Integration、Modulith、AMQP的第二个里程碑版本发布",
+      "source": "InfoQ 中文",
+      "published": "2026-02-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lprDgM0RJYaPUuvvGrq2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从告警到事后分析：谷歌云SRE团队如何运用Gemini CLI应对服务中断",
+      "source": "InfoQ 中文",
+      "published": "2026-02-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Pw8vha4aUtY9C4xY28zf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "面壁智能获数亿元融资，中国电信领投",
+      "source": "开源中国",
+      "published": "2026-02-28",
+      "summary": "面壁智能今天宣布完成新一轮数亿元融资，由中国电信战略领投，中信金石、中信私募跟投。此次合作标志着面壁智能正式开启与国家级信息基础设施方的深度协同。中国电信将发挥其在云（算力）、网络与终端方面的优势，面壁智能则依托其在泛司法、汽车、教育等领域的算法落地经验，共同拓展AI在复杂场景中的应用。 自2024年以...",
+      "link": "https://www.oschina.net/news/406506",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 回应被美国国防部列为“供应链风险企业”，称是史无前例的打压",
+      "source": "开源中国",
+      "published": "2026-02-28",
+      "summary": "美国 AI 公司 Anthropic 与特朗普政府爆发正面冲突——起因是两条它不愿逾越的红线。 事件经过 2026 年 2 月 27 日，美国战争部长（Secretary of War）Pete Hegseth 在 X 平台宣布，他正指示战争部将 Anthropic 列为供应链风险（supply chain risk）。 这一举动的导火索，是双方数月谈判陷入僵局。Anthropic 坚持对旗下 ...",
+      "link": "https://www.oschina.net/news/406505",
+      "category": "AI News"
+    },
+    {
+      "title": "上海新增 11 款生成式 AI 服务备案，累计达 149 款",
+      "source": "开源中国",
+      "published": "2026-02-28",
+      "summary": "上海市网信办发布了最新一批生成式人工智能服务备案信息公告。截至2月28日，上海市新增11款已完成备案的生成式人工智能服务，累计已完成149款生成式人工智能服务备案。 公告还指出，已上线的生成式人工智能应用或功能，应在显著位置或产品详情页面公示所使用已备案生成式人工智能服务情况，注明模型名称及备案号，并根据...",
+      "link": "https://www.oschina.net/news/406499",
+      "category": "AI News"
+    },
+    {
+      "title": "内存严重短缺将导致入门级 PC 走向消亡",
+      "source": "开源中国",
+      "published": "2026-02-28",
+      "summary": "你还在期待一台 3000 元以内的新笔记本？Gartner 分析师给出了一个坏消息：入门级 PC 正在走向消亡，平价手机也难逃同样命运——罪魁祸首是 AI 驱动的内存价格大爆炸，来看数字有多触目惊心： 部分内存芯片价格自去年以来已翻倍乃至翻四倍 DRAM 和 NAND 闪存预计到 2026 年底将再涨 130% 内存成本目前占 HP 整机 BOM 的 ...",
+      "link": "https://www.oschina.net/news/406497",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek 新旗舰模型 V4 即将发布，再次向美国科技巨头发起冲击",
+      "source": "开源中国",
+      "published": "2026-02-28",
+      "summary": "根据 Financial Times 的最新报道，中国 AI 公司 DeepSeek 将于下周发布旗下最新大模型 V4，距其上一次重磅发布已时隔逾一年。这是继 2025 年 1 月 R1 推理模型引发\"AI 地震\"后，DeepSeek 最受市场期待的一次亮相。 报道指出，V4 将是一款多模态模型，支持图片、视频与文本生成，能力边界大幅拓展，直指 GPT-4o、Gemini ...",
+      "link": "https://www.oschina.net/news/406494",
+      "category": "AI News"
+    },
+    {
+      "title": "千问将发布AI眼镜、耳机、指环，巨头抢占AI新入口丨智能涌现独家",
+      "source": "36氪",
+      "published": "2026-02-28",
+      "summary": "文｜邱晓芬编辑｜苏建勋过去的一个月，当千问用“一句话下单”带来2亿订单之后，阿里还希望将这套玩法走出手机屏幕，下放到更多形态的硬件上。《智能涌现》从阿里内部人士处获悉，阿里旗下个人AI助手“千问”将进入AI硬件领域，其在2026年规划的硬件形态包括AI眼镜、AI耳机、AI指环，将面向全球市场发售。其中，千问AI眼镜将在即将在2026年世界移动通信大会（MWC）上发布，将在3月2日开启预约。为了进一步丰富这些终端硬件的使用体验，据《智能涌现》了解，千问APP上的点外卖、打车等功能，都将会无缝迁移到未来众多终端设备中。有意思的是，不仅仅是阿里千问，近期，全球AI巨头纷纷抢滩消费级AI硬件赛道——M",
+      "link": "https://36kr.com/p/3702628151751046?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
+      "source": "36氪",
+      "published": "2026-02-28",
+      "summary": "今日热点导览豆包手机回应存在安全漏洞影石创新：所涉337调查已终结米哈游多款未公开角色遭泄露，3名“00后”被刑拘中国邮政称已叫停《尘白禁区》联名活动蜜雪冰城要在河南老家建“雪王乐园”TOP 3 大新闻语音误关大灯致车祸，领克致歉近日，一车主驾驶领克Z20夜间在高速上行驶时，语音操作误关大灯致车辆撞上护栏一事引发网友广泛关注。针对此事，领克汽车销售有限公司副总经理穆军通过社交平台进行回应。2月26日，穆军在其个人微博发文称：“昨晚发生一起领克Z20车辆行驶中语音误操作控制关闭大灯的情况，今天我们第一时间完成了语音控制优化方案，现已通过云端推送更新，后续在行驶状态下只能通过手动控制大灯关闭，请大",
+      "link": "https://36kr.com/p/3702272216543360?f=rss",
       "category": "AI News"
     },
     {
@@ -42,86 +138,6 @@
       "category": "AI News"
     },
     {
-      "title": "反转！吓崩华尔街的AI末日预言报告被证伪，纳斯达克道琼斯都白跌了",
-      "source": "量子位",
-      "published": "2026-02-27",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/02/382776.html",
-      "category": "AI News"
-    },
-    {
-      "title": "关于采用 Snowflake Internal Marketplace 的最佳实践 ｜技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-02-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/k3dDblNcrtKHEsNTVCOp?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 上线自动记忆功能，不再反复解释项目背景",
-      "source": "InfoQ 中文",
-      "published": "2026-02-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/QTPQmPZ1DsSBjTTymgK3?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek联手清北发新论文，仅5000行代码改写规则！V4 架构专治推理I/O瓶颈，性能暴增187%",
-      "source": "InfoQ 中文",
-      "published": "2026-02-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/G8pD8clar51Ssg6GwXmB?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从表格到网络：图分析智能体如何重构工业决策体系 ｜ 技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-02-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qr0XQAgvL68v0tCQsWIP?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "IBM 回应 AI 冲击，称其在代码领域的应用将创造巨大的价值",
-      "source": "开源中国",
-      "published": "2026-02-27",
-      "summary": "IBM 高级副总裁 Rob Thomas 近日发布文章，回应外界围绕「AI 能否快速替代 COBOL 与大型机」的讨论。 此前，Anthropic 宣布 Claude Code 能自动梳理 COBOL 依赖、生成文档并识别风险，引发市场对 IBM 主机业务受冲击的担忧，IBM 股价在当地时间本周一录得近 26 年最大单日跌幅，市值蒸发约 310 亿美元。 文章指出，IBM Z...",
-      "link": "https://www.oschina.net/news/406231",
-      "category": "AI News"
-    },
-    {
-      "title": "瑞芯微就 MPP 开源合规事件致歉：已启动整改工作，并积极与 FFmpeg 及 GitHub 沟通",
-      "source": "开源中国",
-      "published": "2026-02-27",
-      "summary": "2 月 27 日，瑞芯微发布关于 MPP 开源合规事件的通告称，近期，公司开源媒体框架软件 MPP 因部分代码开源许可证条款合规问题，导致其 GitHub 仓库被暂时冻结。在此，向开源社区、所有受影响的合作伙伴、开发者致歉。 瑞芯微还表示，公司在事发后启动整改工作，并积极与 FFmpeg 及 GitHub 组织沟通。目前，相关代码已全部...",
-      "link": "https://www.oschina.net/news/406217",
-      "category": "AI News"
-    },
-    {
-      "title": "ONLYOFFICE 文档 9.3 发布：PDF 编辑更强大、签名方式更多、支持多页视图等",
-      "source": "开源中国",
-      "published": "2026-02-27",
-      "summary": "最新版本 ONLYOFFICE 文档 9.3 正式发布。本次更新包含 30+ 项新功能、性能优化，以及 500+ 项问题修复。下面来看重点更新。 PDF 表单支持更多签名方式 数字签名应像纸笔签字一样自然。在 9.3 版本中，我们升级了 PDF 表单签名字段，让收件人拥有更流畅、更灵活的签署体验。除上传签名图片外，现在还支持自动去除图片白色...",
-      "link": "https://www.oschina.net/news/406200",
-      "category": "AI News"
-    },
-    {
-      "title": "Easy-Es v3.0.1 已经发布，傻瓜级 ElasticSearch 搜索引擎 ORM 框架",
-      "source": "开源中国",
-      "published": "2026-02-27",
-      "summary": "Easy-Es v3.0.1 已经发布，傻瓜级 ElasticSearch 搜索引擎 ORM 框架。 v3.0.1 版本内容 feat:mapping支持index和docValues feat: 当between两个参数相同时，优化成eq查询，提高查询性能 feat: 增强了对日期格式处理 feat(highlight): 添加高亮参数 noMatchSize 功能 feat: 引入向量检索功能,beta版,后续会持续增强 fix:...",
-      "link": "https://www.oschina.net/news/406198",
-      "category": "AI News"
-    },
-    {
-      "title": "勒索软件攻击激增，赎金支付率降至历史新低",
-      "source": "开源中国",
-      "published": "2026-02-27",
-      "summary": "Chainalysis 平台最新发布的一项报告指出，尽管勒索软件攻击数量创下新高，赎金支付却陷入停滞。去年向勒索软件攻击者支付赎金的受害者比例已降至 28%，创历史新低。 2025 年链上勒索软件支付总额下降约 8% 至 8.2 亿美元，而声称的攻击数量却增长了 50%。“随着更多事件和支付数据被纳入统计，2025 年总金额可能接近或超...",
-      "link": "https://www.oschina.net/news/406194/crypto-ransomware-2026",
-      "category": "AI News"
-    },
-    {
       "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
       "source": "36氪",
       "published": "2026-02-27",
@@ -143,22 +159,6 @@
       "published": "2026-02-27",
       "summary": "作者 | 肖思佳编辑 | 乔芊在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。2025年底，抖音上线长图文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更长久的价值沉淀。这一转变，从2024年9月“抖音精选内容”的推出也可见一斑。在引入更多原创优质内容的同时，抖音也在积极借助AI搜索技术整合全网信息，发力咨询内容。用户在抖音app内点击顶部“热点”中的“ai智",
       "link": "https://36kr.com/p/3700444303814536?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
-      "source": "36氪",
-      "published": "2026-02-27",
-      "summary": "在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具备高成长潜力的新技术、新产品、新企业，划出一块聚焦未来创新科技的展示空间。创新科技展区并非对现有展区的简单补充，而是与AWE既有板块形成清晰分工与有机协同，共同构成了AWE智慧生活生态。相较于以智能白电",
-      "link": "https://36kr.com/p/3700996120915848?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
-      "source": "36氪",
-      "published": "2026-02-27",
-      "summary": "文｜富充编辑｜苏建勋在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-A+轮由芯能创投、优山资本联合领投，清控金信跟投。中科第五纪创始人兼CEO刘年丰认为，两件事之间存在关联，核心逻辑是一级市场对机器人的认知更务实了。“去年，投资人更倾向通用的具身智能叙事，比如偏好‘既能搬箱子",
-      "link": "https://36kr.com/p/3700919151538052?f=rss",
       "category": "AI News"
     }
   ]

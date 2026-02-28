@@ -1,74 +1,10 @@
 {
-  "updated": "2026-02-28T00:56:37.428622+00:00",
+  "updated": "2026-02-28T12:22:11.111595+00:00",
   "repositories": [
-    {
-      "name": "ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "stars": 9209,
-      "stars_today": 478,
-      "language": "Python",
-      "link": "https://github.com/ruvnet/wifi-densepose"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
-      "stars": 21839,
-      "stars_today": 696,
-      "language": "TypeScript",
-      "link": "https://github.com/bytedance/deer-flow"
-    },
-    {
-      "name": "moonshine-ai/moonshine",
-      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-      "stars": 5831,
-      "stars_today": 593,
-      "language": "C",
-      "link": "https://github.com/moonshine-ai/moonshine"
-    },
-    {
-      "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe",
-      "stars": 12386,
-      "stars_today": 803,
-      "language": "Python",
-      "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 64729,
-      "stars_today": 1546,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 15632,
-      "stars_today": 531,
-      "language": "TypeScript",
-      "link": "https://github.com/ruvnet/ruflo"
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 23013,
-      "stars_today": 324,
-      "language": "Python",
-      "link": "https://github.com/datawhalechina/hello-agents"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 6196,
-      "stars_today": 1385,
-      "language": "TypeScript",
-      "link": "https://github.com/abhigyanpatwari/GitNexus"
-    },
     {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 18302,
+      "stars": 18943,
       "stars_today": 199,
       "language": "TypeScript",
       "link": "https://github.com/moeru-ai/airi"
@@ -76,50 +12,114 @@
     {
       "name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 71164,
+      "stars": 71572,
       "stars_today": 494,
       "language": "Shell",
       "link": "https://github.com/anthropics/claude-code"
     },
     {
-      "name": "ruvnet/ruvector",
-      "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
-      "stars": 1917,
-      "stars_today": 410,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/ruvector"
-    },
-    {
-      "name": "Wei-Shaw/claude-relay-service",
-      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "stars": 8530,
-      "stars_today": 53,
-      "language": "JavaScript",
-      "link": "https://github.com/Wei-Shaw/claude-relay-service"
-    },
-    {
       "name": "tukaani-project/xz",
       "description": "XZ Utils",
-      "stars": 1137,
+      "stars": 1188,
       "stars_today": 85,
       "language": "C",
       "link": "https://github.com/tukaani-project/xz"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 18067,
-      "stars_today": 1135,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "stars": 98001,
+      "stars_today": 605,
       "language": "Python",
-      "link": "https://github.com/D4Vinci/Scrapling"
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
-      "name": "steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 7040,
-      "stars_today": 243,
-      "language": "Swift",
-      "link": "https://github.com/steipete/CodexBar"
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+      "stars": 16151,
+      "stars_today": 531,
+      "language": "TypeScript",
+      "link": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
+      "stars": 22424,
+      "stars_today": 696,
+      "language": "Python",
+      "link": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "name": "Wei-Shaw/claude-relay-service",
+      "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "stars": 8639,
+      "stars_today": 53,
+      "language": "JavaScript",
+      "link": "https://github.com/Wei-Shaw/claude-relay-service"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "",
+      "stars": 992,
+      "stars_today": 183,
+      "language": "Python",
+      "link": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "superset-sh/superset",
+      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "stars": 2239,
+      "stars_today": 156,
+      "language": "TypeScript",
+      "link": "https://github.com/superset-sh/superset"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "stars": 6090,
+      "stars_today": 593,
+      "language": "C",
+      "link": "https://github.com/moonshine-ai/moonshine"
+    },
+    {
+      "name": "PaddlePaddle/Paddle",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "stars": 23653,
+      "stars_today": 6,
+      "language": "C++",
+      "link": "https://github.com/PaddlePaddle/Paddle"
+    },
+    {
+      "name": "datagouv/datagouv-mcp",
+      "description": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.",
+      "stars": 574,
+      "stars_today": 122,
+      "language": "Python",
+      "link": "https://github.com/datagouv/datagouv-mcp"
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "stars": 2321,
+      "stars_today": 97,
+      "language": "Go",
+      "link": "https://github.com/Wei-Shaw/sub2api"
+    },
+    {
+      "name": "X-PLUG/MobileAgent",
+      "description": "Mobile-Agent: The Powerful GUI Agent Family",
+      "stars": 7423,
+      "stars_today": 33,
+      "language": "Python",
+      "link": "https://github.com/X-PLUG/MobileAgent"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
+      "stars": 1683,
+      "stars_today": 105,
+      "language": "Python",
+      "link": "https://github.com/alibaba/OpenSandbox"
     }
   ]
 }
