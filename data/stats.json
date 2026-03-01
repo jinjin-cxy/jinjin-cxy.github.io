@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-01T01:10:58.291046+00:00",
+  "updated": "2026-03-01T12:23:31.868122+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 15,
+    "github_trending": 13,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -53,15 +53,11 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 5
+      "count": 8
     },
     {
       "language": "TypeScript",
       "count": 3
-    },
-    {
-      "language": "C",
-      "count": 2
     },
     {
       "language": "Rust",
