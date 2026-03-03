@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-03T01:05:40.710930+00:00",
+  "updated": "2026-03-03T12:31:15.159504+00:00",
   "articles": [
     {
-      "title": "GEO服务商「PureblueAI清蓝」完成数千万元天使轮融资，发布新AI营销数字员工平台 | 36氪首发",
+      "title": "@所有人，2026真的需要自己上手用AI了丨年度AI盛会",
+      "source": "量子位",
+      "published": "2026-03-03",
+      "summary": "马上AI起来！北京五月见",
+      "link": "https://www.qbitai.com/2026/03/383796.html",
+      "category": "AI News"
+    },
+    {
+      "title": "大模型越聪明，学习机越抢手：科大讯飞T90 Pro定义「真」个性化",
+      "source": "量子位",
+      "published": "2026-03-03",
+      "summary": "技术与教育的深度交融，将令每一个孩子受益",
+      "link": "https://www.qbitai.com/2026/03/383629.html",
+      "category": "AI News"
+    },
+    {
+      "title": "龙虾再进化！强化飞书表格技能，25.2万星登顶超越React/Linux",
+      "source": "量子位",
+      "published": "2026-03-03",
+      "summary": "龙虾官方也开通了微博账号",
+      "link": "https://www.qbitai.com/2026/03/383367.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
+      "source": "量子位",
+      "published": "2026-03-03",
+      "summary": "并不是第一次发现GPT-5.4的踪迹了",
+      "link": "https://www.qbitai.com/2026/03/383592.html",
+      "category": "AI News"
+    },
+    {
+      "title": "今年最值得关注的AI榜单来啦！申报即日启动",
+      "source": "量子位",
+      "published": "2026-03-03",
+      "summary": "欢迎申报！截至4月27日",
+      "link": "https://www.qbitai.com/2026/03/383565.html",
+      "category": "AI News"
+    },
+    {
+      "title": "模力工场 033 周 AI 应用榜：从评论区互动到游戏陪玩，AI 已悄悄加载完成",
+      "source": "InfoQ 中文",
+      "published": "2026-03-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/3AV33wXig2vBy4s5hkIP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Rivet 发布 Sandbox Agent SDK，解决 Agent API 碎片化问题",
+      "source": "InfoQ 中文",
+      "published": "2026-03-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/9wBHVhzl3hoUORHLyULU?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "当数据库遇上多模态：腾讯云 TDSQL Boundless 如何释放数据深层价值？",
+      "source": "InfoQ 中文",
+      "published": "2026-03-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/YHvr48IeZBO9K4ZqUOfk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "千问3.5开源四连发，马斯克点赞：智能密度令人印象深刻",
+      "source": "InfoQ 中文",
+      "published": "2026-03-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/d16BDGbvBatj6eFYcFdS?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "TypeScript 6 Beta版发布：开发者受邀升级以迎接Go重写计划",
+      "source": "InfoQ 中文",
+      "published": "2026-03-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Yt6PtO77lmGmCBGPOk0H?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "蚂蚁数科发布具身智能数据采集框架架 AoE",
+      "source": "开源中国",
+      "published": "2026-03-03",
+      "summary": "蚂蚁数科天玑实验室近日联合中国科学院自动化研究所、浙江大学、北京大学、北京智源人工智能研究院，联合研发出 Always-on Egocentric (AoE) 的数据采集系统，号称仅通过一台手机和一个低于20美元的颈挂式支架，就可以替代动辄数万美元的专业设备，实现具身智能的高质量数据采集。目前这一技术论文已经在Arxiv发布。 根据...",
+      "link": "https://www.oschina.net/news/407281",
+      "category": "AI News"
+    },
+    {
+      "title": "Syncthing 2.0.15 正式发布，连续文件同步工具",
+      "source": "开源中国",
+      "published": "2026-03-03",
+      "summary": "Syncthing 是一个免费开源的工具，它能在你的各个网络计算机间同步文件 / 文件夹，它的同步数据是直接从一个系统中直接传输到另一个系统的，并且它是安全且私密的。 Syncthing 2.0.15 现已发布，具体更新内容如下： 修复 fix(gui)：在升级重启期间显示重启提示框（修复#1248）#10566 fix(gui)：移除语言选择项的宽度限制...",
+      "link": "https://www.oschina.net/news/407269/syncthing-2-0-15-released",
+      "category": "AI News"
+    },
+    {
+      "title": "LibreOffice 反击批评者：我们的界面比微软 Office 更好",
+      "source": "开源中国",
+      "published": "2026-03-03",
+      "summary": "多年来，不少用户批评 LibreOffice 的界面“老旧”、不如微软 Office 的 Ribbon 功能区“现代”，甚至将后者视为办公软件界面的行业标准。 现在，LibreOffice 背后的 The Document Foundation（文档基金会）公开回击称，这种看法“完全错误”，并强调 LibreOffice 的界面在人体工学和可定制性上优于微软 Office。 文章指...",
+      "link": "https://www.oschina.net/news/407266",
+      "category": "AI News"
+    },
+    {
+      "title": "AI-Scientist - 开源自动化科研系统",
+      "source": "开源中国",
+      "published": "2026-03-03",
+      "summary": "AI-Scientist（AI 科学家）是开源自动化科研系统，旨在实现全流程自动化的科研工作（创意→实验→分析→论文），适用于顶会论文自动生成、实验报告撰写、科研流程加速。",
+      "link": "https://www.oschina.net/p/ai-scientist",
+      "category": "AI News"
+    },
+    {
+      "title": "微信关于“AI 魔改”治理： 2 月清理 3956 条违规视频",
+      "source": "开源中国",
+      "published": "2026-03-03",
+      "summary": "针对部分账号滥用AI工具，对经典影视剧、动画片等内容进行颠覆性篡改、“魔性”解构与低俗化改编的问题，微信发布“关于“AI魔改”视频阶段性治理的公告（第五期）”。 公告指出，经平台巡查发现，个别账号存在违规发布不良导向“AI魔改”视频的行为，根据国家相关法律法规要求以及《腾讯微信软件许可服务协议》《微信视...",
+      "link": "https://www.oschina.net/news/407250",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
       "source": "36氪",
       "published": "2026-03-03",
-      "summary": "36氪获悉，北京清蓝智汇科技有限公司（简称 PureblueAI 清蓝）正式宣布完成数千万元人民币天使轮融资。本轮融资由祥峰中国（Vertex China）领投，老股东英诺基金及一村淞灵、36氪跟投。本轮融资资金，将主要用于新一代产品开发与技术迭代、全行业生态拓展及业务布局，同时将持续携手投资方与生态伙伴，打造 AI 口碑营销领域的标杆性解决方案，助力更多企业在 AI 时代实现确定性增长。36氪此前曾报道PureblueAI清蓝。公司成立于2025年，创始团队成员毕业于清华大学、中科院等高校，曾任字节跳动、阿里巴巴等企业高管和技术专家。PureblueAI清蓝基于自研的混合模型架构、优化算法与",
-      "link": "https://36kr.com/p/3705907852800136?f=rss",
+      "summary": "大公司：亚马逊花逾4亿美元购美知名高校校区用于AI建设美国乔治·华盛顿大学2日说，美国亚马逊公司斥资4.27亿美元，收购该校弗吉尼亚科学与技术校区，以加快人工智能（AI）基础设施建设。红果短剧已为多款小说相关软件登记著作权36氪获悉，3月3日，爱企查App显示，红果短剧关联公司北京笔墨留香科技有限公司成已为“小说快应用”“笔墨留香”“红果官网”网站进行备案。值得一提的是，该公司已为“最看小说”“茶间小说”“翠果小说”等多款小说相关软件登记著作权。扎克伯格夫妇据报1.7亿美元于迈阿密置业，以规避加州富人税3月3日，据报道，Meta Platforms公司创始人马克·扎克伯格及其妻子以1.7亿美元",
+      "link": "https://36kr.com/p/3707029227499651?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨椰树集团再陷擦边营销风波被约谈；电影难看20分钟内可退款40%，一影院试行“观影后悔权”；中欧航线票价暴涨",
+      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
       "source": "36氪",
       "published": "2026-03-03",
-      "summary": "今日热点导览伊朗称霍尔木兹海峡已关闭： “不会让一滴石油流出”雷军：小米机器人已在汽车工厂实习，未来5年大批人形机器人进厂亚马逊在阿联酋数据中心遭撞击起火多家金店暂停投资金条销售北京银行贵金属业务出现BUGBOSS直聘称网传伊朗急招炮兵照片系P图TOP3大新闻海口市监局回应椰树低俗广告，已约谈企业近日，海南椰树集团因工厂参观区内悬挂涉嫌低俗内容的宣传广告，再次被推上舆论风口浪尖。3月2日，海口市监局就椰树集团工厂内悬挂的低俗广告约谈企业，要求整改。据南方都市报报道，近日椰树集团对外开放工厂参观，本是拉近与消费者距离、展示品牌实力的正向举措，却因厂区内“大大大，椰树女员工胸这么大”“追求胸大是让",
-      "link": "https://36kr.com/p/3706462657245318?f=rss",
+      "summary": "作者丨邱晓芬编辑丨苏建勋在2026世界移动通信大会（MWC 2026）中偌大的1号馆里，华为几乎占据了一半以上的位置。这么大的空间和篇幅，华为想重点传递的关键词是U6GHz。为了实现6G这一遥远的蓝图，近期，全球已掀起了一场U6GHz（6.425-7.125 GHz）的探索热潮，阿联酋、巴西及欧洲等多国各大运营商近期纷纷完成了相应的万兆体验速率验证。简单理解，U6GHz就像是一个“黄金频段”，由于在容量、覆盖、成本这三个维度取得了的最佳平衡，其即将成为未来十年移动网络扩容和升级的核心资源，可以理解为是未来部署5G-A、6G的关键“高速公路”。在MWC 2026期间，华为发布了一系列关于U6GH",
+      "link": "https://36kr.com/p/3705512345170309?f=rss",
       "category": "AI News"
     },
     {
-      "title": "上海一群青年，造了个学术版OpenClaw",
-      "source": "量子位",
-      "published": "2026-03-02",
-      "summary": "上智院联合复旦发布的“大圣”",
-      "link": "https://www.qbitai.com/2026/03/383249.html",
-      "category": "AI News"
-    },
-    {
-      "title": "官宣｜FlagOS 镜像登陆腾讯云 HAI社区，快速部署OpenClaw 实现“养虾”自由",
-      "source": "量子位",
-      "published": "2026-03-02",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/383235.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenClaw最佳工具榜来了！这6款龙虾最受欢迎",
-      "source": "量子位",
-      "published": "2026-03-02",
-      "summary": "还有各种龙虾食用教程",
-      "link": "https://www.qbitai.com/2026/03/383023.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Notion引入MiniMax M2.5，作为Custom Agents唯一可用的全球开源模型",
-      "source": "量子位",
-      "published": "2026-03-02",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/383020.html",
-      "category": "AI News"
-    },
-    {
-      "title": "13 vs 3，国产安全AI悄悄完成了对Claude的超越",
-      "source": "量子位",
-      "published": "2026-03-02",
-      "summary": "不仅复现，还多找出10个0day漏洞",
-      "link": "https://www.qbitai.com/2026/03/383016.html",
-      "category": "AI News"
-    },
-    {
-      "title": "“传统设计流程已死”！IDE成Claude设计负责人新宠：Anthropic人人写代码，最不怕Bug",
-      "source": "InfoQ 中文",
-      "published": "2026-03-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/67Pq2VBLhpbKiRWIJWui?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "智械盛宴下的孤岛：AI、资本与知识生态的隐秘危机",
-      "source": "InfoQ 中文",
-      "published": "2026-03-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/CipE6FbwVFaLUtXj3G5U?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "蚂蚁阿福：从 0 到生产的医疗 Agent 工程化落地｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UbyRYdBINl5BJxElkJGj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "使用MCP、OPA和临时运行时为基础设施自动化构建一个最小权限AI智能体网关",
-      "source": "InfoQ 中文",
-      "published": "2026-03-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Lh3AppcUclgbul3phl2U?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Hugging Face推出Community Evals功能，促进模型测试透明化",
-      "source": "InfoQ 中文",
-      "published": "2026-03-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/cglzA4vAI8D0HO6UGYlW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MINIMAX：2025 财年收入 7900 万美元",
-      "source": "开源中国",
-      "published": "2026-03-02",
-      "summary": "MiniMax 正式发布 2025 年全年财报。数据显示，公司2025 财年收入7900万美元，同比增长158.9%，其中超过70%的收入来自国际市场。 年度亏损18.7亿美元（约合 135 亿元人民币），同比增加302.3%。经调整净亏损为2.5亿美元，亏损率同比大幅收窄。分析指出，巨额亏损主要源于对 算力租赁、全模态模型（文本、视频、语音、音乐...",
-      "link": "https://www.oschina.net/news/407001",
-      "category": "AI News"
-    },
-    {
-      "title": "Notion 旗下 AI 工具接入国产开源模型 MiniMax M2.5",
-      "source": "开源中国",
-      "published": "2026-03-02",
-      "summary": "Notion联合创始人Akshay Kothari近日宣布，其AI自动化工具Custom Agents正式集成国产开源权重模型MiniMax M2.5，并作为实验性功能向全球超1亿用户开放。 此举使MiniMax M2.5成为Notion模型选择列表中唯一开源权重模型，与Claude Sonnet 4.6、Opus 4.6、Haiku 4.5及GPT-5.2、GPT-5.3 Codex等国际主流闭源大模型并列。 Ko...",
-      "link": "https://www.oschina.net/news/406992",
-      "category": "AI News"
-    },
-    {
-      "title": "摩托罗拉确认与 GrapheneOS 合作，未来手机将预装隐私系统并移植功能 ​",
-      "source": "开源中国",
-      "published": "2026-03-02",
-      "summary": "摩托罗拉近日在2026年世界移动通信大会（MWC 2026）上宣布，与专注于移动安全的非营利组织GrapheneOS基金会建立长期合作伙伴关系。该合作将推动一款未来摩托罗拉智能手机预装GrapheneOS——这一基于Android开源项目的高度强化隐私操作系统，同时还将部分GrapheneOS功能移植到其他摩托罗拉设备上。 据摩托罗拉在巴塞罗那媒...",
-      "link": "https://www.oschina.net/news/406964",
-      "category": "AI News"
-    },
-    {
-      "title": "RWKV 社区二月动态：ROSA 语言模型 Demo，10 篇论文",
-      "source": "开源中国",
-      "published": "2026-03-02",
-      "summary": "欢迎大家收看《RWKV 社区最新动态》，本期内容收录了 RWKV 社区 2026 年 2 月的最新动态。 2 月动态省流版（TL;DR） RWKV 模型新闻动态 RWKV-8 ROSA-1bit 语言模型 Demo 发布 RWKV-8 ROSA-4bit 语言模型 Demo 发布 RWKV 学术研究动态 U-RWKV: Accurate and Efficient Volumetric Medical Image Segmentation via RWKV（基...",
-      "link": "https://www.oschina.net/news/406960",
-      "category": "AI News"
-    },
-    {
-      "title": "Redisson 4.3.0 发布，官方推荐的 Redis 客户端",
-      "source": "开源中国",
-      "published": "2026-03-02",
-      "summary": "Redisson 4.3.0 现已发布，这是一个 Java 编写的 Redis 客户端，具备驻内存数据网格（In-Memory Data Grid）功能，并获得了 Redis 的官方推荐。 此版本更新内容如下： Feature JMS API 实现 新增 RCuckooFilter对象 实现了本地缓存的 Reactive Spring Session 新增RBitSet.bitField()方法 新增RBatch.getBloomFilterNati...",
-      "link": "https://www.oschina.net/news/406959/redisson-4-3-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "专访资深公关品牌专家吴猛:情绪传播时代企业公关的情感叙事与长效信任构建",
+      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
       "source": "36氪",
-      "published": "2026-03-02",
-      "summary": "公关专家吴猛在媒介化社会深度演进、社交媒体重构传播生态的当下，情绪传播已成为当前舆论场的一个核心表征，传统以事实为核心的公关范式开始向“事实与情绪并重”的方向发展。情绪传播时代，企业公关如何重构情感叙事、搭建与公众的情感共振桥梁、实现品牌信任的长效构建？带着这些问题，我们专访了资深公关品牌专家吴猛。吴猛拥有丰富的公共关系和品牌管理经验，并先后在联想集团、蓝色光标、京东集团担任高级管理职务，期间，他亲历并主导了多个快消、互联网、金融等不同领域知名企业的品牌传播策略制定与公关咨询项目，形成了对多行业公关传播规律的深刻认知。基于长期行业实践，吴猛对大众情绪的生成、传导与演化有着极高的职业敏感度，擅长",
-      "link": "https://36kr.com/p/3705917499601285?f=rss",
+      "published": "2026-03-03",
+      "summary": "作者丨邱晓芬编辑丨苏建勋在2026世界移动通信大会（MWC 2026）上，荣耀发布的人形机器人、Robot Phone吸引了大量观众的目光。在Robot Phone上，荣耀打破了过去“黑色方块”的设计，将微型相机和云台系统塞进了手机里。据介绍，Robot Phone最大的技术挑战之一在于，如何在有限的手机空间中塞进机械臂和电机，这意味着，其上的微型电机必须同时满足高强度和轻量化。为此，荣耀将折叠屏手机所用的高性能材料用到了 Robt Phone的电机核心组件上，并借助手机上的仿真技术，对每一个零件进行结构优化。从发布会上看，在 4DoF（自由度）的云台系统帮助下，Robot Phone能像人的",
+      "link": "https://36kr.com/p/3705522207289479?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜马斯克称第二代星链卫星将提供5G速度的太空互联网服务；调整住宿税，日本京都预计增收132亿日元；卢伟冰：小米今年即将发布全新的机器人产品",
+      "title": "前小米高管创业机器人，用“爆品逻辑”做工业通用具身智能",
       "source": "36氪",
-      "published": "2026-03-02",
-      "summary": "大公司：智元机器人等在安徽成立华智天成科技新公司36氪获悉，爱企查App显示，近日，安徽华智天成科技有限公司成立，法定代表人为肖智成，注册资本约1176万元人民币，经营范围包括计算机软硬件及辅助设备零售、计算机软硬件及辅助设备批发、软件销售、通信设备销售等。股东信息显示，该公司由智元机器人关联公司智元创新科技股份有限公司、天水华天电子集团股份有限公司等共同持股。海螺新型建材有限公司在肥东成立36氪获悉，爱企查App显示，近日，肥东海螺新型建材有限公司成立，法定代表人为程小兵，注册资本3000万元人民币，经营范围包括水泥制品制造、砼结构构件制造、轻质建筑材料制造、轻质建筑材料销售、水泥制品销售、",
-      "link": "https://36kr.com/p/3705604996952453?f=rss",
+      "published": "2026-03-03",
+      "summary": "文｜富充编辑｜苏建勋小雨智造创始人乔忠良身上，有着“小米系”具身智能创业者的典型特质：善于寻找落地场景，商业化思路很务实。2023年2月成立起，小雨智造就瞄准“工业通用具身智能”的目标。焊接机器人作为“沿途下蛋”的第一款产品，在2025年第四季度进入客户产线。2010年，北航计算机系硕士毕业后，乔忠良加入创业阶段的小米，成为小米首位应届生；离职时，他已经担任小米MIUI研发负责人5年，创下小米从应届生晋升到总经理的最快纪录。供职小米的13年里，乔忠良先后参与手机系统与MIUI从0到1的研发迭代，主导“一次开发、多端部署”的软件架构变革，让同一套系统可在手机、手表、电视等多终端部署。这段经历为乔",
+      "link": "https://36kr.com/p/3706592101691525?f=rss",
       "category": "AI News"
     },
     {
-      "title": "成都六类人才可享租房补贴，最高补贴比例达100%",
+      "title": "一条内裤的“远征”： 巴迪高试图用“0手触”撬动一次性内裤的信任缺口 |  早期项目",
       "source": "36氪",
-      "published": "2026-03-02",
-      "summary": "2月28日，成都市住房和城乡建设局等四部门联合发布《成都市人才优租行动实施细则》，针对符合条件的六类市级人才，给予相应的人才补贴，补贴比例从50%到100%不等，而补贴面积最高为50平方米。该《细则》自2026年4月1日起实施，有效期5年。从人才惠及范围看，首先是在成都市行政区域范围租住保障性租赁住房（不含纳入保障性租赁住房管理的居民自有住房）的市级A、B、C、D、E类人才。另外，还有人才认定地在县市新城（简阳市、都江堰市、彭州市、邛崃市、崇州市、金堂县、大邑县、蒲江县），并在认定地租住保障性租赁住房（不含纳入保障性租赁住房管理的居民自有住房）的市级F类人才。具体补贴标准上，根据《细则》要求，",
-      "link": "https://36kr.com/p/3705502776652168?f=rss",
+      "published": "2026-03-03",
+      "summary": "近两年，一次性内裤在国内市场进入高速增长期。在旅行出游频繁、“懒人经济”持续升温的背景下，这一原本存在感不高的品类，正从边缘产品走向大众消费的视野。除户外、差旅等高频使用场景外，一次性内裤也逐渐渗透至产后恢复、医疗护理等领域，需求不断外扩，带动纺织服饰、母婴等赛道品牌加速入场，形成一股新的消费热潮。相关数据显示，2022—2024年，我国一次性内裤市场增速超过200%，整体规模已迈入百亿行列。但在消费热度快速攀升的同时，行业的另一面也逐渐显现。尽管市场监管总局已于2024年7月发布《一次性使用卫生用品卫生要求》（GB 15979—2024）强制性国家标准，并首次将“一次性内裤”单独列出、明确卫",
+      "link": "https://36kr.com/p/3697641252646531?f=rss",
       "category": "AI News"
     }
   ]
