@@ -1,75 +1,75 @@
 {
-  "updated": "2026-03-02T12:30:55.692673+00:00",
+  "updated": "2026-03-03T01:05:27.826144+00:00",
   "repositories": [
     {
       "name": "ruvnet/wifi-densepose",
       "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 19928,
-      "stars_today": 5080,
+      "stars": 21970,
+      "stars_today": 5096,
       "language": "Rust",
       "link": "https://github.com/ruvnet/wifi-densepose"
     },
     {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 21072,
-      "stars_today": 1425,
+      "stars": 21403,
+      "stars_today": 1412,
       "language": "TypeScript",
       "link": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "anthropics/prompt-eng-interactive-tutorial",
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "stars": 31170,
-      "stars_today": 60,
+      "stars": 31593,
+      "stars_today": 526,
       "language": "Jupyter Notebook",
       "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     },
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 17710,
-      "stars_today": 821,
+      "stars": 18061,
+      "stars_today": 830,
       "language": "TypeScript",
       "link": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
-      "stars": 3831,
-      "stars_today": 982,
+      "stars": 4317,
+      "stars_today": 1026,
       "language": "Python",
       "link": "https://github.com/alibaba/OpenSandbox"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 89318,
-      "stars_today": 646,
+      "stars": 89611,
+      "stars_today": 648,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "K-Dense-AI/claude-scientific-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 10729,
-      "stars_today": 848,
+      "stars": 11083,
+      "stars_today": 820,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
     },
     {
       "name": "superset-sh/superset",
       "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "stars": 3217,
-      "stars_today": 592,
+      "stars": 3513,
+      "stars_today": 585,
       "language": "TypeScript",
       "link": "https://github.com/superset-sh/superset"
     },
     {
       "name": "servo/servo",
       "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "stars": 35658,
-      "stars_today": 29,
+      "stars": 35754,
+      "stars_today": 45,
       "language": "Rust",
       "link": "https://github.com/servo/servo"
     }
