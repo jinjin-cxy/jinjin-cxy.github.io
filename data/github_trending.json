@@ -1,85 +1,109 @@
 {
-  "updated": "2026-03-04T01:01:42.376026+00:00",
+  "updated": "2026-03-04T12:30:03.209963+00:00",
   "repositories": [
     {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 25288,
-      "stars_today": 4419,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
-      "name": "K-Dense-AI/claude-scientific-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 11920,
-      "stars_today": 798,
-      "language": "Python",
-      "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
-    },
-    {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 22163,
-      "stars_today": 832,
+      "name": "KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "stars": 28642,
+      "stars_today": 1847,
       "language": "TypeScript",
-      "link": "https://github.com/moeru-ai/airi"
+      "link": "https://github.com/KeygraphHQ/shannon"
     },
     {
-      "name": "CodebuffAI/codebuff",
-      "description": "Generate code from the terminal!",
-      "stars": 3274,
-      "stars_today": 126,
-      "language": "TypeScript",
-      "link": "https://github.com/CodebuffAI/codebuff"
-    },
-    {
-      "name": "agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "stars": 17028,
-      "stars_today": 112,
-      "language": "Python",
-      "link": "https://github.com/agentscope-ai/agentscope"
-    },
-    {
-      "name": "agentscope-ai/ReMe",
-      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "stars": 1282,
-      "stars_today": 49,
-      "language": "Python",
-      "link": "https://github.com/agentscope-ai/ReMe"
-    },
-    {
-      "name": "LMCache/LMCache",
-      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
-      "stars": 7394,
-      "stars_today": 135,
-      "language": "Python",
-      "link": "https://github.com/LMCache/LMCache"
-    },
-    {
-      "name": "superset-sh/superset",
-      "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-      "stars": 4165,
-      "stars_today": 632,
-      "language": "TypeScript",
-      "link": "https://github.com/superset-sh/superset"
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes,",
+      "stars": 4687,
+      "stars_today": 593,
+      "language": "",
+      "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 541,
+      "stars": 710,
       "stars_today": 164,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
     },
     {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 12445,
+      "stars_today": 798,
+      "language": "Python",
+      "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "stars": 3453,
+      "stars_today": 126,
+      "language": "TypeScript",
+      "link": "https://github.com/CodebuffAI/codebuff"
+    },
+    {
+      "name": "agentscope-ai/ReMe",
+      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "stars": 1483,
+      "stars_today": 49,
+      "language": "Python",
+      "link": "https://github.com/agentscope-ai/ReMe"
+    },
+    {
       "name": "alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
-      "stars": 5386,
+      "stars": 5710,
       "stars_today": 1150,
       "language": "Python",
       "link": "https://github.com/alibaba/OpenSandbox"
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "stars": 13980,
+      "stars_today": 307,
+      "language": "Python",
+      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+    },
+    {
+      "name": "ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered answering engine.",
+      "stars": 30457,
+      "stars_today": 1096,
+      "language": "TypeScript",
+      "link": "https://github.com/ItzCrazyKns/Perplexica"
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "stars": 17259,
+      "stars_today": 112,
+      "language": "Python",
+      "link": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars": 23565,
+      "stars_today": 832,
+      "language": "TypeScript",
+      "link": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "stars": 20571,
+      "stars_today": 75,
+      "language": "Rust",
+      "link": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 49785,
+      "stars_today": 130,
+      "language": "TypeScript",
+      "link": "https://github.com/FlowiseAI/Flowise"
     }
   ]
 }
