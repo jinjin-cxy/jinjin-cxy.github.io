@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-05T01:04:50.944003+00:00",
+  "updated": "2026-03-05T12:33:38.100615+00:00",
   "articles": [
     {
-      "title": "8点1氪丨阿里高管紧急开会答疑，回应千问模型负责人林俊旸卸任；大钲资本收购蓝瓶咖啡；马云和阿里蚂蚁核心管理层在云谷学校交流AI",
+      "title": "一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管",
+      "source": "量子位",
+      "published": "2026-03-05",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384307.html",
+      "category": "AI News"
+    },
+    {
+      "title": "企业级OpenClaw最强拍档来了！万亿参数的国产多模态大模型，刚刚开源发布",
+      "source": "量子位",
+      "published": "2026-03-05",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384296.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
+      "source": "量子位",
+      "published": "2026-03-05",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/383974.html",
+      "category": "AI News"
+    },
+    {
+      "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+      "source": "量子位",
+      "published": "2026-03-05",
+      "summary": "定义AI时代世界创作的基础设施",
+      "link": "https://www.qbitai.com/2026/03/383998.html",
+      "category": "AI News"
+    },
+    {
+      "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
+      "source": "量子位",
+      "published": "2026-03-05",
+      "summary": "Agent调教大师快请入场",
+      "link": "https://www.qbitai.com/2026/03/383947.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
+      "source": "InfoQ 中文",
+      "published": "2026-03-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
+      "source": "InfoQ 中文",
+      "published": "2026-03-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
+      "source": "InfoQ 中文",
+      "published": "2026-03-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": ".NET 11 ASP.NET Core预览版1带来全新的Blazor组件、改进的导航功能以及WebAssembly支持",
+      "source": "InfoQ 中文",
+      "published": "2026-03-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GTCTH14eAiKrxaAoA7uc?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
+      "source": "InfoQ 中文",
+      "published": "2026-03-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Meta 正在开发用于训练 AI 模型的自研芯片",
+      "source": "开源中国",
+      "published": "2026-03-05",
+      "summary": "根据彭博社的报道，Meta正在推进一项新的基础设施战略：开发用于训练AI模型的自研芯片。这一计划意味着，这家社交媒体巨头希望在AI算力层面进一步摆脱对外部供应商的依赖，并为未来更复杂的AI模型构建定制化硬件体系。 据报道，Meta首席财务官Susan Li在摩根士丹利科技会议上表示，公司正在研发新的定制处理器，目标是能...",
+      "link": "https://www.oschina.net/news/407948",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI 升级 Prism，引入 Codex CLI 实现端到端科研自动化 ​",
+      "source": "开源中国",
+      "published": "2026-03-05",
+      "summary": "OpenAI 近日对其面向科研群体的 AI 原生工作空间 Prism 进行了重大升级，引入 Codex CLI，并将底层大模型从 GPT‑5.2 更新为 GPT‑5.3，进一步强化端到端科研自动化能力。 Prism 最初于今年 1 月发布，定位为一体化的科学写作与协作平台，旨在让研究人员不必在文本编辑器、PDF 阅读器、LaTeX 编译器、文献管理工具和聊天...",
+      "link": "https://www.oschina.net/news/407940",
+      "category": "AI News"
+    },
+    {
+      "title": "宇树开源 OmniXtreme 人形机器人架构",
+      "source": "开源中国",
+      "published": "2026-03-05",
+      "summary": "宇树科技（Unitree）正式发布并开源了名为 OmniXtreme 的人形机器人运动控制架构，同步公开由创始人王兴兴署名的技术论文。 该架构针对人形机器人在春晚等高动态场景下的极限动作表现，系统性地解决了海量动作库追踪时的保真度下降与物理落地难题。 根据介绍，OmniXtreme采用双阶段训练框架：首阶段通过流匹配预训练（S...",
+      "link": "https://www.oschina.net/news/407914",
+      "category": "AI News"
+    },
+    {
+      "title": "“乡土”焕新：AI for Science 让农业发展更有底气",
+      "source": "开源中国",
+      "published": "2026-03-05",
+      "summary": "导语：当AIphaFlod 破解蛋白质结构，当 AI 辅助药物研发缩短周期，一场以人工智能驱动科学发展的革命正在深刻改变着当前的科研范式。在 AI for Science 战略的指引下，中国农业智能化转型正迎来历史性机遇。 AI for Science（人工智能驱动的科学研究，简称“AI4S”）正在成为全球科技竞争的新制高点。 从美国的“ AI for...",
+      "link": "https://www.oschina.net/news/407904",
+      "category": "AI News"
+    },
+    {
+      "title": "2025 年度 Rust 调查报告",
+      "source": "开源中国",
+      "published": "2026-03-05",
+      "summary": "2025 年度 Rust 调查报告现已出炉，本次调查历时30天（从2025年11月17日至12月17日），共收集到7156份回复，与去年相比略有下降。 当被问及对 Rust 语言发展速度的看法时，57.6% 的受访开发者表示对目前的进展速度感到满意，而 2024 年的报告中这一比例为 57.9% 。当被问及对 Rust 未来发展的最大担忧时，42.1% 的受访者...",
+      "link": "https://www.oschina.net/news/407896/2025-state-of-rust-survey-results",
+      "category": "AI News"
+    },
+    {
+      "title": "奔驰新车平台首落中国，要用吉利架构 | 36氪独家",
       "source": "36氪",
       "published": "2026-03-05",
-      "summary": "今日热点导览建议提高个税起征点至8000或1万，并同步优化税率结构苹果公司宣布推出MacBook NeoTOP 3 大新闻大钲资本收购蓝瓶咖啡36氪独家获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。值得注意的是，蓝瓶咖啡目前仍在亏损中。据了解，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿美元，亚太地区贡献收入约1亿美元。上述信源人士表示，蓝瓶咖啡预计2026年实现盈利。千问模型负责人林俊旸提出",
-      "link": "https://36kr.com/p/3709304754614662?f=rss",
+      "summary": "今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。目前，双方已经达成共识，奔驰将基于吉利的GEEA4.0电子电气架构，开发全新的电动车平台。吉利GEEA4.0架构，是吉利集团正在开发的、油电通用的电子电气架构。2024年，GEEA3.0架构首发于银河E5车型，这一架构曾为吉利撑起了百万级的销",
+      "link": "https://36kr.com/p/3709965457240197?f=rss",
       "category": "AI News"
     },
     {
-      "title": "苹果春季新品奔着龙虾来了！AI性能暴涨8倍，8499元起",
-      "source": "量子位",
-      "published": "2026-03-04",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/383902.html",
-      "category": "AI News"
-    },
-    {
-      "title": "把20亿参数装进胸针？高通补齐了个人AI生态的最后一块拼图",
-      "source": "量子位",
-      "published": "2026-03-04",
-      "summary": "骁龙可穿戴平台至尊版正式发布",
-      "link": "https://www.qbitai.com/2026/03/383878.html",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里千问大模型换将，32岁林俊旸官宣告别",
-      "source": "量子位",
-      "published": "2026-03-04",
-      "summary": "组织架构调整了",
-      "link": "https://www.qbitai.com/2026/03/383842.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-5核心推手闪电跳槽，Anthropic CEO高调炫耀员工留存碾压OpenAI，“AI第一公司”光环崩塌？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/C05yD2MauyGHZfhBNGQj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌将其开发者文档带入AI智能体时代",
-      "source": "InfoQ 中文",
-      "published": "2026-03-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ydyggRjpZUGwEZAAdtTF?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "美团 AI 浏览器遭开发者公开维权！目前双方已和解，相关代码已完成开源处理",
-      "source": "InfoQ 中文",
-      "published": "2026-03-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/QpgxweT242UrUwxgNu0y?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Warper：由 Rust 驱动的 React 虚拟化库",
-      "source": "InfoQ 中文",
-      "published": "2026-03-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/1O55AEl0sWVY34y70FpJ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”",
-      "source": "InfoQ 中文",
-      "published": "2026-03-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-5.4 意外泄露：200 万上下文窗口与持久状态化特性引关注",
-      "source": "开源中国",
-      "published": "2026-03-04",
-      "summary": "OpenAI一名工程师在Codex的GitHub公开仓库提交代码时，意外将未发布的“gpt-5.4”写入版本判断条件。随后，带有“alpha-gpt-5.4”标识的模型端点及界面截图在社交平台X上迅速传播。 尽管相关帖文和代码很快被删除并覆盖为“gpt-5.3-codex”，但这一操作反而加深了外界对新版本真实性的判断。 据现有信息，GPT-5.4或将跳过...",
-      "link": "https://www.oschina.net/news/407648",
-      "category": "AI News"
-    },
-    {
-      "title": "时序数据库 Apache IoTDB V2.0.7/V1.3.7 发布",
-      "source": "开源中国",
-      "published": "2026-03-04",
-      "summary": "V2.0.7、V1.3.7 版本均聚焦安全加固与稳定性优化，删除存在风险的 RPC 接口和 JEXL 函数，强化命名规范校验与服务地址配置逻辑，优化分区表自动删除机制，同时对数据库监控、性能、稳定性进行了全方位提升。",
-      "link": "https://my.oschina.net/u/9120954/blog/19208910",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI 与美国国防部达成合作后导致 ChatGPT 卸载量飙升",
-      "source": "开源中国",
-      "published": "2026-03-04",
-      "summary": "OpenAI 与美国国防部近日达成了一项合作协议。此消息公布后，ChatGPT 移动应用程序在美国的卸载量大幅上升。 据市场情报公司 SensorTower 的数据，2 月 28 日 OpenAI 宣布与美国国防部达成协议当天，美国 ChatGPT 移动应用程序的卸载量较前一日暴增 295%。而在此前 30 天内，ChatGPT 的平均日卸载率仅在 9% 左右。 与此同...",
-      "link": "https://www.oschina.net/news/407604",
-      "category": "AI News"
-    },
-    {
-      "title": "Pale Moon 34.1.0 发布，苍月浏览器",
-      "source": "开源中国",
-      "published": "2026-03-04",
-      "summary": "Pale Moon 34.1.0 现已发布，本次更新意义重大，包含了原计划在 v34.0 版本中推出的技术改进。具体更新内容如下： 新增功能： 重新引入了 Xoroshiro128++ JavaScript PRNG，在保持高性能的同时增强其健壮性。 该功能此前因间歇性问题和崩溃而被撤回。 为HTML表单实现了JavaScriptSubmitEvent支持。 为 HTML 表单实现了J...",
-      "link": "https://www.oschina.net/news/407603/pale-moon-34-1-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenResty 1.29.2.1 正式发布",
-      "source": "开源中国",
-      "published": "2026-03-04",
-      "summary": "基于 NGINX 和 LuaJIT 的 OpenResty Web 平台 1.29.2.1 版本现已正式发布。 点击此处下载。此下载页面提供了可移植的源代码分发包、Win32/Win64 二进制分发包，以及为 Ubuntu、Debian、Fedora、CentOS、RHEL、OpenSUSE、Amazon Linux 等系统预编译的二进制软件包。 版本亮点 Nginx 核心 从 nginx 1.27.1 升级至 1.29.2。...",
-      "link": "https://www.oschina.net/news/407583/openresty-1-29-2-1-released",
-      "category": "AI News"
-    },
-    {
-      "title": "科氪 | 轻薄电竞新标杆？红魔11 AIR实测体验：性能与手感双向突破",
+      "title": "氪星晚报｜谷歌DeepMind向千问团队抛橄榄枝；韩国总统下令实施100万亿韩元资本市场稳定计划；默沙东回应美国疫苗工厂裁员",
       "source": "36氪",
-      "published": "2026-03-04",
-      "summary": "在游戏手机市场长期陷入“性能与厚重绑定”的困局时，红魔11 AIR的登场打破了行业惯性。作为红魔2026年主打的新生代性能旗舰，它以“不妥协”的极致追求重新定义AIR机型，既保留了旗舰级游戏性能，又将机身重量控制在可日常单手握持的范围，精准击中“想玩游戏但讨厌厚重机身”的用户需求，兼顾手感、战力与颜值，目标成为同档最强、颜值最高的新生代性能旗舰。外观与手感上，红魔11 AIR颠覆了传统游戏手机的笨重印象，更延续了红魔的透明美学血脉，首次实现全系透明设计。机身尺163.82×76.54×7.85mm，重量仅207g，搭配金属中框与定制弧形后盖玻璃，更贴合人体工学设计，握持舒适且不易手滑，长时间游",
-      "link": "https://36kr.com/p/3708807719317892?f=rss",
+      "published": "2026-03-05",
+      "summary": "大公司：阿里巴巴旗下公司在杭州成立智能科技新公司36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。谷歌DeepMind向千问团队抛橄榄枝3月5日下午，谷歌DeepMind开发团队相关负责人Omar Sanseviero在社交平台喊话Qwen 的朋友：“如果您想找个新地方来构建优秀的模型，并为开放模型生态系统做出贡献，请联系我们！我们的发展路",
+      "link": "https://36kr.com/p/3709831706374531?f=rss",
       "category": "AI News"
     },
     {
-      "title": "逛展MWC两天，这10个科技新品最值得关注",
+      "title": "AI+生命科技实现废弃物循环利用，国家级专精特新“重点小巨人”「蔚复来」完成数千万元C2轮融资 | 36氪首发",
       "source": "36氪",
-      "published": "2026-03-04",
-      "summary": "文｜邱晓芬编辑｜苏建勋2026年3月2日-5日，2026世界移动通信大会（MWC 2026）在西班牙巴塞罗那举办，累计吸引来自219个国家和地区的超过2900家参展企业。其中，今年有超过350家中国企业参展，相比去年有了大幅增长，中国公司成为展会上的绝对主角。在曝光量最大的展会入口、通道，甚至是巴塞罗那的机场，几乎随处可见中国公司的横幅广告。△MWC展馆正门，华为和小米的横幅广告对垒《智能涌现》拍摄此次，MWC 2026的核心主题是The IQ Era（智能新纪元），AI是这次展会上的绝对主角。在七个展馆中漫步，可以发现，今年端侧AI大爆发，不同的AI能力和玩法下沉到手机、PC、大量可穿戴设备",
-      "link": "https://36kr.com/p/3708674537484675?f=rss",
+      "published": "2026-03-05",
+      "summary": "文 | 张冰冰编辑 | 阿至36氪获悉，蔚复来（浙江）科技股份有限公司（以下简称「蔚复来」）近日宣布完成数千万元C2轮融资，投资方为博将资本。这是博将资本第二次向蔚复来追投注资，与此前C1轮累计投资规模超亿元。本次资金将主要用于高端智能装备的迭代升级、新场景应用的拓展以及绿色数字化解决方案的优化，「蔚复来」将与博将资本开启“AI绿色循环+智能制造”合作模式，加速技术生态和产业链布局。「蔚复来」成立于2018 年 12 月，以 “推动废弃物资源化循环利用，改善人居环境” 为使命，聚焦AI绿色成套智能装备与数字解决方案的研发与落地，凭借“废弃物循环利用”技术，获评国家级专精特新“重点小巨人” 。围",
+      "link": "https://36kr.com/p/3709819839443333?f=rss",
       "category": "AI News"
     },
     {
-      "title": "千问模型负责人林俊旸提出离职，阿里高管紧急答疑 |  智能涌现独家",
+      "title": "抖音生活服务 “随心团” 正式更名 “抖音即送”，主打可堂食品质外卖｜最前线",
       "source": "36氪",
-      "published": "2026-03-04",
-      "summary": "作者 | 邓咏仪编辑 | 苏建勋 杨轩“我应该要更早知道这些。”北京时间3月4日下午约13:00，通义实验室紧急召开了All Hands会议，阿里集团CEO吴泳铭向千问员工坦诚表示。12个小时前（北京时间3月4日凌晨0点11分），阿里千问大模型技术负责人林俊旸在X上突然宣布离职——林俊旸是阿里AI开源模型的核心推手，也是阿里最年轻的P10之一——行业一片哗然之时，Qwen的很多成员也无法接受团队灵魂人物的突然出走。“在资源远少于竞对的前提下，能取得今天的成绩，俊旸的领导力是核心因素之一。”不止一位千问成员对36氪评价。在会上，以刘大一恒（Qwen RL leader）为代表，Qwen成员们围绕",
-      "link": "https://36kr.com/p/3708425301749891?f=rss",
+      "published": "2026-03-05",
+      "summary": "36氪获悉，抖音生活服务旗下“随心团”业务正式更名为“抖音即送”。据了解，“随心团”是抖音生活服务面向优质堂食商家推出的业务，采用定向邀请制，与可支持外卖配送服务的商家合作，提供同一团购套餐“到店验券”与“配送到家”双选择。抖音生活服务公布数据显示，截至2025年12月初，“随心团”参与品牌已超3000家，2025年四季度连锁商家“随心团”支付GMV较同年一季度日均提升211%。公开报道显示，抖音“随心团”已在2025年覆盖饮品、西式快餐、面包甜点、正餐中餐等多个餐饮细分品类，蜜雪冰城、茶百道、肯德基、达美乐、麦当劳、华莱士、必胜客、锅圈食汇、八喜冰淇淋等连锁大牌均有参与。据了解，华莱士在去年",
+      "link": "https://36kr.com/p/3709615333880197?f=rss",
       "category": "AI News"
     },
     {
-      "title": "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157",
+      "title": "一家想让外骨骼成为「人体器官」的公司，再获亿元级融资",
       "source": "36氪",
-      "published": "2026-03-04",
-      "summary": "本次监测周期内，茅台，五粮液和伊利分别以1.91、1.75和1.55的综合热度指数位列榜单前三。世研指数零食赛道品牌扎堆马年礼盒创新，IP联名和健康创新成营销关键从上榜品牌动态来看，食品生鲜消费迎来马年春节旺季，整体呈现“礼盒领跑、品质升级、场景细分、营销破圈”的核心特征，各细分赛道竞争激烈且分化明显，品牌新春战略精准贴合节日需求，用户消费从基础刚需转向情感价值与品质体验的双重追求。其中，零食赛道呈现“高端礼赠与性价比囤货双轨并行”的态势，竞争聚焦IP联名与产品健康化。百草味延续“年的味道”IP，与故宫宫廷文化联名推出马年限定礼盒，1620g款单销量破30万箱，但因“坚果占比低”舆情遭遇信任危",
-      "link": "https://36kr.com/p/3708380553507209?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Extending single-minus amplitudes to gravitons",
-      "source": "OpenAI Blog",
-      "published": "2026-03-04",
-      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
-      "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Understanding AI and learning outcomes",
-      "source": "OpenAI Blog",
-      "published": "2026-03-04",
-      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "published": "2026-03-05",
+      "summary": "3月5日，外骨骼机器人公司程天科技宣布又拿到一笔亿元级B+轮融资。这是一年间的第二笔钱，由农银资本领投，汇川产投、杭州资本跟投。过去一年，在具身智能热潮带动下，C端市场对外骨骼机器人有了更强的期待和热情。外骨骼可穿戴产品也走出医院和康复机构，零星出现在景点、田径场、以及家庭场景中。四年前，程天科技创始人、CEO王天曾告诉36氪，他认为外骨骼机器人未来会成为独立产业，能对标手机。手机像人的一个器官，解决了“千里眼、顺风耳”的需求。而外骨骼也会成为人的器官，解决人行动能力受限、衰退等问题。读高中时，王天就把“做机器人”当作未来方向，并以此规划了本硕博求学路。在人工智能专业还归属于自动化大类之下的年",
+      "link": "https://36kr.com/p/3706881778069893?f=rss",
       "category": "AI News"
     }
   ]

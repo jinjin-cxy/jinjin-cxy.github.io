@@ -1,109 +1,85 @@
 {
-  "updated": "2026-03-05T01:04:33.029981+00:00",
+  "updated": "2026-03-05T12:33:21.465571+00:00",
   "repositories": [
-    {
-      "name": "KeygraphHQ/shannon",
-      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "stars": 30364,
-      "stars_today": 1854,
-      "language": "TypeScript",
-      "link": "https://github.com/KeygraphHQ/shannon"
-    },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 5465,
-      "stars_today": 2209,
+      "stars": 6135,
+      "stars_today": 1469,
       "language": "",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+      "stars": 1291,
+      "stars_today": 379,
+      "language": "Python",
+      "link": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "stars": 31431,
+      "stars_today": 2926,
+      "language": "TypeScript",
+      "link": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 857,
-      "stars_today": 380,
+      "stars": 32784,
+      "stars_today": 297,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
     },
     {
-      "name": "K-Dense-AI/claude-scientific-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 12722,
-      "stars_today": 940,
-      "language": "Python",
-      "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
-    },
-    {
-      "name": "CodebuffAI/codebuff",
-      "description": "Generate code from the terminal!",
-      "stars": 3569,
-      "stars_today": 337,
-      "language": "TypeScript",
-      "link": "https://github.com/CodebuffAI/codebuff"
-    },
-    {
-      "name": "agentscope-ai/ReMe",
-      "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "stars": 1622,
-      "stars_today": 345,
-      "language": "Python",
-      "link": "https://github.com/agentscope-ai/ReMe"
-    },
-    {
-      "name": "alibaba/OpenSandbox",
-      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
-      "stars": 5979,
-      "stars_today": 788,
-      "language": "Python",
-      "link": "https://github.com/alibaba/OpenSandbox"
-    },
-    {
-      "name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "stars": 14195,
-      "stars_today": 143,
-      "language": "Python",
-      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
-    },
-    {
-      "name": "ItzCrazyKns/Perplexica",
-      "description": "Perplexica is an AI-powered answering engine.",
-      "stars": 30856,
-      "stars_today": 1090,
-      "language": "TypeScript",
-      "link": "https://github.com/ItzCrazyKns/Perplexica"
-    },
-    {
-      "name": "agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "stars": 17382,
-      "stars_today": 427,
-      "language": "Python",
-      "link": "https://github.com/agentscope-ai/agentscope"
-    },
-    {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 24733,
-      "stars_today": 1454,
+      "stars": 26376,
+      "stars_today": 3003,
       "language": "TypeScript",
       "link": "https://github.com/moeru-ai/airi"
     },
     {
-      "name": "nautechsystems/nautilus_trader",
-      "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 20732,
-      "stars_today": 89,
-      "language": "Rust",
-      "link": "https://github.com/nautechsystems/nautilus_trader"
+      "name": "inclusionAI/AReaL",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "stars": 3944,
+      "stars_today": 161,
+      "language": "Python",
+      "link": "https://github.com/inclusionAI/AReaL"
     },
     {
-      "name": "FlowiseAI/Flowise",
-      "description": "Build AI Agents, Visually",
-      "stars": 50080,
-      "stars_today": 145,
+      "name": "microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for",
+      "stars": 14703,
+      "stars_today": 122,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/microsoft/mcp-for-beginners"
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "description": "Generate code from the terminal!",
+      "stars": 3728,
+      "stars_today": 275,
       "language": "TypeScript",
-      "link": "https://github.com/FlowiseAI/Flowise"
+      "link": "https://github.com/CodebuffAI/codebuff"
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "stars": 14485,
+      "stars_today": 511,
+      "language": "Python",
+      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+    },
+    {
+      "name": "microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "stars": 174,
+      "stars_today": 6,
+      "language": "PowerShell",
+      "link": "https://github.com/microsoft/hve-core"
     }
   ]
 }
