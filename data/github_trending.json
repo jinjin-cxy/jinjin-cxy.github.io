@@ -1,107 +1,107 @@
 {
-  "updated": "2026-03-04T12:30:03.209963+00:00",
+  "updated": "2026-03-05T01:04:33.029981+00:00",
   "repositories": [
     {
       "name": "KeygraphHQ/shannon",
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-      "stars": 28642,
-      "stars_today": 1847,
+      "stars": 30364,
+      "stars_today": 1854,
       "language": "TypeScript",
       "link": "https://github.com/KeygraphHQ/shannon"
     },
     {
       "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes,",
-      "stars": 4687,
-      "stars_today": 593,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 5465,
+      "stars_today": 2209,
       "language": "",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 710,
-      "stars_today": 164,
+      "stars": 857,
+      "stars_today": 380,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
     },
     {
       "name": "K-Dense-AI/claude-scientific-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 12445,
-      "stars_today": 798,
+      "stars": 12722,
+      "stars_today": 940,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/claude-scientific-skills"
     },
     {
       "name": "CodebuffAI/codebuff",
       "description": "Generate code from the terminal!",
-      "stars": 3453,
-      "stars_today": 126,
+      "stars": 3569,
+      "stars_today": 337,
       "language": "TypeScript",
       "link": "https://github.com/CodebuffAI/codebuff"
     },
     {
       "name": "agentscope-ai/ReMe",
       "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "stars": 1483,
-      "stars_today": 49,
+      "stars": 1622,
+      "stars_today": 345,
       "language": "Python",
       "link": "https://github.com/agentscope-ai/ReMe"
     },
     {
       "name": "alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ",
-      "stars": 5710,
-      "stars_today": 1150,
+      "stars": 5979,
+      "stars_today": 788,
       "language": "Python",
       "link": "https://github.com/alibaba/OpenSandbox"
     },
     {
       "name": "FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
-      "stars": 13980,
-      "stars_today": 307,
+      "stars": 14195,
+      "stars_today": 143,
       "language": "Python",
       "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
     },
     {
       "name": "ItzCrazyKns/Perplexica",
       "description": "Perplexica is an AI-powered answering engine.",
-      "stars": 30457,
-      "stars_today": 1096,
+      "stars": 30856,
+      "stars_today": 1090,
       "language": "TypeScript",
       "link": "https://github.com/ItzCrazyKns/Perplexica"
     },
     {
       "name": "agentscope-ai/agentscope",
       "description": "Build and run agents you can see, understand and trust.",
-      "stars": 17259,
-      "stars_today": 112,
+      "stars": 17382,
+      "stars_today": 427,
       "language": "Python",
       "link": "https://github.com/agentscope-ai/agentscope"
     },
     {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 23565,
-      "stars_today": 832,
+      "stars": 24733,
+      "stars_today": 1454,
       "language": "TypeScript",
       "link": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "nautechsystems/nautilus_trader",
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
-      "stars": 20571,
-      "stars_today": 75,
+      "stars": 20732,
+      "stars_today": 89,
       "language": "Rust",
       "link": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
       "name": "FlowiseAI/Flowise",
       "description": "Build AI Agents, Visually",
-      "stars": 49785,
-      "stars_today": 130,
+      "stars": 50080,
+      "stars_today": 145,
       "language": "TypeScript",
       "link": "https://github.com/FlowiseAI/Flowise"
     }
