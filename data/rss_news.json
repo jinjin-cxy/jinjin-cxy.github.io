@@ -1,124 +1,156 @@
 {
-  "updated": "2026-03-06T01:08:21.884877+00:00",
+  "updated": "2026-03-06T12:28:55.368328+00:00",
   "articles": [
     {
-      "title": "企业级OpenClaw最强拍档！万亿参数的国产多模态大模型开源发布",
+      "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
       "source": "量子位",
-      "published": "2026-03-05",
-      "summary": "预训练算力效率提升49%",
-      "link": "https://www.qbitai.com/2026/03/384330.html",
+      "published": "2026-03-06",
+      "summary": "可视、可感、可用的空间智能应用",
+      "link": "https://www.qbitai.com/2026/03/384557.html",
       "category": "AI News"
     },
     {
-      "title": "华为重金押注的世界模型公司，新融了10个亿！",
+      "title": "2026年，AI初创全球化的「变与不变」｜沙龙招募",
       "source": "量子位",
-      "published": "2026-03-05",
-      "summary": "千台机器人冲刺年内交付",
-      "link": "https://www.qbitai.com/2026/03/384312.html",
+      "published": "2026-03-06",
+      "summary": "聊聊出海应用、场景与渠道",
+      "link": "https://www.qbitai.com/2026/03/384517.html",
       "category": "AI News"
     },
     {
-      "title": "一条命令搞定 OpenClaw！PPClaw 重新定义 Agent 云端托管",
+      "title": "Transformer作者重造龙虾，Rust搓出钢铁版，告别OpenClaw裸奔",
       "source": "量子位",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
+      "summary": "出手从零重构了安全版龙虾：IronClaw",
+      "link": "https://www.qbitai.com/2026/03/384519.html",
+      "category": "AI News"
+    },
+    {
+      "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
+      "source": "量子位",
+      "published": "2026-03-06",
+      "summary": "填补了行业物理AI数据基座的空白",
+      "link": "https://www.qbitai.com/2026/03/384449.html",
+      "category": "AI News"
+    },
+    {
+      "title": "无需排队工业级漫剧制作：360纳米漫剧流水线抢跑AI影视工业化",
+      "source": "量子位",
+      "published": "2026-03-06",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/03/384307.html",
+      "link": "https://www.qbitai.com/2026/03/384435.html",
       "category": "AI News"
     },
     {
-      "title": "企业级OpenClaw最强拍档来了！万亿参数的国产多模态大模型，刚刚开源发布",
-      "source": "量子位",
-      "published": "2026-03-05",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/384296.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
-      "source": "量子位",
-      "published": "2026-03-05",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/383974.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
+      "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
       "source": "InfoQ 中文",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
+      "title": "网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态",
       "source": "InfoQ 中文",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
+      "title": "海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进",
       "source": "InfoQ 中文",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": ".NET 11 ASP.NET Core预览版1带来全新的Blazor组件、改进的导航功能以及WebAssembly支持",
+      "title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
       "source": "InfoQ 中文",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GTCTH14eAiKrxaAoA7uc?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
+      "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
       "source": "InfoQ 中文",
-      "published": "2026-03-05",
+      "published": "2026-03-06",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Meta 正在开发用于训练 AI 模型的自研芯片",
+      "title": "NEAR AI 发布安全优先的开源个人 AI 助手 IronClaw：采用 Rust 编写、“安全加强版”OpenClaw",
       "source": "开源中国",
-      "published": "2026-03-05",
-      "summary": "根据彭博社的报道，Meta正在推进一项新的基础设施战略：开发用于训练AI模型的自研芯片。这一计划意味着，这家社交媒体巨头希望在AI算力层面进一步摆脱对外部供应商的依赖，并为未来更复杂的AI模型构建定制化硬件体系。 据报道，Meta首席财务官Susan Li在摩根士丹利科技会议上表示，公司正在研发新的定制处理器，目标是能...",
-      "link": "https://www.oschina.net/news/407948",
+      "published": "2026-03-06",
+      "summary": "NEAR AI 团队在 GitHub 上开源了 AI Agent 运行框架 IronClaw，该项目以安全和隐私为核心设计目标，尝试为快速发展的 AI Agent 生态提供更加可靠的基础设施。该项目采用 Rust 重写实现，并围绕凭证保护、沙箱隔离以及本地化数据管理等能力进行了系统设计。 开源地址：https://github.com/nearai/ironclaw 据介绍，IronC...",
+      "link": "https://www.oschina.net/news/408222",
       "category": "AI News"
     },
     {
-      "title": "OpenAI 升级 Prism，引入 Codex CLI 实现端到端科研自动化 ​",
+      "title": "KubeClipper 1.5.0 发布：全新工作负载界面与 K8s 1.35 支持",
       "source": "开源中国",
-      "published": "2026-03-05",
-      "summary": "OpenAI 近日对其面向科研群体的 AI 原生工作空间 Prism 进行了重大升级，引入 Codex CLI，并将底层大模型从 GPT‑5.2 更新为 GPT‑5.3，进一步强化端到端科研自动化能力。 Prism 最初于今年 1 月发布，定位为一体化的科学写作与协作平台，旨在让研究人员不必在文本编辑器、PDF 阅读器、LaTeX 编译器、文献管理工具和聊天...",
-      "link": "https://www.oschina.net/news/407940",
+      "published": "2026-03-06",
+      "summary": "KubeClipper 正式发布了 1.5.0 版本。这次更新带来了多项重要改进，其中最引人注目的是新增的工作负载管理界面，用户现在可以直接在 Web UI 中管理 Deployment、StatefulSet 等 Kubernetes 工作负载。 同时，该版本还升级了对 Kubernetes 及其组件的支持，并修复了大量 bug，提升了平台的稳定性和用户体验。 KubeClippe...",
+      "link": "https://www.oschina.net/news/408211",
       "category": "AI News"
     },
     {
-      "title": "宇树开源 OmniXtreme 人形机器人架构",
+      "title": "Longhorn v1.11.0 发布",
       "source": "开源中国",
-      "published": "2026-03-05",
-      "summary": "宇树科技（Unitree）正式发布并开源了名为 OmniXtreme 的人形机器人运动控制架构，同步公开由创始人王兴兴署名的技术论文。 该架构针对人形机器人在春晚等高动态场景下的极限动作表现，系统性地解决了海量动作库追踪时的保真度下降与物理落地难题。 根据介绍，OmniXtreme采用双阶段训练框架：首阶段通过流匹配预训练（S...",
-      "link": "https://www.oschina.net/news/407914",
+      "published": "2026-03-06",
+      "summary": "Longhorn v1.11.0 已发布。本次版本在稳定性、可观测性和调度智能方面有重大提升，同时标志着 V2 Data Engine 进入了技术预览阶段的重要里程碑。 V2 Data Engine：进入技术预览阶段 在 v1.11.0 中，V2 Data Engine 正式进入技术预览，表现出显著的稳定性、性能和运维准备度改进。 注意：V2 Data Engine 还不支持在线升级...",
+      "link": "https://www.oschina.net/news/408197/longhorn-v1-11-0-released",
       "category": "AI News"
     },
     {
-      "title": "“乡土”焕新：AI for Science 让农业发展更有底气",
+      "title": "Windows 10 神州网信政府版-2022-L 停止接受新增订单",
       "source": "开源中国",
-      "published": "2026-03-05",
-      "summary": "导语：当AIphaFlod 破解蛋白质结构，当 AI 辅助药物研发缩短周期，一场以人工智能驱动科学发展的革命正在深刻改变着当前的科研范式。在 AI for Science 战略的指引下，中国农业智能化转型正迎来历史性机遇。 AI for Science（人工智能驱动的科学研究，简称“AI4S”）正在成为全球科技竞争的新制高点。 从美国的“ AI for...",
-      "link": "https://www.oschina.net/news/407904",
+      "published": "2026-03-06",
+      "summary": "消息称，神州网信技术有限公司（CMGE）近日通知客户及合作伙伴，Windows 10 神州网信政府版-2022-L 将于 2026年3月1日起停止接受新增采购订单。 该产品于2022年1月28日正式发布，根据既定生命周期安排，将于 2027年2月16日 正式结束支持。此次停单意味着神州网信目前已无面向信创电脑系统的 Windows 10 政府版本可供采购...",
+      "link": "https://www.oschina.net/news/408188",
       "category": "AI News"
     },
     {
-      "title": "2025 年度 Rust 调查报告",
+      "title": "Docker 29.3.0 发布",
       "source": "开源中国",
-      "published": "2026-03-05",
-      "summary": "2025 年度 Rust 调查报告现已出炉，本次调查历时30天（从2025年11月17日至12月17日），共收集到7156份回复，与去年相比略有下降。 当被问及对 Rust 语言发展速度的看法时，57.6% 的受访开发者表示对目前的进展速度感到满意，而 2024 年的报告中这一比例为 57.9% 。当被问及对 Rust 未来发展的最大担忧时，42.1% 的受访者...",
-      "link": "https://www.oschina.net/news/407896/2025-state-of-rust-survey-results",
+      "published": "2026-03-06",
+      "summary": "Docker 29.3.0 现已发布，具体更新内容如下： New 为绑定挂载的--mount标志添加bind-create-src选项。docker/cli#6792 CLI plugin hooks 现在会在命令执行失败时触发（而不仅仅是成功时），插件可以使用“error-hooks”在命令执行失败时显示提示信息。docker/cli#6794 将最低 API 版本从 v1.44 降低至 v1.40（Docker 19...",
+      "link": "https://www.oschina.net/news/408181/docker-29-3-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "求购强脑科技老股份额；求购持有清微智能老股的基金LP份额｜资情留言板第180期",
+      "source": "36氪",
+      "published": "2026-03-06",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购小红书老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿美元交易方式：直接老股交易联系方式：zcjy@36kr.com2、求购智元机器人老股份额（预期估值面议",
+      "link": "https://36kr.com/p/3711367816556675?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜蜜雪冰城公司已公布多项咖啡相关专利；证监会同意春光集团创业板IPO注册；千问持续推进AI生活服务落地",
+      "source": "36氪",
+      "published": "2026-03-06",
+      "summary": "大公司：蜜雪冰城公司已公布多项咖啡相关专利36氪获悉，目前蜜雪冰城现磨咖啡业务处于前期规划试点阶段，除全自动咖啡机外，接下来将同步试点升级咖啡产品线，包括推出咖啡新品，升级咖啡豆、牛奶等核心原料等多个方面，整体仍将延续高质平价的产品策略。爱企查App显示，蜜雪冰城股份有限公司已公布“滴漏式咖啡壶”“包装盒（咖啡）”“包装袋（咖啡）”等多项咖啡相关专利，专利类型均为外观设计。商汤发布NEO-unify技术博客，探索原生多模态统一架构36氪获悉，商汤科技联合南洋理工大学发布NEO-unify预览版——一种摒弃传统视觉编码器与变分自编码器、直接从像素与文本中学习的端到端原生架构。其在图像重建任务中接",
+      "link": "https://36kr.com/p/3711355370615169?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "西贝命悬一线：贾国龙卸任CEO、大幅关店裁员｜独家",
+      "source": "36氪",
+      "published": "2026-03-06",
+      "summary": "作者｜任彩茹、李小霞、肖思佳编辑｜乔芊、杨轩一向冲锋的贾国龙，如今在用“退后”的方式求生。36氪独家获悉，春节前，贾国龙卸任西贝主品牌CEO，前任CEO董俊义重新回归该职。后者从1992年起就加入西贝，从学徒一路成长为店长、分部经理，直至西贝事业部CEO。一位西贝员工说，“董俊义更了解一线，人心会更稳一点。”除了董俊义，西贝另一位从厨师长走到“分部老大”的老臣张忠其，也回到总部挽救局面。这距离贾国龙上一次高调的“回归挂帅”，仅不足两年。而这位餐饮老将的自救动作还不止于此。近日，西贝对内宣告“因公司业务量大幅下降”，不少总部员工需待岗（按照最低工资标准执行），或是离开。一位被要求离开的总部员工告",
+      "link": "https://36kr.com/p/3711330673242249?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "倒计时10天，2026 AI最佳场景渗透案例火热征集中",
+      "source": "36氪",
+      "published": "2026-03-06",
+      "summary": "2026年开年，中国AI领域热度拉满，几乎每隔几天就有重磅消息刷屏。国内，马年春晚舞台上，宇树科技、银河通用、魔法原子、松延动力四家人形机器人品牌集体亮相，覆盖武术、歌曲、小品、微电影等多个节目，以高难度动作与沉浸式交互，展现中国AI从实验室走向大众视野的加速进程，成为“史上最AI春晚”的标志性亮点。国外，CES展会成为中国AI企业的实力展台，在人形机器人展区38个展位中，中国企业占据21个，占比超过半数，更重要的是，这次展出的机器人不再停留于概念，而是瞄准实际应用场景，多款产品实现了从自主路线规划、物品识别到多步骤操作的连续运行能力。技术落地的实用性成为核心竞争力。从春晚舞台到国际赛场，中国",
+      "link": "https://36kr.com/p/3711294378930306?f=rss",
       "category": "AI News"
     },
     {
@@ -127,38 +159,6 @@
       "published": "2026-03-05",
       "summary": "今日热点导览魔法原子回应创始人离职：确有此事，目前技术团队稳定伊朗：禁止美以欧船只通过霍尔木兹海峡现货白银向下跌破81美元/盎司MacBook Neo国补后低至3000多元亚马逊在机器人部门裁员约100人TOP 3 大新闻消费者称在寿司郎吃出寄生虫卵，当地市监局通报3月2日，有网友发视频称，3月1日他排了三个小时队吃寿司郎，不料却吃到一块全是寄生虫卵的金枪鱼。视频中，一名自称是寿司郎长安天街店主管的工作人员对该网友表示：“您在我们店铺吃了这种带虫卵的金枪鱼，如果今后因为这个鱼片导致您身体受到损伤损害，或感染寄生虫卵各种问题，我们会全程负责到底，包括各种医疗赔偿等问题。”据微信公众号“门头沟市场",
       "link": "https://36kr.com/p/3710693707166083?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "海信发布世界杯定制产品，有AI功能的电视、空调、洗衣机集中上新丨最前线",
-      "source": "36氪",
-      "published": "2026-03-05",
-      "summary": "距2026美加墨世界杯开幕不足100天，作为官方赞助商，海信于3月5日在青岛一口气推出覆盖电视、空调、洗衣机等家电的全品类AI新品。在电视上，海信把AI做成“观赛搭子”。RGB-Mini LED旗舰电视UX2026款除了强调画质提升，更突出“AI观赛”体验：支持赛中AI查询阵容及识别场上球员，并提供三场比赛同屏观看模式，赛后还能生成战术总结与复盘。AI在空调上，承担的是“实时调度体感”。 国内首款滑盖空调——海信智慧风E5系列，主打人感与语音智控结合，通过人感识别实现风随人动、风避人吹、人近柔风、无人节能等模式。智慧风E5系列支持双人双风感与180度广角送风，在多人观赛场景中也能照顾到不同家庭",
-      "link": "https://36kr.com/p/3710171805806976?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "透视“速成车”，行业不可承受之快",
-      "source": "36氪",
-      "published": "2026-03-05",
-      "summary": "“速成车”踩刹车2026年一开年，监管部门再一次收紧了对汽车开发的要求。这让不少“老汽车人”松了一口气。一名头部车企的软件总工告诉36氪，在他十余年的从业生涯里，从未经历过去几年的激进时刻：原本需要适配两年才能上车的新架构，现在10个月就得上车；之前机械验证要做的两次冬测试、两次夏测，被压缩成了一次冬测、一次夏测。原本要验证4个月的整车控制软件，现在2个星期就可以上车。他这种内行人才知道的隐忧还有：看似测试环节都在，但压缩时长伴随着高强度加班，实际操作中，需要测200次的项目最后可能只测了30次；测完10次，员工便可能说已经测过100次了。“有些问题就会测不出来，其中可能包含高安全相关问题。比",
-      "link": "https://36kr.com/p/3616382576084225?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "奔驰新车平台首落中国，要用吉利架构 | 36氪独家",
-      "source": "36氪",
-      "published": "2026-03-05",
-      "summary": "今年1月底，奔驰管理层开始不断出现在吉利杭州湾研发中心，36氪从多位产业人士处了解到，两家车企巨头正在商谈一场整车电子电气级别的合作。电子电气架构，也叫EE架构，是汽车智能化、数字化、网联化的基础，也是支撑辅助驾驶、智能座舱的核心。或者说，它就是智能汽车时代，车企口中的“灵魂”部分。2月初，吉利管理层又带着翻译人员前往上海金桥，与奔驰进一步敲定了合作方向。目前，双方已经初步达成共识，奔驰将基于吉利的GEEA电子电气架构，开发全新的电动车平台。目前，奔驰在基于GEEA 4.0版本做POC验证（项目开始前的概念验证）。吉利GEEA4.0架构，是吉利集团正在开发的、油电通用的电子电气架构。2024年",
-      "link": "https://36kr.com/p/3709965457240197?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜谷歌DeepMind向千问团队抛橄榄枝；韩国总统下令实施100万亿韩元资本市场稳定计划；默沙东回应美国疫苗工厂裁员",
-      "source": "36氪",
-      "published": "2026-03-05",
-      "summary": "大公司：阿里巴巴旗下公司在杭州成立智能科技新公司36氪获悉，爱企查App显示，近日，杭州瓴通智能科技有限公司成立，法定代表人为林鸣晖，注册资本1000万元人民币，经营范围包括软件开发、计算机软硬件及外围设备制造、数据处理和存储支持服务、大数据服务、互联网数据服务、人工智能应用软件开发等。股东信息显示，该公司由阿里巴巴旗下北京锐讯灵通科技有限公司全资持股。谷歌DeepMind向千问团队抛橄榄枝3月5日下午，谷歌DeepMind开发团队相关负责人Omar Sanseviero在社交平台喊话Qwen 的朋友：“如果您想找个新地方来构建优秀的模型，并为开放模型生态系统做出贡献，请联系我们！我们的发展路",
-      "link": "https://36kr.com/p/3709831706374531?f=rss",
       "category": "AI News"
     }
   ]
