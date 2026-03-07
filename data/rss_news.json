@@ -1,6 +1,62 @@
 {
-  "updated": "2026-03-07T01:00:01.279386+00:00",
+  "updated": "2026-03-07T12:22:27.559970+00:00",
   "articles": [
+    {
+      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+      "source": "量子位",
+      "published": "2026-03-07",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384637.html",
+      "category": "AI News"
+    },
+    {
+      "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+      "source": "量子位",
+      "published": "2026-03-07",
+      "summary": "2B规模吊打传统范式",
+      "link": "https://www.qbitai.com/2026/03/384623.html",
+      "category": "AI News"
+    },
+    {
+      "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+      "source": "量子位",
+      "published": "2026-03-07",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384595.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+      "source": "InfoQ 中文",
+      "published": "2026-03-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Argo CD 3.3 带来更安全的 GitOps 删除操作与更顺畅的日常运维体验",
+      "source": "InfoQ 中文",
+      "published": "2026-03-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-03-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
+      "source": "InfoQ 中文",
+      "published": "2026-03-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "9点1氪丨贾国龙卸任西贝CEO；字节跳动启动最大规模转正实习生招聘；OpenClaw爆火，程序员上门安装收费500元",
       "source": "36氪",
@@ -26,67 +82,11 @@
       "category": "AI News"
     },
     {
-      "title": "超智算智能算力中心揭牌暨AI算力设备点亮仪式成功举行",
-      "source": "量子位",
-      "published": "2026-03-06",
-      "summary": "北京在算力基础设施建设上迈出关键一步",
-      "link": "https://www.qbitai.com/2026/03/384561.html",
-      "category": "AI News"
-    },
-    {
-      "title": "高德发布全球首个由大模型驱动的视觉认知步行导引系统",
-      "source": "量子位",
-      "published": "2026-03-06",
-      "summary": "可视、可感、可用的空间智能应用",
-      "link": "https://www.qbitai.com/2026/03/384557.html",
-      "category": "AI News"
-    },
-    {
-      "title": "2026年，AI初创全球化的「变与不变」｜沙龙招募",
-      "source": "量子位",
-      "published": "2026-03-06",
-      "summary": "聊聊出海应用、场景与渠道",
-      "link": "https://www.qbitai.com/2026/03/384517.html",
-      "category": "AI News"
-    },
-    {
       "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
       "source": "InfoQ 中文",
       "published": "2026-03-06",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "网易有道 LobsterAI 推出技能商店并支持 MCP 协议，打造更开放的智能体生态",
-      "source": "InfoQ 中文",
-      "published": "2026-03-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TJ4K86cg0ilwKlZHuvxD?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "海尔智家发布制造行业首份AI+细分岗位能力模型，引领领域人才标准演进",
-      "source": "InfoQ 中文",
-      "published": "2026-03-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qOpuZutTvaO9O1NcwFRc?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
-      "source": "InfoQ 中文",
-      "published": "2026-03-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
-      "source": "InfoQ 中文",
-      "published": "2026-03-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -133,7 +133,7 @@
       "title": "求购强脑科技老股份额；求购持有清微智能老股的基金LP份额｜资情留言板第180期",
       "source": "36氪",
       "published": "2026-03-06",
-      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖��方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购小红书老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿美元交易方式：直接老股交易联系方式：zcjy@36kr.com2、求购智元机器人老股份额（预期估值面",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购小红书老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿美元交易方式：直接老股交易联系方式：zcjy@36kr.com2、求购智元机器人老股份额（预期估值面议",
       "link": "https://36kr.com/p/3711367816556675?f=rss",
       "category": "AI News"
     },

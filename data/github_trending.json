@@ -1,93 +1,93 @@
 {
-  "updated": "2026-03-07T00:59:48.211520+00:00",
+  "updated": "2026-03-07T12:22:07.527610+00:00",
   "repositories": [
     {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 29526,
-      "stars_today": 2562,
-      "language": "TypeScript",
-      "link": "https://github.com/moeru-ai/airi"
-    },
-    {
-      "name": "QwenLM/Qwen-Agent",
-      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-      "stars": 14637,
-      "stars_today": 696,
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 5201,
+      "stars_today": 345,
       "language": "Python",
-      "link": "https://github.com/QwenLM/Qwen-Agent"
-    },
-    {
-      "name": "microsoft/hve-core",
-      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-      "stars": 552,
-      "stars_today": 273,
-      "language": "PowerShell",
-      "link": "https://github.com/microsoft/hve-core"
-    },
-    {
-      "name": "Ed1s0nZ/CyberStrikeAI",
-      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills",
-      "stars": 1612,
-      "stars_today": 106,
-      "language": "Go",
-      "link": "https://github.com/Ed1s0nZ/CyberStrikeAI"
-    },
-    {
-      "name": "inclusionAI/AReaL",
-      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-      "stars": 4397,
-      "stars_today": 347,
-      "language": "Python",
-      "link": "https://github.com/inclusionAI/AReaL"
-    },
-    {
-      "name": "lingfengQAQ/webnovel-writer",
-      "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-      "stars": 774,
-      "stars_today": 90,
-      "language": "Python",
-      "link": "https://github.com/lingfengQAQ/webnovel-writer"
+      "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "openai/skills",
       "description": "Skills Catalog for Codex",
-      "stars": 11989,
-      "stars_today": 595,
+      "stars": 12389,
+      "stars_today": 947,
       "language": "Python",
       "link": "https://github.com/openai/skills"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "stars": 2148,
-      "stars_today": 690,
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 10395,
+      "stars_today": 1468,
+      "language": "",
+      "link": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "name": "GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "stars": 13231,
+      "stars_today": 348,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/GoogleCloudPlatform/generative-ai"
+    },
+    {
+      "name": "agentjido/jido",
+      "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+      "stars": 1324,
+      "stars_today": 143,
+      "language": "Elixir",
+      "link": "https://github.com/agentjido/jido"
+    },
+    {
+      "name": "QwenLM/Qwen-Agent",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "stars": 14856,
+      "stars_today": 586,
       "language": "Python",
-      "link": "https://github.com/TheCraigHewitt/seomachine"
+      "link": "https://github.com/QwenLM/Qwen-Agent"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 46328,
-      "stars_today": 81,
+      "stars": 46441,
+      "stars_today": 248,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
     },
     {
-      "name": "aidenybai/react-grab",
-      "description": "Select context for coding agents directly from your website",
-      "stars": 6003,
-      "stars_today": 450,
-      "language": "TypeScript",
-      "link": "https://github.com/aidenybai/react-grab"
+      "name": "microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all C",
+      "stars": 649,
+      "stars_today": 217,
+      "language": "PowerShell",
+      "link": "https://github.com/microsoft/hve-core"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 9842,
-      "stars_today": 2846,
-      "language": "",
-      "link": "https://github.com/msitarzewski/agency-agents"
+      "name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
+      "stars": 64386,
+      "stars_today": 264,
+      "language": "TypeScript",
+      "link": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "stars": 107921,
+      "stars_today": 102,
+      "language": "TypeScript",
+      "link": "https://github.com/shadcn-ui/ui"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 945,
+      "stars_today": 104,
+      "language": "TypeScript",
+      "link": "https://github.com/alibaba/page-agent"
     }
   ]
 }
