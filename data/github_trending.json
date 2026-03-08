@@ -1,50 +1,50 @@
 {
-  "updated": "2026-03-07T12:22:07.527610+00:00",
+  "updated": "2026-03-08T01:04:28.460561+00:00",
   "repositories": [
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 5201,
-      "stars_today": 345,
+      "stars": 5656,
+      "stars_today": 399,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "openai/skills",
       "description": "Skills Catalog for Codex",
-      "stars": 12389,
-      "stars_today": 947,
+      "stars": 12714,
+      "stars_today": 948,
       "language": "Python",
       "link": "https://github.com/openai/skills"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 10395,
+      "stars": 10774,
       "stars_today": 1468,
-      "language": "",
+      "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "GoogleCloudPlatform/generative-ai",
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "stars": 13231,
-      "stars_today": 348,
+      "stars": 13531,
+      "stars_today": 384,
       "language": "Jupyter Notebook",
       "link": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
       "name": "agentjido/jido",
       "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
-      "stars": 1324,
-      "stars_today": 143,
+      "stars": 1424,
+      "stars_today": 115,
       "language": "Elixir",
       "link": "https://github.com/agentjido/jido"
     },
     {
       "name": "QwenLM/Qwen-Agent",
       "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-      "stars": 14856,
+      "stars": 15024,
       "stars_today": 586,
       "language": "Python",
       "link": "https://github.com/QwenLM/Qwen-Agent"
@@ -52,7 +52,7 @@
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 46441,
+      "stars": 46577,
       "stars_today": 248,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
@@ -60,7 +60,7 @@
     {
       "name": "microsoft/hve-core",
       "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all C",
-      "stars": 649,
+      "stars": 749,
       "stars_today": 217,
       "language": "PowerShell",
       "link": "https://github.com/microsoft/hve-core"
@@ -68,24 +68,24 @@
     {
       "name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
-      "stars": 64386,
-      "stars_today": 264,
+      "stars": 64699,
+      "stars_today": 281,
       "language": "TypeScript",
       "link": "https://github.com/toeverything/AFFiNE"
     },
     {
       "name": "shadcn-ui/ui",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "stars": 107921,
-      "stars_today": 102,
+      "stars": 108181,
+      "stars_today": 129,
       "language": "TypeScript",
       "link": "https://github.com/shadcn-ui/ui"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 945,
-      "stars_today": 104,
+      "stars": 1371,
+      "stars_today": 137,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     }

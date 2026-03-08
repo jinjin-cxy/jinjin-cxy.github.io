@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T12:22:27.563190+00:00",
+  "updated": "2026-03-08T01:04:43.048392+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -60,15 +60,15 @@
       "count": 3
     },
     {
+      "language": "Shell",
+      "count": 1
+    },
+    {
       "language": "Jupyter Notebook",
       "count": 1
     },
     {
       "language": "Elixir",
-      "count": 1
-    },
-    {
-      "language": "PowerShell",
       "count": 1
     }
   ]
