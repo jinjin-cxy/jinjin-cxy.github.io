@@ -1,28 +1,108 @@
 {
-  "updated": "2026-03-08T01:04:43.045141+00:00",
+  "updated": "2026-03-08T12:23:13.447512+00:00",
   "articles": [
     {
-      "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+      "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
       "source": "量子位",
-      "published": "2026-03-07",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/384637.html",
+      "published": "2026-03-08",
+      "summary": "全龙虾公司，还设了好几个部门",
+      "link": "https://www.qbitai.com/2026/03/384797.html",
       "category": "AI News"
     },
     {
-      "title": "彻底告别VE与VAE！商汤硬核重构多模态：砍掉所有中间编码器",
+      "title": "OpenClaw最强外挂出现：小龙虾抓不到数据有救了！",
       "source": "量子位",
-      "published": "2026-03-07",
-      "summary": "2B规模吊打传统范式",
-      "link": "https://www.qbitai.com/2026/03/384623.html",
+      "published": "2026-03-08",
+      "summary": "Skill版本作者已经亲自安排上了",
+      "link": "https://www.qbitai.com/2026/03/384786.html",
       "category": "AI News"
     },
     {
-      "title": "鹅厂门口免费装龙虾，几百人排爆了！一代人有一代人的鸡蛋要领",
+      "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
       "source": "量子位",
-      "published": "2026-03-07",
+      "published": "2026-03-08",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/03/384595.html",
+      "link": "https://www.qbitai.com/2026/03/384728.html",
+      "category": "AI News"
+    },
+    {
+      "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
+      "source": "量子位",
+      "published": "2026-03-08",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384705.html",
+      "category": "AI News"
+    },
+    {
+      "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
+      "source": "量子位",
+      "published": "2026-03-08",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/384646.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI Codex-Spark 在 Cerebras 硬件上实现超快编码速度",
+      "source": "InfoQ 中文",
+      "published": "2026-03-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/q2gYpu0ys425KtKuGCm5?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "多模态+Agent 在培训与教育领域的应用｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-03-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UlSPN3tdkCRtgTkuN2q1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "MySQL 9.6更改外键约束及级联处理机制",
+      "source": "InfoQ 中文",
+      "published": "2026-03-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/sRyWIACcuxPivTo8DwdA?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "清华公布毕业生去向 : 出国比例仅8.5%，华为字节是最大赢家",
+      "source": "36氪",
+      "published": "2026-03-08",
+      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI清华毕业的人都去了哪呢？清华官方用最新数据给出了回应。里面最值得关注的主要有几项数据：第一，出国（境）深造比例为8.5%，低于近十年平均数据。其中，本科生出国（境）深造比例为17.3%，硕士生出国（境）深造比例为6.6%。而近十年清华毕业生平均出国（境）深造比例为10%。数据结论针对的质疑，不言自明。第二，国内重要领域重点单位就业率超过86%，连续16年保持在80%以上。本届签约人数名列前茅的大厂有：华为、比亚迪、字节跳动、腾讯、国家电网、美团、阿里、中国核工业集团、中国兵器工业集团等等。不得不说，还得是清华，足迹几乎遍布国内龙头行业最重要的大",
+      "link": "https://36kr.com/p/3713882515403142?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "00后小孩哥10天AI编程，陈天桥24小时砸3000万！靠大四作业当上CEO",
+      "source": "36氪",
+      "published": "2026-03-08",
+      "summary": "编辑：Aeneas KingHZ一觉醒来，国产开源AI项目MiroFish登顶GitHub趋势榜榜首！国产开源AI项目MiroFish登顶GitHub趋势榜榜首让人没想到的是，超越OpenAI、谷歌、微软等机构的开源项目的MiroFish，背后是一个国内大四学生，仅仅3个月的时间，就拿下3000万投资。靠一个AI开源项目，他直接把自己的毕设变成了创业公司，还成为公司CEO？这不是什么神话，是这个AI时代真实发生在国内的故事。更神奇的是，此前他的BettaFish项目，也曾登上GitHub全球趋势榜第一。这两个项目不仅都曾登顶榜首，而且都是靠这位00后小孩哥，在10天内vibe coding出来",
+      "link": "https://36kr.com/p/3713983582662788?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "AI时代 , 长视频平台在存亡边缘苦苦挣扎",
+      "source": "36氪",
+      "published": "2026-03-08",
+      "summary": "2025年，对于长视频平台而言，是十分糟糕的一年。准确的说，自从2020年以来的每一年，对于长视频平台而言都很糟糕，但是去年尤其糟糕：爱奇艺全年的营业收入下滑了7%，扣非净利润下滑了近3/4；会员、广告和内容分发三大业务的全年收入均呈现下滑态势。腾讯视频的付费会员数已经不再增长，并且落后于腾讯音乐；虽然腾讯视频实现了盈利，但跟爱奇艺一样，是降本增效换来的。芒果TV，作为“真正的第三大长视频平台”（MAU高于优酷），前三季度收入均呈现下滑态势，全年扣非净利润预告将下滑33-47%。搞笑的是，如果把B站算作“长视频平台”（注：B站迫不及待想甩掉这个标签），B站反而是2025年这个行业表现最好的一个",
+      "link": "https://36kr.com/p/3714020694061185?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "赛道牛股频出 , 下一个千亿龙头是它？",
+      "source": "36氪",
+      "published": "2026-03-08",
+      "summary": "作者 | 弗雷迪数据支持 | 勾股 大数 ��（www.gogudata.com）AI在A股的造富神话还在延续。从ChatGPT问世以来，铲子变得越发金贵，工业富联、中际旭创、胜宏科技、寒武纪...各个AI基建赛道的大牛股，市值扶摇直上。当算力逻辑延伸至上游能源供应，电网设备作为市场近来少有最受资金欢迎的核心主线之一，同样迎来了爆发，近一年翻倍股不胜其数。去年，我们聊过的思源电气就成功迈入了千亿大关。不知不觉，另一只特高压龙头今年累计涨幅达到了112%。离千亿市值，仅一步之遥了。01电网投资大周期当大模型迈向由数十亿用户主导的实时推理阶段，科技局头们都逐渐意识到一个关键现实：制约AI技术发展与",
+      "link": "https://36kr.com/p/3714009108001160?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "“变压器工厂干冒烟了”",
+      "source": "36氪",
+      "published": "2026-03-08",
+      "summary": "算力之争愈演愈烈，电力保障便成为背后的“隐形底座”。作者丨韦香惠来源丨投中网马斯克又一次预言成真了。“AI火了，也把变压器带火了，我老家的变压器工厂机器都快干冒烟了。”春节刚过，一位浙江朋友向我讲述她的家乡见闻。不止浙江，江苏、广东等地多家变压器企业在年前就已处于满产状态，部分面向数据中心的订单甚至排至明后年。原本被视为传统电力设备的变压器，正意外成为AI浪潮下最紧俏的基础设施之一。这一趋势，早在2023年7月便被马斯克点破。当时，他带领xAI创始团队在Twitter Spaces的首场语音发布会上直言：未来一年，行业将从“芯片短缺”转向“变压器短缺”，随后两年可能出现电力短缺，决定竞争力的核",
+      "link": "https://36kr.com/p/3713978630451584?f=rss",
       "category": "AI News"
     },
     {
@@ -39,54 +119,6 @@
       "published": "2026-03-07",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/cYD3g1jMkc6D4RTuDfOc?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "汽车之家 AI 助手多 Agent 设计与多阶段优化策略｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ITsw8J6aX1q6XPsoDMsx?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Vercel发布React最佳实践技能包，内含40余条面向AI代理的性能规则",
-      "source": "InfoQ 中文",
-      "published": "2026-03-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/eJaITDi1aTzpAR6wmZzz?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "9点1氪丨贾国龙卸任西贝CEO；字节跳动启动最大规模转正实习生招聘；OpenClaw爆火，程序员上门安装收费500元",
-      "source": "36氪",
-      "published": "2026-03-07",
-      "summary": "今日热点导览字节跳动启动最大规模转正实习生招聘，拟招超7000人黄仁勋称OpenClaw为：当代最重磅的软件发布印尼：3月28日起将限制16岁以下儿童使用YouTube、Facebook等平台SpaceX计划在2027年底前发射约1200颗第二代卫星雅诗兰黛收购Forest Essentials剩余股份东芝重组巨额债务，目标2028财年重新上市TOP3大新闻贾国龙卸任西贝CEO，前任CEO董俊义重新回归该职36氪独家获悉，春节前，贾国龙卸任西贝主品牌CEO，前任CEO董俊义重新回归该职。后者从1992年起就加入西贝，从学徒一路成长为店长、分部经理，直至西贝事业部CEO。近日，西贝对内宣告“因公",
-      "link": "https://36kr.com/p/3712170172264838?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "黑马图像模型被Nano Banana技术负责人点赞！15人华人小队，DDIM之父&CVPR最佳论文作者带队",
-      "source": "量子位",
-      "published": "2026-03-06",
-      "summary": "多项能力看齐行业标杆",
-      "link": "https://www.qbitai.com/2026/03/384578.html",
-      "category": "AI News"
-    },
-    {
-      "title": "技术获 NVIDIA、Pi 双重认可！原力灵机 DM0 模型重塑具身智能新范式",
-      "source": "量子位",
-      "published": "2026-03-06",
-      "summary": "原力灵机 DM0 模型，正让机器人 “又聪明又敏捷” 的理想照进现实",
-      "link": "https://www.qbitai.com/2026/03/384573.html",
-      "category": "AI News"
-    },
-    {
-      "title": "2026政府工作报告释放新信号，“人工智能+”规模化落地面临哪些工程挑战？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TtksmXyaNvO1LhACOzmp?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -127,38 +159,6 @@
       "published": "2026-03-06",
       "summary": "Docker 29.3.0 现已发布，具体更新内容如下： New 为绑定挂载的--mount标志添加bind-create-src选项。docker/cli#6792 CLI plugin hooks 现在会在命令执行失败时触发（而不仅仅是成功时），插件可以使用“error-hooks”在命令执行失败时显示提示信息。docker/cli#6794 将最低 API 版本从 v1.44 降低至 v1.40（Docker 19...",
       "link": "https://www.oschina.net/news/408181/docker-29-3-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "求购强脑科技老股份额；求购持有清微智能老股的基金LP份额｜资情留言板第180期",
-      "source": "36氪",
-      "published": "2026-03-06",
-      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖��方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第180期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购小红书老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿美元交易方式：直接老股交易联系方式：zcjy@36kr.com2、求购智元机器人老股份额（预期估值面",
-      "link": "https://36kr.com/p/3711367816556675?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜蜜雪冰城公司已公布多项咖啡相关专利；证监会同意春光集团创业板IPO注册；千问持续推进AI生活服务落地",
-      "source": "36氪",
-      "published": "2026-03-06",
-      "summary": "大公司：蜜雪冰城公司已公布多项咖啡相关专利36氪获悉，目前蜜雪冰城现磨咖啡业务处于前期规划试点阶段，除全自动咖啡机外，接下来将同步试点升级咖啡产品线，包括推出咖啡新品，升级咖啡豆、牛奶等核心原料等多个方面，整体仍将延续高质平价的产品策略。爱企查App显示，蜜雪冰城股份有限公司已公布“滴漏式咖啡壶”“包装盒（咖啡）”“包装袋（咖啡）”等多项咖啡相关专利，专利类型均为外观设计。商汤发布NEO-unify技术博客，探索原生多模态统一架构36氪获悉，商汤科技联合南洋理工大学发布NEO-unify预览版——一种摒弃传统视觉编码器与变分自编码器、直接从像素与文本中学习的端到端原生架构。其在图像重建任务中接",
-      "link": "https://36kr.com/p/3711355370615169?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "西贝命悬一线：贾国龙卸任CEO、大幅关店裁员｜独家",
-      "source": "36氪",
-      "published": "2026-03-06",
-      "summary": "作者｜任彩茹、李小霞、肖思佳编辑｜乔芊、杨轩一向冲锋的贾国龙，如今在用“退后”的方式求生。36氪独家获悉，春节前，贾国龙卸任西贝主品牌CEO，前任CEO董俊义重新回归该职。后者从1992年起就加入西贝，从学徒一路成长为店长、分部经理，直至西贝事业部CEO。一位西贝员工说，“董俊义更了解一线，人心会更稳一点。”除了董俊义，西贝另一位从厨师长走到“分部老大”的老臣张忠其，也回到总部挽救局面。这距离贾国龙上一次高调的“回归挂帅”，仅不足两年。而这位餐饮老将的自救动作还不止于此。近日，西贝对内宣告“因公司业务量大幅下降”，不少总部员工需待岗（按照最低工资标准执行），或是离开。一位被要求离开的总部员工告",
-      "link": "https://36kr.com/p/3711330673242249?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "倒计时10天，2026 AI最佳场景渗透案例火热征集中",
-      "source": "36氪",
-      "published": "2026-03-06",
-      "summary": "2026年开年，中国AI领域热度拉满，几乎每隔几天就有重磅消息刷屏。国内，马年春晚舞台上，宇树科技、银河通用、魔法原子、松延动力四家人形机器人品牌集体亮相，覆盖武术、歌曲、小品、微电影等多个节目，以高难度动作与沉浸式交互，展现中国AI从实验室走向大众视野的加速进程，成为“史上最AI春晚”的标志性亮点。国外，CES展会成为中国AI企业的实力展台，在人形机器人展区38个展位中，中国企业占据21个，占比超过半数，更重要的是，这次展出的机器人不再停留于概念，而是瞄准实际应用场景，多款产品实现了从自主路线规划、物品识别到多步骤操作的连续运行能力。技术落地的实用性成为核心竞争力。从春晚舞台到国际赛场，中国",
-      "link": "https://36kr.com/p/3711294378930306?f=rss",
       "category": "AI News"
     }
   ]

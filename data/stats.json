@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-08T01:04:43.048392+00:00",
+  "updated": "2026-03-08T12:23:13.450041+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 11,
+    "github_trending": 12,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -57,18 +57,18 @@
     },
     {
       "language": "TypeScript",
-      "count": 3
+      "count": 4
     },
     {
-      "language": "Shell",
-      "count": 1
+      "language": "JavaScript",
+      "count": 2
     },
     {
       "language": "Jupyter Notebook",
       "count": 1
     },
     {
-      "language": "Elixir",
+      "language": "Go",
       "count": 1
     }
   ]
