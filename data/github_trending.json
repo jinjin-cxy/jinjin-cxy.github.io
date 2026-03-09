@@ -1,101 +1,101 @@
 {
-  "updated": "2026-03-09T01:04:33.652260+00:00",
+  "updated": "2026-03-09T12:33:12.150139+00:00",
   "repositories": [
     {
       "name": "GoogleCloudPlatform/generative-ai",
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "stars": 14395,
-      "stars_today": 522,
+      "stars": 15023,
+      "stars_today": 1291,
       "language": "Jupyter Notebook",
       "link": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 7009,
-      "stars_today": 1104,
-      "language": "Python",
-      "link": "https://github.com/666ghj/MiroFish"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "stars": 108696,
-      "stars_today": 488,
-      "language": "TypeScript",
-      "link": "https://github.com/shadcn-ui/ui"
-    },
-    {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 280653,
-      "stars_today": 4603,
+      "stars": 287465,
+      "stars_today": 9123,
       "language": "TypeScript",
       "link": "https://github.com/openclaw/openclaw"
     },
     {
-      "name": "toeverything/AFFiNE",
-      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
-      "stars": 65233,
-      "stars_today": 533,
-      "language": "TypeScript",
-      "link": "https://github.com/toeverything/AFFiNE"
-    },
-    {
-      "name": "Ed1s0nZ/CyberStrikeAI",
-      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills",
-      "stars": 2260,
-      "stars_today": 244,
-      "language": "Go",
-      "link": "https://github.com/Ed1s0nZ/CyberStrikeAI"
-    },
-    {
-      "name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "stars": 23888,
-      "stars_today": 566,
-      "language": "TypeScript",
-      "link": "https://github.com/shareAI-lab/learn-claude-code"
-    },
-    {
-      "name": "openai/skills",
-      "description": "Skills Catalog for Codex",
-      "stars": 13235,
-      "stars_today": 612,
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 8874,
+      "stars_today": 2222,
       "language": "Python",
-      "link": "https://github.com/openai/skills"
+      "link": "https://github.com/666ghj/MiroFish"
     },
     {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 46823,
-      "stars_today": 275,
+      "name": "karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "stars": 45210,
+      "stars_today": 332,
       "language": "Python",
-      "link": "https://github.com/virattt/ai-hedge-fund"
+      "link": "https://github.com/karpathy/nanochat"
     },
     {
-      "name": "is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-      "stars": 9793,
-      "stars_today": 10,
-      "language": "JavaScript",
-      "link": "https://github.com/is-a-dev/register"
-    },
-    {
-      "name": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API for Google NotebookLM",
-      "stars": 3738,
-      "stars_today": 196,
+      "name": "666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "stars": 37101,
+      "stars_today": 509,
       "language": "Python",
-      "link": "https://github.com/teng-lin/notebooklm-py"
+      "link": "https://github.com/666ghj/BettaFish"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 2571,
+      "stars_today": 358,
+      "language": "Python",
+      "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 1770,
-      "stars_today": 443,
+      "stars": 2533,
+      "stars_today": 1291,
       "language": "JavaScript",
       "link": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 15678,
+      "stars_today": 4297,
+      "language": "Shell",
+      "link": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 2184,
+      "stars_today": 715,
+      "language": "TypeScript",
+      "link": "https://github.com/alibaba/page-agent"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+      "stars": 2974,
+      "stars_today": 228,
+      "language": "Python",
+      "link": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+      "stars": 40939,
+      "stars_today": 104,
+      "language": "PowerShell",
+      "link": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "stars": 3978,
+      "stars_today": 457,
+      "language": "Python",
+      "link": "https://github.com/teng-lin/notebooklm-py"
     }
   ]
 }
