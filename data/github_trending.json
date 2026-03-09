@@ -1,74 +1,74 @@
 {
-  "updated": "2026-03-08T12:22:54.339581+00:00",
+  "updated": "2026-03-09T01:04:33.652260+00:00",
   "repositories": [
     {
       "name": "GoogleCloudPlatform/generative-ai",
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "stars": 13768,
-      "stars_today": 384,
+      "stars": 14395,
+      "stars_today": 522,
       "language": "Jupyter Notebook",
       "link": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 6340,
-      "stars_today": 399,
+      "stars": 7009,
+      "stars_today": 1104,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "shadcn-ui/ui",
       "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-      "stars": 108398,
-      "stars_today": 129,
+      "stars": 108696,
+      "stars_today": 488,
       "language": "TypeScript",
       "link": "https://github.com/shadcn-ui/ui"
     },
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 278389,
-      "stars_today": 4777,
+      "stars": 280653,
+      "stars_today": 4603,
       "language": "TypeScript",
       "link": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
-      "stars": 64898,
-      "stars_today": 281,
+      "stars": 65233,
+      "stars_today": 533,
       "language": "TypeScript",
       "link": "https://github.com/toeverything/AFFiNE"
     },
     {
       "name": "Ed1s0nZ/CyberStrikeAI",
       "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills",
-      "stars": 2052,
-      "stars_today": 242,
+      "stars": 2260,
+      "stars_today": 244,
       "language": "Go",
       "link": "https://github.com/Ed1s0nZ/CyberStrikeAI"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "stars": 23526,
-      "stars_today": 953,
+      "stars": 23888,
+      "stars_today": 566,
       "language": "TypeScript",
       "link": "https://github.com/shareAI-lab/learn-claude-code"
     },
     {
       "name": "openai/skills",
       "description": "Skills Catalog for Codex",
-      "stars": 12983,
-      "stars_today": 613,
+      "stars": 13235,
+      "stars_today": 612,
       "language": "Python",
       "link": "https://github.com/openai/skills"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 46709,
+      "stars": 46823,
       "stars_today": 275,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
@@ -76,24 +76,24 @@
     {
       "name": "is-a-dev/register",
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-      "stars": 9656,
-      "stars_today": 8,
+      "stars": 9793,
+      "stars_today": 10,
       "language": "JavaScript",
       "link": "https://github.com/is-a-dev/register"
     },
     {
       "name": "teng-lin/notebooklm-py",
       "description": "Unofficial Python API for Google NotebookLM",
-      "stars": 3518,
-      "stars_today": 190,
+      "stars": 3738,
+      "stars_today": 196,
       "language": "Python",
       "link": "https://github.com/teng-lin/notebooklm-py"
     },
     {
       "name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 1219,
-      "stars_today": 262,
+      "stars": 1770,
+      "stars_today": 443,
       "language": "JavaScript",
       "link": "https://github.com/pbakaus/impeccable"
     }
