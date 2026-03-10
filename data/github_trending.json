@@ -1,98 +1,98 @@
 {
-  "updated": "2026-03-09T12:33:12.150139+00:00",
+  "updated": "2026-03-10T00:59:36.093891+00:00",
   "repositories": [
     {
       "name": "GoogleCloudPlatform/generative-ai",
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "stars": 15023,
-      "stars_today": 1291,
+      "stars": 15277,
+      "stars_today": 1282,
       "language": "Jupyter Notebook",
       "link": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
       "name": "openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 287465,
-      "stars_today": 9123,
+      "stars": 290077,
+      "stars_today": 9164,
       "language": "TypeScript",
       "link": "https://github.com/openclaw/openclaw"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 8874,
-      "stars_today": 2222,
+      "stars": 10876,
+      "stars_today": 2294,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "karpathy/nanochat",
       "description": "The best ChatGPT that $100 can buy.",
-      "stars": 45210,
-      "stars_today": 332,
+      "stars": 45509,
+      "stars_today": 355,
       "language": "Python",
       "link": "https://github.com/karpathy/nanochat"
     },
     {
       "name": "666ghj/BettaFish",
       "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-      "stars": 37101,
-      "stars_today": 509,
+      "stars": 37338,
+      "stars_today": 514,
       "language": "Python",
       "link": "https://github.com/666ghj/BettaFish"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 2571,
-      "stars_today": 358,
+      "stars": 2968,
+      "stars_today": 377,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
-      "stars": 2533,
-      "stars_today": 1291,
+      "stars": 2966,
+      "stars_today": 1288,
       "language": "JavaScript",
       "link": "https://github.com/pbakaus/impeccable"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 15678,
-      "stars_today": 4297,
+      "stars": 19262,
+      "stars_today": 4415,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 2184,
-      "stars_today": 715,
+      "stars": 2564,
+      "stars_today": 465,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-      "stars": 2974,
-      "stars_today": 228,
+      "stars": 3340,
+      "stars_today": 259,
       "language": "Python",
       "link": "https://github.com/alirezarezvani/claude-skills"
     },
     {
       "name": "Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
-      "stars": 40939,
+      "stars": 41207,
       "stars_today": 104,
       "language": "PowerShell",
       "link": "https://github.com/Raphire/Win11Debloat"
     },
     {
       "name": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API for Google NotebookLM",
-      "stars": 3978,
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
+      "stars": 4238,
       "stars_today": 457,
       "language": "Python",
       "link": "https://github.com/teng-lin/notebooklm-py"

@@ -1,6 +1,38 @@
 {
-  "updated": "2026-03-09T12:33:28.825018+00:00",
+  "updated": "2026-03-10T00:59:50.568720+00:00",
   "articles": [
+    {
+      "title": "谷歌发布智能体架构扩展原则",
+      "source": "InfoQ 中文",
+      "published": "2026-03-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/DC0RIBly3IkxTTUMfy6U?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从集中管控到团队自治：重新思考基础设施交付模式",
+      "source": "InfoQ 中文",
+      "published": "2026-03-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/4E0eyN5brr2D1xeh3kcX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenClaw中国行启动：在中国发起一场AI装机运动",
+      "source": "InfoQ 中文",
+      "published": "2026-03-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/o4mjG1WsSWgVPHsJS2CQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨胖东来12名店长共分2.4亿资产利润；Mac mini销量暴增或因OpenClaw爆火导致；2026年中国电影票房在全球占比超28%，领跑全球电影市场",
+      "source": "36氪",
+      "published": "2026-03-10",
+      "summary": "今日热点导览国内成品油零售调价将开启上调窗口，加满一箱油将多花27.5元2026年中国电影票房在全球占比超28%，领跑全球电影市场中国有望成首个在月球找到水的国家腾讯据称将以新资金重返派拉蒙收购华纳兄弟的交易腾讯：旗下全场景AI智能体WorkBuddy正式上线消息称苹果上调首款折叠机备货量，较原定目标增加20%TOP 3 大新闻特朗普称对伊朗战事“已基本结束”：比预计快得多记者当地时间3月9日获悉，美国总统特朗普表示，美国对伊朗的战争可能很快就会结束。据悉，特朗普在一次电话采访中说：“我觉得这场战争已基本结束了，差不多了。他们已经没有海军，没有通信系统，也没有空军了。” 特朗普还说，这比他最初",
+      "link": "https://36kr.com/p/3716375591794051?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "首个物理AI数据基座平台“无垠”落户浙江，专治机器人数据荒，家庭工业商业场景全覆盖",
       "source": "量子位",
@@ -55,30 +87,6 @@
       "published": "2026-03-09",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/DO91JjU98lL2Z4CEGzWx?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "ODCC联合NVIDIA、焱融等首发KVCache评测结果｜焱融AI存储实现推理提速降本双突破",
-      "source": "InfoQ 中文",
-      "published": "2026-03-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zVRRjI7EfCiEoYTS2QqH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Uforwarder：优步的可扩展Kafka消费者代理，助力高效的事件驱动微服务",
-      "source": "InfoQ 中文",
-      "published": "2026-03-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/yB0DZ1c5uLDdkVsJvgWY?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从上下文到长期记忆：大模型记忆工程的架构设计与实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/AIVoC9eKfZhW199IQkwB?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-03-09",
       "summary": "作者丨邱晓芬编辑丨苏建勋AI硬件的创业风潮正席卷整个消费电子领域，前小米中国区市场部总经理王腾、小米互联网业务部总经理马骥等手机圈高管纷纷下场创业，产品形态包括AI睡眠硬件、AI耳机、AI影像硬件等等。2024年10月，vivo明星手机产品经理宋紫薇也在微博宣布投身AI智能硬件领域创业 。此后，关于其创业方向一直众说纷纭。《智能涌现》从知情人士处获悉，宋紫薇的创业公司「薇光点亮」将打造以时尚AI Agent为核心的智能硬件产品矩阵。知情人士称，其内部正在研发首款AI原生时尚终端，硬件形态或为落地镜，其时尚智能体将深度融合用户日常的照镜、穿搭等高频场景。另据《智能涌现》独家获悉，「薇光点亮」近期",
       "link": "https://36kr.com/p/3714480200085633?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "李泽湘、阿里押注的智能无人艇，拿下水面自动驾驶最大单笔融资，估值近20亿｜潜伏独角兽",
-      "source": "36氪",
-      "published": "2026-03-09",
-      "summary": "作者｜黄楠编辑｜袁斯来在AI硬件风潮之外，一个安静的市场正在悄然生长。过去一年中，水上智能装备相关项目诞生了不少融资。这片占地球表面71%的蓝色疆域，仍有很多空白市场。根据中国船东协会数据，国内注册机动船舶超过12万艘，加上各类非机动船、公园游船、作业船，总量超过50万艘；其中，具备智能驾驶能力的船舶占比不足1%，具备L4级无人驾驶能力的更是寥寥无几。水面作业场景也面临着明确的人力缺口：全国河道保洁人员平均年龄超过55岁，年轻劳动力流失严重；景区游船驾驶员用工成本五年间上涨超过40%；海洋巡检、水文监测等场景则长期处于“缺人难招、有人难留”的困境。这是一块被忽视的蓝海，存量巨大、人力替代需求迫",
-      "link": "https://36kr.com/p/3711190979867011?f=rss",
       "category": "AI News"
     }
   ]
