@@ -1,109 +1,77 @@
 {
-  "updated": "2026-03-11T01:00:04.184543+00:00",
+  "updated": "2026-03-11T12:32:30.887938+00:00",
   "repositories": [
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 25374,
-      "stars_today": 6223,
+      "stars": 28034,
+      "stars_today": 6205,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 14168,
-      "stars_today": 4504,
+      "stars": 16004,
+      "stars_today": 2909,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 3781,
-      "stars_today": 781,
-      "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
       "name": "promptfoo/promptfoo",
       "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma",
-      "stars": 11951,
-      "stars_today": 661,
+      "stars": 12293,
+      "stars_today": 728,
       "language": "TypeScript",
       "link": "https://github.com/promptfoo/promptfoo"
     },
     {
-      "name": "GoogleCloudPlatform/generative-ai",
-      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-      "stars": 15750,
-      "stars_today": 530,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/GoogleCloudPlatform/generative-ai"
-    },
-    {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 47586,
-      "stars_today": 300,
-      "language": "Python",
-      "link": "https://github.com/virattt/ai-hedge-fund"
-    },
-    {
-      "name": "karpathy/nanochat",
-      "description": "The best ChatGPT that $100 can buy.",
-      "stars": 46238,
-      "stars_today": 705,
-      "language": "Python",
-      "link": "https://github.com/karpathy/nanochat"
-    },
-    {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 76568,
-      "stars_today": 1387,
+      "stars": 77415,
+      "stars_today": 1477,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
+      "name": "fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "stars": 25508,
+      "stars_today": 277,
+      "language": "Python",
+      "link": "https://github.com/fishaudio/fish-speech"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 47905,
+      "stars_today": 633,
+      "language": "Python",
+      "link": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 3628,
-      "stars_today": 891,
+      "stars": 4277,
+      "stars_today": 1206,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     },
     {
-      "name": "sepinf-inc/IPED",
-      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p",
-      "stars": 2211,
-      "stars_today": 273,
-      "language": "Java",
-      "link": "https://github.com/sepinf-inc/IPED"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 298358,
-      "stars_today": 9080,
-      "language": "TypeScript",
-      "link": "https://github.com/openclaw/openclaw"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 3656,
-      "stars_today": 939,
-      "language": "JavaScript",
-      "link": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t",
-      "stars": 28560,
-      "stars_today": 1413,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 4587,
+      "stars_today": 1204,
       "language": "Python",
-      "link": "https://github.com/bytedance/deer-flow"
+      "link": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 20775,
+      "stars_today": 337,
+      "language": "Python",
+      "link": "https://github.com/AstrBotDevs/AstrBot"
     }
   ]
 }
