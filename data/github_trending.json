@@ -1,75 +1,75 @@
 {
-  "updated": "2026-03-11T12:32:30.887938+00:00",
+  "updated": "2026-03-12T00:57:18.825319+00:00",
   "repositories": [
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 28034,
-      "stars_today": 6205,
+      "stars": 30077,
+      "stars_today": 6167,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 16004,
-      "stars_today": 2909,
+      "stars": 16791,
+      "stars_today": 2907,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "promptfoo/promptfoo",
-      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma",
-      "stars": 12293,
-      "stars_today": 728,
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and",
+      "stars": 12556,
+      "stars_today": 718,
       "language": "TypeScript",
       "link": "https://github.com/promptfoo/promptfoo"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 77415,
-      "stars_today": 1477,
+      "stars": 78060,
+      "stars_today": 1483,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
-      "stars": 25508,
-      "stars_today": 277,
+      "stars": 25788,
+      "stars_today": 313,
       "language": "Python",
       "link": "https://github.com/fishaudio/fish-speech"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 47905,
-      "stars_today": 633,
+      "stars": 48153,
+      "stars_today": 636,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 4277,
-      "stars_today": 1206,
+      "stars": 4751,
+      "stars_today": 1215,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 4587,
-      "stars_today": 1204,
+      "stars": 5248,
+      "stars_today": 1234,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "AstrBotDevs/AstrBot",
       "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 20775,
-      "stars_today": 337,
+      "stars": 21057,
+      "stars_today": 342,
       "language": "Python",
       "link": "https://github.com/AstrBotDevs/AstrBot"
     }
