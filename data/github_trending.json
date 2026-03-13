@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-12T12:31:31.792228+00:00",
+  "updated": "2026-03-13T01:02:40.489327+00:00",
   "repositories": [
     {
       "name": "microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
-      "stars": 31158,
+      "stars": 32349,
       "stars_today": 2149,
       "language": "Python",
       "link": "https://github.com/microsoft/BitNet"
@@ -12,96 +12,96 @@
     {
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
-      "stars": 26129,
-      "stars_today": 630,
+      "stars": 26367,
+      "stars_today": 637,
       "language": "Python",
       "link": "https://github.com/fishaudio/fish-speech"
     },
     {
       "name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "stars": 1058,
-      "stars_today": 191,
+      "stars": 1550,
+      "stars_today": 322,
       "language": "Python",
       "link": "https://github.com/langflow-ai/openrag"
     },
     {
       "name": "InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "stars": 2656,
-      "stars_today": 260,
+      "stars": 3107,
+      "stars_today": 263,
       "language": "TypeScript",
       "link": "https://github.com/InsForge/InsForge"
     },
     {
       "name": "vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
-      "stars": 2786,
-      "stars_today": 95,
+      "stars": 3079,
+      "stars_today": 217,
       "language": "Python",
       "link": "https://github.com/vectorize-io/hindsight"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 5455,
-      "stars_today": 1196,
+      "stars": 5960,
+      "stars_today": 1205,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 79087,
-      "stars_today": 1708,
+      "stars": 79944,
+      "stars_today": 1706,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 5791,
-      "stars_today": 1235,
+      "stars": 6164,
+      "stars_today": 1264,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 17769,
-      "stars_today": 1809,
+      "stars": 19179,
+      "stars_today": 1857,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "google-ai-edge/LiteRT",
       "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "stars": 1570,
-      "stars_today": 6,
+      "stars": 1669,
+      "stars_today": 13,
       "language": "C++",
       "link": "https://github.com/google-ai-edge/LiteRT"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 32003,
-      "stars_today": 4086,
+      "stars": 34940,
+      "stars_today": 4168,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "google/A2UI",
       "description": "",
-      "stars": 12301,
-      "stars_today": 220,
+      "stars": 12604,
+      "stars_today": 225,
       "language": "TypeScript",
       "link": "https://github.com/google/A2UI"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 9943,
-      "stars_today": 144,
+      "stars": 10265,
+      "stars_today": 150,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
     }
