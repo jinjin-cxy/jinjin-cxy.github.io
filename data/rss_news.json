@@ -1,44 +1,92 @@
 {
-  "updated": "2026-03-14T01:02:21.117728+00:00",
+  "updated": "2026-03-14T12:25:16.219378+00:00",
   "articles": [
     {
-      "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
+      "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
       "source": "量子位",
-      "published": "2026-03-13",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387750.html",
+      "published": "2026-03-14",
+      "summary": "以后出门有个谷歌地图就够了",
+      "link": "https://www.qbitai.com/2026/03/387867.html",
       "category": "AI News"
     },
     {
-      "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
+      "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
       "source": "量子位",
-      "published": "2026-03-13",
+      "published": "2026-03-14",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387739.html",
+      "link": "https://www.qbitai.com/2026/03/387860.html",
       "category": "AI News"
     },
     {
-      "title": "滴滴Q4再创新高 日订单峰值超6500万单",
+      "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
       "source": "量子位",
-      "published": "2026-03-13",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387736.html",
+      "published": "2026-03-14",
+      "summary": "当程序员开发App、商业带货、打游戏",
+      "link": "https://www.qbitai.com/2026/03/387843.html",
       "category": "AI News"
     },
     {
-      "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
+      "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
       "source": "量子位",
-      "published": "2026-03-13",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387734.html",
+      "published": "2026-03-14",
+      "summary": "未来可能会有10000个陶哲轩",
+      "link": "https://www.qbitai.com/2026/03/387832.html",
       "category": "AI News"
     },
     {
-      "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
+      "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
       "source": "量子位",
-      "published": "2026-03-13",
-      "summary": "全球首个可操控AI平台清华哈佛造",
-      "link": "https://www.qbitai.com/2026/03/387405.html",
+      "published": "2026-03-14",
+      "summary": "专门评价Cursor中不同模型谁更“智能体”",
+      "link": "https://www.qbitai.com/2026/03/387756.html",
+      "category": "AI News"
+    },
+    {
+      "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
+      "source": "InfoQ 中文",
+      "published": "2026-03-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
+      "source": "InfoQ 中文",
+      "published": "2026-03-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开发者工具箱 Kairoa v1.1.16 发布：新增 AI 聊天功能",
+      "source": "开源中国",
+      "published": "2026-03-14",
+      "summary": "Kairoa 开发者工具箱 v1.1.16 版本正式发布！这次更新主要聚焦在 AI 聊天模块的体验优化和功能增强。 🤖 AI 聊天功能更新 多服务商支持 现在可以同时配置多个 AI 服务商（OpenAI、DeepSeek、Anthropic、Azure OpenAI 等），每个服务商支持配置多个模型，切换起来更方便了。 历史会话管理 新增了历史会话功能，可以保存...",
+      "link": "https://www.oschina.net/news/410466",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯龙虾团队答疑：龙虾的热度确实高过能力，但它是普通人拥抱 AI 浪潮的第一步",
+      "source": "36氪",
+      "published": "2026-03-14",
+      "summary": "文｜王毓婵编辑｜苏建勋最近一周，一向以风格稳重著称的腾讯一反常态，不仅借着一场“免费帮装虾”的线下活动迅速推高了大众对“龙虾”的热情，而且在短期内推出了大量“龙虾”产品。目前已经上线的，有被称为腾讯版“免部署小龙虾”的办公工具WorkBuddy；支持一键启动，并将AI代理能力接入微信和QQ双端的QClaw；面向开发者的腾讯云轻量应用服务器Lighthouse，以及配套生态与安全工具Skillhub等等。CEO马化腾在朋友圈披露，接下来，腾讯还会推出自研龙虾、本地虾、云端虾、企业虾、云桌面虾，安全隔离虾房、云保安、知识库等等一系列产品。OpenClaw，别称“龙虾”，是当下最火的Agent开源框",
+      "link": "https://36kr.com/p/3721355722684804?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "前华为北美高管团队创业AIDC算力电源赛道，正推进与国际大厂合作 | 硬氪首发",
+      "source": "36氪",
+      "published": "2026-03-14",
+      "summary": "作者 | 林晴晴编辑 | 袁斯来硬氪获悉，AIDC全栈算力电源解决方案提供商「梅威斯Matrix Power」已于近日完成A轮融资，由星星充电独家投资，金额为数千万元，治臻咨询担任其长期独家财务顾问。此前公司曾获某上市公司天使轮、宇杉资本Pre-A轮投资。本轮资金将主要用于AI数据中心电源的持续研发、海外市场拓展及流动资金补充。梅威斯电气技术（上海）有限公司成立于2020年，是一家专注于AI数据中心（AIDC）算力电源的解决方案商。公司专注于高效、高密度电源产品的研发，产品线覆盖从传统54VDC机柜内供电到下一代±400V/800V HVDC柜外架构，再到固态变压器等前沿技术。随着AI算力需求",
+      "link": "https://36kr.com/p/3722683801909641?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪丨济州航空空难一年后再现遇难者遗骸；中国区“苹果税”下调；市监局出手整治“误导性大小字”广告",
+      "source": "36氪",
+      "published": "2026-03-14",
+      "summary": "今日热点导览美团王兴：“减少登味”，内部不要再叫我“兴哥”斯泰兰蒂斯回应“玛莎拉蒂品牌要被出售”8年超龄车延期3年营运？滴滴辟谣微软市值5个月内蒸发1万亿美元金融监管总局约谈5家平台运营机构TOP3大新闻韩媒：济州航空空难一年后再现遇难者遗骸据韩联社、《韩民族日报》等韩媒报道，对于2024年12月致179人遇难的韩国济州航空空难案，韩国近期重启对失事客机残骸的调查并再次发现遇难者遗骸。截至3月12日，现场累计已发现33块遗骨，其中9块经DNA比对确认属于7名遇难者。报道称，针对此事，韩国总统李在明12日下令，要求彻底调查事故初期遗骸未被收殓的原委，以及遗骸被搁置一年多的经过。当地时间2024年",
+      "link": "https://36kr.com/p/3722103811226244?f=rss",
       "category": "AI News"
     },
     {
@@ -63,22 +111,6 @@
       "published": "2026-03-13",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/4NJUKjq6VphyYuG4CaZQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从概念到产线：具身智能真正卡在哪？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架",
-      "source": "InfoQ 中文",
-      "published": "2026-03-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -114,14 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "AI 编程能力边界探索：基于 Claude Code 的 Spec Coding 项目实战",
-      "source": "开源中国",
-      "published": "2026-03-13",
-      "summary": "10 天，2.5 万行代码，提效 36%。 基于 Claude Code 的 Spec Coding（规格驱动编码） 深度实战。通过 2,754 次工具调用，我们不仅完成了从 0 到 1 的前端项目搭建，更在 \"约束 + 示范 + 视觉\" 的三层规范体系下，摸清了 AI 编程的真实能力边界。本文将复盘这场实战，拆解如何用结构化工作流消除 AI 的不确定性，重构开发...",
-      "link": "https://my.oschina.net/u/5783135/blog/19210069",
-      "category": "AI News"
-    },
-    {
       "title": "国泰航空2025年净利润达108亿港元，载客量增长近三成｜最前线",
       "source": "36氪",
       "published": "2026-03-13",
@@ -135,30 +159,6 @@
       "published": "2026-03-13",
       "summary": "大公司：小鹏汽车机器人的步态调整专利公布36氪获悉，爱企查App显示，近日，广州小鹏汽车科技有限公司一项名为“机器人的步态调整方法、装置、设备及存储介质”的发明专利公布。专利摘要显示，本发明涉及智能机器人领域，公开了机器人的步态调整方法、装置、设备及存储介质，方法包括：获取仿人机器人脚部的目标采样点，以及每个目标采样点对应的坐标值和地形高程数据；依据每个目标采样点对应的坐标值和地形高程数据计算仿人机器人的落脚点回报值；获取每个目标采样点在预设半径内的地形高程数据最大值，依据坐标值和地形高程数据最大值计算仿人机器人的踢台阶回报值；依据落脚点回报值和踢台阶回报值对仿人机器人进行步态调整。本发明通过",
       "link": "https://36kr.com/p/3721253543164549?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "魅族手机“解体”：做车机，做AI，或者离开丨智能涌现独家",
-      "source": "36氪",
-      "published": "2026-03-13",
-      "summary": "文｜邱晓芬编辑｜苏建勋 杨轩年前持续发酵的“魅族手机停摆”风波，今日落下帷幕。《智能涌现》从内部人士处独家获悉，魅族近期宣布一轮大调整，超50%的员工即将离开，涉及400人左右。这部分人有三个去处——其中，一部分将获得“N+2”的赔偿。消息人士称，“大多数人将在本周五之内办完（手续）”；魅族的“PANDAER”潮牌团队将分拆，自负盈亏；魅族AR眼镜团队则部分被AR眼镜公司「雷鸟创新」吸收。其实，早在2月27日，针对外界传言，魅族方面发布了名为《廿三载热爱，以Flyme之名新生》的公告，称“决定暂停手机新产品自研硬件项目，并正接洽第三方硬件合作伙伴”。而据《智能涌现》了解，经过调整后，魅族手机剩",
-      "link": "https://36kr.com/p/3721227876039047?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪 × OpenClaw\"龙虾\"｜让你的AI Agent先一步看到未来",
-      "source": "36氪",
-      "published": "2026-03-13",
-      "summary": "当AI Agent从“智能助手”进化为“行动者”，当OpenClaw“龙虾”成为无数开发者、创业者的高效协作伙伴，如何让你的AI智能体突破信息壁垒，精准链接行业核心资源？今日，36氪正式开放OpenClaw“龙虾”专属对话入口，让你的OpenClaw“龙虾”，直接与36氪开启实时通信对话，抢占行业发展先机，提前看见未来趋势。为什么要让你的AI Agent对话36氪？在AI Agent快速普及的当下，单一智能体的能力始终有限，而36氪作为深耕科技创新领域十余年的生态服务平台，早已构建起覆盖创业、融资、科技、合作的全链路资源网络，这正是你的AI Agent最需要的“能力补给站”。36氪是一家以媒体",
-      "link": "https://36kr.com/p/3720817143396993?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "囤货的快乐，全毁在一台不给力的冰箱上",
-      "source": "36氪",
-      "published": "2026-03-13",
-      "summary": "很多人都有个习惯——加完班回家，第一件事就是顺手拉开冰箱门。看到冰箱里堆着周末囤的货：小番茄、牛排、一盒晴王葡萄、山姆瑞士卷……就算不吃，只看一眼，也觉得整个人突然就松下来了。白天在工位上是脆皮打工人，靠冰美式和生命体征维持餐续命；晚上回到家，打开冰箱，看着塞得满满当当的吃的，才觉得这一天总算有件顺心的事。因为冰箱里装着的，是这一天唯一的确定性。不知不觉间，冰箱成了生活质感的展示舞台。和父母辈那种塞满“陈年旧菜”的冷库不同，现在我们的冰箱更像一个精致的“食材博物馆”：冷冻层里不止是速冻水饺，还摆着原切牛排、深海大虾；冷藏层里不是剩饭，而是分装整齐的有机蔬果、精品咖啡豆、冷泡茶……冰箱的身份，正",
-      "link": "https://36kr.com/p/3721042497485444?f=rss",
       "category": "AI News"
     }
   ]

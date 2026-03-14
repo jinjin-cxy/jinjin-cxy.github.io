@@ -1,125 +1,85 @@
 {
-  "updated": "2026-03-14T01:01:59.617512+00:00",
+  "updated": "2026-03-14T12:24:59.175099+00:00",
   "repositories": [
     {
-      "name": "microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "stars": 33962,
-      "stars_today": 2227,
+      "name": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu",
+      "stars": 9583,
+      "stars_today": 2191,
       "language": "Python",
-      "link": "https://github.com/microsoft/BitNet"
+      "link": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 10995,
+      "stars_today": 411,
+      "language": "Python",
+      "link": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "name": "dimensionalOS/dimos",
+      "description": "The Dimensional Framework",
+      "stars": 711,
+      "stars_today": 64,
+      "language": "Python",
+      "link": "https://github.com/dimensionalOS/dimos"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": 13200,
+      "stars_today": 1283,
+      "language": "Python",
+      "link": "https://github.com/p-e-w/heretic"
     },
     {
       "name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "stars": 2254,
-      "stars_today": 905,
+      "stars": 2496,
+      "stars_today": 568,
       "language": "Python",
       "link": "https://github.com/langflow-ai/openrag"
     },
     {
       "name": "lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": 15448,
-      "stars_today": 2093,
+      "stars": 16370,
+      "stars_today": 2100,
       "language": "Zig",
       "link": "https://github.com/lightpanda-io/browser"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 81913,
-      "stars_today": 2106,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "stars": 409469,
-      "stars_today": 892,
-      "language": "Python",
-      "link": "https://github.com/public-apis/public-apis"
-    },
-    {
-      "name": "promptfoo/promptfoo",
-      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and",
-      "stars": 15273,
-      "stars_today": 1668,
-      "language": "TypeScript",
-      "link": "https://github.com/promptfoo/promptfoo"
-    },
-    {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 40090,
-      "stars_today": 5745,
+      "stars": 42016,
+      "stars_today": 4329,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
-      "name": "dolthub/dolt",
-      "description": "Dolt – Git for Data",
-      "stars": 21074,
-      "stars_today": 60,
-      "language": "Go",
-      "link": "https://github.com/dolthub/dolt"
-    },
-    {
-      "name": "google/A2UI",
-      "description": "",
-      "stars": 13052,
-      "stars_today": 635,
-      "language": "TypeScript",
-      "link": "https://github.com/google/A2UI"
-    },
-    {
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
-      "stars": 26865,
-      "stars_today": 559,
+      "stars": 27037,
+      "stars_today": 377,
       "language": "Python",
       "link": "https://github.com/fishaudio/fish-speech"
     },
     {
-      "name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 7527,
-      "stars_today": 1468,
-      "language": "TypeScript",
-      "link": "https://github.com/alibaba/page-agent"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 10790,
-      "stars_today": 654,
-      "language": "Python",
-      "link": "https://github.com/anthropics/claude-plugins-official"
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 23817,
-      "stars_today": 1128,
-      "language": "Python",
-      "link": "https://github.com/AstrBotDevs/AstrBot"
-    },
-    {
-      "name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "stars": 3637,
-      "stars_today": 595,
-      "language": "Python",
-      "link": "https://github.com/vectorize-io/hindsight"
-    },
-    {
       "name": "InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "stars": 3636,
-      "stars_today": 766,
+      "stars": 3886,
+      "stars_today": 477,
       "language": "TypeScript",
       "link": "https://github.com/InsForge/InsForge"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 82523,
+      "stars_today": 1451,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
     }
   ]
 }
