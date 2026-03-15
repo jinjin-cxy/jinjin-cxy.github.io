@@ -1,18 +1,18 @@
 {
-  "updated": "2026-03-14T12:24:59.175099+00:00",
+  "updated": "2026-03-15T01:13:10.426938+00:00",
   "repositories": [
     {
       "name": "volcengine/OpenViking",
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu",
-      "stars": 9583,
-      "stars_today": 2191,
+      "stars": 10602,
+      "stars_today": 1610,
       "language": "Python",
       "link": "https://github.com/volcengine/OpenViking"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 10995,
+      "stars": 11315,
       "stars_today": 411,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
@@ -20,64 +20,64 @@
     {
       "name": "dimensionalOS/dimos",
       "description": "The Dimensional Framework",
-      "stars": 711,
-      "stars_today": 64,
+      "stars": 861,
+      "stars_today": 72,
       "language": "Python",
       "link": "https://github.com/dimensionalOS/dimos"
     },
     {
       "name": "p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
-      "stars": 13200,
-      "stars_today": 1283,
+      "stars": 13762,
+      "stars_today": 694,
       "language": "Python",
       "link": "https://github.com/p-e-w/heretic"
     },
     {
       "name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-      "stars": 2496,
-      "stars_today": 568,
+      "stars": 2722,
+      "stars_today": 564,
       "language": "Python",
       "link": "https://github.com/langflow-ai/openrag"
     },
     {
       "name": "lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": 16370,
-      "stars_today": 2100,
+      "stars": 17106,
+      "stars_today": 2069,
       "language": "Zig",
       "link": "https://github.com/lightpanda-io/browser"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 42016,
-      "stars_today": 4329,
+      "stars": 43788,
+      "stars_today": 4280,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
-      "stars": 27037,
-      "stars_today": 377,
+      "stars": 27219,
+      "stars_today": 381,
       "language": "Python",
       "link": "https://github.com/fishaudio/fish-speech"
     },
     {
       "name": "InsForge/InsForge",
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "stars": 3886,
-      "stars_today": 477,
+      "stars": 4176,
+      "stars_today": 482,
       "language": "TypeScript",
       "link": "https://github.com/InsForge/InsForge"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 82523,
-      "stars_today": 1451,
+      "stars": 83496,
+      "stars_today": 1439,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     }
