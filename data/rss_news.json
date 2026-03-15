@@ -1,6 +1,54 @@
 {
-  "updated": "2026-03-15T01:13:25.793645+00:00",
+  "updated": "2026-03-15T12:27:17.265538+00:00",
   "articles": [
+    {
+      "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
+      "source": "量子位",
+      "published": "2026-03-15",
+      "summary": "AI救了我的狗！从奄奄一息到满公园追兔子",
+      "link": "https://www.qbitai.com/2026/03/387935.html",
+      "category": "AI News"
+    },
+    {
+      "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
+      "source": "InfoQ 中文",
+      "published": "2026-03-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
+      "source": "InfoQ 中文",
+      "published": "2026-03-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
+      "source": "InfoQ 中文",
+      "published": "2026-03-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "工业级AI视频厂商再融资，掌握120TB独家数据，营收破亿 | 硬氪首发",
+      "source": "36氪",
+      "published": "2026-03-15",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，重庆达瓦合志影像科技有限公司（下称“达瓦科技”）宣布完成近亿元的新一轮融资。本轮融资由一村资本、宝捷会创新基金领投，老股东启赋资本、重庆永川国资平台持续跟投。达瓦科技成立于2023年，总部位于重庆，是国内首个实现商业化闭环的专业级AI内容创作平台，并打通“生产+交易+履约”全链条的视频AI生态。2025年，达瓦科技营收突破亿元，三年复合增长率近300%，AI平台实现规模化收入。达瓦科技的核心壁垒，建立在极其稀缺的120TB独家影视级结构化数据集之上。这套数据集包含镜头级、光学级、表演级等300多种标注要素，颗粒度精确到场景级。与依赖公开成片结果的通用模",
+      "link": "https://36kr.com/p/3723669408987782?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+      "source": "36氪",
+      "published": "2026-03-15",
+      "summary": "智能家居发展十余年，各类智能单品早已走进千家万户，但一个困局却始终未能突破：单品“智能化”多流于表面，且彼此孤立，难以串联成一个真正懂生活、主动服务人真实需求的“智能之家”。比如用于交流的语音助手，虽能随叫随应，但也会成为某一刻的噪音；又如守护安全的摄像头，并不能感知被褥之下人体的真实状态；即便是可掌控全屋智能的手机，却也不是24小时被人贴身操控。“全域协同”、“主动服务”、“无感存在”至今仍是智能家居难以破解的重要问题。而今，作为硬件智能家居的年度风向标，AWE2026将AI融合下的科技，投向硬件智能与家居场景的深度适配，破解“智能不智”的痛点。所以可以看到，在这个新科技元素全覆盖的展会上，",
+      "link": "https://36kr.com/p/3722669939931524?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
       "source": "量子位",
@@ -34,14 +82,6 @@
       "category": "AI News"
     },
     {
-      "title": "AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验",
-      "source": "量子位",
-      "published": "2026-03-14",
-      "summary": "当程序员开发App、商业带货、打游戏",
-      "link": "https://www.qbitai.com/2026/03/387843.html",
-      "category": "AI News"
-    },
-    {
       "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
       "source": "InfoQ 中文",
       "published": "2026-03-14",
@@ -55,14 +95,6 @@
       "published": "2026-03-14",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
-      "source": "InfoQ 中文",
-      "published": "2026-03-14",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -98,30 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "9点1氪丨济州航空空难一年后再现遇难者遗骸；中国区“苹果税”下调；市监局出手整治“误导性大小字”广告",
-      "source": "36氪",
-      "published": "2026-03-14",
-      "summary": "今日热点导览美团王兴：“减少登味”，内部不要再叫我“兴哥”斯泰兰蒂斯回应“玛莎拉蒂品牌要被出售”8年超龄车延期3年营运？滴滴辟谣微软市值5个月内蒸发1万亿美元金融监管总局约谈5家平台运营机构TOP3大新闻韩媒：济州航空空难一年后再现遇难者遗骸据韩联社、《韩民族日报》等韩媒报道，对于2024年12月致179人遇难的韩国济州航空空难案，韩国近期重启对失事客机残骸的调查并再次发现遇难者遗骸。截至3月12日，现场累计已发现33块遗骨，其中9块经DNA比对确认属于7名遇难者。报道称，针对此事，韩国总统李在明12日下令，要求彻底调查事故初期遗骸未被收殓的原委，以及遗骸被搁置一年多的经过。当地时间2024年",
-      "link": "https://36kr.com/p/3722103811226244?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "又一中国玩家入场“龙虾”生态：阶跃星辰推出 StepClaw，开放 5 万个免费部署名额",
-      "source": "InfoQ 中文",
-      "published": "2026-03-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TIMeaVyT313vRk8BuUIZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "如何用 Streamlit 和 Snowflake Cortex 搭建语音助手应用 ｜技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/hlVpPd23Z2odmgLelRAx?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "团队到底谁在摸鱼？国产甘特图黑马星甘 V3.2 用\"人员工作量视图\"抓个正着！",
       "source": "开源中国",
       "published": "2026-03-13",
@@ -151,14 +159,6 @@
       "published": "2026-03-13",
       "summary": "AI Maker Summit，是一个为创造者而生的大会。 大会官网：https://aimakersummit.com",
       "link": "https://www.oschina.net/event/8598176",
-      "category": "AI News"
-    },
-    {
-      "title": "国泰航空2025年净利润达108亿港元，载客量增长近三成｜最前线",
-      "source": "36氪",
-      "published": "2026-03-13",
-      "summary": "作者｜黄楠编辑｜袁斯来国泰航空（00293.HK）近日公布2025年全年业绩。财报数据显示，国泰集团2025年实现收益1167.66亿港元，同比增长11.9%；集团应占溢利108亿港元，同比增长9.1%。这是国泰连续第三年录得盈利，三年累计盈利超过300亿港元，已覆盖疫情期间的累计亏损。业绩主要受客运运力持续恢复和载客率维持高位驱动。官方数据显示，2025年国泰航空及香港快运合计载客达3600万人次，同比增长27%。但客运收益率随市场供应增加而正常化，部分抵销了收入增幅。运力扩张仍在继续。2025年国泰集团新增20个航点，其中国泰航空新增长沙、乌鲁木齐等5个内地航点，当前国泰占香港机场超过50",
-      "link": "https://36kr.com/p/3721135270247043?f=rss",
       "category": "AI News"
     }
   ]

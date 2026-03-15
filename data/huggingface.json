@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-15T01:13:06.159280+00:00",
+  "updated": "2026-03-15T12:26:56.771768+00:00",
   "models": [
     {
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
-      "downloads": 23384870,
+      "downloads": 22813513,
       "likes": 1134,
       "tags": [
         "transformers",
@@ -21,8 +21,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
-      "downloads": 12187334,
-      "likes": 1135,
+      "downloads": 12155633,
+      "likes": 1134,
       "tags": [
         "transformers",
         "safetensors",
@@ -37,8 +37,8 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 10750535,
-      "likes": 3126,
+      "downloads": 10803658,
+      "likes": 3128,
       "tags": [
         "transformers",
         "pytorch",
@@ -53,7 +53,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
-      "downloads": 8702098,
+      "downloads": 8750699,
       "likes": 637,
       "tags": [
         "transformers",
@@ -69,7 +69,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "author": "Qwen",
-      "downloads": 8121986,
+      "downloads": 8216721,
       "likes": 985,
       "tags": [
         "transformers",
@@ -85,7 +85,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "author": "openai",
-      "downloads": 7465884,
+      "downloads": 7441873,
       "likes": 4455,
       "tags": [
         "transformers",
@@ -101,8 +101,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
-      "downloads": 7330336,
-      "likes": 5565,
+      "downloads": 7263713,
+      "likes": 5566,
       "tags": [
         "transformers",
         "safetensors",
@@ -117,7 +117,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
-      "downloads": 7198137,
+      "downloads": 7047486,
       "likes": 415,
       "tags": [
         "transformers",
@@ -130,26 +130,10 @@
       "updated": ""
     },
     {
-      "id": "facebook/opt-125m",
-      "name": "opt-125m",
-      "author": "facebook",
-      "downloads": 6937845,
-      "likes": 234,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "opt"
-      ],
-      "link": "https://huggingface.co/facebook/opt-125m",
-      "updated": ""
-    },
-    {
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "author": "Qwen",
-      "downloads": 6931321,
+      "downloads": 6959052,
       "likes": 427,
       "tags": [
         "transformers",
@@ -162,10 +146,26 @@
       "updated": ""
     },
     {
+      "id": "facebook/opt-125m",
+      "name": "opt-125m",
+      "author": "facebook",
+      "downloads": 6844284,
+      "likes": 234,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "opt"
+      ],
+      "link": "https://huggingface.co/facebook/opt-125m",
+      "updated": ""
+    },
+    {
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "author": "trl-internal-testing",
-      "downloads": 6489438,
+      "downloads": 6405307,
       "likes": 4,
       "tags": [
         "transformers",
@@ -181,7 +181,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "author": "Qwen",
-      "downloads": 6298718,
+      "downloads": 6197388,
       "likes": 570,
       "tags": [
         "transformers",
@@ -197,7 +197,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "author": "Qwen",
-      "downloads": 6160757,
+      "downloads": 6102415,
       "likes": 482,
       "tags": [
         "transformers",
@@ -213,7 +213,7 @@
       "id": "vikhyatk/moondream2",
       "name": "moondream2",
       "author": "vikhyatk",
-      "downloads": 5354713,
+      "downloads": 5352731,
       "likes": 1391,
       "tags": [
         "transformers",
@@ -229,7 +229,7 @@
       "id": "Qwen/Qwen3-32B",
       "name": "Qwen3-32B",
       "author": "Qwen",
-      "downloads": 4846438,
+      "downloads": 5028826,
       "likes": 668,
       "tags": [
         "transformers",
