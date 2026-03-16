@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-16T01:12:53.829325+00:00",
+  "updated": "2026-03-16T12:42:29.682492+00:00",
   "articles": [
     {
-      "title": "8点1氪丨知名连锁店被曝大规模销售假烟，已查获非法卷烟139.99万支；“3·15晚会”曝光完整名单公布；Kimi估值涨至180亿美元",
+      "title": "零跑，首次全年盈利！",
+      "source": "量子位",
+      "published": "2026-03-16",
+      "summary": "半价理想学理想盈利了",
+      "link": "https://www.qbitai.com/2026/03/388411.html",
+      "category": "AI News"
+    },
+    {
+      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "source": "量子位",
+      "published": "2026-03-16",
+      "summary": "一个虚构的产品，竟然也会出现在AI推荐里？",
+      "link": "https://www.qbitai.com/2026/03/388387.html",
+      "category": "AI News"
+    },
+    {
+      "title": "机器人爆款收割机狂揽1.2亿美金",
+      "source": "量子位",
+      "published": "2026-03-16",
+      "summary": "加速打造具身智能原生技术底座",
+      "link": "https://www.qbitai.com/2026/03/388381.html",
+      "category": "AI News"
+    },
+    {
+      "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
+      "source": "量子位",
+      "published": "2026-03-16",
+      "summary": "还有龙虾专属套餐",
+      "link": "https://www.qbitai.com/2026/03/388352.html",
+      "category": "AI News"
+    },
+    {
+      "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
+      "source": "量子位",
+      "published": "2026-03-16",
+      "summary": "养虾真不如养骡子了",
+      "link": "https://www.qbitai.com/2026/03/388071.html",
+      "category": "AI News"
+    },
+    {
+      "title": "曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从 ChatBI 到多 Agent 分析中台：Snowflake 与亚马逊云科技的实战架构",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gKOHwNErbptx92BQWZmQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 领导力：像管理团队一样管理 AI",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/DCc9GWuL9MVlgvDpRJWg?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "用 MoonBit 开发的 首个 Killer APP 火爆海外",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "GitHub Actions 调试成本太高的问题一直广受诟病。近日前端与开发工具领域活跃的技术大V mizchi 用 MoonBit 语言开发了一个项目 actrun——本地 GitHub Actions 运行器，旨在解决此问题。 项目地址： https://github.com/mizchi/actrun 项目开源后迅速在 X （推特）和 GitHub 上引起热议，传播超 14 万+ ，GitHub Star 迅...",
+      "link": "https://www.oschina.net/news/411049",
+      "category": "AI News"
+    },
+    {
+      "title": "院士领衔 + 院长云集！农业 AI 顶级盛会议题嘉宾揭秘",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "导语：万众期待的 全国农业高校人工智能学院院长研讨会 将于3月20日在三亚崖州湾召开。今天，我们隆重揭晓研讨会的重磅嘉宾阵容和核心议题，一场农业 AI for Science 的思想盛宴即将开启，开源中国邀您共同见证！ 顶级嘉宾阵容，打造农业 AI 高端智库 本次研讨会以 “小而精、高规格” 为特色，组建了权威的学术和组织阵...",
+      "link": "https://www.oschina.net/news/411039",
+      "category": "AI News"
+    },
+    {
+      "title": "Ant Design 6.3.3 发布，企业级 UI 设计语言和 React 实现",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "Ant Design 是阿里巴巴开源的一套企业级 UI 设计语言和 React 组件库。Ant Design 6.3.3 现已发布，主要更新内容如下： Image 优化 Image 预览蒙层 blur 效果的 backdrop-filter 过渡，减少闪烁感。#57299 修复 Image 在 movable={false} 时仍显示 move 光标的问题。#57288 优化 App 链接的 :focus-visible 外框样式，提...",
+      "link": "https://www.oschina.net/news/411031/ant-design-6-3-3-released",
+      "category": "AI News"
+    },
+    {
+      "title": "会做科研的DrClaw来了！从部署到科研实操，零基础也能上车｜爱赛思OpenAI4S社区百家讲坛第一期",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "最近全网都在养“龙虾”，从极客玩家到全国两会代表，这只带着红色“钳子”的OpenClaw AI智能体彻底火出圈。它能自主规划步骤、操控软件、处理数据，让AI第一次真正长出了“手和脚”，人人都在蹲教程、学部署，玩梗“养虾”成了顶流科技新风潮。 但问题来了：这只全民热议的“龙虾”，放到科研圈到底怎么养？ 部署完只会...",
+      "link": "https://www.oschina.net/news/411022",
+      "category": "AI News"
+    },
+    {
+      "title": "Apache DolphinScheduler 3.4.1 已发布，新增任务分发超时检测",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "新版本不仅引入了 任务分发超时检测机制 和 任务最大运行时间控制能力，还修复了多项调度逻辑、插件功能以及 API 行为中的问题，同时对系统文档、开发流程和工程结构进行了优化。",
+      "link": "https://my.oschina.net/dailidong/blog/19210215",
+      "category": "AI News"
+    },
+    {
+      "title": "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家",
       "source": "36氪",
       "published": "2026-03-16",
-      "summary": "今日热点导览于东来最新回应胖东来“40亿资产分配”周鸿祎向母校西安交通大学捐赠1亿元河南首家人形机器人4S店开业，租赁业务火热Meta被曝计划裁员20%甚至更多比亚迪正在评估入局F1TOP3大新闻美宜佳总部回应多地门店卖假烟，广东省烟草专卖局已查获美宜佳门店非法卷烟139.99万支3月14日，大量网友反映在美宜佳便利店买到了“假烟”。美宜家总部客服告诉记者，总部已经在积极跟进此事，“目前的话已经在对全国4万家门店进行“拉网式”排查，如果发现有问题的门店会立即停业处理。”针对于被曝售卖假烟的门店，客服表示，“我们公司对这种售假行为零容忍严处罚，如果情况属实我们会从严追责，终止合作，后续也会进一步",
-      "link": "https://36kr.com/p/3724860285319556?f=rss",
+      "summary": "图为 地平线文｜肖漫编辑｜李勤、杨轩36氪独家获悉，地平线芯片研发负责人陈鹏即将离职，内部呼声比较高的接替人选是地平线副总裁兼首席架构师苏箐。据悉，地平线内部一直在推动软硬一体，苏箐也参与了征程7系列芯片的架构设计和产品定义。陈鹏在加入地平线之前已在ICT芯片行业工作了19年，曾管理千人级的芯片团队，是芯片行业的老兵。加入地平线后，陈鹏主要负责芯片SoC系统架构设计和芯片生产厂商对接等事务，加入地平线时正值征程6系列芯片开发阶段，接手了征程6P从设计到量产到出货的全过程。征程6P是地平线当前主力产品之一，单颗算力560TOPS，被应用在多家车企的中高阶智能驾驶方案中。但真正决定地平线下一阶段竞",
+      "link": "https://36kr.com/p/3725426197150345?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
-      "source": "量子位",
-      "published": "2026-03-15",
-      "summary": "AI救了我的狗！从奄奄一息到满公园追兔子",
-      "link": "https://www.qbitai.com/2026/03/387935.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
-      "source": "InfoQ 中文",
-      "published": "2026-03-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
-      "source": "InfoQ 中文",
-      "published": "2026-03-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
-      "source": "InfoQ 中文",
-      "published": "2026-03-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
-      "source": "InfoQ 中文",
-      "published": "2026-03-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AntFlow 1.7.0 震撼发布：小程序首发 + 流程\"动态手术\" + 零代码接入，开启移动审批新纪元！",
-      "source": "开源中国",
-      "published": "2026-03-15",
-      "summary": "> 马年第一发，马年伊始,牛马便迅速调整状态,马不停蹄赶工.经过两个多月的研发攻坚——小程序端终于来了！流程不再只是\"跑起来\"，而是\"随时改、随地批、随心配\"。 > Vform表单移动端不开源,我们和原作者保持密切沟通,帮助Vform企业版用户快速将vform企业版和antflow集成。（还帮助vform社区群友提供技术支持，解决非ant...",
-      "link": "https://www.oschina.net/news/410743",
-      "category": "AI News"
-    },
-    {
-      "title": "工业级AI视频厂商再融资，掌握120TB独家数据，营收破亿 | 硬氪首发",
+      "title": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
       "source": "36氪",
-      "published": "2026-03-15",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，重庆达瓦合志影像科技有限公司（下称“达瓦科技”）宣布完成近亿元的新一轮融资。本轮融资由一村资本、宝捷会创新基金领投，老股东启赋资本、重庆永川国资平台持续跟投。达瓦科技成立于2023年，总部位于重庆，是国内首个实现商业化闭环的专业级AI内容创作平台，并打通“生产+交易+履约”全链条的视频AI生态。2025年，达瓦科技营收突破亿元，三年复合增长率近300%，AI平台实现规模化收入。达瓦科技的核心壁垒，建立在极其稀缺的120TB独家影视级结构化数据集之上。这套数据集包含镜头级、光学级、表演级等300多种标注要素，颗粒度精确到场景级。与依赖公开成片结果的通用模",
-      "link": "https://36kr.com/p/3723669408987782?f=rss",
+      "published": "2026-03-16",
+      "summary": "零一汽车文｜肖漫编辑｜李勤36氪获悉，新能源智能重卡公司零一汽车已完成新一轮12亿元人民币融资。本轮融资由溥泉资本（宁德时代旗下唯一产业投资平台）、Momenta、蔚来资本联合领投，安徽灵通集团、方广投资、淡马锡旗下毅峰资本、愉悦资本、申能诚毅、蓝湖资本跟投，老股东活水资本持续跟投。这是零一汽车近半年内完成的第二笔融资。2025年年中，公司刚刚完成 5亿元A轮融资，连续两轮融资金额累计超过17亿元。成立于2022年的零一汽车，是一家同时布局新能源重卡整车与自动驾驶技术的创业公司。公司由前图森未来联合创始人黄泽铧、前三一重卡总经理、福田戴姆勒副总裁张红松，以及前中国重汽执行董事、福田戴姆勒执行副",
+      "link": "https://36kr.com/p/3717366669948297?f=rss",
       "category": "AI News"
     },
     {
-      "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+      "title": "36氪晚报｜韩元对美元汇率收盘价跌至近18年来最低；WTI原油上破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司",
       "source": "36氪",
-      "published": "2026-03-15",
-      "summary": "智能家居发展十余年，各类智能单品早已走进千家万户，但一个困局却始终未能突破：单品“智能化”多流于表面，且彼此孤立，难以串联成一个真正懂生活、主动服务人真实需求的“智能之家”。比如用于交流的语音助手，虽能随叫随应，但也会成为某一刻的噪音；又如守护安全的摄像头，并不能感知被褥之下人体的真实状态；即便是可掌控全屋智能的手机，却也不是24小时被人贴身操控。“全域协同”、“主动服务”、“无感存在”至今仍是智能家居难以破解的重要问题。而今，作为硬件智能家居的年度风向标，AWE2026将AI融合下的科技，投向硬件智能与家居场景的深度适配，破解“智能不智”的痛点。所以可以看到，在这个新科技元素全覆盖的展会上，",
-      "link": "https://36kr.com/p/3722669939931524?f=rss",
+      "published": "2026-03-16",
+      "summary": "大公司：分析人士：虽然涉及华虹的利好传闻不断，英伟达GTC 2026大会可能也是引爆半导体板块的一个主因3月16日午后，创业板指涨超1%。半导体、存储芯片板块持续走高。其中，总市值超2000亿的华虹公司A股一度大涨超16%，其H股一度大涨超11%。整个半导体板块被带飞，芯片ETF午后直线飙升，一度涨超2%。分析人士认为，虽然涉及华虹的利好传闻不断，英伟达即将召开的GTC2026大会可能也是引爆半导体板块的一个主因。另外，有消息称，联电、世界先进、力积电等晶圆代工厂涨价，涨价也成为另一个驱动因素。（券商中国）抖音旗下科技公司在深圳成立新信息技术公司36氪获悉，爱企查App显示，近日，深圳云启智合",
+      "link": "https://36kr.com/p/3725424173857155?f=rss",
       "category": "AI News"
     },
     {
-      "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
-      "source": "量子位",
-      "published": "2026-03-14",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387921.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”",
-      "source": "量子位",
-      "published": "2026-03-14",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387915.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋",
-      "source": "量子位",
-      "published": "2026-03-14",
-      "summary": "以后出门有个谷歌地图就够了",
-      "link": "https://www.qbitai.com/2026/03/387867.html",
-      "category": "AI News"
-    },
-    {
-      "title": "不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0",
-      "source": "量子位",
-      "published": "2026-03-14",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/387860.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
-      "source": "InfoQ 中文",
-      "published": "2026-03-14",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "开发者工具箱 Kairoa v1.1.16 发布：新增 AI 聊天功能",
-      "source": "开源中国",
-      "published": "2026-03-14",
-      "summary": "Kairoa 开发者工具箱 v1.1.16 版本正式发布！这次更新主要聚焦在 AI 聊天模块的体验优化和功能增强。 🤖 AI 聊天功能更新 多服务商支持 现在可以同时配置多个 AI 服务商（OpenAI、DeepSeek、Anthropic、Azure OpenAI 等），每个服务商支持配置多个模型，切换起来更方便了。 历史会话管理 新增了历史会话功能，可以保存...",
-      "link": "https://www.oschina.net/news/410466",
-      "category": "AI News"
-    },
-    {
-      "title": "中国最大家电展上，一批想帮你做家务的机器人来了！",
+      "title": "松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线",
       "source": "36氪",
-      "published": "2026-03-14",
-      "summary": "文｜邱晓芬编辑｜苏建勋2026年，挤进具身智能机器人赛道的主力军，是一众家电企业。3月12日-15日，中国最大的家电及消费电子博览会（AWE 2026）在上海举办。和往年不同的是，此次展会的亮点已经从过去的家电，变成了具身智能机器人。有终端、有数据的大小家电企业，自然而然把家庭服务当做机器人的核心目标，展示了一系列功能——家庭巡逻、老人防护、简单家务、甚至是下厨房等等。不过，经过《智能涌现》体验，这些功能设计还比较早期，运行的速度也比较慢，稳定性不太够，但也呈现了一幅机器人在家庭生活中的图景。在不远的未来，不想做家务的人有救了。追觅：能干活的“轮椅机器人”今年AWE上，追觅大手笔包下了七千平方",
-      "link": "https://36kr.com/p/3722882943334789?f=rss",
+      "published": "2026-03-16",
+      "summary": "近日，中国家电及消费电子博览会（简称“AWE”）在上海落下帷幕。展会期间，家电品牌松下举办“松下电器中国事业战略发布暨Top渠道商大会”，并发布中国事业新战略。松下电器中国事业战略发布暨Top渠道商大会，图片：企业提供“当前中国家电市场的特征是：需求持续下降、存量市场内卷不断加剧；消费需求持续呈现K型分化，行业整体增长面临挑战。但中国依然是全球家电产业的核心中枢。”松下电器株式会社中国东北亚事业副总裁、智慧生活事业部事业部长林一斌在大会发言中表示。基于这一现状，松下家电中国事业将在未来持续深化三项主要战略。具体而言，第一，持续推出广受消费者喜爱的明星单品，如松下全球首创四筒全热泵洗烘护一体机A",
+      "link": "https://36kr.com/p/3725245431839369?f=rss",
       "category": "AI News"
     },
     {
-      "title": "腾讯龙虾团队答疑：龙虾的热度确实高过能力，但它是普通人拥抱 AI 浪潮的第一步",
+      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
       "source": "36氪",
-      "published": "2026-03-14",
-      "summary": "文｜王毓婵编辑｜苏建勋最近一周，一向以风格稳重著称的腾讯一反常态，不仅借着一场“免费帮装虾”的线下活动迅速推高了大众对“龙虾”的热情，而且在短期内推出了大量“龙虾”产品。目前已经上线的，有被称为腾讯版“免部署小龙虾”的办公工具WorkBuddy；支持一键启动，并将AI代理能力接入微信和QQ双端的QClaw；面向开发者的腾讯云轻量应用服务器Lighthouse，以及配套生态与安全工具Skillhub等等。CEO马化腾在朋友圈披露，接下来，腾讯还会推出自研龙虾、本地虾、云端虾、企业虾、云桌面虾，安全隔离虾房、云保安、知识库等等一系列产品。OpenClaw，别称“龙虾”，是当下最火的Agent开源框",
-      "link": "https://36kr.com/p/3721355722684804?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "团队到底谁在摸鱼？国产甘特图黑马星甘 V3.2 用\"人员工作量视图\"抓个正着！",
-      "source": "开源中国",
-      "published": "2026-03-13",
-      "summary": "大家好，我是星甘的作者。 我们做项目排期的时候，有没有遇到过这种情况： 项目计划做得很漂亮，连里程碑都定好了，结果一到执行阶段，发现任务延期了。一问才知道，排期的时候完全没管员工的承受能力，分配给某个核心骨干的任务太多，他一个人一天得当48小时用；而有些组员却在那边\"摸鱼\"，没分到活儿。 排计划不看工作...",
-      "link": "https://www.oschina.net/news/410292",
-      "category": "AI News"
-    },
-    {
-      "title": "Vite 8 正式发布",
-      "source": "开源中国",
-      "published": "2026-03-13",
-      "summary": "Vite 8 稳定版现已正式发布。 此版本一大重点内容就是，将用于开发阶段快速构建的 esbuild 和用于优化生产环境构建的 Rollup 两个打包工具合二为一：搭载了 Rolldown 作为其唯一的、统一的、基于 Rust 的打包工具，在保持完全插件兼容性的同时，构建速度提升了 10-30 倍。 根据介绍，Rolldown 设计目标有三个： 性能： ...",
-      "link": "https://www.oschina.net/news/410203/vite8-released",
-      "category": "AI News"
-    },
-    {
-      "title": "YouTrack 2026 路线图发布",
-      "source": "开源中国",
-      "published": "2026-03-13",
-      "summary": "YouTrack 发布了 2026 的项目发展路线图，重点聚焦为不断扩缩的大型团队提供更强大的支持。一些工作重点内容如下： 对于从 Jira 和 Confluence 等工具迁移而来的团队，YouTrack 团队正致力于提高导入过程的流畅度、为应用开发者拓展机会，并构建支持大规模过渡的基础架构。 同时致力于将 YouTrack 迁移到支持多节点环境的...",
-      "link": "https://www.oschina.net/news/410192/youtrack-2026-roadmap",
+      "published": "2026-03-16",
+      "summary": "继2025年港交所重现“IPO大年”（全年117家公司上市，募资总额达2869亿港元，同比大增200%）之后，2026年的港股上市潮仍在强势延续年内已有28家企业成功IPO，募资总额逼近千亿大关。值得注意的是，今年港股IPO的含“AI”量极高。不仅有MiniMax、智谱等大模型独角兽接连登陆，壁仞科技、天数智芯等算力巨头也相继入局。而在3月13日，港股AI资产池再添核心资产——“面向全球市场的企业网络解决方案第一股”飞速创新顺利通过港交所聆讯，为火热的AI板块补齐了至关重要的“网络基建”拼图。AI时代的底层基建由算力、存储与网络“三足鼎立”。摩根大通近日研报指出，伴随GPU集群规模的持续扩张，",
+      "link": "https://36kr.com/p/3725233182062982?f=rss",
       "category": "AI News"
     }
   ]
