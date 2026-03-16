@@ -1,12 +1,28 @@
 {
-  "updated": "2026-03-15T12:27:17.265538+00:00",
+  "updated": "2026-03-16T01:12:53.829325+00:00",
   "articles": [
+    {
+      "title": "8点1氪丨知名连锁店被曝大规模销售假烟，已查获非法卷烟139.99万支；“3·15晚会”曝光完整名单公布；Kimi估值涨至180亿美元",
+      "source": "36氪",
+      "published": "2026-03-16",
+      "summary": "今日热点导览于东来最新回应胖东来“40亿资产分配”周鸿祎向母校西安交通大学捐赠1亿元河南首家人形机器人4S店开业，租赁业务火热Meta被曝计划裁员20%甚至更多比亚迪正在评估入局F1TOP3大新闻美宜佳总部回应多地门店卖假烟，广东省烟草专卖局已查获美宜佳门店非法卷烟139.99万支3月14日，大量网友反映在美宜佳便利店买到了“假烟”。美宜家总部客服告诉记者，总部已经在积极跟进此事，“目前的话已经在对全国4万家门店进行“拉网式”排查，如果发现有问题的门店会立即停业处理。”针对于被曝售卖假烟的门店，客服表示，“我们公司对这种售假行为零容忍严处罚，如果情况属实我们会从严追责，终止合作，后续也会进一步",
+      "link": "https://36kr.com/p/3724860285319556?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
       "source": "量子位",
       "published": "2026-03-15",
       "summary": "AI救了我的狗！从奄奄一息到满公园追兔子",
       "link": "https://www.qbitai.com/2026/03/387935.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
+      "source": "InfoQ 中文",
+      "published": "2026-03-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -31,6 +47,14 @@
       "published": "2026-03-15",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AntFlow 1.7.0 震撼发布：小程序首发 + 流程\"动态手术\" + 零代码接入，开启移动审批新纪元！",
+      "source": "开源中国",
+      "published": "2026-03-15",
+      "summary": "> 马年第一发，马年伊始,牛马便迅速调整状态,马不停蹄赶工.经过两个多月的研发攻坚——小程序端终于来了！流程不再只是\"跑起来\"，而是\"随时改、随地批、随心配\"。 > Vform表单移动端不开源,我们和原作者保持密切沟通,帮助Vform企业版用户快速将vform企业版和antflow集成。（还帮助vform社区群友提供技术支持，解决非ant...",
+      "link": "https://www.oschina.net/news/410743",
       "category": "AI News"
     },
     {
@@ -90,14 +114,6 @@
       "category": "AI News"
     },
     {
-      "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
-      "source": "InfoQ 中文",
-      "published": "2026-03-14",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "开发者工具箱 Kairoa v1.1.16 发布：新增 AI 聊天功能",
       "source": "开源中国",
       "published": "2026-03-14",
@@ -122,14 +138,6 @@
       "category": "AI News"
     },
     {
-      "title": "前华为北美高管团队创业AIDC算力电源赛道，正推进与国际大厂合作 | 硬氪首发",
-      "source": "36氪",
-      "published": "2026-03-14",
-      "summary": "作者 | 林晴晴编辑 | 袁斯来硬氪获悉，AIDC全栈算力电源解决方案提供商「梅威斯Matrix Power」已于近日完成A轮融资，由星星充电独家投资，金额为数千万元，治臻咨询担任其长期独家财务顾问。此前公司曾获某上市公司天使轮、宇杉资本Pre-A轮投资。本轮资金将主要用于AI数据中心电源的持续研发、海外市场拓展及流动资金补充。梅威斯电气技术（上海）有限公司成立于2020年，是一家专注于AI数据中心（AIDC）算力电源的解决方案商。公司专注于高效、高密度电源产品的研发，产品线覆盖从传统54VDC机柜内供电到下一代±400V/800V HVDC柜外架构，再到固态变压器等前沿技术。随着AI算力需求",
-      "link": "https://36kr.com/p/3722683801909641?f=rss",
-      "category": "AI News"
-    },
-    {
       "title": "团队到底谁在摸鱼？国产甘特图黑马星甘 V3.2 用\"人员工作量视图\"抓个正着！",
       "source": "开源中国",
       "published": "2026-03-13",
@@ -151,14 +159,6 @@
       "published": "2026-03-13",
       "summary": "YouTrack 发布了 2026 的项目发展路线图，重点聚焦为不断扩缩的大型团队提供更强大的支持。一些工作重点内容如下： 对于从 Jira 和 Confluence 等工具迁移而来的团队，YouTrack 团队正致力于提高导入过程的流畅度、为应用开发者拓展机会，并构建支持大规模过渡的基础架构。 同时致力于将 YouTrack 迁移到支持多节点环境的...",
       "link": "https://www.oschina.net/news/410192/youtrack-2026-roadmap",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥🔥【2026 · 深圳】AI Maker Summit",
-      "source": "开源中国",
-      "published": "2026-03-13",
-      "summary": "AI Maker Summit，是一个为创造者而生的大会。 大会官网：https://aimakersummit.com",
-      "link": "https://www.oschina.net/event/8598176",
       "category": "AI News"
     }
   ]
