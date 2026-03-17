@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-17T01:05:00.928075+00:00",
+  "updated": "2026-03-17T12:41:28.324926+00:00",
   "articles": [
     {
-      "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
+      "title": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
+      "source": "量子位",
+      "published": "2026-03-17",
+      "summary": "百度把一整桌龙虾全家桶端上来了",
+      "link": "https://www.qbitai.com/2026/03/388672.html",
+      "category": "AI News"
+    },
+    {
+      "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
+      "source": "量子位",
+      "published": "2026-03-17",
+      "summary": "赋能云南绿电智算发展",
+      "link": "https://www.qbitai.com/2026/03/388668.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从“打到车”到“打到对的车”：AI小滴打开服务消费新空间",
+      "source": "量子位",
+      "published": "2026-03-17",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/388608.html",
+      "category": "AI News"
+    },
+    {
+      "title": "零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块",
+      "source": "量子位",
+      "published": "2026-03-17",
+      "summary": "今年冲刺50亿净利",
+      "link": "https://www.qbitai.com/2026/03/388527.html",
+      "category": "AI News"
+    },
+    {
+      "title": "企业级靠谱龙虾升级，拒绝失控",
+      "source": "量子位",
+      "published": "2026-03-17",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/388519.html",
+      "category": "AI News"
+    },
+    {
+      "title": "模力工场 035 周 AI 应用周榜：AI 正在走出通用叙事，进入细分人群与真实场景",
       "source": "InfoQ 中文",
       "published": "2026-03-17",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "36氪首发｜「Chowbus」获8100万美元融资，借力AI做北美餐饮品牌的SaaS首选",
+      "title": "被逼退的Uber联创，现在下场做工业机器人",
+      "source": "InfoQ 中文",
+      "published": "2026-03-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gLh05AkaRBPERf66qBFJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenViking x OpenClaw：开箱即用，解决 Agent 的长期记忆困局",
+      "source": "InfoQ 中文",
+      "published": "2026-03-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ctgNSzTYmLhsRaUVZESe?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架",
+      "source": "InfoQ 中文",
+      "published": "2026-03-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！",
+      "source": "InfoQ 中文",
+      "published": "2026-03-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "功能强大的 WhatsApp 自动化聊天机器人",
+      "source": "开源中国",
+      "published": "2026-03-17",
+      "summary": "这个基于Python的项目旨在打造一个运行在WhatsApp Web上的自动化聊天机器人。它不仅支持基础的自动回复，更深度集成了AI能力，让你能够用自然、智能的方式管理WhatsApp对话。 gitee地址：https://gitee.com/wangfsgit/whatsapp_bot_ai.git， github地址：https://github.com/wangfs-2th/whatsapp_bot_ai.git。 核心功能亮...",
+      "link": "https://www.oschina.net/news/411385",
+      "category": "AI News"
+    },
+    {
+      "title": "报名仅剩 3 天｜MoonBit 软件合成挑战赛已有数十个项目参赛！",
+      "source": "开源中国",
+      "published": "2026-03-17",
+      "summary": "3 月 20 日截止！ MoonBit 软件合成挑战赛 报名进入最后倒计时，距离报名截止仅剩 3 天！ 目前已经有 几十位开发者报名参赛，参赛项目方向可以说是 百花齐放。从已经提交的项目来看，大家的创意和技术方向都非常丰富，例如： 交互式定理证明器 现代交换图表编辑器 通用文件格式转换工具 跨平台动画绘制工具 影视色彩风格...",
+      "link": "https://www.oschina.net/news/411373",
+      "category": "AI News"
+    },
+    {
+      "title": "月之暗面 Kimi 团队提出 Attention Residuals (AttnRes) 架构，重新定义深度学习残差连接新范式",
+      "source": "开源中国",
+      "published": "2026-03-17",
+      "summary": "中国AI初创企业月之暗面（Moonshot AI）旗下Kimi团队发布了重磅技术论文《Attention Residuals: Rethinking depth-wise aggregation》，提出了一项名为Attention Residuals（注意力残差，简称AttnRes）的全新深度网络架构组件。 该工作从根本上重构了Transformer模型在深度方向上的信息流动方式，用softmax注意力机制替代...",
+      "link": "https://www.oschina.net/news/411372",
+      "category": "AI News"
+    },
+    {
+      "title": "英伟达开源 NemoClaw，为 OpenClaw 添加隐私和安全控制功能",
+      "source": "开源中国",
+      "published": "2026-03-17",
+      "summary": "英伟达正式推出开源堆栈NemoClaw，旨在为OpenClaw生态增添关键的安全与隐私控制层。该工具允许用户通过单行命令，在任何设备上部署全天候运行且具备自我进化能力的自主AI代理，同时确保数据处理的合规性与安全性。 GitHub：https://github.com/NVIDIA/NemoClaw 文档：https://docs.nvidia.com/nemoclaw/latest/ NemoClaw...",
+      "link": "https://www.oschina.net/news/411357",
+      "category": "AI News"
+    },
+    {
+      "title": "CrateDB 6.2.3 发布，分布式 SQL 数据库",
+      "source": "开源中国",
+      "published": "2026-03-17",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.3 现已正式发布，该版本更新内容如下： 修复了访...",
+      "link": "https://www.oschina.net/news/411346/cratedb-6-2-3-released",
+      "category": "AI News"
+    },
+    {
+      "title": "桌游DM、儿童陪护……在清华，我们看到了龙虾九种「叛逆」的玩法",
       "source": "36氪",
       "published": "2026-03-17",
-      "summary": "36氪获悉，北美头部餐饮SaaS企业「Chowbus」宣布完成8100万美元新一轮融资，累计融资规模已达2.09亿美元。其中，本轮由Prysm Capital和Left Lane Capital联合领投，Dutchess、Fika、Avid Bank等跟投。本轮融资将重点投入两大方向：AI业务研发与全球化布局。Chowbus是36氪持续关注的公司，成立于2016年，深耕北美市场十年，已实现美加全境的全域业务覆盖。凭借“北美本土基因+全品类深度适配”的特质，Chowbus目前已成为茉莉奶白、沪上阿姨、奈雪、茶百道、书亦烧仙草、茶话弄、小龙坎、华莱士、紫燕百味鸡等大批中国出海餐饮品牌，以及川山甲、",
-      "link": "https://36kr.com/p/3719657153459589?f=rss",
+      "summary": "文｜王欣逸 钟楚笛编辑｜周鑫雨3月15日，清华校园。看惯了市面上一水儿的提效工具、高深莫测的部署教程，在由清北学生社区AttraX发起的“Outlier” OpenClaw黑客松路演上，我们看到了一些跳脱的、叛逆的“龙虾”玩法。OpenClaw，俗称龙虾，当下最火的Agent开源框架。它能在计算机本地及云端部署，全面接管用户电脑，自动完成文件处理、邮件收发等任务。随着2026年3月，腾讯等大厂接连举办免费的龙虾部署活动，这项原本局限在极客圈子里的狂欢，逐渐蔓延至大众。龙虾的火热，超乎预期。最初，AttraX团队把活动定位为“AI浪潮下的跨学科碰撞”。但活动报名人数出乎意料的多，也有不少合作方找",
+      "link": "https://36kr.com/p/3727015748107398?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨西贝获95亿元身家富豪入股；机票买贵可免费退，三大航司发布公告；“刘文祥”麻辣烫发文致歉",
+      "title": "36氪��报｜苹果首席运营官Sabih Khan现身深圳；马斯克：电动超跑Roadster或将于四月下旬亮相；华为面向AI推理场景发布新一代AI数据基础设施",
       "source": "36氪",
       "published": "2026-03-17",
-      "summary": "今日热点导览阿里巴巴成立新事业群：Alibaba Token HubiPhone将首次支持分屏功能，为iPhone Fold专属永辉发公开信喊话山姆vivo、iQOO宣布涨价智谱宣布新模型API涨价20%TOP3大新闻西贝获95亿元身家富豪入股公开资料显示，内蒙古西贝餐饮集团有限公司发生工商变更，新增林来嵘为股东，注册资本由约1.02亿人民币增至约1.04亿人民币。内蒙古西贝餐饮集团有限公司成立于2017年10月，法定代表人为贾国龙，经营范围含餐饮服务、食品生产、食品互联网销售、餐饮管理等。股东信息显示，该公司现由北京西贝企业管理有限公司、贾国龙及上述新增股东等共同持股。公开资料显示，林来嵘为",
-      "link": "https://36kr.com/p/3726276875680388?f=rss",
+      "summary": "大公司：西门子与Rittal达成数据中心能源基础设施战略合作伙伴关系西门子和Rittal已建立战略合作伙伴关系，共同开发面向未来的产品，为数据中心更高效的电力分发提供可持续解决方案。（财联社）腾讯音乐：2025年全年总收入329亿元，同比增长15.8%36氪获悉，腾讯音乐发布截至2025年12月31日止第四季度及全年的未经审计财务业绩。腾讯音乐第四季度总收入86.4亿元，同比增长15.9%，调整后净利润25.8亿元，同比增长7.6%；全年总收入329亿元，同比增长15.8%，调整后净利润99.2亿元，同比增长22.0%。全年在线音乐订阅收入同比增长16.0%至176.6亿元，全年在线音乐非订阅",
+      "link": "https://36kr.com/p/3726912161184128?f=rss",
       "category": "AI News"
     },
     {
-      "title": "零跑，首次全年盈利！",
-      "source": "量子位",
-      "published": "2026-03-16",
-      "summary": "半价理想学理想盈利了",
-      "link": "https://www.qbitai.com/2026/03/388411.html",
-      "category": "AI News"
-    },
-    {
-      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "source": "量子位",
-      "published": "2026-03-16",
-      "summary": "一个虚构的产品，竟然也会出现在AI推荐里？",
-      "link": "https://www.qbitai.com/2026/03/388387.html",
-      "category": "AI News"
-    },
-    {
-      "title": "机器人爆款收割机狂揽1.2亿美金",
-      "source": "量子位",
-      "published": "2026-03-16",
-      "summary": "加速打造具身智能原生技术底座",
-      "link": "https://www.qbitai.com/2026/03/388381.html",
-      "category": "AI News"
-    },
-    {
-      "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-      "source": "量子位",
-      "published": "2026-03-16",
-      "summary": "还有龙虾专属套餐",
-      "link": "https://www.qbitai.com/2026/03/388352.html",
-      "category": "AI News"
-    },
-    {
-      "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
-      "source": "量子位",
-      "published": "2026-03-16",
-      "summary": "养虾真不如养骡子了",
-      "link": "https://www.qbitai.com/2026/03/388071.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Elastic 9.3 升级！向量搜索快 12 倍",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/HS2jaSrSCcIz0ev22ZqX?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从 ChatBI 到多 Agent 分析中台：Snowflake 与亚马逊云科技的实战架构",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/gKOHwNErbptx92BQWZmQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "用 MoonBit 开发的 首个 Killer APP 火爆海外",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "GitHub Actions 调试成本太高的问题一直广受诟病。近日前端与开发工具领域活跃的技术大V mizchi 用 MoonBit 语言开发了一个项目 actrun——本地 GitHub Actions 运行器，旨在解决此问题。 项目地址： https://github.com/mizchi/actrun 项目开源后迅速在 X （推特）和 GitHub 上引起热议，传播超 14 万+ ，GitHub Star 迅...",
-      "link": "https://www.oschina.net/news/411049",
-      "category": "AI News"
-    },
-    {
-      "title": "院士领衔 + 院长云集！农业 AI 顶级盛会议题嘉宾揭秘",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "导语：万众期待的 全国农业高校人工智能学院院长研讨会 将于3月20日在三亚崖州湾召开。今天，我们隆重揭晓研讨会的重磅嘉宾阵容和核心议题，一场农业 AI for Science 的思想盛宴即将开启，开源中国邀您共同见证！ 顶级嘉宾阵容，打造农业 AI 高端智库 本次研讨会以 “小而精、高规格” 为特色，组建了权威的学术和组织阵...",
-      "link": "https://www.oschina.net/news/411039",
-      "category": "AI News"
-    },
-    {
-      "title": "Ant Design 6.3.3 发布，企业级 UI 设计语言和 React 实现",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "Ant Design 是阿里巴巴开源的一套企业级 UI 设计语言和 React 组件库。Ant Design 6.3.3 现已发布，主要更新内容如下： Image 优化 Image 预览蒙层 blur 效果的 backdrop-filter 过渡，减少闪烁感。#57299 修复 Image 在 movable={false} 时仍显示 move 光标的问题。#57288 优化 App 链接的 :focus-visible 外框样式，提...",
-      "link": "https://www.oschina.net/news/411031/ant-design-6-3-3-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Apache DolphinScheduler 3.4.1 已发布，新增任务分发超时检测",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "新版本不仅引入了 任务分发超时检测机制 和 任务最大运行时间控制能力，还修复了多项调度逻辑、插件功能以及 API 行为中的问题，同时对系统文档、开发流程和工程结构进行了优化。",
-      "link": "https://my.oschina.net/dailidong/blog/19210215",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里通义开源首个影视级配音多模态大模型 Fun-CineForge",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "阿里通义实验室发布并开源了首个支持影视级多场景配音的多模态大模型 Fun-CineForge。并配套开放了高质量数据集的构建方法。公告称，“通过“数据 + 模型”的一体化设计，Fun-CineForge 正尝试解决影视级 AI 配音长期面临的关键问题。” 本次开源内容核心包含两部分： 模型侧：面向复杂影视场景的多模态配音大模型； 数据...",
-      "link": "https://www.oschina.net/news/411015",
-      "category": "AI News"
-    },
-    {
-      "title": "地平线芯片负责人将离职，公司走向软硬一体架构｜36氪独家",
+      "title": "招商蛇口：2025年营收同降13.53%至1547.28亿元 两大业务逆势增长",
       "source": "36氪",
-      "published": "2026-03-16",
-      "summary": "图为 地平线文｜肖漫编辑｜李勤、杨轩36氪独家获悉，地平线芯片研发负责人陈鹏即将离职，内部呼声比较高的接替人选是地平线副总裁兼首席架构师苏箐。据悉，地平线内部一直在推动软硬一体，苏箐也参与了征程7系列芯片的架构设计和产品定义。陈鹏在加入地平线之前已在ICT芯片行业工作了19年，曾管理千人级的芯片团队，是芯片行业的老兵。加入地平线后，陈鹏主要负责芯片SoC系统架构设计和芯片生产厂商对接等事务，加入地平线时正值征程6系列芯片开发阶段，接手了征程6P从设计到量产到出货的全过程。征程6P是地平线当前主力产品之一，单颗算力560TOPS，被应用在多家车企的中高阶智能驾驶方案中。但真正决定地平线下一阶段竞",
-      "link": "https://36kr.com/p/3725426197150345?f=rss",
+      "published": "2026-03-17",
+      "summary": "3月16日晚间，招商蛇口发布2025年年度报告。年报显示，2025年，招商蛇口实现营收1547.28亿元，同比下滑13.53%。归属于上市公司股东的净利润为10.24亿元，同比大跌74.65%，两项核心数据均创下近五年新低。而扣除非经常性损益的净利润更是大降93.10%至1.69亿元；再有加权净资产收益率，也从2024年的3.36%跌至2025年的0.73%，同样刷新近年来的最低纪录。图源：企业年报针对业绩大变动，招商蛇口称主要是受公司开发业务项目结转规模同比下降，以及投资收益同比减少的影响。全年来看，第四季度的表现很是特别。当季公司营收650亿元，几乎达到全年业绩的半数。但同时，归属于上市公",
+      "link": "https://36kr.com/p/3726887582185858?f=rss",
       "category": "AI News"
     },
     {
-      "title": "零一汽车再获12亿元融资，想成为重卡领域的「特斯拉」｜36氪首发",
+      "title": "华为游戏渠道服突发异常，大量玩家账号短暂出现无法登录情况",
       "source": "36氪",
-      "published": "2026-03-16",
-      "summary": "零一汽车文｜肖漫编辑｜李勤36氪获悉，新能源智能重卡公司零一汽车已完成新一轮12亿元人民币融资。本轮融资由溥泉资本（宁德时代旗下唯一产业投资平台）、Momenta、蔚来资本联合领投，安徽灵通集团、方广投资、淡马锡旗下毅峰资本、愉悦资本、申能诚毅、蓝湖资本跟投，老股东活水资本持续跟投。这是零一汽车近半年内完成的第二笔融资。2025年年中，公司刚刚完成 5亿元A轮融资，连续两轮融资金额累计超过17亿元。成立于2022年的零一汽车，是一家同时布局新能源重卡整车与自动驾驶技术的创业公司。公司由前图森未来联合创始人黄泽铧、前三一重卡总经理、福田戴姆勒副总裁张红松，以及前中国重汽执行董事、福田戴姆勒执行副",
-      "link": "https://36kr.com/p/3717366669948297?f=rss",
+      "published": "2026-03-17",
+      "summary": "文 | 贝果树编辑 | 刘士武华为渠道服玩家无法登录游戏3月17日，大量玩家反馈在登录华为渠道服的多款游戏时，被提示“游戏内账号有未成年消费申诉记录并已完成退款，已终止服务，无法登录”。但玩家表示，账号已完成成年人实名认证且未发起过退款申诉，此异常涉及《闪耀暖暖》《恋与深空》《蛋仔派对》等多款游戏。叠纸游戏在微博接受玩家反馈时表示，“华为渠道登录提示终止服务的情况已反馈，核实为华为方原因导致”。来源：微博同各大手机品牌渠道服相似，华为渠道服是通过华为应用市场下载的游戏专属版本，渠道服玩家需要使用华为账号登录。渠道服游戏账号数据与官方服务器数据不互通，单独在华为服务器内储存。当然在渠道服中，玩家",
+      "link": "https://36kr.com/p/3726832908368521?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪晚报｜韩元对美元汇率收盘价跌至近18年来最低；WTI原油上破100美元/桶；抖音旗下科技公司在深圳成立新信息技术公司",
+      "title": "透视滴滴2025年报：国际业务超预期，持续加码拉美市场",
       "source": "36氪",
-      "published": "2026-03-16",
-      "summary": "大公司：分析人士：虽然涉及华虹的利好传闻不断，英伟达GTC 2026大会可能也是引爆半导体板块的一个主因3月16日午后，创业板指涨超1%。半导体、存储芯片板块持续走高。其中，总市值超2000亿的华虹公司A股一度大涨超16%，其H股一度大涨超11%。整个半导体板块被带飞，芯片ETF午后直线飙升，一度涨超2%。分析人士认为，虽然涉及华虹的利好传闻不断，英伟达即将召开的GTC2026大会可能也是引爆半导体板块的一个主因。另外，有消息称，联电、世界先进、力积电等晶圆代工厂涨价，涨价也成为另一个驱动因素。（券商中国）抖音旗下科技公司在深圳成立新信息技术公司36氪获悉，爱企查App显示，近日，深圳云启智合",
-      "link": "https://36kr.com/p/3725424173857155?f=rss",
+      "published": "2026-03-17",
+      "summary": "3月13日，滴滴发布2025年第四季度及全年业绩报告，国际业务表现超预期。财报显示，2025年四季度，滴滴国际业务GTV（交易额）同比增长47.1%至366亿元，订单量同比增长24.5%至12.65亿单，日均订单量超1300万单，已占到中国出行的三分之一。2025年4月，滴滴宣布重启巴西外卖后，进一步加大对拉美等重点海外市场的投入。滴滴旗下99平台通过“出行+外卖+金融”三大服务协同，为巴西当地用户打造一站式生活服务平台。99骑手在送餐持续投入使得滴滴过往三个季度的订单量和GTV均实现双位数阶梯式增长，第四季度单量再创新高。纵观2025全年，滴滴国际业务订单量同比增长24.7%至45.05亿单",
+      "link": "https://36kr.com/p/3726781163682439?f=rss",
       "category": "AI News"
     }
   ]
