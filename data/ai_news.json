@@ -1,6 +1,30 @@
 {
-  "updated": "2026-03-16T12:42:29.682492+00:00",
+  "updated": "2026-03-17T01:05:00.928075+00:00",
   "articles": [
+    {
+      "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
+      "source": "InfoQ 中文",
+      "published": "2026-03-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发｜「Chowbus」获8100万美元融资，借力AI做北美餐饮品牌的SaaS首选",
+      "source": "36氪",
+      "published": "2026-03-17",
+      "summary": "36氪获悉，北美头部餐饮SaaS企业「Chowbus」宣布完成8100万美元新一轮融资，累计融资规模已达2.09亿美元。其中，本轮由Prysm Capital和Left Lane Capital联合领投，Dutchess、Fika、Avid Bank等跟投。本轮融资将重点投入两大方向：AI业务研发与全球化布局。Chowbus是36氪持续关注的公司，成立于2016年，深耕北美市场十年，已实现美加全境的全域业务覆盖。凭借“北美本土基因+全品类深度适配”的特质，Chowbus目前已成为茉莉奶白、沪上阿姨、奈雪、茶百道、书亦烧仙草、茶话弄、小龙坎、华莱士、紫燕百味鸡等大批中国出海餐饮品牌，以及川山甲、",
+      "link": "https://36kr.com/p/3719657153459589?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨西贝获95亿元身家富豪入股；机票买贵可免费退，三大航司发布公告；“刘文祥”麻辣烫发文致歉",
+      "source": "36氪",
+      "published": "2026-03-17",
+      "summary": "今日热点导览阿里巴巴成立新事业群：Alibaba Token HubiPhone将首次支持分屏功能，为iPhone Fold专属永辉发公开信喊话山姆vivo、iQOO宣布涨价智谱宣布新模型API涨价20%TOP3大新闻西贝获95亿元身家富豪入股公开资料显示，内蒙古西贝餐饮集团有限公司发生工商变更，新增林来嵘为股东，注册资本由约1.02亿人民币增至约1.04亿人民币。内蒙古西贝餐饮集团有限公司成立于2017年10月，法定代表人为贾国龙，经营范围含餐饮服务、食品生产、食品互联网销售、餐饮管理等。股东信息显示，该公司现由北京西贝企业管理有限公司、贾国龙及上述新增股东等共同持股。公开资料显示，林来嵘为",
+      "link": "https://36kr.com/p/3726276875680388?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "零跑，首次全年盈利！",
       "source": "量子位",
@@ -42,6 +66,14 @@
       "category": "AI News"
     },
     {
+      "title": "Elastic 9.3 升级！向量搜索快 12 倍",
+      "source": "InfoQ 中文",
+      "published": "2026-03-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/bDuSyAJix8z1Aq0ff0lZ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
       "title": "曝Meta狂砍20%岗位！超1.6万人将失业，传闻“要用AI智能体取代整个工程团队”？",
       "source": "InfoQ 中文",
       "published": "2026-03-16",
@@ -63,22 +95,6 @@
       "published": "2026-03-16",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/idzEW0gbCfaAusraiXbu?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 领导力：像管理团队一样管理 AI",
-      "source": "InfoQ 中文",
-      "published": "2026-03-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/DCc9GWuL9MVlgvDpRJWg?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -106,19 +122,19 @@
       "category": "AI News"
     },
     {
-      "title": "会做科研的DrClaw来了！从部署到科研实操，零基础也能上车｜爱赛思OpenAI4S社区百家讲坛第一期",
-      "source": "开源中国",
-      "published": "2026-03-16",
-      "summary": "最近全网都在养“龙虾”，从极客玩家到全国两会代表，这只带着红色“钳子”的OpenClaw AI智能体彻底火出圈。它能自主规划步骤、操控软件、处理数据，让AI第一次真正长出了“手和脚”，人人都在蹲教程、学部署，玩梗“养虾”成了顶流科技新风潮。 但问题来了：这只全民热议的“龙虾”，放到科研圈到底怎么养？ 部署完只会...",
-      "link": "https://www.oschina.net/news/411022",
-      "category": "AI News"
-    },
-    {
       "title": "Apache DolphinScheduler 3.4.1 已发布，新增任务分发超时检测",
       "source": "开源中国",
       "published": "2026-03-16",
       "summary": "新版本不仅引入了 任务分发超时检测机制 和 任务最大运行时间控制能力，还修复了多项调度逻辑、插件功能以及 API 行为中的问题，同时对系统文档、开发流程和工程结构进行了优化。",
       "link": "https://my.oschina.net/dailidong/blog/19210215",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里通义开源首个影视级配音多模态大模型 Fun-CineForge",
+      "source": "开源中国",
+      "published": "2026-03-16",
+      "summary": "阿里通义实验室发布并开源了首个支持影视级多场景配音的多模态大模型 Fun-CineForge。并配套开放了高质量数据集的构建方法。公告称，“通过“数据 + 模型”的一体化设计，Fun-CineForge 正尝试解决影视级 AI 配音长期面临的关键问题。” 本次开源内容核心包含两部分： 模型侧：面向复杂影视场景的多模态配音大模型； 数据...",
+      "link": "https://www.oschina.net/news/411015",
       "category": "AI News"
     },
     {
@@ -143,22 +159,6 @@
       "published": "2026-03-16",
       "summary": "大公司：分析人士：虽然涉及华虹的利好传闻不断，英伟达GTC 2026大会可能也是引爆半导体板块的一个主因3月16日午后，创业板指涨超1%。半导体、存储芯片板块持续走高。其中，总市值超2000亿的华虹公司A股一度大涨超16%，其H股一度大涨超11%。整个半导体板块被带飞，芯片ETF午后直线飙升，一度涨超2%。分析人士认为，虽然涉及华虹的利好传闻不断，英伟达即将召开的GTC2026大会可能也是引爆半导体板块的一个主因。另外，有消息称，联电、世界先进、力积电等晶圆代工厂涨价，涨价也成为另一个驱动因素。（券商中国）抖音旗下科技公司在深圳成立新信息技术公司36氪获悉，爱企查App显示，近日，深圳云启智合",
       "link": "https://36kr.com/p/3725424173857155?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "松下发布中国事业新战略：明星单品、套系家电加码，强调“Made by China”出海丨最前线",
-      "source": "36氪",
-      "published": "2026-03-16",
-      "summary": "近日，中国家电及消费电子博览会（简称“AWE”）在上海落下帷幕。展会期间，家电品牌松下举办“松下电器中国事业战略发布暨Top渠道商大会”，并发布中国事业新战略。松下电器中国事业战略发布暨Top渠道商大会，图片：企业提供“当前中国家电市场的特征是：需求持续下降、存量市场内卷不断加剧；消费需求持续呈现K型分化，行业整体增长面临挑战。但中国依然是全球家电产业的核心中枢。”松下电器株式会社中国东北亚事业副总裁、智慧生活事业部事业部长林一斌在大会发言中表示。基于这一现状，松下家电中国事业将在未来持续深化三项主要战略。具体而言，第一，持续推出广受消费者喜爱的明星单品，如松下全球首创四筒全热泵洗烘护一体机A",
-      "link": "https://36kr.com/p/3725245431839369?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
-      "source": "36氪",
-      "published": "2026-03-16",
-      "summary": "继2025年港交所重现“IPO大年”（全年117家公司上市，募资总额达2869亿港元，同比大增200%）之后，2026年的港股上市潮仍在强势延续年内已有28家企业成功IPO，募资总额逼近千亿大关。值得注意的是，今年港股IPO的含“AI”量极高。不仅有MiniMax、智谱等大模型独角兽接连登陆，壁仞科技、天数智芯等算力巨头也相继入局。而在3月13日，港股AI资产池再添核心资产——“面向全球市场的企业网络解决方案第一股”飞速创新顺利通过港交所聆讯，为火热的AI板块补齐了至关重要的“网络基建”拼图。AI时代的底层基建由算力、存储与网络“三足鼎立”。摩根大通近日研报指出，伴随GPU集群规模的持续扩张，",
-      "link": "https://36kr.com/p/3725233182062982?f=rss",
       "category": "AI News"
     }
   ]
