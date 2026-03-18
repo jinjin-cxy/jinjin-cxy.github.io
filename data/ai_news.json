@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-18T01:08:42.976783+00:00",
+  "updated": "2026-03-18T12:41:34.989773+00:00",
   "articles": [
     {
-      "title": "想帮大家做「一人公司」，茉莉语境融资百万美元",
+      "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
+      "source": "量子位",
+      "published": "2026-03-18",
+      "summary": "一开口就把程序员们整不会了",
+      "link": "https://www.qbitai.com/2026/03/389004.html",
+      "category": "AI News"
+    },
+    {
+      "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
+      "source": "量子位",
+      "published": "2026-03-18",
+      "summary": "微信也能养上龙虾了",
+      "link": "https://www.qbitai.com/2026/03/388980.html",
+      "category": "AI News"
+    },
+    {
+      "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+      "source": "量子位",
+      "published": "2026-03-18",
+      "summary": "延续淘天集团全面拥抱AI的态势。",
+      "link": "https://www.qbitai.com/2026/03/388972.html",
+      "category": "AI News"
+    },
+    {
+      "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
+      "source": "量子位",
+      "published": "2026-03-18",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/388959.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
+      "source": "量子位",
+      "published": "2026-03-18",
+      "summary": "内置“开箱即用”的行业级解决方案",
+      "link": "https://www.qbitai.com/2026/03/388845.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从桌面到企业：DGX 双系统搭配 NemoClaw，打造自主智能体全流程开发平台",
+      "source": "InfoQ 中文",
+      "published": "2026-03-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/5XMEXakce56W4NdSp7kI?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从狂热到工程、组织实践，OpenClaw这阵风能刮多久？",
+      "source": "InfoQ 中文",
+      "published": "2026-03-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Th0um55qt9mMORoZ7MD8?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "统一架构搞定 TP+AP 混合负载，TDSQL-B实时分析引擎三大核心价值一次讲清",
+      "source": "InfoQ 中文",
+      "published": "2026-03-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/iWKMyl5ZCr4cvBcwNXC9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "兼容 HBase 不裁剪，TDSQL Boundless 性能拉满",
+      "source": "InfoQ 中文",
+      "published": "2026-03-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/ZXcae7fUViD2NJxIBYSt?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "多模态能力拆解，揭秘TDSQL Boundless的四大关键点",
+      "source": "InfoQ 中文",
+      "published": "2026-03-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/UZXD8jU3Hadlce3L8OVS?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯混元新模型 HY 3.0 下月发布",
+      "source": "开源中国",
+      "published": "2026-03-18",
+      "summary": "腾讯在最新财报发布后的媒体沟通会上披露，其混元大模型（Hunyuan）3.0 版本目前正在内部业务场景进行测试，计划于 4 月正式对外发布。此次升级被定位为混元模型的重大迭代，相较于 2.0 版本，在模型效果、推理能力及智能体（Agent）应用方面均有显著提升。 据了解，自 2025 年下半年起，腾讯混元团队已启动组织架构与研...",
+      "link": "https://www.oschina.net/news/411783",
+      "category": "AI News"
+    },
+    {
+      "title": "Habitica v5.46.4 发布，习惯养成游戏",
+      "source": "开源中国",
+      "published": "2026-03-18",
+      "summary": "Habitica v5.46.4 现已发布。Habitica 是一个习惯养成及生产力应用，让你 “游戏人生”。游戏里的奖惩措施能激励用户完成任务，还有一个强大的互动社区为完成任务提供好建议，帮助达成目标，变得健康、勤奋与快乐。 此版本更新内容如下： API 修复：不允许用户搜索和加入已存档的公会 修复：在群组邀请邮件中使用正确的变...",
+      "link": "https://www.oschina.net/news/411762/habitica-5-46-4-released",
+      "category": "AI News"
+    },
+    {
+      "title": "智谱发布多模态模型 GLM-OCR 技术报告",
+      "source": "开源中国",
+      "published": "2026-03-18",
+      "summary": "智谱团队正式发布其多模态模型 GLM-OCR 技术报告，详细介绍了模型「SOTA 文档理解能力」背后的技术细节。 为了解决复杂文档理解的高性能与高吞吐需求，GLM-OCR 的设计基于三项关键观察与技术创新： 集成版面分析：在识别前先进行版面检测，将复杂页面分割为多个简单区域，这提升了模型对复杂版面的鲁棒性和性能稳定性，并...",
+      "link": "https://www.oschina.net/news/411746",
+      "category": "AI News"
+    },
+    {
+      "title": "OC 冒烟测试套件开源",
+      "source": "开源中国",
+      "published": "2026-03-18",
+      "summary": "OpenCloudOS 社区宣布正式开源了 os_smoke —— 一套专为操作系统设计的轻量级、自动化冒烟测试工具。主要用于在系统镜像构建完成后，第一时间对系统进行全方位的“健康检查”，快速验证内核、基础系统、驱动、开发工具等关键组件是否正常工作。 根据介绍，os_smoke 的架构极其轻量化，无需复杂的环境配置，依赖少，运行...",
+      "link": "https://www.oschina.net/news/411724",
+      "category": "AI News"
+    },
+    {
+      "title": "百度发布“龙虾全家桶”：手机、电脑、家居全覆盖",
+      "source": "开源中国",
+      "published": "2026-03-18",
+      "summary": "百度正式发布了旗下「龙虾」系列 AI 智能体产品全家桶，涵盖桌面端、移动端、云端及家居端多个场景，包括四款核心形态： 桌面端的 DuMate 主打全链路办公自动化，具备企业级安全管控能力，并能持续学习用户工作习惯； 移动端的 RedClaw（原「红手指 Operator」正式更名）主打零部署、零配置，支持跨 App 交互，面向通勤、...",
+      "link": "https://www.oschina.net/news/411706",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜新疆新能源外送电量突破3000亿千瓦时；三星电子或发生大规模罢工，恐波及全球半导体产供链；社交平台X调整印尼用户年龄限制以符合新规",
       "source": "36氪",
       "published": "2026-03-18",
-      "summary": "凌晨三点，自媒体博主阿鱼的第32个小红书账号自动发布了一条笔记：“救命！这个方法我要是早知道至少少加200小时班”。此刻她正在熟睡，而在云端，36只龙虾正在执行一套作战计划：4只幕后龙虾负责抓取热点、拆解爆款、审核违禁词，另外32只前台龙虾各自扮演着“工作3年的互联网运营妹子”“靠副业还清8万房贷的上班族”“8年经验的产品老鸟”等不同人格，在32个垂直账号上同时发声。三个月前，阿鱼还只是一个月入8000、手搓5个账号就精疲力竭的自媒体博主。现在，她一个人指挥的“内容军团”日产出160条稿件，月收入翻四倍。这不是孤例。在深圳，外贸员小陈用12只龙虾分驻侦察、触达、跟进、报价四个班组，把硅胶制品卖",
-      "link": "https://36kr.com/p/3727752358919305?f=rss",
+      "summary": "大公司：三星电子或发生大规模罢工，恐波及全球半导体产供链据韩联社18日报道，由超过6.6万名韩国三星电子工会成员参与表决的投票结果显示，93.1%的工会成员赞成罢工。若无重大变化，三星电子工会成员将于5月21日至6月7日全面罢工。据韩联社报道，三星电子作为全球重要的存储芯片制造商，一旦发生罢工，可能进一步加剧由全球人工智能数据中心建设持续升温带来的全球半导体供应趋紧局面，其影响或波及汽车、计算机及智能手机等多个行业。腾讯：四季度营收1943.7亿元，同比增长13%36氪获悉，腾讯发布2025年第四季度及全年财报。财报显示，腾讯四季度营收1943.7亿元，同比增长13%；Non-IFRS经营利润",
+      "link": "https://36kr.com/p/3728294939966598?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发｜专注智能运动眼镜，「光粒科技」完成近亿元Pre-B轮融资",
+      "title": "一年卖出515亿，万辰集团怎么做到的？",
       "source": "36氪",
       "published": "2026-03-18",
-      "summary": "36氪获悉，智能运动眼镜品牌「光粒科技」已完成近亿元Pre-B轮融资，本轮由杭州高新金投投资。本轮资金将主要用于团队建设、技术研发以及全球市场的营销销售拓展。「光粒科技」成立于2017年，专注于AR智能眼镜及运动科学算法的研发。自2023年起，公司聚焦智能运动眼镜赛道，通过全息树脂光波导技术将运动数据实时呈现在用户眼前，解决运动场景下“数据不可见”的痛点。目前，光粒已从早期单一的智能泳镜产品，逐步拓展为覆盖游泳、跑步、骑行、户外等多场景的智能运动眼镜矩阵。在智能泳镜这一细分赛道，光粒在国内市场占据领先地位，并开始在全球范围内与国际品牌展开竞争。一边把智能泳镜做深，一边开拓更广户外场景过去一年，",
-      "link": "https://36kr.com/p/3726585094863236?f=rss",
+      "summary": "万辰集团几乎交出了历史上最好的一份成绩单。3月17日晚间，好想来母公司万辰集团发布了2025年财报。报告期内，万辰集团营业收入为514.59亿元，同比增长59.17%；加回计提股份支付费用后的净利润为25.68亿元，同比增长212.18%；年度经营活动产生的现金流达到36.31亿元。值得关注的是，公司的核心业务“量贩零食”不仅营收高速增长，盈利水平也不断提升。财报显示，2025年万辰集团旗下量贩零食业务营收达508.57亿元，同比增长59.98%；全年毛利率12.32%，同比提升1.46个百分点；加回计提股份支付费用后的净利润为25.33亿元，净利率达到4.98%。进入2025年以来，量贩零食",
+      "link": "https://36kr.com/p/3728249171295363?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨宝宝巴士推送低俗广告被罚30万；山姆客服回应给三文鱼加不可生食标签；360回应“安全龙虾”私钥泄露",
+      "title": "2000万只“龙虾”进入企业，阿里的企业Agent新故事 | 最前线",
       "source": "36氪",
       "published": "2026-03-18",
-      "summary": "今日热点导览美股三大指数集体收涨，36氪涨超37%韩国首尔市内地铁全线接入微信支付雷军再回应停售第一代SU7：不想背刺老用户三星将停售首款三折叠手机Galaxy Z TriFold黄天鹅创始人回应角黄素争议：每天吃75个黄天鹅蛋才会超标胖东来169元1克拉方糖戒指再上架，每人限购5枚TOP3大新闻儿歌APP跳转成人广告，宝宝巴士被罚30万据界面新闻：公开资料显示，近日，宝宝巴士（福建）网络科技有限公司因发布低俗广告，被福州市仓山区市场监督管理局罚款30万，没收违法所得3.68元。此前，2025年10月，有网友反映称，宝宝巴士APP进入后会跳出成人广告，点击广告后会出现擦边视频。记者以用户身份向",
-      "link": "https://36kr.com/p/3727701336833157?f=rss",
+      "summary": "对钉钉创始人无招而言，在 AI 时代顿悟的瞬间并不是 ChatGPT 横空出世，而是早在 2020 年。第一次离开钉钉时，他游历了大半个中国，调研了许许多多不同的城市，之后所想通的事。“我想明白，AI 时代最颠覆性的变化不是其他，而是使用主体变了。”他看到，在二三线甚至更远的城市，因为互联网使用主体的变化，导致出现了各种各样不一样的应用供给——类似拼多多等应用崛起，就是这个逻辑。而在大模型来了之后，这个判断更加清晰：在 AI 时代，互联网执行主体从人变成了 AI。这个判断也贯穿了钉钉在 3 月 17 日举办的新品发布会。几乎同一时间，阿里在 3 月 16 日宣布几乎是大模型时代以来最重要的战略",
+      "link": "https://36kr.com/p/3727395193388161?f=rss",
       "category": "AI News"
     },
     {
-      "title": "小核酸药爆发在即，上游设备耗材供应商「聚海恒创」完成数千万元融资｜36氪首发",
+      "title": "36氪首发 | 高能粒子应用核心部件公司完成超亿元融资，加速高端仪器、半导体领域国产替代",
       "source": "36氪",
       "published": "2026-03-18",
-      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，杭州聚海恒创科技有限公司（下称“聚海恒创”）已完成新一轮数千万元融资。本轮融资��启航投资领投，杭州复林投资、杭州润苗基金以及老股东泰煜投资跟投，医然资本任财务顾问。本轮募集资金将用于核酸药物设备及配套耗材等新产品研发，以及海外市场拓展等。聚海恒创是一家核酸合成上游领域的平台型企业，可提供核酸合成全系列设备、试剂、耗材、原料及工艺开发等产品。公司创始人、CEO武广西曾任职全球头部核酸合成仪制造商Bioautomation，在该领域拥有近20年从业经历。近年来，随着海内外药企对小核酸药研发热情持续攀升，将核酸产业从传统服务于基础研究和分子诊断的阶段带入药物化时期",
-      "link": "https://36kr.com/p/3725325152729736?f=rss",
+      "summary": "作者 | 张子怡编辑 | 袁斯来36氪获悉，聚焦高能粒子应用系统核心部件的苏州博思得电气有限公司（以下简称“博思得”）近日宣布完成超亿元C轮融资。本轮融资由上海瑞力领投，交银资本、元璟资本跟投。募集资金将主要用于高端产品研发升级及全球化市场布局。高压发生器、X光射线源是医疗影像、工业无损检测、半导体及高端仪器的核心部件，属于多学科交叉的复杂工程，对产品的性能、一致性、可靠性要求较高，是多众重要核心装备的核心“心脏”部件。其尖端技术与高端市场长期被海外品牌占据。伴随下游医疗与工业高端装备国产化浪潮加速，上游核心部件的自主可控成为产业焦点。博思得作为国内高能粒子核心应用系统领域的标杆企业，专注于特",
+      "link": "https://36kr.com/p/3727812168367238?f=rss",
       "category": "AI News"
     },
     {
-      "title": "北京养虾er！明晚19点，为你带来9+场养虾干货Talk，来创业大街见",
-      "source": "量子位",
-      "published": "2026-03-17",
-      "summary": "从用法到应用场景，全流程干货分享",
-      "link": "https://www.qbitai.com/2026/03/388807.html",
-      "category": "AI News"
-    },
-    {
-      "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
-      "source": "量子位",
-      "published": "2026-03-17",
-      "summary": "所有人都在等老黄掏出新芯片，但他没有掏，先用一小时教全世界CEO看一张图",
-      "link": "https://www.qbitai.com/2026/03/388720.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从“养虾热”到实体交互：元萝卜推动OpenClaw走向真实世界",
-      "source": "量子位",
-      "published": "2026-03-17",
-      "summary": "元萝卜让“桌面智能体”有了现实参照",
-      "link": "https://www.qbitai.com/2026/03/388701.html",
-      "category": "AI News"
-    },
-    {
-      "title": "百度龙虾全家桶火速上桌！出手就是全球最大搜索skill",
-      "source": "量子位",
-      "published": "2026-03-17",
-      "summary": "百度把一整桌龙虾全家桶端上来了",
-      "link": "https://www.qbitai.com/2026/03/388672.html",
-      "category": "AI News"
-    },
-    {
-      "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
-      "source": "量子位",
-      "published": "2026-03-17",
-      "summary": "赋能云南绿电智算发展",
-      "link": "https://www.qbitai.com/2026/03/388668.html",
-      "category": "AI News"
-    },
-    {
-      "title": "模力工场 035 周 AI 应用周榜：AI 正在走出通用叙事，进入细分人群与真实场景",
-      "source": "InfoQ 中文",
-      "published": "2026-03-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/v3PTF08TY39pJxmhbTz9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "被逼退的Uber联创，现在下场做工业机器人",
-      "source": "InfoQ 中文",
-      "published": "2026-03-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/gLh05AkaRBPERf66qBFJ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenViking x OpenClaw：开箱即用，解决 Agent 的长期记忆困局",
-      "source": "InfoQ 中文",
-      "published": "2026-03-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ctgNSzTYmLhsRaUVZESe?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架",
-      "source": "InfoQ 中文",
-      "published": "2026-03-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！",
-      "source": "InfoQ 中文",
-      "published": "2026-03-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "功能强大的 WhatsApp 自动化聊天机器人",
-      "source": "开源中国",
-      "published": "2026-03-17",
-      "summary": "这个基于Python的项目旨在打造一个运行在WhatsApp Web上的自动化聊天机器人。它不仅支持基础的自动回复，更深度集成了AI能力，让你能够用自然、智能的方式管理WhatsApp对话。 gitee地址：https://gitee.com/wangfsgit/whatsapp_bot_ai.git， github地址：https://github.com/wangfs-2th/whatsapp_bot_ai.git。 核心功能亮...",
-      "link": "https://www.oschina.net/news/411385",
-      "category": "AI News"
-    },
-    {
-      "title": "报名仅剩 3 天｜MoonBit 软件合成挑战赛已有数十个项目参赛！",
-      "source": "开源中国",
-      "published": "2026-03-17",
-      "summary": "3 月 20 日截止！ MoonBit 软件合成挑战赛 报名进入最后倒计时，距离报名截止仅剩 3 天！ 目前已经有 几十位开发者报名参赛，参赛项目方向可以说是 百花齐放。从已经提交的项目来看，大家的创意和技术方向都非常丰富，例如： 交互式定理证明器 现代交换图表编辑器 通用文件格式转换工具 跨平台动画绘制工具 影视色彩风格...",
-      "link": "https://www.oschina.net/news/411373",
-      "category": "AI News"
-    },
-    {
-      "title": "月之暗面 Kimi 团队提出 Attention Residuals (AttnRes) 架构，重新定义深度学习残差连接新范式",
-      "source": "开源中国",
-      "published": "2026-03-17",
-      "summary": "中国AI初创企业月之暗面（Moonshot AI）旗下Kimi团队发布了重磅技术论文《Attention Residuals: Rethinking depth-wise aggregation》，提出了一项名为Attention Residuals（注意力残差，简称AttnRes）的全新深度网络架构组件。 该工作从根本上重构了Transformer模型在深度方向上的信息流动方式，用softmax注意力机制替代...",
-      "link": "https://www.oschina.net/news/411372",
-      "category": "AI News"
-    },
-    {
-      "title": "英伟达开源 NemoClaw，为 OpenClaw 添加隐私和安全控制功能",
-      "source": "开源中国",
-      "published": "2026-03-17",
-      "summary": "英伟达正式推出开源堆栈NemoClaw，旨在为OpenClaw生态增添关键的安全与隐私控制层。该工具允许用户通过单行命令，在任何设备上部署全天候运行且具备自我进化能力的自主AI代理，同时确保数据处理的合规性与安全性。 GitHub：https://github.com/NVIDIA/NemoClaw 文档：https://docs.nvidia.com/nemoclaw/latest/ NemoClaw...",
-      "link": "https://www.oschina.net/news/411357",
-      "category": "AI News"
-    },
-    {
-      "title": "CrateDB 6.2.3 发布，分布式 SQL 数据库",
-      "source": "开源中国",
-      "published": "2026-03-17",
-      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.3 现已正式发布，该版本更新内容如下： 修复了访...",
-      "link": "https://www.oschina.net/news/411346/cratedb-6-2-3-released",
-      "category": "AI News"
-    },
-    {
-      "title": "科氪｜不止平整，更懂高效！全球最平整折叠手机 OPPO Find N6 全球发布",
+      "title": "当黄仁勋和吴泳铭喊出同一个英文单词",
       "source": "36氪",
-      "published": "2026-03-17",
-      "summary": "2026 年 3 月 17 日，中国·东莞 ——今日，折叠旗舰 OPPO Find N6 在 OPPO 滨海湾园区面向全球正式发布。在这座为工程师打造的创新乐园里，OPPO 以 8 年深耕折叠领域的技术沉淀，通过新一代钛合金天穹铰链与天穹记忆玻璃两大颠覆性黑科技，彻底破解困扰折叠屏行业 8 年的折痕难题，让 Find N6 成为德国莱茵 TÜV 实验室测试过的「全球最平整折叠手机」，引领折叠屏正式迈入「无感折痕，久用平整」的全新世代；配以极致的工业设计、无短板的旗舰硬件、重构效率的生产力AI外挂等全面旗舰体验，OPPO Find N6 重新定义折叠旗舰新标杆。官方图片OPPO 首席产品官刘作虎",
-      "link": "https://36kr.com/p/3727140263410825?f=rss",
+      "published": "2026-03-18",
+      "summary": "文｜邱晓芬编辑｜苏建勋美国旧金山当地时间3月16日，英伟达GTC 2026大会正式开幕。在英伟达创始人兼CEO黄仁勋两个小时慷慨激昂的主题演讲中，贯穿的一个关键词是——Token。△ 黄仁勋，图源：发布会截图无独有偶，在GTC 2026的前一天，阿里巴巴宣布成立Token事业群——这是地位与淘天电商、阿里云一般的核心独立事业群。这个新事业群里，阿里也明确了“创造Token、输送Token、应用Token”链路。Token，是大模型处理文本信息时的基本语义单位。当你输入一段文本时，模型会先通过分词器，将文本切割成一系列Token。这些Token随即被转换为数值向量，被输送到GPU里进行大规模矩阵",
+      "link": "https://36kr.com/p/3727806050565251?f=rss",
       "category": "AI News"
     }
   ]

@@ -1,53 +1,53 @@
 {
-  "updated": "2026-03-18T01:08:28.391137+00:00",
+  "updated": "2026-03-18T12:41:21.727405+00:00",
   "repositories": [
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 92385,
-      "stars_today": 3078,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 479816,
-      "stars_today": 1998,
-      "language": "Markdown",
-      "link": "https://github.com/codecrafters-io/build-your-own-x"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 16729,
-      "stars_today": 1116,
-      "language": "TypeScript",
-      "link": "https://github.com/abhigyanpatwari/GitNexus"
-    },
-    {
-      "name": "langchain-ai/deepagents",
-      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-      "stars": 14151,
-      "stars_today": 1415,
-      "language": "Python",
-      "link": "https://github.com/langchain-ai/deepagents"
-    },
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": 5625,
-      "stars_today": 466,
+      "stars": 6207,
+      "stars_today": 1040,
       "language": "JavaScript",
       "link": "https://github.com/jarrodwatts/claude-hud"
     },
     {
-      "name": "cloudflare/workerd",
-      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-      "stars": 7832,
-      "stars_today": 31,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 94595,
+      "stars_today": 4091,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+      "stars": 55160,
+      "stars_today": 975,
+      "language": "Python",
+      "link": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "stars": 2749,
+      "stars_today": 20,
+      "language": "Python",
+      "link": "https://github.com/newton-physics/newton"
+    },
+    {
+      "name": "shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "stars": 29557,
+      "stars_today": 683,
       "language": "C++",
-      "link": "https://github.com/cloudflare/workerd"
+      "link": "https://github.com/shadps4-emu/shadPS4"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "stars": 5841,
+      "stars_today": 454,
+      "language": "Python",
+      "link": "https://github.com/langchain-ai/open-swe"
     }
   ]
 }

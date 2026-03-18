@@ -1,12 +1,12 @@
 {
-  "updated": "2026-03-18T01:08:23.717997+00:00",
+  "updated": "2026-03-18T12:41:17.314927+00:00",
   "models": [
     {
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
       "downloads": 22423445,
-      "likes": 1140,
+      "likes": 1138,
       "tags": [
         "transformers",
         "safetensors",
@@ -37,8 +37,8 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 11007535,
-      "likes": 3131,
+      "downloads": 11174720,
+      "likes": 3130,
       "tags": [
         "transformers",
         "pytorch",
@@ -86,7 +86,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 7466631,
-      "likes": 4462,
+      "likes": 4464,
       "tags": [
         "transformers",
         "safetensors",
@@ -102,7 +102,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 7315352,
-      "likes": 5574,
+      "likes": 5571,
       "tags": [
         "transformers",
         "safetensors",
@@ -111,6 +111,22 @@
         "facebook"
       ],
       "link": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "updated": ""
+    },
+    {
+      "id": "facebook/opt-125m",
+      "name": "opt-125m",
+      "author": "facebook",
+      "downloads": 7102626,
+      "likes": 234,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "opt"
+      ],
+      "link": "https://huggingface.co/facebook/opt-125m",
       "updated": ""
     },
     {
@@ -127,22 +143,6 @@
         "chat"
       ],
       "link": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
-      "updated": ""
-    },
-    {
-      "id": "facebook/opt-125m",
-      "name": "opt-125m",
-      "author": "facebook",
-      "downloads": 6975425,
-      "likes": 234,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "opt"
-      ],
-      "link": "https://huggingface.co/facebook/opt-125m",
       "updated": ""
     },
     {
@@ -214,7 +214,7 @@
       "name": "moondream2",
       "author": "vikhyatk",
       "downloads": 5353562,
-      "likes": 1393,
+      "likes": 1392,
       "tags": [
         "transformers",
         "safetensors",
