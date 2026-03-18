@@ -1,51 +1,51 @@
 {
-  "updated": "2026-03-17T12:41:10.014662+00:00",
+  "updated": "2026-03-18T01:08:28.391137+00:00",
   "repositories": [
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 90602,
-      "stars_today": 3050,
+      "stars": 92385,
+      "stars_today": 3078,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 478903,
-      "stars_today": 2011,
+      "stars": 479816,
+      "stars_today": 1998,
       "language": "Markdown",
       "link": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 16192,
-      "stars_today": 1117,
+      "stars": 16729,
+      "stars_today": 1116,
       "language": "TypeScript",
       "link": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
       "name": "langchain-ai/deepagents",
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-      "stars": 13555,
-      "stars_today": 1418,
+      "stars": 14151,
+      "stars_today": 1415,
       "language": "Python",
       "link": "https://github.com/langchain-ai/deepagents"
     },
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": 5168,
-      "stars_today": 454,
+      "stars": 5625,
+      "stars_today": 466,
       "language": "JavaScript",
       "link": "https://github.com/jarrodwatts/claude-hud"
     },
     {
       "name": "cloudflare/workerd",
       "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-      "stars": 7653,
-      "stars_today": 21,
+      "stars": 7832,
+      "stars_today": 31,
       "language": "C++",
       "link": "https://github.com/cloudflare/workerd"
     }
