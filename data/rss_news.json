@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-19T01:08:11.413404+00:00",
+  "updated": "2026-03-19T12:35:24.934375+00:00",
   "articles": [
     {
-      "title": "8点1氪丨腾讯员工人均薪酬成本超百万；老牌抗生素被炒到千元一盒；网易否认“使用AI清退全部外包员工”",
+      "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "正式突破1000亿元人民币",
+      "link": "https://www.qbitai.com/2026/03/389559.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里财报电话会：平头哥GPU芯片已累计规模化交付47万片",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "涵盖包括互联网、金融服务、自动驾驶等多个行业。",
+      "link": "https://www.qbitai.com/2026/03/389556.html",
+      "category": "AI News"
+    },
+    {
+      "title": "老黄怒怼玩家根本不懂AI！英伟达新AI功能遭全网抵制，游戏圈炸锅了",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "游戏角色集体“整容”了",
+      "link": "https://www.qbitai.com/2026/03/389447.html",
+      "category": "AI News"
+    },
+    {
+      "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "世界模型+强化学习",
+      "link": "https://www.qbitai.com/2026/03/389442.html",
+      "category": "AI News"
+    },
+    {
+      "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "无需部署，人人可用",
+      "link": "https://www.qbitai.com/2026/03/389322.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从AI编程到Agent开发 九章云极智算云助力生态普惠升级",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/d0fGGHB46WOiqtAUbgAF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "发 token 当工资？工程师不只拿现金和期权，开始按 token 分身价了",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ChuKpAjxIo4oA3DwsdD3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "极客部落“OPC 创业者招募计划”正式启动 —— 携手朝阳区赋能 AI 时代独角兽，助推人才高质量发展",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/LbxEy5EyhN3e4CW05IIw?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "黄仁勋向 Andrej Karpathy 赠送首台 DGX Station GB300",
+      "source": "开源中国",
+      "published": "2026-03-19",
+      "summary": "英伟达在日前的 GTC 大会上推出了 AI 超算工作站 DGX Station GB300 升级版，而第一台产品就被黄仁勋赠送给了知名独立 AI 开发者 Andrej Karpathy。 Andrej Karpathy 在社交平台感谢了英伟达，称本月 6 日他的工作室就收到了这款产品，是戴尔生产的 Dell Pro Max with GB300，也就是 DGX Station GB300 的厂商版。 DGX ...",
+      "link": "https://www.oschina.net/news/412117",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 构建 OpenClaw 的速度比 OpenAI 更快",
+      "source": "开源中国",
+      "published": "2026-03-19",
+      "summary": "AI 领域知名产品增长与科技分析师 Aakash Gupta 写了一篇分析 Anthropic /OpenAI 智能体产品路线的评论。 https://x.com/aakashgupta/status/2034121974843068563 原文翻译如下： Anthropic 构建 OpenClaw 的速度比 OpenAI 更快 OpenClaw 证明了整个行业一直在设想的一个理念：你的 AI Agent 应该运行在你的电脑上，而不...",
+      "link": "https://www.oschina.net/news/412111",
+      "category": "AI News"
+    },
+    {
+      "title": "智谱年内 API 价格涨超八成",
+      "source": "开源中国",
+      "published": "2026-03-19",
+      "summary": "国产大模型企业智谱近日推出全球首个面向OpenClaw龙虾场景深度优化的基座模型——GLM-5-Turbo，这也是自2025年以来的智谱首个闭源模型，拥有专项增强工具调用、指令遵循、定时与持续性任务、长链路执行等龙虾场景能力。 值得注意的是，在发布时，智谱也宣布同步上调GLM-5-Turbo的API价格，幅度为20%。这已是智谱近期第二...",
+      "link": "https://www.oschina.net/news/412099",
+      "category": "AI News"
+    },
+    {
+      "title": "微信电脑版更新，新增语音输入、一键撤回、视频倍速",
+      "source": "开源中国",
+      "published": "2026-03-19",
+      "summary": "微信电脑端宣布推出最新版 4.1.8，新增语音输入、一键撤回以及视频倍速播放等功能，主打“让所有的快点都能轻松点，从容点”。 根据介绍，升级至新版本之后只要按住“Ctrl + Win”键或点击聊天框里的小话筒，即可使用「语音转文字」能力（ Mac 系统按住键盘“fn”键）。不用一直按住的快捷键为：“Ctrl + Win + Shift”（...",
+      "link": "https://www.oschina.net/news/412087",
+      "category": "AI News"
+    },
+    {
+      "title": "TrafficPilot 软件更新：版本 1.1.0.0 发布 —— 配置同步增强与界面优化",
+      "source": "开源中国",
+      "published": "2026-03-19",
+      "summary": "我们很高兴地宣布，TrafficPilot 版本 1.1.0.0 正式发布！本次更新带来了多项功能改进和界面优化，所有改动均由 @Copilot 在社区贡献中完成。新版本在配置同步、用户交互、DNS 处理等方面均有显著提升，力求为您提供更流畅、更智能的使用体验。 主要更新内容 🔧 配置同步全面升级 新增配置同步提供程序：支持 GitHub G...",
+      "link": "https://www.oschina.net/news/412055/trafficpilot-1-1-0-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
       "source": "36氪",
       "published": "2026-03-19",
-      "summary": "今日热点导览下周油价或重回“9元时代”碧桂园回应大规模召回离职员工多款知名中成感冒药被要求补全不良反应iPhone18将首次启用三星相机微信能折叠发图了：三张以上可合并展示杨植麟GTC 2026演讲：首次完整披露Kimi模型技术路线图TOP3大新闻腾讯财报披露：2025年营收7517.7亿，总薪酬1307亿，人均年薪超112万据第一财经日报，3月18日，腾讯控股（00700.HK）发布2025年第四季度及全年财报。AI持续推动公司盈利结构优化：Q4营收1943.7亿元，同比增长13%；Non-IFRS经营利润695.2亿元，同比增长17%。全年营收7517.7亿元，同比增长14%；Non-IF",
-      "link": "https://36kr.com/p/3729135865281922?f=rss",
+      "summary": "大公司：马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七代无人车36氪获悉，3月19日，小马智行向如祺出行正式交付搭载小马智行第七代自动驾驶系统的全新广汽埃安霸王龙Robotaxi，首批交付超百辆，这批车辆已接入如祺出行平台并陆续开展运营。与此同时，如祺出行与小马智行将进一步",
+      "link": "https://36kr.com/p/3729727275220613?f=rss",
       "category": "AI News"
     },
     {
-      "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
-      "source": "量子位",
-      "published": "2026-03-18",
-      "summary": "大模型自我进化时代来了",
-      "link": "https://www.qbitai.com/2026/03/389024.html",
-      "category": "AI News"
-    },
-    {
-      "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
-      "source": "量子位",
-      "published": "2026-03-18",
-      "summary": "一开口就把程序员们整不会了",
-      "link": "https://www.qbitai.com/2026/03/389004.html",
-      "category": "AI News"
-    },
-    {
-      "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
-      "source": "量子位",
-      "published": "2026-03-18",
-      "summary": "微信也能养上龙虾了",
-      "link": "https://www.qbitai.com/2026/03/388980.html",
-      "category": "AI News"
-    },
-    {
-      "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
-      "source": "量子位",
-      "published": "2026-03-18",
-      "summary": "延续淘天集团全面拥抱AI的态势。",
-      "link": "https://www.qbitai.com/2026/03/388972.html",
-      "category": "AI News"
-    },
-    {
-      "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
-      "source": "量子位",
-      "published": "2026-03-18",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/388959.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从零构建智能体：面向 AI 智能体的端到端数据管道搭建实战 ｜ 技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Q7g7WJDk9lBPGGmkMqqb?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从桌面到企业：DGX 双系统搭配 NemoClaw，打造自主智能体全流程开发平台",
-      "source": "InfoQ 中文",
-      "published": "2026-03-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5XMEXakce56W4NdSp7kI?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从狂热到工程、组织实践，OpenClaw这阵风能刮多久？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Th0um55qt9mMORoZ7MD8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "统一架构搞定 TP+AP 混合负载，TDSQL-B实时分析引擎三大核心价值一次讲清",
-      "source": "InfoQ 中文",
-      "published": "2026-03-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/iWKMyl5ZCr4cvBcwNXC9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "兼容 HBase 不裁剪，TDSQL Boundless 性能拉满",
-      "source": "InfoQ 中文",
-      "published": "2026-03-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/ZXcae7fUViD2NJxIBYSt?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯混元新模型 HY 3.0 下月发布",
-      "source": "开源中国",
-      "published": "2026-03-18",
-      "summary": "腾讯在最新财报发布后的媒体沟通会上披露，其混元大模型（Hunyuan）3.0 版本目前正在内部业务场景进行测试，计划于 4 月正式对外发布。此次升级被定位为混元模型的重大迭代，相较于 2.0 版本，在模型效果、推理能力及智能体（Agent）应用方面均有显著提升。 据了解，自 2025 年下半年起，腾讯混元团队已启动组织架构与研...",
-      "link": "https://www.oschina.net/news/411783",
-      "category": "AI News"
-    },
-    {
-      "title": "Habitica v5.46.4 发布，习惯养成游戏",
-      "source": "开源中国",
-      "published": "2026-03-18",
-      "summary": "Habitica v5.46.4 现已发布。Habitica 是一个习惯养成及生产力应用，让你 “游戏人生”。游戏里的奖惩措施能激励用户完成任务，还有一个强大的互动社区为完成任务提供好建议，帮助达成目标，变得健康、勤奋与快乐。 此版本更新内容如下： API 修复：不允许用户搜索和加入已存档的公会 修复：在群组邀请邮件中使用正确的变...",
-      "link": "https://www.oschina.net/news/411762/habitica-5-46-4-released",
-      "category": "AI News"
-    },
-    {
-      "title": "智谱发布多模态模型 GLM-OCR 技术报告",
-      "source": "开源中国",
-      "published": "2026-03-18",
-      "summary": "智谱团队正式发布其多模态模型 GLM-OCR 技术报告，详细介绍了模型「SOTA 文档理解能力」背后的技术细节。 为了解决复杂文档理解的高性能与高吞吐需求，GLM-OCR 的设计基于三项关键观察与技术创新： 集成版面分析：在识别前先进行版面检测，将复杂页面分割为多个简单区域，这提升了模型对复杂版面的鲁棒性和性能稳定性，并...",
-      "link": "https://www.oschina.net/news/411746",
-      "category": "AI News"
-    },
-    {
-      "title": "OC 冒烟测试套件开源",
-      "source": "开源中国",
-      "published": "2026-03-18",
-      "summary": "OpenCloudOS 社区宣布正式开源了 os_smoke —— 一套专为操作系统设计的轻量级、自动化冒烟测试工具。主要用于在系统镜像构建完成后，第一时间对系统进行全方位的“健康检查”，快速验证内核、基础系统、驱动、开发工具等关键组件是否正常工作。 根据介绍，os_smoke 的架构极其轻量化，无需复杂的环境配置，依赖少，运行...",
-      "link": "https://www.oschina.net/news/411724",
-      "category": "AI News"
-    },
-    {
-      "title": "百度发布“龙虾全家桶”：手机、电脑、家居全覆盖",
-      "source": "开源中国",
-      "published": "2026-03-18",
-      "summary": "百度正式发布了旗下「龙虾」系列 AI 智能体产品全家桶，涵盖桌面端、移动端、云端及家居端多个场景，包括四款核心形态： 桌面端的 DuMate 主打全链路办公自动化，具备企业级安全管控能力，并能持续学习用户工作习惯； 移动端的 RedClaw（原「红手指 Operator」正式更名）主打零部署、零配置，支持跨 App 交互，面向通勤、...",
-      "link": "https://www.oschina.net/news/411706",
-      "category": "AI News"
-    },
-    {
-      "title": "微盟集团2025年来自AI收入破亿，SaaS商业化找到新路径｜最前线",
+      "title": "AWE 2026观察：AI重构家庭空间",
       "source": "36氪",
-      "published": "2026-03-18",
-      "summary": "文｜张子怡编辑｜袁斯来在Open Claw席卷世界的当下，一切价值都有可能被重估。首当其冲的便是传统SaaS企业。Gartner的分析师认为，到2030年，35%的单一功能SaaS工具将被AI Agent取代，或被大型SaaS供应商吸收进更广泛的智能体生态系统中。传统SaaS企业正在被价值重估的当下，国内SaaS企业微盟集团在数年的AI转型下，完成了旗下全线SaaS产品与AI技术的原生融合，并在商业层面验证了AI驱动盈利的可持续性。近日，微盟集团发布2025年报，总收入为人民币15.92亿元，较上年同期增长18.9%。其中，微盟首次披露AI相关年度收入达人民币1.16亿元，下半年收入为0.82",
-      "link": "https://36kr.com/p/3728689823006343?f=rss",
+      "published": "2026-03-19",
+      "summary": "作者：王利编辑：王小坤想象一下，你身处一间密闭场所，四周音箱环绕。接着，音乐响起，声音从不同方向传来：有的掠过头顶，有的在左耳回响，每个声源的位置都清晰可辨。随后，你戴上一副耳机。奇怪的是，耳机隔音似乎并不好，外面声音清晰依旧。听了一会，你有些腻了，摘下耳机，才发现四周的音箱早已关闭——刚才以为仍由音箱播放的音乐，其实一直出自耳机。这是发生AWE2026的一幕，来自索尼的音频系统。这项技术名为“360VME”，旨在测量个人在特定空间里的听觉特征与声场结构，并生成一份个性化声学档案。之后，无论身处何地，用户只需戴上耳机，就可以还原该空间的声音环境。据工作人员介绍：“这套系统目前主要瞄准专业音频制",
+      "link": "https://36kr.com/p/3729551142534532?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜新疆新能源外送电量突破3000亿千瓦时；三星电子或发生大规模罢工，恐波及全球半导体产供链；社交平台X调整印尼用户年龄限制以符合新规",
+      "title": "超级创业者时代：如何让个人拥有组织级能力",
       "source": "36氪",
-      "published": "2026-03-18",
-      "summary": "大公司：三星电子或发生大规模罢工，恐波及全球半导体产供链据韩联社18日报道，由超过6.6万名韩国三星电子工会成员参与表决的投票结果显示，93.1%的工会成员赞成罢工。若无重大变化，三星电子工会成员将于5月21日至6月7日全面罢工。据韩联社报道，三星电子作为全球重要的存储芯片制造商，一旦发生罢工，可能进一步加剧由全球人工智能数据中心建设持续升温带来的全球半导体供应趋紧局面，其影响或波及汽车、计算机及智能手机等多个行业。腾讯：四季度营收1943.7亿元，同比增长13%36氪获悉，腾讯发布2025年第四季度及全年财报。财报显示，腾讯四季度营收1943.7亿元，同比增长13%；Non-IFRS经营利润",
-      "link": "https://36kr.com/p/3728294939966598?f=rss",
+      "published": "2026-03-19",
+      "summary": "序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。而今天，随着Agent、OpenClaw等基础设施普及，为超级创业者提供了以AI技术为基础，驱动创新变革的天然契机。OPC（One Person Company，一人公司）、SE（Super Entrepreneur，超级创业者）等创新模式，正在推动第四次浪潮已然到来。数据已在讲述这个故",
+      "link": "https://36kr.com/p/3729545296559749?f=rss",
       "category": "AI News"
     },
     {
-      "title": "一年卖出515亿，万辰集团怎么做到的？",
+      "title": "长三角企业国际化合作发展交流会暨新华·中国企业出海合作中心（长三角）在宁启幕",
       "source": "36氪",
-      "published": "2026-03-18",
-      "summary": "万辰集团几乎交出了历史上最好的一份成绩单。3月17日晚间，好想来母公司万辰集团发布了2025年财报。报告期内，万辰集团营业收入为514.59亿元，同比增长59.17%；加回计提股份支付费用后的净利润为25.68亿元，同比增长212.18%；年度经营活动产生的现金流达到36.31亿元。值得关注的是，公司的核心业务“量贩零食”不仅营收高速增长，盈利水平也不断提升。财报显示，2025年万辰集团旗下量贩零食业务营收达508.57亿元，同比增长59.98%；全年毛利率12.32%，同比提升1.46个百分点；加回计提股份支付费用后的净利润为25.33亿元，净利率达到4.98%。进入2025年以来，量贩零食",
-      "link": "https://36kr.com/p/3728249171295363?f=rss",
+      "published": "2026-03-19",
+      "summary": "3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学党委常委、副校长索文斌等长三角地区政府、高校代表，越南驻上海总领事馆总领事陈辉雄、柬埔寨王国驻上海总领事馆总领事吴维索等海外驻沪总领事，以及港澳",
+      "link": "https://36kr.com/p/3729511818001799?f=rss",
       "category": "AI News"
     },
     {
-      "title": "2000万只“龙虾”进入企业，阿里的企业Agent新故事 | 最前线",
+      "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
       "source": "36氪",
-      "published": "2026-03-18",
-      "summary": "对钉钉创始人无招而言，在 AI 时代顿悟的瞬间并不是 ChatGPT 横空出世，而是早在 2020 年。第一次离开钉钉时，他游历了大半个中国，调研了许许多多不同的城市，之后所想通的事。“我想明白，AI 时代最颠覆性的变化不是其他，而是使用主体变了。”他看到，在二三线甚至更远的城市，因为互联网使用主体的变化，导致出现了各种各样不一样的应用供给——类似拼多多等应用崛起，就是这个逻辑。而在大模型来了之后，这个判断更加清晰：在 AI 时代，互联网执行主体从人变成了 AI。这个判断也贯穿了钉钉在 3 月 17 日举办的新品发布会。几乎同一时间，阿里在 3 月 16 日宣布几乎是大模型时代以来最重要的战略",
-      "link": "https://36kr.com/p/3727395193388161?f=rss",
+      "published": "2026-03-19",
+      "summary": "2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学副校长、南京大学苏州校区党工委常务副书记、管委会常务副主任索文斌，南京市委统战部副部长",
+      "link": "https://36kr.com/p/3729505125350792?f=rss",
       "category": "AI News"
     }
   ]

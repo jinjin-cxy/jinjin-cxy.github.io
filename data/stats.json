@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-19T01:08:11.416001+00:00",
+  "updated": "2026-03-19T12:35:24.936886+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 6,
+    "github_trending": 11,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -53,10 +53,14 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 3
+      "count": 4
     },
     {
       "language": "JavaScript",
+      "count": 2
+    },
+    {
+      "language": "Java",
       "count": 1
     },
     {
@@ -64,7 +68,7 @@
       "count": 1
     },
     {
-      "language": "C++",
+      "language": "Kotlin",
       "count": 1
     }
   ]
