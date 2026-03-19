@@ -1,51 +1,51 @@
 {
-  "updated": "2026-03-18T12:41:21.727405+00:00",
+  "updated": "2026-03-19T01:07:58.485892+00:00",
   "repositories": [
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": 6207,
-      "stars_today": 1040,
+      "stars": 7008,
+      "stars_today": 1038,
       "language": "JavaScript",
       "link": "https://github.com/jarrodwatts/claude-hud"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 94595,
-      "stars_today": 4091,
+      "stars": 96220,
+      "stars_today": 4089,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "unslothai/unsloth",
-      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
-      "stars": 55160,
-      "stars_today": 975,
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 55825,
+      "stars_today": 1005,
       "language": "Python",
       "link": "https://github.com/unslothai/unsloth"
     },
     {
       "name": "newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 2749,
-      "stars_today": 20,
+      "stars": 2918,
+      "stars_today": 26,
       "language": "Python",
       "link": "https://github.com/newton-physics/newton"
     },
     {
       "name": "shadps4-emu/shadPS4",
       "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
-      "stars": 29557,
-      "stars_today": 683,
+      "stars": 29869,
+      "stars_today": 237,
       "language": "C++",
       "link": "https://github.com/shadps4-emu/shadPS4"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
-      "stars": 5841,
-      "stars_today": 454,
+      "stars": 6357,
+      "stars_today": 481,
       "language": "Python",
       "link": "https://github.com/langchain-ai/open-swe"
     }
