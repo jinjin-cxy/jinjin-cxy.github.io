@@ -1,6 +1,14 @@
 {
-  "updated": "2026-03-19T12:35:24.934375+00:00",
+  "updated": "2026-03-20T01:04:24.961414+00:00",
   "articles": [
+    {
+      "title": "太初元碁推出企业级“养虾”方案，发布太初龙虾一体机（TecoClaw）",
+      "source": "量子位",
+      "published": "2026-03-19",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/389562.html",
+      "category": "AI News"
+    },
     {
       "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
       "source": "量子位",
@@ -34,11 +42,19 @@
       "category": "AI News"
     },
     {
-      "title": "同事群里催催催，龙虾自动回回回！刚发布的「飞书龙虾」把我解脱了",
-      "source": "量子位",
+      "title": "针对库存优化的 Snowflake Intelligence 供应链助手",
+      "source": "InfoQ 中文",
       "published": "2026-03-19",
-      "summary": "无需部署，人人可用",
-      "link": "https://www.qbitai.com/2026/03/389322.html",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/p0UmiTXd3w2fAfIWV6r0?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "我把 MiniMax M2.7 扔进真实业务里：它替我省了 BI 和程序员的钱",
+      "source": "InfoQ 中文",
+      "published": "2026-03-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/wxlURmwIyV0JWJRHswAx?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -66,19 +82,19 @@
       "category": "AI News"
     },
     {
-      "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
-      "source": "InfoQ 中文",
+      "title": "MacState v1.5.0 发布，轻量级 macOS 菜单栏系统监控工具",
+      "source": "开源中国",
       "published": "2026-03-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
+      "summary": "MacState v1.5.0 已发布。轻量级 macOS 菜单栏系统监控工具，纯 Swift 开发，零第三方依赖，所有指标合并显示在单个状态栏项中，资源占用极低。 新增 / Added 电池百分比显示 — 电池供电时在自定义电池图标内显示百分比数字，充电时仍使用系统闪电图标 优化 / Improved 电池文字可读性 — 百分比数字颜色自动适配深色/...",
+      "link": "https://www.oschina.net/news/412167/macstate-1-5-0-released",
       "category": "AI News"
     },
     {
-      "title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
-      "source": "InfoQ 中文",
+      "title": "gpress v1.2.2 已经发布，Web3 内容平台",
+      "source": "开源中国",
       "published": "2026-03-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
+      "summary": "gpress v1.2.2 已经发布，这是一个 Web3 内容平台。 此版本更新内容包括： 支持 llms.txt 协议,让AI更好理解 使用simple v0.7.1官方的编译文件 访问路径.md结尾,返回markdown格式数据 删除deleteFileBeforeTime时间戳之前的老文件 完善文档,注释 详情查看：https://gitee.com/gpress/gpress/releases/v1.2.2...",
+      "link": "https://www.oschina.net/news/412145/gpress-1-2-2-released",
       "category": "AI News"
     },
     {
@@ -106,19 +122,11 @@
       "category": "AI News"
     },
     {
-      "title": "微信电脑版更新，新增语音输入、一键撤回、视频倍速",
-      "source": "开源中国",
+      "title": "8点1氪丨贾国龙推出新品牌“天边砂锅焖面”；涨价4000元，新一代小米SU7起售价21.99万元；麦当劳回应卖蛋挞",
+      "source": "36氪",
       "published": "2026-03-19",
-      "summary": "微信电脑端宣布推出最新版 4.1.8，新增语音输入、一键撤回以及视频倍速播放等功能，主打“让所有的快点都能轻松点，从容点”。 根据介绍，升级至新版本之后只要按住“Ctrl + Win”键或点击聊天框里的小话筒，即可使用「语音转文字」能力（ Mac 系统按住键盘“fn”键）。不用一直按住的快捷键为：“Ctrl + Win + Shift”（...",
-      "link": "https://www.oschina.net/news/412087",
-      "category": "AI News"
-    },
-    {
-      "title": "TrafficPilot 软件更新：版本 1.1.0.0 发布 —— 配置同步增强与界面优化",
-      "source": "开源中国",
-      "published": "2026-03-19",
-      "summary": "我们很高兴地宣布，TrafficPilot 版本 1.1.0.0 正式发布！本次更新带来了多项功能改进和界面优化，所有改动均由 @Copilot 在社区贡献中完成。新版本在配置同步、用户交互、DNS 处理等方面均有显著提升，力求为您提供更流畅、更智能的使用体验。 主要更新内容 🔧 配置同步全面升级 新增配置同步提供程序：支持 GitHub G...",
-      "link": "https://www.oschina.net/news/412055/trafficpilot-1-1-0-0-released",
+      "summary": "今日热点导览ZARA、H&M、拉夫劳伦等，被海关总署点名通报腾讯股价大跌原因：加大AI投入或削减回购欧盟证实：马斯克X缴纳1.2亿欧元罚款中国移动“移动梦网”等业务将下线现货黄金跌破4700美元腾讯回应在美游戏投资TOP 3大新闻贾国龙新品牌做焖面，人均消费40元至50元西贝餐饮集团创始人、董事长贾国龙的最新创业项目“天边砂锅焖面”已在北京798艺术区悄然落地，这家新店2月13日开业，人均消费40元至50元，主打品类是贾国龙家乡内蒙古巴盟特色的砂锅焖面。贾国龙向记者透露，西贝要关一部分店，他希望有个新品牌能够承接一部分门店和员工。“西贝这个品牌还是要做，未来关一部分、转（新品牌）一部分、保留一",
+      "link": "https://36kr.com/p/3730515366871046?f=rss",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-03-19",
       "summary": "3月17日，以“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行，活动由香港长三角企业家国际联盟与江苏省国际商会联合主办。全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学党委常委、副校长索文斌等长三角地区政府、高校代表，越南驻上海总领事馆总领事陈辉雄、柬埔寨王国驻上海总领事馆总领事吴维索等海外驻沪总领事，以及港澳",
       "link": "https://36kr.com/p/3729511818001799?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "因胜传媒成功协办长三角企业国际化合作发展交流会",
-      "source": "36氪",
-      "published": "2026-03-19",
-      "summary": "2026年3月17日，由香港长三角企业家国际联盟与江苏省国际商会联合主办、南京因胜文化传媒有限公司（简称“因胜传媒”）独家协办的“从长三角到全球：共筑企业出海新航线”为主题的长三角企业国际化合作发展交流会暨“新华·中国企业出海合作中心（长三角）”启动仪式在南京新华国际会议中心隆重举行。全国政协常委、香港长三角企业家国际联盟主席、粤港澳大湾区企业家联盟主席、香港中华总商会会长、香港新华集团主席蔡冠深博士，江苏省人民政府外事（港澳事务）办公室副主任沈雁飞，江苏省贸促会（省国际商会）党组成员、副会长丛苏峰，南京大学副校长、南京大学苏州校区党工委常务副书记、管委会常务副主任索文斌，南京市委统战部副部长",
-      "link": "https://36kr.com/p/3729505125350792?f=rss",
       "category": "AI News"
     }
   ]
