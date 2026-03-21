@@ -1,77 +1,77 @@
 {
-  "updated": "2026-03-21T01:00:22.031674+00:00",
+  "updated": "2026-03-21T12:23:03.927114+00:00",
   "repositories": [
     {
-      "name": "jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": 9536,
-      "stars_today": 1068,
-      "language": "JavaScript",
-      "link": "https://github.com/jarrodwatts/claude-hud"
-    },
-    {
-      "name": "langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
-      "stars": 7642,
-      "stars_today": 635,
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "stars": 16797,
+      "stars_today": 775,
       "language": "Python",
-      "link": "https://github.com/langchain-ai/open-swe"
+      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 101538,
-      "stars_today": 2819,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
+      "name": "systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "stars": 15557,
+      "stars_today": 47,
+      "language": "C",
+      "link": "https://github.com/systemd/systemd"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 33259,
+      "stars_today": 22,
+      "language": "Go",
+      "link": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 5471,
+      "stars_today": 2054,
+      "language": "TypeScript",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad"
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 7052,
-      "stars_today": 1812,
+      "stars": 7505,
+      "stars_today": 954,
       "language": "Java",
       "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
+      "name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 10036,
+      "stars_today": 957,
+      "language": "JavaScript",
+      "link": "https://github.com/jarrodwatts/claude-hud"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "stars": 70884,
+      "stars_today": 7,
+      "language": "C++",
+      "link": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+      "name": "vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "stars": 3384,
+      "stars_today": 110,
+      "language": "Python",
+      "link": "https://github.com/vllm-project/vllm-omni"
+    },
+    {
       "name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-      "stars": 11584,
-      "stars_today": 1045,
+      "stars": 11894,
+      "stars_today": 680,
       "language": "Rust",
       "link": "https://github.com/louis-e/arnis"
-    },
-    {
-      "name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 3469,
-      "stars_today": 266,
-      "language": "Python",
-      "link": "https://github.com/newton-physics/newton"
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": 1934,
-      "stars_today": 137,
-      "language": "TypeScript",
-      "link": "https://github.com/vas3k/TaxHacker"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 34103,
-      "stars_today": 433,
-      "language": "Python",
-      "link": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "openrocket/openrocket",
-      "description": "Model-rocketry aerodynamics and trajectory simulation software",
-      "stars": 2210,
-      "stars_today": 144,
-      "language": "Java",
-      "link": "https://github.com/openrocket/openrocket"
     }
   ]
 }

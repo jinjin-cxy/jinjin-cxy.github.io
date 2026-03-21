@@ -1,6 +1,62 @@
 {
-  "updated": "2026-03-21T01:00:38.698780+00:00",
+  "updated": "2026-03-21T12:23:23.563101+00:00",
   "articles": [
+    {
+      "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
+      "source": "量子位",
+      "published": "2026-03-21",
+      "summary": "让生成式模型具备完整类别树认知，迈向通用视觉理解",
+      "link": "https://www.qbitai.com/2026/03/390945.html",
+      "category": "AI News"
+    },
+    {
+      "title": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
+      "source": "量子位",
+      "published": "2026-03-21",
+      "summary": "光轮智能，正在定义Physical AI的基础设施",
+      "link": "https://www.qbitai.com/2026/03/390924.html",
+      "category": "AI News"
+    },
+    {
+      "title": "北航团队为龙虾安全紧急开刀！开源OpenClaw风险防御工具，梳理9大高危风险缓解措施",
+      "source": "量子位",
+      "published": "2026-03-21",
+      "summary": "安全防御工具ClawGuard Auditor",
+      "link": "https://www.qbitai.com/2026/03/390918.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cursor套壳Kimi败露，最强「自研」模型被锤！创始人：忘记署名了",
+      "source": "量子位",
+      "published": "2026-03-21",
+      "summary": "Kimi直接开喷了",
+      "link": "https://www.qbitai.com/2026/03/390619.html",
+      "category": "AI News"
+    },
+    {
+      "title": "对话越疆刘培超：春晚隐藏具身选手，却是百亿市值大玩家",
+      "source": "量子位",
+      "published": "2026-03-21",
+      "summary": "具身收入已到千万，已经过了追求当明星公司的阶段",
+      "link": "https://www.qbitai.com/2026/03/390531.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
+      "source": "InfoQ 中文",
+      "published": "2026-03-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-03-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "AI 成本压不住？AKS 用 DRA + vGPU 给出一条新路",
       "source": "InfoQ 中文",
@@ -10,43 +66,59 @@
       "category": "AI News"
     },
     {
-      "title": "龙虾也能当导演了！LibTV解锁全自动拍片，一句话从剧本干到成片",
-      "source": "量子位",
-      "published": "2026-03-20",
-      "summary": "一块无限画布，两类用户：我和🦞",
-      "link": "https://www.qbitai.com/2026/03/390320.html",
+      "title": "musl 1.2.6发布，Linux 标准库",
+      "source": "开源中国",
+      "published": "2026-03-21",
+      "summary": "musl 1.2.6发布，此版本包含了针对影响 iconv 的 CVE-2025-26519 漏洞修复（该修复此前仅以补丁形式提供），解除了 initgroups 中人为设置的组数量限制，添加了全新的 POSIX-2024 posix_getdents 接口和 Linux 特有的 renameat2 接口，并将 TLSDESC 和 vDSO 的 clock_gettime 支持扩展到了更多架构。此外，还修复了 pwri...",
+      "link": "https://www.oschina.net/news/412776",
       "category": "AI News"
     },
     {
-      "title": "AI屠刀下一站“Vibe设计”！谷歌一个产品把合作伙伴Figma干崩了",
-      "source": "量子位",
-      "published": "2026-03-20",
-      "summary": "软件行业又遭一记重创",
-      "link": "https://www.qbitai.com/2026/03/390235.html",
+      "title": "MacState v1.6.0 发布",
+      "source": "开源中国",
+      "published": "2026-03-21",
+      "summary": "MacState v1.6.0 已发布。轻量级 macOS 菜单栏系统监控工具，纯 Swift 开发，零第三方依赖，所有指标合并显示在单个状态栏项中，资源占用极低。 优化 / Improved CPU 进程命令行 — 进程排行面板命令行列显示完整命令行参数（路径+启动参数），使用 sysctl KERN_PROCARGS2 替代仅返回路径的 proc_pidpath 进程面板响应速...",
+      "link": "https://www.oschina.net/news/412746/macstate-1-6-0-released",
       "category": "AI News"
     },
     {
-      "title": "前荣耀AI实验室主任带队：用“超级大脑”接管农场，24小时不打烊",
-      "source": "量子位",
-      "published": "2026-03-20",
-      "summary": "成本直降60%",
-      "link": "https://www.qbitai.com/2026/03/389609.html",
+      "title": ":sparkles:软件授权管理系统 v1.1.1 发布",
+      "source": "开源中国",
+      "published": "2026-03-21",
+      "summary": "软件授权管理系统v1.1.1正式发布 License Manager v1.1.1 现已发布。此版本包含 UI 界面优化，以及 RBAC 权限管理（基于 Casbin）和动态菜单模块的全新支持。 产品定位 软件商业化是一场系统性工程。从产品定价到用户获取，从试用到转化，从续费到升级，每一个环节都至关重要。License Manager作为您的商业化基石，提供完...",
+      "link": "https://www.oschina.net/news/412745/license-manager-1-1-1-released",
       "category": "AI News"
     },
     {
-      "title": "Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了",
-      "source": "量子位",
-      "published": "2026-03-20",
-      "summary": "背后引入了一种新的强化学习方法",
-      "link": "https://www.qbitai.com/2026/03/389673.html",
+      "title": "全国农业高校人工智能学院院长研讨会盛大开幕，凝聚农业 AI 发展共识",
+      "source": "开源中国",
+      "published": "2026-03-21",
+      "summary": "3 月 21 日，全国农业高校人工智能学院院长研讨会（后称“研讨会”）在海南三亚崖州湾盛大开幕。本次研讨会立足国家 AI4Science 战略，汇聚了全国近 40 位行业顶尖专家和高校、科研院所及企业代表依次作大会报告，内容覆盖农业人工智能人才培养、农业大模型研发应用、智慧种业与育种技术创新、智慧农业/渔业产业落地、国...",
+      "link": "https://www.oschina.net/news/412690",
       "category": "AI News"
     },
     {
-      "title": "OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布",
-      "source": "量子位",
-      "published": "2026-03-20",
-      "summary": "在上海·环球港凯悦酒店正式召开",
-      "link": "https://www.qbitai.com/2026/03/389666.html",
+      "title": "微语 1.6.0 发布，开源呼叫中心",
+      "source": "开源中国",
+      "published": "2026-03-21",
+      "summary": "微语是基于AI全新打造的一款开源企业级多租户团队智能协同平台，提供一站式客户服务解决方案/客服中心/联络中心，能够显著提高内部员工和外部客户沟通效率。 企业IM、智能客服、企业知识库、智能工单、AI Agent智能体、工作流、客户之声、呼叫中心、视频客服、客户管理CRM、培训管理、开放平台 1. ip地址库增加支持maxmi...",
+      "link": "https://www.oschina.net/news/412679",
+      "category": "AI News"
+    },
+    {
+      "title": "“我的前额叶罢工了”，年轻人争相确诊“网红病”？",
+      "source": "36氪",
+      "published": "2026-03-21",
+      "summary": "当代年轻人对待病的态度，像薛定谔的猫一般充满矛盾。有时讳疾忌医，不敢看自己的体检报告，对报告里已确诊的小结节、轻度脂肪肝、胃炎装聋作哑，安慰自己没啥大事。有时又上赶着帮自己“确诊”新疾病：“我说我怎么天天活人微死还犯懒呢，原来我是前额叶受损啊。”网友疯传的前额叶梗图。（图/社交平台截图）最近，又轮到了前额叶。这个原本常见于神经科学教科书中的专业术语，近期一跃成为了热搜常客。与ADHD、PUA、躁郁症等专业名词刚刚走红时的状况高度相似，无数网友甚至还不知道前额叶到底是什么，但已经下意识地开始将自己的情况，与网帖里前额叶受损的症状一一比对，且大概率发现自己几乎全中：“注意力难以集中我有，纠结、决策",
+      "link": "https://36kr.com/p/3732100232298503?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪：傅盛凌晨开撕周鸿祎称“被欠1个亿”，360回应；字节跳动413亿元卖掉沐瞳科技；伊朗战事持续或致油价升至180美元",
+      "source": "36氪",
+      "published": "2026-03-21",
+      "summary": "今日热点导览商务部部长王文涛会见苹果公司首席执行官库克贾国龙起家的西贝首店将缩减一半经营面积特斯拉计划采购中国光伏设备？企业回应：确有此事针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击中国学生平均留学预算超60万TOP3大新闻傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，并遭拉黑”。3月20日，360集团回应称，“我们更关注把产品做好，让每个人都能用上安全便捷的360安全龙虾。企业家打造个人影响力，归根结底还是要靠产品和用户价值，而不是依赖情绪",
+      "link": "https://36kr.com/p/3732001538490631?f=rss",
       "category": "AI News"
     },
     {
@@ -63,62 +135,6 @@
       "published": "2026-03-20",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/bRvUfJ2sqUFlrUcQ3qrV?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营",
-      "source": "InfoQ 中文",
-      "published": "2026-03-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯QClaw“龙虾”全量公测：20 秒装完，微信一句话远程控电脑",
-      "source": "InfoQ 中文",
-      "published": "2026-03-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/cNNPBUuylvHgNXEaQlZf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里发布最新财报：AI 收入连续十季三位数增长、五年云收入目标超千亿美元",
-      "source": "开源中国",
-      "published": "2026-03-20",
-      "summary": "阿里巴巴集团发布 2026 财年第三季度财报（自然年 2025 年四季度），营收 2848.43 亿元，调整后净利润 167.1 亿元。若不计入银泰和高鑫零售的已处置业务收入，同比增长 9%。 AI 业务方面，阿里云收入同比增长 36%，外部商业化收入同比增长 35%，AI 相关产品收入连续第十个季度实现三位数同比增长； 芯片层面，平头哥自研...",
-      "link": "https://www.oschina.net/news/412434",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯 2025 全年财报公布，AI 方面研发投入达 857.5 亿元",
-      "source": "开源中国",
-      "published": "2026-03-20",
-      "summary": "腾讯控股发布2025年第四季度及全年财报。AI持续推动公司盈利结构优化：Q4营收1943.7亿元，同比增长13%；Non-IFRS经营利润695.2亿元，同比增长17%。全年营收7517.7亿元，同比增长14%；Non-IFRS经营利润同比增长18%。 全年来看： 总收入达 7517.7 亿元，同比增长 14%； 非国际财务报告准则下归母净利润为 2596.3 亿元，同比...",
-      "link": "https://www.oschina.net/news/412433",
-      "category": "AI News"
-    },
-    {
-      "title": "Xiaomi MiMO 负责人罗福莉透露最新模型将会开源",
-      "source": "开源中国",
-      "published": "2026-03-20",
-      "summary": "小米近日推出三款大模型 MiMo-V2-Pro & Omni & TTS，其负责人罗福莉在社交平台分享了关于它们的开发经历： MiMo-V2-Pro、Omni 和 TTS 已经发布。这是我们第一套真正为 Agent 时代打造的全栈模型家族。 我称这是一场“安静的伏击”——不是因为我们刻意策划，而是从 Chat 到 Agent 的范式转变来得太快，快到连我们自己都难...",
-      "link": "https://www.oschina.net/news/412425",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯元宝更新 logo",
-      "source": "开源中国",
-      "published": "2026-03-20",
-      "summary": "腾讯元宝 AI 正式宣布更换品牌 Logo，其中最显著的变化是在原有的基础形态上添加了一双“眼睛”。 公告称，其旨在以更活泼灵动的姿态陪伴在用户身边。“从品牌视觉到产品能力，我们会不断打磨、持续进化，步履不停。期待与你一起探索无限可能！” 市场调研机构 Quest Mobile 此前发布的一份《2025 年 AI 应用层发展核心报...",
-      "link": "https://www.oschina.net/news/412407",
-      "category": "AI News"
-    },
-    {
-      "title": "马斯克称 SpaceX 未来 AI 成就将超越所有其他公司总和",
-      "source": "开源中国",
-      "published": "2026-03-20",
-      "summary": "近日，针对业界关于“谷歌DeepMind注定会赢得人工智能竞赛”的说法，特斯拉CEO马斯克作出回应。他表示暂时认同这一观点，但同时放出狠话称，未来几年内，SpaceX的成就将远远超过所有人工智能公司加起来的总和。 目前，SpaceX已构建起“可重复使用火箭+全球卫星互联网+深空探索”的商业闭环。截至2026年初，星链在轨卫星数...",
-      "link": "https://www.oschina.net/news/412402",
       "category": "AI News"
     },
     {
@@ -143,22 +159,6 @@
       "published": "2026-03-20",
       "summary": "作者 |谢芸子编辑 |张帆封面来源 |企业官微阿迪达斯几乎交出了近年来的最好业绩。在彻底摆脱“椰子”的第一个完整财年，这家老牌德国体育用品集团2025年的全球营收达到248亿欧元（约合1993亿元人民币），营收增幅13%，创历史新高；归属股东净利润为13.4亿欧元，毛利率也创历史新高达到51.6%。36氪根据财报数据制图，单位：亿欧元具体拆分区域，按货币中性计算，各大区域市场均增长10%以上（剔除Yeezy影响）。其中，北美市场增长10%，大中华区增长13%、拉丁美洲增长22%、新兴市场增长17%。公司表示，这一增长反映出批发渠道与直营业务均出现改善。2025年财报数据也显示，阿迪达斯DTC业",
       "link": "https://36kr.com/p/3731096049795078?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "RENOGY 如果新能源：如何用16年时间打造一家Global Native公司｜出海踏浪者",
-      "source": "36氪",
-      "published": "2026-03-20",
-      "summary": "无论是欧洲家庭的户外露营、北美车库的应急备用，还是日本公寓中的防灾储备柜，便携储能产品的身影已遍布全球。便携储能在欧美地区尤其受欢迎，这一方面源于当地长期以来浓厚的户外露营文化。The Dyrt发布报告称，2024年约有8110万美国人进行了露营活动（包括传统帐篷露营、房车露营等），其中约580万为首次露营者。另一方面，露营的普及对稳定的户外电力供应提出更高要求，而这恰恰也是露营玩家们长期难以解决的痛点。美国部分地区电网老化问题突出，加州等地在山火爆发季节还会经常进行预防性断电。众所周知，便携储能赛道长期以来都是中国品牌的“主场”，凭借成熟的供应链体系，中国品牌在全球市场的份额已超过九成。面对",
-      "link": "https://36kr.com/p/3731094987407617?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "沙特土豪超60亿美元收购沐瞳：公司架构不变，张云帆仍是CEO",
-      "source": "36氪",
-      "published": "2026-03-20",
-      "summary": "3月20日，沐瞳科技发布公司内部信，宣布公司已被沙特阿拉伯主权财富基金全资控股的游戏巨头Savvy Games Group（简称Savvy）收购。自字节游戏业务调整后，这场交易就早有传闻，去年底已经有了大致轮廓。双方在2025下半年正式启动谈判，并在2026年初围绕核心条款达成共识，最后Savvy以超60亿美元的价格收购沐瞳的全部股权。这场交易距离字节收购沐瞳只有5年——彼时的收购价格为40亿美元，如果考虑到谈判和双方讨论时间，这个出售间隔可能更短。而从内部信来看，此次交易后，沐瞳的管理结构仍旧保持不变，张云帆会继续担任沐瞳CEO。在此基础上，公司还会针对员工的历史贡献及未来业绩，设置多项激励",
-      "link": "https://36kr.com/p/3731048121647361?f=rss",
       "category": "AI News"
     }
   ]
