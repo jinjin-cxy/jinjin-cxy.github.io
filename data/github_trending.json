@@ -1,75 +1,75 @@
 {
-  "updated": "2026-03-20T12:31:32.603855+00:00",
+  "updated": "2026-03-21T01:00:22.031674+00:00",
   "repositories": [
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "stars": 9093,
-      "stars_today": 1074,
+      "stars": 9536,
+      "stars_today": 1068,
       "language": "JavaScript",
       "link": "https://github.com/jarrodwatts/claude-hud"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
-      "stars": 7388,
-      "stars_today": 640,
+      "stars": 7642,
+      "stars_today": 635,
       "language": "Python",
       "link": "https://github.com/langchain-ai/open-swe"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 100714,
-      "stars_today": 2886,
+      "stars": 101538,
+      "stars_today": 2819,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 6568,
-      "stars_today": 1848,
+      "stars": 7052,
+      "stars_today": 1812,
       "language": "Java",
       "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
       "name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-      "stars": 11225,
-      "stars_today": 1073,
+      "stars": 11584,
+      "stars_today": 1045,
       "language": "Rust",
       "link": "https://github.com/louis-e/arnis"
     },
     {
       "name": "newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 3350,
-      "stars_today": 267,
+      "stars": 3469,
+      "stars_today": 266,
       "language": "Python",
       "link": "https://github.com/newton-physics/newton"
     },
     {
       "name": "vas3k/TaxHacker",
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": 1647,
-      "stars_today": 136,
+      "stars": 1934,
+      "stars_today": 137,
       "language": "TypeScript",
       "link": "https://github.com/vas3k/TaxHacker"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 33526,
-      "stars_today": 371,
+      "stars": 34103,
+      "stars_today": 433,
       "language": "Python",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "openrocket/openrocket",
       "description": "Model-rocketry aerodynamics and trajectory simulation software",
-      "stars": 2062,
-      "stars_today": 132,
+      "stars": 2210,
+      "stars_today": 144,
       "language": "Java",
       "link": "https://github.com/openrocket/openrocket"
     }
