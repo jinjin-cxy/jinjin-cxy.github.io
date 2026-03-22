@@ -1,6 +1,14 @@
 {
-  "updated": "2026-03-21T12:23:23.563101+00:00",
+  "updated": "2026-03-22T01:08:14.480992+00:00",
   "articles": [
+    {
+      "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
+      "source": "InfoQ 中文",
+      "published": "2026-03-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
       "source": "量子位",
@@ -39,6 +47,14 @@
       "published": "2026-03-21",
       "summary": "具身收入已到千万，已经过了追求当明星公司的阶段",
       "link": "https://www.qbitai.com/2026/03/390531.html",
+      "category": "AI News"
+    },
+    {
+      "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
+      "source": "InfoQ 中文",
+      "published": "2026-03-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -119,22 +135,6 @@
       "published": "2026-03-21",
       "summary": "今日热点导览商务部部长王文涛会见苹果公司首席执行官库克贾国龙起家的西贝首店将缩减一半经营面积特斯拉计划采购中国光伏设备？企业回应：确有此事针对“漂白鸡爪”等“3·15”晚会曝光问题，多地立案溯源打击中国学生平均留学预算超60万TOP3大新闻傅盛微信群里开撕周鸿祎称“欠钱不还”，360回应3月20日，社交媒体流传的截图显示，当天凌晨，猎豹移动董事长兼CEO傅盛在微信聊天群里“开撕”360创始人周鸿祎，指责周鸿祎“欠钱不还，并遭拉黑”。3月20日，360集团回应称，“我们更关注把产品做好，让每个人都能用上安全便捷的360安全龙虾。企业家打造个人影响力，归根结底还是要靠产品和用户价值，而不是依赖情绪",
       "link": "https://36kr.com/p/3732001538490631?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "跨越数据孤岛：实现 100 家全球酒店绩效秒级监控的实战指南 ｜技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/scYOzRqRtZztaVDZhOc1?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "「百虾大战」战火持续，阶跃星辰发布桌面端 StepClaw，接入「水产市场」",
-      "source": "InfoQ 中文",
-      "published": "2026-03-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/bRvUfJ2sqUFlrUcQ3qrV?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
