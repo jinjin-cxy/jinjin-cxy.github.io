@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-23T01:09:15.811152+00:00",
+  "updated": "2026-03-23T12:38:27.537640+00:00",
   "articles": [
     {
-      "title": "某北方车企联合投资，轻舟再融1亿美元，发力世界模型｜36氪首发",
+      "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
+      "source": "量子位",
+      "published": "2026-03-23",
+      "summary": "“故事”是科学里永远属于人类的一面",
+      "link": "https://www.qbitai.com/2026/03/391515.html",
+      "category": "AI News"
+    },
+    {
+      "title": "岚图泰山Ultra启动交付，全新一代896线激光雷达上车",
+      "source": "量子位",
+      "published": "2026-03-23",
+      "summary": "售价45.99万元",
+      "link": "https://www.qbitai.com/2026/03/391489.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后",
+      "source": "量子位",
+      "published": "2026-03-23",
+      "summary": "\"VLA好钢没用在刀刃上\"",
+      "link": "https://www.qbitai.com/2026/03/391474.html",
+      "category": "AI News"
+    },
+    {
+      "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
+      "source": "量子位",
+      "published": "2026-03-23",
+      "summary": "各类Skill按需扩展",
+      "link": "https://www.qbitai.com/2026/03/391361.html",
+      "category": "AI News"
+    },
+    {
+      "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
+      "source": "量子位",
+      "published": "2026-03-23",
+      "summary": "硬件+平台+数据统统给你",
+      "link": "https://www.qbitai.com/2026/03/391359.html",
+      "category": "AI News"
+    },
+    {
+      "title": "中关村北纬龙虾大赛圆满收官！14岁初中少年勇夺“虾王”",
+      "source": "InfoQ 中文",
+      "published": "2026-03-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Bosch 集团首席 AI 科学家阎栋博士已确认出席QCon北京站，探讨AI大模型是否会吞噬软件世界",
+      "source": "InfoQ 中文",
+      "published": "2026-03-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/g29j1RVFBqGg1t4BQExV?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AICon 2026 上海站正式启动：OpenClaw 袭来，我们来谈点真的",
+      "source": "InfoQ 中文",
+      "published": "2026-03-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/C2WQHsZF6ruKr61USuSa?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "DoorDash 构建大模型对话模拟与评估闭环，实现客服机器人规模化测试",
+      "source": "InfoQ 中文",
+      "published": "2026-03-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ZaJmZWklKB37egQrQzBk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
+      "source": "InfoQ 中文",
+      "published": "2026-03-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微软力推 Electron 应用集成 Windows AI 功能",
+      "source": "开源中国",
+      "published": "2026-03-23",
+      "summary": "据Windows Latest报道，微软正积极鼓励Electron开发者在应用中集成Windows 11内置AI功能。这一举措标志着微软在\"AI操作系统\"战略上的持续加码——即便Electron框架因内存占用过高而饱受诟病，微软仍选择优先推进AI能力的生态渗透。 据报道，微软在官方支持文档中明确表示，Electron开发者无需编写任何原生代码即可调用W...",
+      "link": "https://www.oschina.net/news/413427",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌 Gemini 任务自动化正式上线：虽慢但酷，AI 助手终于能替你点外卖了",
+      "source": "开源中国",
+      "published": "2026-03-23",
+      "summary": "谷歌近日正式在Pixel 10 Pro和Galaxy S26 Ultra上推出了Gemini的任务自动化功能（Task Automation），这是目前主流AI助手中首个能够真正接管手机、替用户完成复杂多步骤操作的功能。虽然当前仅支持Uber、DoorDash等少数几款外卖和打车应用，且仍处于测试阶段，但这一功能的亮相被业界视为AI助手从\"对话工具\"向\"执行代理\"...",
+      "link": "https://www.oschina.net/news/413423",
+      "category": "AI News"
+    },
+    {
+      "title": "Reddit 计划引入身份验证机制对抗机器人",
+      "source": "开源中国",
+      "published": "2026-03-23",
+      "summary": "全球最大论坛社区Reddit正在考虑引入用户身份验证机制，以应对日益严重的机器人账号和虚假内容问题。Reddit CEO史蒂夫·霍夫曼（Steve Huffman）在近日的一档播客节目中披露了这一计划，引发社区热议。 霍夫曼在节目中详细阐述了Reddit正在评估的几种身份验证方案，从轻量级到严格程度各不相同： 轻量级方案：采用类似F...",
+      "link": "https://www.oschina.net/news/413414",
+      "category": "AI News"
+    },
+    {
+      "title": "Ubuntu 26.04 推出全新启动动画，融入吉祥物“坚定浣熊”灵感",
+      "source": "开源中国",
+      "published": "2026-03-23",
+      "summary": "即将发布的Ubuntu 26.04 LTS引入了一套全新的Plymouth启动动画，设计灵感直接来自本版本的吉祥物\"坚定浣熊\"（Resolute Raccoon）。尽管现代Ubuntu启动速度极快，用户难得一见这个画面，但这一细节更新依然展现了开发团队对用户体验的用心打磨。 新的启动动画沿用了\"坚定浣熊\"吉祥物设计中标志性的太阳光芒（sunburst）元...",
+      "link": "https://www.oschina.net/news/413386",
+      "category": "AI News"
+    },
+    {
+      "title": "LibreOffice 26.8 将在 Start Center 添加捐赠横幅",
+      "source": "开源中国",
+      "published": "2026-03-23",
+      "summary": "LibreOffice 26.8 版本已合并了对在其 Start Center 添加捐赠横幅的初步支持。 几周前，文档基金会发起了一项任务，呼吁在 LibreOffice Start Center 添加捐赠横幅。这一举措会在用户首次启动这款开源办公套件时显示最近使用的文档和其他信息，旨在鼓励用户向这款由社区驱动、与 Microsoft Office 等办公软件不同的项目捐...",
+      "link": "https://www.oschina.net/news/413371/libreoffice-26-donation-banner",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
       "source": "36氪",
       "published": "2026-03-23",
-      "summary": "图为轻舟智航文｜肖漫编辑｜李勤36氪获悉，轻舟智航（QCraft，以下简称“轻舟”）宣布完成D轮新一轮融资1亿美元。本轮融资由某国内头部主机厂、宁波宁海兴泰合基金、梁溪科创产业母基金（博华资本管理）、华德科创、某头部汽车电子零部件公司等重磅产业投资方及投资机构联合投资。本次资金将主要用于两大方向：一是加大“世界模型+强化学习”等前沿物理AI技术的研发投入；二是加强组织人才建设，为公司的长远发展储备战略力量。轻舟成立于2019年初，是国内始终坚持L4级无人驾驶和乘用车智能辅助驾驶的自动驾驶公司，其核心团队成员分别来自谷歌Waymo、特斯拉、英伟达、Facebook等国际科技公司，研发人员占比高达",
-      "link": "https://36kr.com/p/3734094940504073?f=rss",
+      "summary": "大公司：双林股份港股上市获中国证监会备案36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。宝盖新材料港股IPO获中国证监会备案36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香港联合交易所上市。云天化：2025年净利润51.56亿元，拟每10股派12元36氪获悉，云天化发布2025年业绩报告。报告显示，公司2025年实现营业收入484.15亿元，同比下降21.47%；归属于上市公司股东的净",
+      "link": "https://36kr.com/p/3735459789242375?f=rss",
       "category": "AI News"
     },
     {
-      "title": "「食气生化」获超亿元融资，中试装置运行过万小时，五万吨级项目获备案 | 36氪首发",
+      "title": "36氪AI测评小程序重磅上线！帮你pick最适合自己的AI神器！",
       "source": "36氪",
       "published": "2026-03-23",
-      "summary": "36氪获悉，生物制造企业「食气生化」近日完成超亿元融资，最新投资方包括上海科创知识产权基金和天创资本。本轮融资将重点用于推进公司从中试向产业化的关键跨越。此前，公司曾获得博远资本、腾讯、前海母基金、南创投等机构投资。食气生化成立于2023年1月，专注于一碳生物转化与气体发酵技术开发。联合创始人闻志强、汪庆卓，博士期间为中科院合成生物学重点实验室同门师兄弟。其所在课题组曾服务百余项工业化项目，在气体发酵和一碳生物转化技术研发领域有着近二十年的深厚积累。刚刚结束的2026年全国两会上，《政府工作报告》首次将“单位GDP二氧化碳排放降低3.8%左右”列为年度预期目标，标志着中国碳排放管理从长期战略转",
-      "link": "https://36kr.com/p/3727983704243078?f=rss",
+      "summary": "这个春天，一打开手机，全网似乎都开始“养龙虾”了。只是从“养龙虾”再到“卸龙虾”，AI应用圈的的变化速度超乎想象。AI应用大批涌现的当下，跟风实在易踩坑。AI遍地走，到底谁靠谱？别急，36氪AI测评来帮你！0136氪AI测评小程序，正式上线啦！⬆️扫码体验36氪AI测评小程序⬆️其实，36氪早就上线了AI测评网（网页版），被大家戏称为“AI应用领域的大众点评”。现在，小程序版也正式来了！ 微信里搜一搜，就能打开这个“AI应用百宝箱”，通勤摸鱼都能刷，随时随地帮你找到顺手的AI工具。36氪AI测评小程序-首页正如36氪AI测评slogan：选靠谱AI，看真实评测。我们玩儿的就是真实！市面上的“水",
+      "link": "https://36kr.com/p/3735404612370441?f=rss",
       "category": "AI News"
     },
     {
-      "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
-      "source": "量子位",
-      "published": "2026-03-22",
-      "summary": "图都糊成一团了，模型还说“我很确定”？",
-      "link": "https://www.qbitai.com/2026/03/391014.html",
-      "category": "AI News"
-    },
-    {
-      "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
-      "source": "量子位",
-      "published": "2026-03-22",
-      "summary": "个人聊天场景全面激活",
-      "link": "https://www.qbitai.com/2026/03/391010.html",
-      "category": "AI News"
-    },
-    {
-      "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
-      "source": "量子位",
-      "published": "2026-03-22",
-      "summary": "郭达雅将花落谁家？",
-      "link": "https://www.qbitai.com/2026/03/390990.html",
-      "category": "AI News"
-    },
-    {
-      "title": "上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了",
-      "source": "量子位",
-      "published": "2026-03-22",
-      "summary": "3月27日开幕，提前锁定WAIC“直通卡”",
-      "link": "https://www.qbitai.com/2026/03/390977.html",
-      "category": "AI News"
-    },
-    {
-      "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
-      "source": "InfoQ 中文",
-      "published": "2026-03-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "深化国产算力发展 赋能农业AI创新 | 全国农业高校人工智能学院院长研讨会发出联合倡议",
-      "source": "开源中国",
-      "published": "2026-03-22",
-      "summary": "2026 年 3 月 20 日至 22 日，全国农业高校人工智能学院院长研讨会（后称“研讨会”）在海南省三亚市崖州湾科技城成功举办。本次研讨会以“聚焦国产算力与农业大模型创新，共筑农业人工智能人才培养体系”为主题，汇聚全国 40 多家农业高校、科研院所、行业企业的近 200 位顶尖专家学者，围绕农业人工智能领域的技术创新...",
-      "link": "https://www.oschina.net/news/413057",
-      "category": "AI News"
-    },
-    {
-      "title": "龙虾夜校第二期：当AI成为\"一人公司\"的合伙人",
-      "source": "开源中国",
-      "published": "2026-03-22",
-      "summary": "AI不再是工具，而是员工、合伙人。3月20日，北京亦庄国家信创园，OSCHINA联合极新举办的\"龙虾夜校\"第二期座无虚席。这一次，讨论焦点从\"如何安装\"转向了\"如何经营\"——当AI能写代码、做视频、管客户、跑业务时，\"一人公司\"（OPC）的边界在哪里？安全又如何保障？从提示词工程到智能体集群，从自动化工具到商业闭环，这场...",
-      "link": "https://www.oschina.net/news/413001",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨上市公司董事长病逝，未成年女儿继承9亿元股票；司美格鲁肽化合物专利到期；于东来回应40亿资产利润分配争议",
+      "title": "硬氪首发 | 前华为自动驾驶核心成员创业，要做“会走路”的情绪陪伴机器人",
       "source": "36氪",
-      "published": "2026-03-22",
-      "summary": "今日热点导览多地中小银行集中清理沉睡账户，已有超7家银行发布公告全球首个脑机接口创新产品获得医保编码微信推出官方龙虾插件美药管局在全美召回近9万瓶儿童布洛芬药物日媒：中国车企全球销量20多年来首次超日本居榜首TOP 3大新闻上市公司董事长病逝，未成年女儿继承9亿元股票3月20日晚间，大北农发布关于控股股东、实际控制人变更暨权益变动的提示性公告。公司原实际控制人、董事长邵根伙于2026年2月3日因病去世，邵根伙生前直接持有公司股份9.28亿股，占公司总股本的21.58%。邵根伙生前未订立遗嘱，亦未与他人签订遗赠扶养协议，上述财产的一半（即4.6亿股大北农股票）为其遗产，由其配偶莫云女士、未成年女",
-      "link": "https://36kr.com/p/3734758253887744?f=rss",
+      "published": "2026-03-23",
+      "summary": "作者 | 林晴晴编辑 | 袁斯来硬氪获悉，情绪陪伴场景小型具身机器人公司「青心意创」已于近期完成Pre-A轮融资，本轮融资由厚雪资本和天际资本领投，老股东乐朴资本持续跟投，新辉资本担任长期财务顾问。本轮融资将主要用于超小型双足陪伴机器人的产品研发及技术平台搭建、核心算法迭代与团队扩充。此前，公司已完成由初心资本、乐朴资本及多位科技领域个人投资者参与的天使轮融资。「青心意创」核心团队于2024年初组建，将前沿的具身智能以及自动驾驶大小脑协同软硬件等全栈技术能力应用于陪伴机器人的研发与探索，在全球率先实现了直膝行走，并首创强化学习“情绪步态大模型”，完成了情绪步态生成、全身运动控制及多模态交互等核",
+      "link": "https://36kr.com/p/3735384009048325?f=rss",
       "category": "AI News"
     },
     {
-      "title": "华晨宇进军日化家居赛道，与小阔集团共同创立品牌「重点」｜项目报道",
+      "title": "创想三维IPO：造物平权下的版权困境",
       "source": "36氪",
-      "published": "2026-03-22",
-      "summary": "3 月 22 日，小阔集团携手华晨宇正式推出全新日化家居品牌「重点」，华晨宇出任品牌联合创始人。此次华晨宇的加入并非传统的品牌代言，而是形成了深度的绑定。从股权结构来看，「重点」的运营主体为深圳华阔生物科技有限公司，其中小阔集团旗下子公司深圳星阔生物科技有限公司持股 70%，华晨宇控股的上海圣恒鸿音文化传播有限公司持股 20%，北京云上万家科技有限公司持股 10%。在消费理念不断迭代的当下，日化行业早已脱离单纯的基础功能满足阶段，消费者对产品的成分、功效、使用体验乃至情绪价值都提出了更高要求，需求精细化、场景细分化、体验个性化成为行业显著趋势。正是洞察到这一市场变化，「重点」应运而生。据悉，「",
-      "link": "https://36kr.com/p/3733991155400965?f=rss",
+      "published": "2026-03-23",
+      "summary": "作者 | 丁卯编辑 | 张帆2026年3月9日，创想三维再次向香港联交所递交招股书，拟在主板挂牌上市，中金公司担任独家保荐人。作为3D打印行业领军者，这是公司第三次冲刺资本市场，若进展顺利，创想三维有望摘得港股“消费级3D打印第一股”的桂冠。然而，招股书揭开的不仅是公司规模的扩张，更是其面对拓竹猛烈进攻下的节节败退。这位昔日王者在丢掉行业头把交椅的同时，财务报表也透露出利润缩水、现金流收紧的危险信号。那么，在造物平权的趋势下，消费级3D打印究竟是不是一门好生意？创想三维还值得关注?3D打印是不是好赛道在分析创想三维之前，先要明确消费级3D打印到底是不是好赛道。近两年，作为热门赛道，3D打印的行",
+      "link": "https://36kr.com/p/3735364151836680?f=rss",
       "category": "AI News"
     },
     {
-      "title": "用AI让游戏更好玩，只是腾讯关心的第二个问题",
+      "title": "这300家企业，正在定义全球具身智能产业",
       "source": "36氪",
-      "published": "2026-03-22",
-      "summary": "文｜兰杰编辑｜乔芊3月19日，腾讯发布了2025年全年以及Q4的财报，表现依然稳健。其中，游戏仍是腾讯的基本盘业务，贡献了超30%的收入。2025年，腾讯本土市场游戏的收入为1642亿元，同比增长18%，得益于《三角洲行动》的强劲表现，以及《王者荣耀》、《和平精英》等长青游戏及《无畏契约》系列(个人电脑端及移动端)的收入增长。国际市场游戏收入为774亿元，同比增长33%，得益于 Supercell 旗下游戏及《PUBG MOBILE》的收入增长，以及《鸣潮》 的增量收入贡献。回顾过去一年，AI毋庸置疑是腾讯的核心关键词，也是其游戏业务的核心关键词。在财报和业绩会中，腾讯的管理层不只一次强调，A",
-      "link": "https://36kr.com/p/3734107862073606?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
-      "source": "量子位",
-      "published": "2026-03-21",
-      "summary": "让生成式模型具备完整类别树认知，迈向通用视觉理解",
-      "link": "https://www.qbitai.com/2026/03/390945.html",
-      "category": "AI News"
-    },
-    {
-      "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
-      "source": "InfoQ 中文",
-      "published": "2026-03-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cursor 新模型被指就是Kimi K2.5，联创回应：确实是，下次我们会说清楚",
-      "source": "InfoQ 中文",
-      "published": "2026-03-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Uo9qDPlcoExt95xUG8N4?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI Agent 的记忆中间件：火山 Mem0 架构拆解及落地实践｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VGTtEPwPCd101Iwm9wQi?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "musl 1.2.6发布，Linux 标准库",
-      "source": "开源中国",
-      "published": "2026-03-21",
-      "summary": "musl 1.2.6发布，此版本包含了针对影响 iconv 的 CVE-2025-26519 漏洞修复（该修复此前仅以补丁形式提供），解除了 initgroups 中人为设置的组数量限制，添加了全新的 POSIX-2024 posix_getdents 接口和 Linux 特有的 renameat2 接口，并将 TLSDESC 和 vDSO 的 clock_gettime 支持扩展到了更多架构。此外，还修复了 pwri...",
-      "link": "https://www.oschina.net/news/412776",
-      "category": "AI News"
-    },
-    {
-      "title": "MacState v1.6.0 发布",
-      "source": "开源中国",
-      "published": "2026-03-21",
-      "summary": "MacState v1.6.0 已发布。轻量级 macOS 菜单栏系统监控工具，纯 Swift 开发，零第三方依赖，所有指标合并显示在单个状态栏项中，资源占用极低。 优化 / Improved CPU 进程命令行 — 进程排行面板命令行列显示完整命令行参数（路径+启动参数），使用 sysctl KERN_PROCARGS2 替代仅返回路径的 proc_pidpath 进程面板响应速...",
-      "link": "https://www.oschina.net/news/412746/macstate-1-6-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": ":sparkles:软件授权管理系统 v1.1.1 发布",
-      "source": "开源中国",
-      "published": "2026-03-21",
-      "summary": "软件授权管理系统v1.1.1正式发布 License Manager v1.1.1 现已发布。此版本包含 UI 界面优化，以及 RBAC 权限管理（基于 Casbin）和动态菜单模块的全新支持。 产品定位 软件商业化是一场系统性工程。从产品定价到用户获取，从试用到转化，从续费到升级，每一个环节都至关重要。License Manager作为您的商业化基石，提供完...",
-      "link": "https://www.oschina.net/news/412745/license-manager-1-1-1-released",
+      "published": "2026-03-23",
+      "summary": "站在人与机器共生的新起点，具身智能正推动技术从“感知世界”走向“行动于世界”，一场融合软硬件、数据与场景的产业变革已悄然展开。从具身机器人的“大脑”模型研发，到核心硬件与本体制造，具身智能产业正在从研发向产业化和商业化落地迈进。从产业全链条来看，具身智能产业依托上游核心技术，在中游形成产品与解决方案，在下游场景中实现价值落地。下面这张图中，我们梳理出当下中美两国具身智能赛道值得关注的“弄潮儿”，供你参考。上游中游下游参考来源1.《2026年具身智能产业发展研究报告》，36氪研究院2.《2025年中国商用具身智能白皮书》，艾瑞咨询3.《2025年中国具身智能产业星图》，广发证券、智友·雅瑞",
+      "link": "https://36kr.com/p/3735344485744905?f=rss",
       "category": "AI News"
     }
   ]
