@@ -1,12 +1,12 @@
 {
-  "updated": "2026-03-24T01:02:45.014036+00:00",
+  "updated": "2026-03-24T12:41:36.953043+00:00",
   "models": [
     {
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
-      "downloads": 20521720,
-      "likes": 1149,
+      "downloads": 19613526,
+      "likes": 1152,
       "tags": [
         "transformers",
         "safetensors",
@@ -21,8 +21,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
-      "downloads": 13549909,
-      "likes": 1151,
+      "downloads": 13711737,
+      "likes": 1152,
       "tags": [
         "transformers",
         "safetensors",
@@ -37,7 +37,7 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 11576149,
+      "downloads": 11760425,
       "likes": 3134,
       "tags": [
         "transformers",
@@ -53,8 +53,8 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "author": "Qwen",
-      "downloads": 8974855,
-      "likes": 1003,
+      "downloads": 9091135,
+      "likes": 1004,
       "tags": [
         "transformers",
         "safetensors",
@@ -69,8 +69,8 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
-      "downloads": 8728914,
-      "likes": 644,
+      "downloads": 8765980,
+      "likes": 646,
       "tags": [
         "transformers",
         "safetensors",
@@ -85,7 +85,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
-      "downloads": 7980732,
+      "downloads": 8254154,
       "likes": 419,
       "tags": [
         "transformers",
@@ -101,8 +101,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
-      "downloads": 7561380,
-      "likes": 5595,
+      "downloads": 7790234,
+      "likes": 5596,
       "tags": [
         "transformers",
         "safetensors",
@@ -117,7 +117,7 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "author": "facebook",
-      "downloads": 7153420,
+      "downloads": 7251295,
       "likes": 235,
       "tags": [
         "transformers",
@@ -133,7 +133,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "author": "openai",
-      "downloads": 6966794,
+      "downloads": 6900438,
       "likes": 4474,
       "tags": [
         "transformers",
@@ -149,7 +149,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "author": "Qwen",
-      "downloads": 6875935,
+      "downloads": 6894009,
       "likes": 429,
       "tags": [
         "transformers",
@@ -165,7 +165,7 @@
       "id": "Qwen/Qwen2.5-0.5B-Instruct",
       "name": "Qwen2.5-0.5B-Instruct",
       "author": "Qwen",
-      "downloads": 6697558,
+      "downloads": 6561438,
       "likes": 485,
       "tags": [
         "transformers",
@@ -181,7 +181,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "author": "Qwen",
-      "downloads": 6381807,
+      "downloads": 6344498,
       "likes": 572,
       "tags": [
         "transformers",
@@ -197,7 +197,7 @@
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "author": "trl-internal-testing",
-      "downloads": 6227923,
+      "downloads": 6329236,
       "likes": 4,
       "tags": [
         "transformers",
@@ -213,8 +213,8 @@
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "name": "Llama-3.2-3B-Instruct",
       "author": "meta-llama",
-      "downloads": 5918747,
-      "likes": 2057,
+      "downloads": 6273979,
+      "likes": 2058,
       "tags": [
         "transformers",
         "safetensors",
@@ -229,8 +229,8 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "author": "Qwen",
-      "downloads": 5601232,
-      "likes": 776,
+      "downloads": 5793760,
+      "likes": 777,
       "tags": [
         "transformers",
         "safetensors",
