@@ -1,101 +1,77 @@
 {
-  "updated": "2026-03-26T01:12:10.172603+00:00",
+  "updated": "2026-03-26T12:45:07.580696+00:00",
   "repositories": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 7671,
-      "stars_today": 1341,
+      "stars": 9015,
+      "stars_today": 2684,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul",
-      "stars": 46238,
-      "stars_today": 3787,
-      "language": "Python",
-      "link": "https://github.com/bytedance/deer-flow"
-    },
-    {
-      "name": "BerriAI/litellm",
-      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi",
-      "stars": 40656,
-      "stars_today": 301,
-      "language": "Python",
-      "link": "https://github.com/BerriAI/litellm"
-    },
-    {
-      "name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "stars": 6838,
-      "stars_today": 2353,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": 12004,
+      "stars_today": 576,
       "language": "TypeScript",
-      "link": "https://github.com/pascalorg/editor"
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
-      "name": "letta-ai/claude-subconscious",
-      "description": "Give Claude Code a subconscious",
-      "stars": 1452,
-      "stars_today": 71,
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "stars": 18696,
+      "stars_today": 274,
       "language": "TypeScript",
-      "link": "https://github.com/letta-ai/claude-subconscious"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 26224,
-      "stars_today": 1174,
-      "language": "TypeScript",
-      "link": "https://github.com/ruvnet/ruflo"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": 16639,
-      "stars_today": 1718,
-      "language": "TypeScript",
-      "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+      "link": "https://github.com/virattt/dexter"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 42309,
-      "stars_today": 1082,
+      "stars": 42776,
+      "stars_today": 1001,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 19216,
-      "stars_today": 810,
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 47625,
+      "stars_today": 2388,
+      "language": "Python",
+      "link": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "name": "Vaibhavs10/insanely-fast-whisper",
+      "description": "",
+      "stars": 10631,
+      "stars_today": 1381,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/Vaibhavs10/insanely-fast-whisper"
+    },
+    {
+      "name": "agentscope-ai/agentscope",
+      "description": "Build and run agents you can see, understand and trust.",
+      "stars": 20085,
+      "stars_today": 439,
+      "language": "Python",
+      "link": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "stars": 41000,
+      "stars_today": 264,
       "language": "TypeScript",
-      "link": "https://github.com/supermemoryai/supermemory"
+      "link": "https://github.com/twentyhq/twenty"
     },
     {
-      "name": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
-      "stars": 25591,
-      "stars_today": 1065,
+      "name": "datalab-to/chandra",
+      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+      "stars": 5746,
+      "stars_today": 546,
       "language": "Python",
-      "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
-    },
-    {
-      "name": "usestrix/strix",
-      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "stars": 21748,
-      "stars_today": 102,
-      "language": "Python",
-      "link": "https://github.com/usestrix/strix"
-    },
-    {
-      "name": "hsliuping/TradingAgents-CN",
-      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "stars": 21313,
-      "stars_today": 449,
-      "language": "Python",
-      "link": "https://github.com/hsliuping/TradingAgents-CN"
+      "link": "https://github.com/datalab-to/chandra"
     }
   ]
 }

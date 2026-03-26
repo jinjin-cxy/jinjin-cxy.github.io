@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-26T01:12:27.996335+00:00",
+  "updated": "2026-03-26T12:45:19.105822+00:00",
   "articles": [
     {
-      "title": "Java近期资讯：JDK 26、LibericaJDK、Payara Platform、GlassFish里程碑版本和ClawRunr",
+      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
+      "source": "量子位",
+      "published": "2026-03-26",
+      "summary": "金融AI无人区里的稀缺选手",
+      "link": "https://www.qbitai.com/2026/03/392684.html",
+      "category": "AI News"
+    },
+    {
+      "title": "在线等：如何优雅地分走鹅厂这600+万？",
+      "source": "量子位",
+      "published": "2026-03-26",
+      "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开",
+      "link": "https://www.qbitai.com/2026/03/392641.html",
+      "category": "AI News"
+    },
+    {
+      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+      "source": "量子位",
+      "published": "2026-03-26",
+      "summary": "多智能体协同编程，前后端同步开发",
+      "link": "https://www.qbitai.com/2026/03/392281.html",
+      "category": "AI News"
+    },
+    {
+      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "source": "量子位",
+      "published": "2026-03-26",
+      "summary": "普通员工也大批流失",
+      "link": "https://www.qbitai.com/2026/03/392245.html",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
+      "source": "量子位",
+      "published": "2026-03-26",
+      "summary": "内存啥时候降价",
+      "link": "https://www.qbitai.com/2026/03/392215.html",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌迎来“DeepSeek时刻”！TurboQuant引爆AI圈、全球开发者疯狂复现：6倍无损压缩，内存股集体暴跌",
       "source": "InfoQ 中文",
       "published": "2026-03-26",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Djj5va96FQTPPiKs6gsT?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/kHSpH0T42Ji5CrFfHzO9?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
+      "title": "美国史上最大 IPO 来袭！SpaceX 募资超 750 亿美元，最快本周申报，估值高达万亿",
+      "source": "InfoQ 中文",
+      "published": "2026-03-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/xPSlPuM2fardc6yTQMO3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "月之暗面创始人重磅判断：今年起 AI 研发模式将剧变，海量Token成研究员标配资源",
+      "source": "InfoQ 中文",
+      "published": "2026-03-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/WwJZI3vSu5qKagvDvhwK?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenClaw 进入产品和业务后：踩坑与落地经验",
+      "source": "InfoQ 中文",
+      "published": "2026-03-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/qqej2Tccv9CRP2R82TYk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "如何在 Snowflake 中利用 RelationalAI 原生应用实现图分析与社区检测 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-03-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qBiJSCPWbKlXfLaUKqNW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "中国科学院启动下一代开源芯片与系统研发",
+      "source": "开源中国",
+      "published": "2026-03-26",
+      "summary": "3月26日，在中关村论坛年会—RISC-V生态科技论坛上，中国科学院正式公布在RISC-V关键技术突破、产业协同创新及人才培养领域的系列重要成果，集中发布“香山”开源处理器与“如意”原生操作系统两大重要成果，并正式启动下一代芯片与操作系统的联合研发工作。 专家介绍，RISC-V是一套全球免费开放的芯片底层架构，相当于芯...",
+      "link": "https://www.oschina.net/news/414536",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 数学研究重大突破：GPT-5.4 Pro 等模型成功解决超图 Ramsey 难题",
+      "source": "开源中国",
+      "published": "2026-03-26",
+      "summary": "人工智能在科学研究领域的应用再次取得里程碑式进展。Epoch AI FrontierMath开放问题集中的一个超图Ramsey理论难题已被多个先进AI模型成功攻克，其中包括GPT-5.4 Pro、Claude Opus 4.6 (max)、Gemini 3.1 Pro以及GPT-5.4 (xhigh)。这一突破标志着AI在高级数学推理和原创性研究方面迈出了重要一步。 该问题的核心挑战在于...",
+      "link": "https://www.oschina.net/news/414521",
+      "category": "AI News"
+    },
+    {
+      "title": "GNOME 基金会推出奖学金计划",
+      "source": "开源中国",
+      "published": "2026-03-26",
+      "summary": "GNOME 基金会宣布推出 GNOME Fellowship 计划，一项旨在资助致力于 GNOME 项目长期可持续发展的社区成员的新举措。 首轮奖学金将于 5 月启动，为期 12 个月，资助对象为独立贡献者和社区贡献者。“这种方式可以减少捐助者和基金会的行政负担，让有才华的人能够发挥所长：发现重要问题并解决它们。” 基金会每年将根据申请...",
+      "link": "https://www.oschina.net/news/414483/gnome-fellowship",
+      "category": "AI News"
+    },
+    {
+      "title": "软件所开源首个本地通用幻灯片智能体模型与环境系统",
+      "source": "开源中国",
+      "published": "2026-03-26",
+      "summary": "中国科学院软件研究所中文信息处理实验室近日开源了第二代幻灯片智能体系统 PPTAgent，实现了业界首次将幻灯片智能体模型与完整的智能体沙箱环境一同开源，并支持在单张消费级显卡和 Mac 终端上一键部署，全面适配华为昇腾国产化算力生态。 该工作彻底重构了AI制作幻灯片的逻辑，使智能体不仅能“深度探索”，还能“亲眼...",
+      "link": "https://www.oschina.net/news/414467",
+      "category": "AI News"
+    },
+    {
+      "title": "Visual Studio Code 1.113 发布",
+      "source": "开源中国",
+      "published": "2026-03-26",
+      "summary": "Visual Studio Code 1.113 版本现已发布。此版本包含对 agent 和开发人员体验的多项改进。 具体更新内容包括： 聊天自定义：通过一个统一的界面管理所有与聊天相关的自定义设置。 可配置的 thinking 强度：直接从用户界面控制模型的推理水平。 嵌套子代理：允许子代理调用其他子代理，以实现复杂的多步骤工作流程。 CLI ...",
+      "link": "https://www.oschina.net/news/414452/vs-code-1-113-released",
+      "category": "AI News"
+    },
+    {
+      "title": "StoReel获3400万美元融资：用AI重构故事生产，打造工具社区与平台双轮驱动的内容生态｜涌现新项目",
       "source": "36氪",
       "published": "2026-03-26",
-      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，智能电动全地形车研发商「ModMax（以下简称：魔迈）」，已于近日连续完成千万美元级种子轮及天使轮融资，融资由高瓴资本、云时资本、云沐资本投资。据悉，本轮融资资金将主要用于首款产品的研发生产，成建制团队搭建以及海外市场的品牌初步拓展。全地形车在欧美市场是一门长盛不衰的生意。它既是北美约100万个农场和牧场必不可少的生产力工具，也是每年数百万越野发烧友在嘉年华活动上挥洒汗水的重型玩具。公开数据显示，全球全地形车市场规模在2024年已达到约119.5亿至210亿美元，且北美市场占据了近半数份额。长期以来，这一赛道被北极星（Polaris）、庞巴迪（BRP）",
-      "link": "https://36kr.com/p/3738426692567046?f=rss",
+      "summary": "文｜王欣逸编辑｜王毓婵一句话介绍StoReel是一家全球化AI原生娱乐内容平台，核心产品分别是AI剧集平台StoReel App以及AI剧集工具社区StoReel Canvas，致力于打造系列化剧集内容的创作、发行和变现体系。公司由海外市场短剧赛道转化而来，自2024年底至2025年初开始系统性地探索AI在短剧生产和内容创作中的应用。融资进展近期，StoReel已获得3400万美元增长资金支持，本轮融资包括由Play Ventures领投，T-Accelerate Capital、Tirta Ventures和VRF等共同参与的900万美元Seed轮股权融资，以及来自PVX Partners的",
+      "link": "https://36kr.com/p/3739636054999040?f=rss",
       "category": "AI News"
     },
     {
-      "title": "「傲意科技」获1.5亿元C轮融资，海外收入增速反超国内｜36氪首发",
+      "title": "氪星晚报｜淘天集团推���“AI生产力计划”，向实习生全员开放;过去五年北京已牵头制定国际标准超500项；欧洲议会表决通过欧美贸易协议",
       "source": "36氪",
       "published": "2026-03-26",
-      "summary": "36氪获悉，傲意科技近期已完成1.5亿元C轮融资。本轮融资由中金资本旗下深圳市脑科学与类脑智能产业投资基金（下称\"中金脑科学基金\"）领投，另有多家老股东持续跟投。傲意科技成立于2015年，专注于非侵入式神经信号传感与AI解析技术，并已自主研发肌电/脑电传感器、智能仿生手、神经康复外骨骼及具身智能灵巧手等产品，拥有百余项自主知识产权。作为新一代科技革命的核心前沿赛道，脑机接口和具身智能领域均获得政策层面的密集赋能：国家“十五五”规划中，“脑机接口”和“具身智能”均被列为六大未来产业之一，各地也相继开始设立脑机接口、脑科学专项基金。据了解，傲意科技本轮融资的领投方中金脑科学基金，就是由深圳市引导基",
-      "link": "https://36kr.com/p/3738341704270083?f=rss",
+      "summary": "大公司：三星、SK等韩国企业实施车辆限行等节能措施，响应政府节能政策据报道，以三星和SK为首的韩国各大企业集团已推出一系列节能措施，包括关闭办公区照明以及对驾车上班的员工实施车辆限行等，以响应韩国政府的节能政策。三星宣布从26日起在所有国内业务场所实施车辆限行制度，为期十天，该制度规定车牌尾号与日期尾号相同的车辆限制使用停车场，但电动车、氢燃料车、孕妇和残疾人车辆除外。（财联社）北京人形机器人创新中心发布开源开放生态计划3月26日，在2026中关村论坛年会上，北京人形机器人创新中心CTO唐剑宣布，公司启动具身智能开源开放生态建设计划，将携手合作伙伴全力打造行业第一的具身智能开放生态，覆盖开发者",
+      "link": "https://36kr.com/p/3739460842078470?f=rss",
       "category": "AI News"
     },
     {
-      "title": "第一批“首席龙虾官”，月薪6万",
-      "source": "量子位",
-      "published": "2026-03-25",
-      "summary": "猎头开始捕捉养虾达人",
-      "link": "https://www.qbitai.com/2026/03/392128.html",
-      "category": "AI News"
-    },
-    {
-      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
-      "source": "量子位",
-      "published": "2026-03-25",
-      "summary": "让“能干活的机器人”走进现实",
-      "link": "https://www.qbitai.com/2026/03/392121.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
-      "source": "量子位",
-      "published": "2026-03-25",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/392105.html",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-      "source": "量子位",
-      "published": "2026-03-25",
-      "summary": "明显从”基础模型研究”向”Agent产品化”倾斜",
-      "link": "https://www.qbitai.com/2026/03/392024.html",
-      "category": "AI News"
-    },
-    {
-      "title": "中国AI音乐，悄悄把全球第一拿走了",
-      "source": "量子位",
-      "published": "2026-03-25",
-      "summary": "还是人声、器乐双料第一",
-      "link": "https://www.qbitai.com/2026/03/391839.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AutoGenesis：基于 AI + MCP 的跨平台自动化测试实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TLJa16KNgIXb1HB1Nvtg?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "“聊天干活”只需扫个码：微信ClawBot官配WorkBuddy，自家出品就是快",
-      "source": "InfoQ 中文",
-      "published": "2026-03-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/D1ZIFEbcxoHVOvp8oZ87?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Snowflake 的 AI 驱动预测性维护 ｜ 技术实践",
-      "source": "InfoQ 中文",
-      "published": "2026-03-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/3LDH6Qh3yeH29hORrwbl?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Sora关停背后：为啥它没跑成“视频版ChatGPT”？",
-      "source": "InfoQ 中文",
-      "published": "2026-03-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "中国计算机学会关于 NeurIPS 禁止部分机构参与投稿的声明",
-      "source": "开源中国",
-      "published": "2026-03-25",
-      "summary": "近日，NeurIPS 在征稿通知中禁止受美国制裁机构名单中的部分组织参与投稿，此举在计算机学术界引发广泛关注和强烈不满。中国计算机学会（CCF）对此高度关注并表示坚决反对，现郑重声明如下： 开放、包容、平等、合作是学术交流的核心价值，也是国际学术界公认的基本准则。NeurIPS 禁止特定机构投稿，将学术交流政治化，是...",
-      "link": "https://www.oschina.net/news/414234",
-      "category": "AI News"
-    },
-    {
-      "title": "国家超算互联网单免费发放单人最高 3000 万 Tokens 额度",
-      "source": "开源中国",
-      "published": "2026-03-25",
-      "summary": "国家超算互联网宣布，启动第二弹词元（Tokens）赠送福利活动。面向平台全体用户，限时免费发放单人最高3000万词元（Tokens）额度，以降低科研专属“龙虾”SClaw等智能体体验门槛。 尝尝鲜！ 活动期间，新晋虾友注册&登录超算互联网，即领1000万Tokens 放心跑！ 活动期间，在超算互联网一键部署OpenClaw，即可再领1000万“...",
-      "link": "https://www.oschina.net/news/414227",
-      "category": "AI News"
-    },
-    {
-      "title": ":fire: OpenSolonv3.10.0 张雪峰纪念版发布",
-      "source": "开源中国",
-      "published": "2026-03-25",
-      "summary": "借此发版，纪念敬爱的张雪峰老师! OpenSolon 开源框架！（也称：Solon） OpenSolon 是新一代，Java 企业级应用开发框架。从零开始构建（No Java-EE），有灵活的接口规范与开放生态。采用商用友好的 Apache 2.0 开源协议，是“杭州无耳科技有限公司”开源的根级项目，是 Java 应用开发的生态基座（可替换美国博通公司的 ...",
-      "link": "https://www.oschina.net/news/414208/solon-3-10-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "TigerVNC 1.16.1 发布，VNC 客户端和服务器",
-      "source": "开源中国",
-      "published": "2026-03-25",
-      "summary": "TigerVNC 是一个高级的 VNC 远程访问的实现，允许你查看运行在网络上另一台计算机上的虚拟桌面环境并与之交互；它是基于 RealVNC 4 和 X.org 代码库的高速 VNC 版本。 TigerVNC 1.16.1 漏洞修复版本现已发布。此版本主要为安全更新，旨在修复 x0vncserver 中的一个漏洞，该漏洞允许其他用户查看和篡改屏幕内容。建议 x0...",
-      "link": "https://www.oschina.net/news/414196/tigernvc-1-16-1-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 正式引入“自动模式”：具备自主决策权限、动态平衡效率与安全",
-      "source": "开源中国",
-      "published": "2026-03-25",
-      "summary": "Claude Code 正式上线了“自动模式”（Auto Mode），该特性允许 Claude Code 在无需用户逐一批准每个文件写入和 Bash 命令的情况下，自主完成编程任务。这解决了之前因频繁请求权限而导致的工作流程中断问题，使开发者能够将更复杂的任务完整地交给 AI Agent。 据介绍，Claude Code “自动模式”通过内置分类器对操作进行...",
-      "link": "https://www.oschina.net/news/414192",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
+      "title": "速腾聚创首次实现单季盈利，2025年机器人产品销量激增25倍｜最前线",
       "source": "36氪",
-      "published": "2026-03-25",
-      "summary": "今日热点导览于东来：超市总裁峰会门票有点高，每人退3000元品牌金饰克价一夜大涨近70元，克价重回1400元央行25日开展785亿元7天期逆回购操作泡泡玛特将在今年下半年推出LABUBU 4.0系列“中园石化”加油站被查TOP3大新闻张雪峰医疗文件疑似泄露，苏州卫生健康委回应3月24日晚，江苏苏州峰学蔚来教育科技有限公司发布讣告，知名考研老师张雪峰（本名张子彪）因突发疾病，经抢救无效去世。24日傍晚，一份姓名为张子彪的苏州大学附属第四医院（苏州市独墅湖医院）特殊治疗知情同意书在网上流传，相关医疗文件疑似泄露引发关注。3月25日，新黄河记者就此事致电苏州大学附属第四医院监督电话，其工作人员表示，",
-      "link": "https://36kr.com/p/3739006287216903?f=rss",
+      "published": "2026-03-26",
+      "summary": "作者｜黄楠编辑｜袁斯来3月25日，速腾聚创（02498.HK）公布2025年第四季度及全年业绩报告。财报显示，2025年全年，速腾聚创实现营收约19.41亿元，激光雷达总销量约91.2万台，毛利约5.14亿元，同比增长81.3%。第四季度表现尤为突出，单季度实现经营利润1.30亿元，净利润1.04亿元，首次实现单季度盈利。第四季度综合毛利率达28.5%，同比提升6.4个百分点；机器人领域毛利率达41.5%。可以看到，公司“车载+机器人”双轮驱动格局已实质性形成。其中，第四季度的机器人及其他产品收入约3.47亿元，ADAS产品收入约3.61亿。机器人业务不再只是远期故事，而是成为与车载业务并重的",
+      "link": "https://36kr.com/p/3739712915816457?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资；阿里获评全球最具创新力AI企业，是唯一入选的亚洲公司；三星加入韩国政府倡导的车辆轮换限行计划，以应对能源短缺",
+      "title": "36氪官方Skill上线ClawHub，解锁OpenClaw新技能",
       "source": "36氪",
-      "published": "2026-03-25",
-      "summary": "大公司：斯里兰卡国家支付网络LankaPay宣布：40万商户已支持微信支付36氪获悉，3月24日，斯里兰卡国家支付网络LankaPay宣布正式接入微信支付。��日起，中国游客可在斯里兰卡全岛超过40万家支持LANKAQR二维码的商户中，直接使用微信支付进行消费。目前，微信跨境支付已覆盖全球78个国家和地区，支持36种货币，覆盖餐饮、百货、商超便利、交通出行、景点购票、留学缴费等丰富场景。拼多多官宣“新拼姆”方案：开启品牌自营，一期已注资150亿36氪获悉，3月25日，拼多多集团正式宣布组建“新拼姆”，未来三年投入1000亿元现金，开启品牌自营，继续重仓中国供应链，带动国内产业高质量、品牌化发展",
-      "link": "https://36kr.com/p/3737878147203072?f=rss",
+      "published": "2026-03-26",
+      "summary": "36氪已正式入驻ClawHub平台，重磅推出三款官方Skill，专为OpenClaw用户打造，无需繁琐操作，一键安装即可让你的OpenClaw升级为新经济信息中枢，轻松抢占信息先机。OpenClaw的强大，源于其可无限扩展的Skill生态——这些“技能包”就像给AI助手装上了专属外挂，让原本强大的智能体拥有更精准、更高效的专项能力。而ClawHub作为OpenClaw官方技能商店，汇聚了海量优质技能，是用户获取安全、可信扩展能力的核心阵地。此次36氪带来的三款官方Skill，依托36氪专业的内容生态与数据资源，精准匹配新经济参与者的核心信息需求，让每一位OpenClaw用户都能便捷获取高价值内",
+      "link": "https://36kr.com/p/3739662958854150?f=rss",
       "category": "AI News"
     },
     {
-      "title": "生产速度提升四倍，推出桌面级金属3D打印机，「融速科技」完成近亿元A轮融资 | 36氪首发",
+      "title": "越秀服务：2025年全年营收微增至39.02亿，多重因素导致盈利承压",
       "source": "36氪",
-      "published": "2026-03-25",
-      "summary": "文 | 张冰冰编辑 | 阿至36氪获悉，苏州融速智造科技有限公司（以下简称「融速科技」）宣布完成近亿元A轮融资，投资方为河南豫资集团、苏高新融享基金。资金将用于进一步优化产品技术及产线建设，根据市场需求提升交付能力和生产规模。「融速科技」成立于2020年，创始人徐方达为英国巴斯大学博士后，主要从事大尺寸增材方向研究。「融速科技」聚焦新一代DED送丝3D打印技术，面向航空航天、钢铁冶金、石油化工等工业领域中大尺寸零件制造需求，提供打印、装备、器件三大类型服务，其中STAR系列产品已获得来自中航、中车、中船等头部企业订单。近期，「融速科技」发布桌面级多激光送丝金属3D打印机Laser Mini，具",
-      "link": "https://36kr.com/p/3738196912881927?f=rss",
+      "published": "2026-03-26",
+      "summary": "3月26日，越秀服务发布2025年度业绩。财报数据显示，越秀服务2025年全年总收入为39.02亿元(人民币，下同)，同比微增0.9%，在管面积同比增长6.0%，面积增速快于收入增长，人员成本、园艺与保洁支出、销货成本等方面的支出快速增长，导致公司毛利率同比下降8.5个百分点，至14.8%，归母净利润同比下降22.5%，至约2.74 亿元，整体上呈现营收微增、利润大幅下滑、毛利率显著收缩的特征。不过在受行业整体承压等因素影响导致盈利能力下滑的同时，越秀服务在财务方面仍然保持了稳健。截至2025年底，越秀服务持有现金及等价物/定期存款47.91 亿元，同比增加约2亿元，在行业内处于领先团队。20",
+      "link": "https://36kr.com/p/3739688073724169?f=rss",
       "category": "AI News"
     }
   ]
