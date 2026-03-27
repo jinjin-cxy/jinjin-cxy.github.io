@@ -1,75 +1,75 @@
 {
-  "updated": "2026-03-26T12:45:07.580696+00:00",
+  "updated": "2026-03-27T01:12:32.804927+00:00",
   "repositories": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 9015,
-      "stars_today": 2684,
+      "stars": 10285,
+      "stars_today": 2685,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 12004,
-      "stars_today": 576,
+      "stars": 12645,
+      "stars_today": 598,
       "language": "TypeScript",
       "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
       "name": "virattt/dexter",
       "description": "An autonomous agent for deep financial research",
-      "stars": 18696,
-      "stars_today": 274,
+      "stars": 18990,
+      "stars_today": 210,
       "language": "TypeScript",
       "link": "https://github.com/virattt/dexter"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 42776,
-      "stars_today": 1001,
+      "stars": 43178,
+      "stars_today": 1002,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-      "stars": 47625,
-      "stars_today": 2388,
+      "stars": 48372,
+      "stars_today": 2394,
       "language": "Python",
       "link": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "Vaibhavs10/insanely-fast-whisper",
       "description": "",
-      "stars": 10631,
-      "stars_today": 1381,
+      "stars": 11222,
+      "stars_today": 1370,
       "language": "Jupyter Notebook",
       "link": "https://github.com/Vaibhavs10/insanely-fast-whisper"
     },
     {
       "name": "agentscope-ai/agentscope",
       "description": "Build and run agents you can see, understand and trust.",
-      "stars": 20085,
-      "stars_today": 439,
+      "stars": 20421,
+      "stars_today": 437,
       "language": "Python",
       "link": "https://github.com/agentscope-ai/agentscope"
     },
     {
       "name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": 41000,
-      "stars_today": 264,
+      "stars": 41274,
+      "stars_today": 117,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "stars": 5746,
-      "stars_today": 546,
+      "stars": 6161,
+      "stars_today": 557,
       "language": "Python",
       "link": "https://github.com/datalab-to/chandra"
     }
