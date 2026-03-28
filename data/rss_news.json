@@ -1,11 +1,107 @@
 {
-  "updated": "2026-03-28T01:06:00.582174+00:00",
+  "updated": "2026-03-28T12:28:39.739614+00:00",
   "articles": [
+    {
+      "title": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会顺利举办",
+      "source": "量子位",
+      "published": "2026-03-28",
+      "summary": "中关村论坛“AI2026：向人立心，向实立命”特邀闭门会在中关村国际创新中心举行",
+      "link": "https://www.qbitai.com/2026/03/392981.html",
+      "category": "AI News"
+    },
+    {
+      "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+      "source": "量子位",
+      "published": "2026-03-28",
+      "summary": "零跑开始尝试在智能化上问鼎了",
+      "link": "https://www.qbitai.com/2026/03/392948.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+      "source": "量子位",
+      "published": "2026-03-28",
+      "summary": "在编程能力上相比上一代GLM-5直接飙升近10分",
+      "link": "https://www.qbitai.com/2026/03/392914.html",
+      "category": "AI News"
+    },
+    {
+      "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+      "source": "量子位",
+      "published": "2026-03-28",
+      "summary": "曾获华为“十大发明”奖",
+      "link": "https://www.qbitai.com/2026/03/392903.html",
+      "category": "AI News"
+    },
+    {
+      "title": "25.98万元起！智己LS8震撼开启预售，30万内享百万级跨代际体验",
+      "source": "量子位",
+      "published": "2026-03-28",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/03/392900.html",
+      "category": "AI News"
+    },
+    {
+      "title": "绿色 IT ：如何减轻 AI 对环境的影响",
+      "source": "InfoQ 中文",
+      "published": "2026-03-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
+      "source": "InfoQ 中文",
+      "published": "2026-03-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%",
+      "source": "InfoQ 中文",
+      "published": "2026-03-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-03-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "FlashDB V2.2.0 发布，超轻量级嵌入式数据库",
+      "source": "开源中国",
+      "published": "2026-03-28",
+      "summary": "距离上次发布时隔1年半，V2.2.0 版本主要在功能上和更宽的写粒度有了支持，以适应更多的芯片，主要日志如下： TSDB：添加了 FDB_TSDB_FIXED_BLOB_SIZE 编译时选项，以减少固定大小 blob 场景下的闪存使用量。 TSDB：为高粒度 Flash 操作添加 TSDB 支持 KVDB：支持 kvdb 的 256 位写入粒度 CI：为 FDB_WRITE_GRAN=[1,8,32...",
+      "link": "https://www.oschina.net/news/414987",
+      "category": "AI News"
+    },
+    {
+      "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
+      "source": "36氪",
+      "published": "2026-03-28",
+      "summary": "2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。在他看来，这场变革远不止于效率提升。从“跟风盯榜单”到“回归用户本身”，从“平台找内容",
+      "link": "https://36kr.com/p/3738258350817540?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
+      "source": "36氪",
+      "published": "2026-03-28",
+      "summary": "今日热点导览前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体九号公司：与泡泡玛特达成合作，联名电动车将于4月推出苹果公司或将改变战略，向外部人工智能助手开放Siri多位即将卸任的CEO将人工智能列为决定离职的原因之一英国将对限制青少年使用社交媒体展开试点TOP3大新闻美籍华裔刑事鉴识专家李昌钰逝世，享年87岁美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专家李昌钰当天在位于内华达州的家中逝世，享年87岁。纽黑文大学校长延斯·弗雷泽里克森表示，李昌钰对该校以及国际法医学界作出卓越贡献，深刻影响一代又一代学生和执法专业人员。李昌钰1938年11月生于江苏如皋。在数十年的职",
+      "link": "https://36kr.com/p/3741924007461128?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段",
       "source": "36氪",
       "published": "2026-03-28",
-      "summary": "3月27日，曹操出行公布了2025年全年业绩。数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。在中国共享出行版图中，曹操出行始终是一个独特的存在。其不仅是定制车模式的先行者，更是吉利控股在Robotaxi万亿赛道上的“终极落子”。 这种产业协同效应",
+      "summary": "3月27日，曹操出行公布了2025年全年业绩���数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。在中国共享出行版图中，曹操出行始终是一个独特的存在。其不仅是定制车模式的先行者，更是吉利控股在Robotaxi万亿赛道上的“终极落子”。 这种产业协同",
       "link": "https://36kr.com/p/3741142695117059?f=rss",
       "category": "AI News"
     },
@@ -18,83 +114,11 @@
       "category": "AI News"
     },
     {
-      "title": "趋境科技发布ATaaS：全球领先的高效能AI Token生产服务平台",
-      "source": "量子位",
-      "published": "2026-03-27",
-      "summary": "揭秘硬件高投入≠高效 Token 产出",
-      "link": "https://www.qbitai.com/2026/03/392896.html",
-      "category": "AI News"
-    },
-    {
-      "title": "杨植麟当主持人的大模型圆桌：张鹏罗福莉夏立雪都放开说了",
-      "source": "量子位",
-      "published": "2026-03-27",
-      "summary": "中国大模型顶流都来了！",
-      "link": "https://www.qbitai.com/2026/03/392878.html",
-      "category": "AI News"
-    },
-    {
-      "title": "国产玩家亮剑世界模型！把全模态卷到顶后，天工AI不藏了",
-      "source": "量子位",
-      "published": "2026-03-27",
-      "summary": "“已迈入AI原生的平台经济时代”",
-      "link": "https://www.qbitai.com/2026/03/392835.html",
-      "category": "AI News"
-    },
-    {
-      "title": "钉钉CLI开源！首批开放10项核心产品能力，原生支持ClaudeCode等",
-      "source": "量子位",
-      "published": "2026-03-27",
-      "summary": "国内首个CLI开源的国民级应用",
-      "link": "https://www.qbitai.com/2026/03/392828.html",
-      "category": "AI News"
-    },
-    {
-      "title": "开会也能“装龙虾”？阶跃StepClaw承包GDPS 2026全场人气",
-      "source": "量子位",
-      "published": "2026-03-27",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/03/392819.html",
-      "category": "AI News"
-    },
-    {
       "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
       "source": "InfoQ 中文",
       "published": "2026-03-27",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "传月之暗面考虑赴香港进行 IPO，内部人员证实去年底已启动成本核算",
-      "source": "InfoQ 中文",
-      "published": "2026-03-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/HUWHl1y4s0K0fNxm7iv0?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
-      "source": "InfoQ 中文",
-      "published": "2026-03-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "不是路演，是看火箭发射！马斯克亲自为 SpaceX IPO 写剧本：散户和粉丝先上桌",
-      "source": "InfoQ 中文",
-      "published": "2026-03-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/F8R89EPpSXmROiaHUKqW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "爆火出圈！12 城奔赴，9w + 线上围观，OpenClaw 中国行圆满落幕",
-      "source": "InfoQ 中文",
-      "published": "2026-03-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zz39gpVYX9DfB8qBEIOA?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -130,35 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "Calibre 9.6 发布，功能强大的开源电子书工具",
-      "source": "开源中国",
-      "published": "2026-03-27",
-      "summary": "Calibre 开源项目是 Calibre 官方出的电子书管理工具。它可以查看，转换，编辑和分类所有主流格式的电子书。Calibre 是个跨平台软件，可以在 Linux、Windows 和 macOS 上运行。 Calibre 9.6 现已正式发布，此次更新内容如下： 新功能 全文搜索：一种基于卡片的全文搜索结果视图，并带有书籍封面 要进行全文搜索，可点击搜...",
-      "link": "https://www.oschina.net/news/414853/calibre-9-6-released",
-      "category": "AI News"
-    },
-    {
       "title": "龙湖：2025年收入973.1亿，预计两年后完成新模式筑基",
       "source": "36氪",
       "published": "2026-03-27",
       "summary": "3月27日，龙湖集团发布2025年度业绩报告。报告显示，龙湖集团2025年营业收入约为973.1亿元。其中，地产开发业务收入705.4亿元；运营及服务业务收入为267.7亿元，在集团营业收入中占比达到27.5%，创历史新高；公司拥有人应占溢利为10.2亿元；剔除投资物业及其他衍生金融工具公平值变动影响后，归母核心亏损为17亿元。龙湖从2022年开始主动调整节奏、压降负债，开发业务占比持续走低。到了2025年，开发业务首次出现盈利亏损，但运营及服务业务实现核心权益后利润接近80亿元，弥补了开发业务下降到来的负面影响。龙湖董事会主席兼CEO陈序平表示，预计最晚到2028年，龙湖的运营及服务业务的收",
       "link": "https://36kr.com/p/3741132856115207?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人",
-      "source": "36氪",
-      "published": "2026-03-27",
-      "summary": "大公司：日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年日本航天器初创企业ispace周五表示，在两次登月着陆器任务失败后，公司进行战略调整，将把一项由美国政府资助的月球探测任务再度推迟至2030年，并裁减全球员工。此次公告凸显出该企业前景不明朗。当前美国正联合商业及国际伙伴重组太空任务。（新浪财经）菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议36氪获悉，今日菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议。菜鸟将应用其数字供应链科技、仓储自动化技术，以及海外仓储网络运营经验，全力支持CP AXTRA 在泰国及东盟国家打造线上线下一体的",
-      "link": "https://36kr.com/p/3737878513844224?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线",
-      "source": "36氪",
-      "published": "2026-03-27",
-      "summary": "作者｜黄楠编辑｜袁斯来一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。然而，传统健身行业长期受困于用户留存难、运营效率低、服务同质化三大瓶颈。在这一背景下，从单一场馆运营转向“AI+场景+硬件”的系统化智能升级，正成为行业提升效率、应对市场变化的核心趋势。3月26日，2026领润生态战略峰会在苏州举行，峰会现场集中展示了近20个孵化项目，覆盖智能家居、医疗健康、新消费、前沿科技等赛",
-      "link": "https://36kr.com/p/3740892215623942?f=rss",
       "category": "AI News"
     }
   ]
