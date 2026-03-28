@@ -1,99 +1,99 @@
 {
-  "updated": "2026-03-27T12:36:03.717992+00:00",
+  "updated": "2026-03-28T01:05:50.970802+00:00",
   "repositories": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 11746,
-      "stars_today": 2824,
+      "stars": 12652,
+      "stars_today": 2821,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
-      "stars": 82046,
-      "stars_today": 1546,
+      "stars": 83062,
+      "stars_today": 1616,
       "language": "Python",
       "link": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "name": "SakanaAI/AI-Scientist-v2",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "stars": 2642,
-      "stars_today": 125,
+      "stars": 2863,
+      "stars_today": 143,
       "language": "Python",
       "link": "https://github.com/SakanaAI/AI-Scientist-v2"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 24400,
-      "stars_today": 320,
+      "stars": 24685,
+      "stars_today": 337,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
       "name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": 41670,
-      "stars_today": 661,
+      "stars": 42011,
+      "stars_today": 668,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "stars": 6644,
-      "stars_today": 913,
+      "stars": 7021,
+      "stars_today": 912,
       "language": "Python",
       "link": "https://github.com/datalab-to/chandra"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 117482,
-      "stars_today": 2993,
+      "stars": 118537,
+      "stars_today": 2752,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "virattt/dexter",
       "description": "An autonomous agent for deep financial research",
-      "stars": 19373,
-      "stars_today": 673,
+      "stars": 19691,
+      "stars_today": 672,
       "language": "TypeScript",
       "link": "https://github.com/virattt/dexter"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 13396,
-      "stars_today": 1402,
+      "stars": 13959,
+      "stars_today": 1411,
       "language": "TypeScript",
       "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
       "name": "FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "stars": 29425,
-      "stars_today": 99,
+      "stars": 29663,
+      "stars_today": 79,
       "language": "C++",
       "link": "https://github.com/FreeCAD/FreeCAD"
     },
     {
       "name": "Vaibhavs10/insanely-fast-whisper",
       "description": "",
-      "stars": 11643,
-      "stars_today": 1075,
+      "stars": 11873,
+      "stars_today": 1066,
       "language": "Jupyter Notebook",
       "link": "https://github.com/Vaibhavs10/insanely-fast-whisper"
     },
     {
       "name": "onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 18645,
-      "stars_today": 512,
+      "stars": 19139,
+      "stars_today": 547,
       "language": "Python",
       "link": "https://github.com/onyx-dot-app/onyx"
     }
