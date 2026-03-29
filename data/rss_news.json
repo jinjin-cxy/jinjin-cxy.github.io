@@ -1,6 +1,102 @@
 {
-  "updated": "2026-03-29T01:16:05.837841+00:00",
+  "updated": "2026-03-29T12:29:19.664993+00:00",
   "articles": [
+    {
+      "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
+      "source": "量子位",
+      "published": "2026-03-29",
+      "summary": "数据・解析・营销三位一体",
+      "link": "https://www.qbitai.com/2026/03/393064.html",
+      "category": "AI News"
+    },
+    {
+      "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+      "source": "量子位",
+      "published": "2026-03-29",
+      "summary": "自动输出可用验证代码",
+      "link": "https://www.qbitai.com/2026/03/393045.html",
+      "category": "AI News"
+    },
+    {
+      "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
+      "source": "量子位",
+      "published": "2026-03-29",
+      "summary": "最强大脑，海淀集结",
+      "link": "https://www.qbitai.com/2026/03/392996.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+      "source": "InfoQ 中文",
+      "published": "2026-03-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Rust 的独特之处不只内存安全：来自自主机器人的启示",
+      "source": "InfoQ 中文",
+      "published": "2026-03-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-03-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突",
+      "source": "InfoQ 中文",
+      "published": "2026-03-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "JekyllNet v0.2.0 正式发布",
+      "source": "开源中国",
+      "published": "2026-03-29",
+      "summary": "今日宣布，JekyllNet v0.2.0 正式发布。本次版本重点并非只在“新增功能点”，而在于把“可用能力”变成“可被快速掌握、可被稳定复用”的完整工具体系。 官方入口 JekyllNet 仓库 JekyllNet 文档网站 JekyllNet GitHub Pages 入口 JekllNet Gitee https://gitee.com/jekyllnet v0.2.0 核心亮点 新增完整使用说明：从安装...",
+      "link": "https://www.oschina.net/news/415353",
+      "category": "AI News"
+    },
+    {
+      "title": "Codong v0.1.3 完成核心特性与全部标准库，重复执行速度提升 170 倍",
+      "source": "开源中国",
+      "published": "2026-03-29",
+      "summary": "Codong v0.1.3 发布 Codong v0.1.3 完成了语言核心特性与全部标准库模块的补全，并引入编译缓存机制，使重复执行速度提升 170 倍，测试覆盖达到 1,427 个用例，通过率 100%。 编译缓存 本次更新引入 ~/.codong/cache 编译缓存目录。codong run 在首次执行时将源文件编译为本地二进制并写入缓存；后续执行相同文件时，直接...",
+      "link": "https://www.oschina.net/news/415339",
+      "category": "AI News"
+    },
+    {
+      "title": "RedBookC —— 最新的小红书自动发帖 Agent 完整开源，搭建后 100% 可立即使用",
+      "source": "开源中国",
+      "published": "2026-03-29",
+      "summary": "做小红书运营的人都知道，小红书的反作弊机制是国内各大平台里最严的之一。 市面上绝大多数所谓的「小红书自动发帖工具」，走的都是Cookie 注入的路线——把登录后的 Cookie 抠出来，直接拿去调接口发帖。听起来可行，但现实是这条路基本走不通。 小红书的Cookie 体系极其复杂。真实登录之后，除了基础的身份 Cookie，还...",
+      "link": "https://www.oschina.net/news/415309",
+      "category": "AI News"
+    },
+    {
+      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+      "source": "36氪",
+      "published": "2026-03-29",
+      "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素，",
+      "link": "https://36kr.com/p/3743855989587971?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+      "source": "36氪",
+      "published": "2026-03-29",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光灿院士，曾在美国密西根大学段路明院士组从事博士后研究，期间曾与国际离子阱先驱、IONQ创始人Chr",
+      "link": "https://36kr.com/p/3743360666566919?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "趋境ATaaS平台发布，打造日均万亿产能的“Token工厂”",
       "source": "量子位",
@@ -18,59 +114,11 @@
       "category": "AI News"
     },
     {
-      "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
-      "source": "量子位",
-      "published": "2026-03-28",
-      "summary": "零跑开始尝试在智能化上问鼎了",
-      "link": "https://www.qbitai.com/2026/03/392948.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
-      "source": "量子位",
-      "published": "2026-03-28",
-      "summary": "在编程能力上相比上一代GLM-5直接飙升近10分",
-      "link": "https://www.qbitai.com/2026/03/392914.html",
-      "category": "AI News"
-    },
-    {
-      "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
-      "source": "量子位",
-      "published": "2026-03-28",
-      "summary": "曾获华为“十大发明”奖",
-      "link": "https://www.qbitai.com/2026/03/392903.html",
-      "category": "AI News"
-    },
-    {
       "title": "绿色 IT ：如何减轻 AI 对环境的影响",
       "source": "InfoQ 中文",
       "published": "2026-03-28",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
-      "source": "InfoQ 中文",
-      "published": "2026-03-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%",
-      "source": "InfoQ 中文",
-      "published": "2026-03-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Agent 生产落地基石：可观测透视 + 评估飞轮的一体化建设实践｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -106,59 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "业绩快报 | 茶百道2025年业绩报：新品业绩贡献超30%，部分门店咖啡日售超百杯",
-      "source": "36氪",
-      "published": "2026-03-28",
-      "summary": "文｜王熠3月27日，茶百道发布2025年业绩报告，公司总年度GMV达到161.8亿元，同比增长11%；单店日均GMV较2024年提升10%。自2025年二季度起，外卖大战重点围绕“咖啡及新茶饮”赛道展开。然而在第三季度后，各平台的补贴显著减弱，部分茶咖企业的外卖订单下滑，且长达数月的补贴及促销，也进而影响了公司的毛利率水平及线下门店的营收表现。在诸多茶咖企业之中，茶百道对外卖大战的态度一直明确——不依赖补贴，只借势提升订单量和用户习惯。更多场合下，茶百道高层也不止一次强调，公司的长期竞争力在于产品力、供应链效率与数字化运营，而非短期补贴。最新的财报数据显示，单看去年第四季度，茶百道在外部补贴减",
-      "link": "https://36kr.com/p/3741100948029448?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
-      "source": "InfoQ 中文",
-      "published": "2026-03-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "qData v1.2.0 已经发布，一站式开源数据中台",
       "source": "开源中国",
       "published": "2026-03-27",
       "summary": "qData v1.2.0 已经发布，一站式开源数据中台 此版本更新内容包括： qData v1.2.0 发布说明 版本概述 本次版本聚焦 数据建模能力重构与治理体系完善，全面落地企业级数仓规划与数据资产管理能力。 核心新增 数仓分层管理、数据域管理、主题域管理 三大建模核心能力，实现从数仓架构设计、业务域划分到主题域聚合的全流程可...",
       "link": "https://www.oschina.net/news/414879",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 原生的 GIS 分析流水线框架 GeoPipeAgent v0.1.0 发布",
-      "source": "开源中国",
-      "published": "2026-03-27",
-      "summary": "GeoPipeAgent是一个 AI 原生的 GIS 分析流水线框架。 它要解决的，不是“让 AI 会调用几个 GIS 命令”，而是让 AI 以一种更现实、更稳定的方式参与 GIS 工作流。 现在的 AI，在相关 skill 的支持下，其实已经能根据自然语言描述，组织出一些 GIS 分析步骤。单看这个能力，好像已经不需要额外再做一个框架了。但问题在于：...",
-      "link": "https://www.oschina.net/news/414874",
-      "category": "AI News"
-    },
-    {
-      "title": "Codong SPEC 编程规范文档 更新 — v0.8.0",
-      "source": "开源中国",
-      "published": "2026-03-27",
-      "summary": "本次更新对 Codong 语言规范进行了大规模扩充，系统性补齐了标准库文档与实际实现之间的缺口。 文档变更： 文件 更新前 更新后 新增 SPEC.md 406 行 690 行 +284 行 SPEC_FOR_AI.md 1043 行 1585 行 +542 行 本次补充的模块文档： 模块 方法数 功能说明 fs 14 文件读写、复制、移动、删除、目录操作、JSON 文件、按行读写...",
-      "link": "https://www.oschina.net/news/414870",
-      "category": "AI News"
-    },
-    {
-      "title": "openKylin RISC-V 二进制兼容再突破，应用运行更快更流畅！",
-      "source": "开源中国",
-      "published": "2026-03-27",
-      "summary": "openAtom openKylin（简称：openKylin）社区自成立以来，始终高度关注并持续投入RISC-V架构生态建设，在版本构建、系统性能、生态适配等方面不断取得创新进展。近期，社区在RISC-V生态兼容领域实现关键突破，成功对开源二进制翻译工具Box64进行了体系化性能优化，并将所有成果集成到RVTrans项目中。通过对符号解析、动态...",
-      "link": "https://www.oschina.net/news/414858",
-      "category": "AI News"
-    },
-    {
-      "title": "龙湖：2025年收入973.1亿，预计两年后完成新模式筑基",
-      "source": "36氪",
-      "published": "2026-03-27",
-      "summary": "3月27日，龙湖集团发布2025年度业绩报告。报告显示，龙湖集团2025年营业收入约为973.1亿元。其中，地产开发业务收入705.4亿元；运营及服务业务收入为267.7亿元，在集团营业收入中占比达到27.5%，创历史新高；公司拥有人应占溢利为10.2亿元；剔除投资物业及其他衍生金融工具公平值变动影响后，归母核心亏损为17亿元。龙湖从2022年开始主动调整节奏、压降负债，开发业务占比持续走低。到了2025年，开发业务首次出现盈利亏损，但运营及服务业务实现核心权益后利润接近80亿元，弥补了开发业务下降到来的负面影响。龙湖董事会主席兼CEO陈序平表示，预计最晚到2028年，龙湖的运营及服务业务的收",
-      "link": "https://36kr.com/p/3741132856115207?f=rss",
       "category": "AI News"
     }
   ]
