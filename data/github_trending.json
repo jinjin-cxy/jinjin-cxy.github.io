@@ -1,107 +1,99 @@
 {
-  "updated": "2026-03-29T12:29:09.274256+00:00",
+  "updated": "2026-03-30T01:17:04.140000+00:00",
   "repositories": [
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 4835,
-      "stars_today": 1121,
+      "stars": 6705,
+      "stars_today": 1165,
       "language": "Python",
       "link": "https://github.com/luongnv89/claude-howto"
     },
     {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 15245,
-      "stars_today": 858,
-      "language": "TypeScript",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-    },
-    {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 26039,
-      "stars_today": 538,
+      "stars": 27318,
+      "stars_today": 1056,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 15830,
-      "stars_today": 713,
+      "stars": 16775,
+      "stars_today": 917,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 63811,
-      "stars_today": 113,
+      "stars": 64028,
+      "stars_today": 137,
       "language": "Python",
       "link": "https://github.com/OpenBB-finance/OpenBB"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 121845,
-      "stars_today": 2229,
+      "stars": 122945,
+      "stars_today": 2230,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42143,
-      "stars_today": 389,
+      "stars": 42601,
+      "stars_today": 373,
       "language": "TypeScript",
       "link": "https://github.com/thedotmack/claude-mem"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
-      "stars": 84815,
-      "stars_today": 1131,
+      "stars": 85301,
+      "stars_today": 1132,
       "language": "Python",
       "link": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 14696,
-      "stars_today": 1680,
+      "stars": 15361,
+      "stars_today": 1308,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "shareAI-lab/learn-claude-code",
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 42268,
-      "stars_today": 912,
+      "stars": 42684,
+      "stars_today": 919,
       "language": "TypeScript",
       "link": "https://github.com/shareAI-lab/learn-claude-code"
     },
     {
       "name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "stars": 21034,
-      "stars_today": 28,
+      "stars": 21152,
+      "stars_today": 37,
       "language": "C",
       "link": "https://github.com/fastfetch-cli/fastfetch"
     },
     {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 36183,
-      "stars_today": 213,
+      "stars": 36355,
+      "stars_today": 224,
       "language": "TypeScript",
       "link": "https://github.com/moeru-ai/airi"
     },
     {
       "name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": 42644,
-      "stars_today": 451,
+      "stars": 42943,
+      "stars_today": 447,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
     }
