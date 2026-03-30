@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-30T01:17:13.725760+00:00",
+  "updated": "2026-03-30T12:50:34.538209+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 12,
+    "github_trending": 11,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -57,10 +57,10 @@
     },
     {
       "language": "TypeScript",
-      "count": 4
+      "count": 3
     },
     {
-      "language": "Shell",
+      "language": "HTML",
       "count": 1
     },
     {

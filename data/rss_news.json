@@ -1,164 +1,164 @@
 {
-  "updated": "2026-03-30T01:17:13.722981+00:00",
+  "updated": "2026-03-30T12:50:34.535703+00:00",
   "articles": [
     {
-      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+      "title": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
+      "source": "量子位",
+      "published": "2026-03-30",
+      "summary": "群核科技已通过港交所上市聆讯",
+      "link": "https://www.qbitai.com/2026/03/393419.html",
+      "category": "AI News"
+    },
+    {
+      "title": "美国开源AI最后的旗帜，也倒了",
+      "source": "量子位",
+      "published": "2026-03-30",
+      "summary": "Ai2削减开源模型资金，研发人员集体出走",
+      "link": "https://www.qbitai.com/2026/03/393395.html",
+      "category": "AI News"
+    },
+    {
+      "title": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
+      "source": "量子位",
+      "published": "2026-03-30",
+      "summary": "一个系统，管好一池龙虾",
+      "link": "https://www.qbitai.com/2026/03/393382.html",
+      "category": "AI News"
+    },
+    {
+      "title": "预测这件事，人类越犹豫，这个大模型越有优势",
+      "source": "量子位",
+      "published": "2026-03-30",
+      "summary": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
+      "link": "https://www.qbitai.com/2026/03/393353.html",
+      "category": "AI News"
+    },
+    {
+      "title": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
+      "source": "量子位",
+      "published": "2026-03-30",
+      "summary": "邀全球科研力量共同定义未来",
+      "link": "https://www.qbitai.com/2026/03/393344.html",
+      "category": "AI News"
+    },
+    {
+      "title": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-03-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowpark Connect 完全指南：PySpark 作业执行与生产数据管道构建 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-03-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/zZvotDKHDCKeoWShIGAg?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "智能体安全实践：可控与可靠｜QCon 前瞻",
+      "source": "InfoQ 中文",
+      "published": "2026-03-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "source": "InfoQ 中文",
+      "published": "2026-03-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "source": "InfoQ 中文",
+      "published": "2026-03-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/q4fu9Y9KU9MsKtIA1QKv?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微软确认正在大幅改进 Windows 11 搜索功能",
+      "source": "开源中国",
+      "published": "2026-03-30",
+      "summary": "微软 Windows 团队证实，针对 Windows 搜索功能的一系列重大改进正在开发当中，目标是解决长期以来搜索结果缓慢、本地文件难以命中、网络推荐过多等问题，让搜索体验变得更简单、更少干扰。这一轮调整由负责 Windows Shell 的产品负责人 Tali Roth 领衔，她在社交平台上多次回应用户质疑，表示搜索将“更简单、更不分散注...",
+      "link": "https://www.oschina.net/news/415848",
+      "category": "AI News"
+    },
+    {
+      "title": "Ant Design 6.3.5 发布，企业级 UI 设计语言和 React 实现",
+      "source": "开源中国",
+      "published": "2026-03-30",
+      "summary": "Ant Design 是阿里巴巴开源的一套企业级 UI 设计语言和 React 组件库。Ant Design 6.3.5 现已发布，主要更新内容如下： 修复 Image 预览底部操作按钮没有重置原生按钮样式的问题。#57491 修复 TimePicker 在移动端触摸设备无法直接滚动时间列的问题。#57468 杂项：修复 Icon 在特定场景没有居中对齐的问题。#57460 更新说...",
+      "link": "https://www.oschina.net/news/415761/ant-design-6-3-5-released",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: SolonCode v2026.4.1 发布（比 ClaudeCode 简约的编程智能体）",
+      "source": "开源中国",
+      "published": "2026-03-30",
+      "summary": "1、关于 SolonCode（编程终端智能体） SolonCode 是基于 Java + Solon AI 开发的 “Claude Code” 国产开源实现版本。 常见问题：它和 Claude Code、OpenCode 有什么不同？ 功能上很相似，关键差异： 采用 Java 实现，100% 开源。 使用“全中文”提示词构建。 不绑定特定提供商。需要配置模型。模型迭代会缩小差异、降低...",
+      "link": "https://www.oschina.net/news/415757/soloncode-2026-4-1",
+      "category": "AI News"
+    },
+    {
+      "title": "超越谷歌Tesseract OCR！PaddleOCR登顶GitHub Star全球第一",
+      "source": "开源中国",
+      "published": "2026-03-30",
+      "summary": "近日，百度文心衍生模型PaddleOCR在GitHub上的Star数突破73.3K，首次超越谷歌旗下开源OCR标杆产品Tesseract OCR（73.2K），成为全球Star数最高的OCR项目。 ﻿Tesseract OCR诞生于1985年，最初由惠普实验室研发，2005年开源后由Google接手维护并持续迭代，是OCR领域延续近四十年的技术标杆，长期位居GitHub OCR项目Star数...",
+      "link": "https://www.oschina.net/news/415749/paddleocr-news",
+      "category": "AI News"
+    },
+    {
+      "title": "韩国政府明年财政政策规模或达 800 万亿韩元，推动跻身全球三大 AI 强国",
+      "source": "开源中国",
+      "published": "2026-03-30",
+      "summary": "韩联社消息称，韩国政府周一表示，2027 年将推行扩张性财政政策，以加速以人工智能（AI）为中心的重大转型，支出可能接近800万亿韩元（5290亿美元）。 据韩国规划和预算部称，根据当天内阁批准的一系列指导方针，政府还旨在培育新的增长引擎，并更加重视区域发展的财政投入。 根据政府 2025-2029 年财政管理计划，明年的...",
+      "link": "https://www.oschina.net/news/415739",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
       "source": "36氪",
       "published": "2026-03-30",
-      "summary": "36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。据介绍，此前，河南投资集团已完成AI基础设施产业的深度布局，从投资芯片、控股超大规模算力，到全面整合HALO资产，为AI场景应用的落地提供了电力与算力支持。值得关注的是，本轮投资人谭瑞清为复旦大学校董及化学系校友会会长、A股知名上市公司龙佰集团联合创始人、前任副董事长，深耕化工行业创业、投资三十余年。在生命科学全面迈入AI4S时代，蛋白质结构预测与设计等底层技术突破，正改变着生物制造行业的研发范式。当前，将A",
-      "link": "https://36kr.com/p/3744666471088389?f=rss",
+      "summary": "大公司：全国首个万卡级全栈自主可控智算集群点亮深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。特斯拉：TERAFAB项目正式发布，预计将实现每年超1太瓦算力产出36氪获悉，据TeslaAI微博消息，TERAFAB项目正式发布，预计将实现每年超过1太瓦（1TW）的算力产出。马斯克预测，未来人形机器人行业的潜在年产量或将达到10亿至100亿台。随着机器人进入更大规模应用阶段，对高性能芯片的需求将进一步提升。TERAFA",
+      "link": "https://36kr.com/p/3745267391103239?f=rss",
       "category": "AI News"
     },
     {
-      "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-      "source": "量子位",
-      "published": "2026-03-29",
-      "summary": "相关能力已远超人们预期，且正在指数级增长",
-      "link": "https://www.qbitai.com/2026/03/393186.html",
-      "category": "AI News"
-    },
-    {
-      "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-      "source": "量子位",
-      "published": "2026-03-29",
-      "summary": "用34条经验破解现代代码模型训练瓶颈",
-      "link": "https://www.qbitai.com/2026/03/393164.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-      "source": "量子位",
-      "published": "2026-03-29",
-      "summary": "还能2D、3D无缝联动",
-      "link": "https://www.qbitai.com/2026/03/393125.html",
-      "category": "AI News"
-    },
-    {
-      "title": "何同学会玩：让龙虾自己3D打印自己",
-      "source": "量子位",
-      "published": "2026-03-29",
-      "summary": "属于全民Agent的时代，才算真正拉开了序幕",
-      "link": "https://www.qbitai.com/2026/03/393085.html",
-      "category": "AI News"
-    },
-    {
-      "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
-      "source": "量子位",
-      "published": "2026-03-29",
-      "summary": "数据・解析・营销三位一体",
-      "link": "https://www.qbitai.com/2026/03/393064.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Vercel 发布生成式 UI 框架 JSON-Render",
-      "source": "InfoQ 中文",
-      "published": "2026-03-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Rust 的独特之处不只内存安全：来自自主机器人的启示",
-      "source": "InfoQ 中文",
-      "published": "2026-03-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-03-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突",
-      "source": "InfoQ 中文",
-      "published": "2026-03-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "RuoYi-Cloud 3.6.8 发布，更多细节优化",
-      "source": "开源中国",
-      "published": "2026-03-29",
-      "summary": "若依 Cloud 微服务版本 v3.6.8 已发布，更新日志： 新增锁定屏幕功能 首页新增通知公告消息提醒 添加持久化标签页开关功能 菜单搜索支持文本高亮&数量提示 添加菜单路由地址和名称的校验规则 字典类型列表新增抽屉效果详细信息 升级axios到最新版本0.30.3 升级spring-cloud到最新版2025.1.0 升级spring-cloud-alibaba到最...",
-      "link": "https://www.oschina.net/news/415400",
-      "category": "AI News"
-    },
-    {
-      "title": "JekyllNet v0.2.0 正式发布",
-      "source": "开源中国",
-      "published": "2026-03-29",
-      "summary": "今日宣布，JekyllNet v0.2.0 正式发布。本次版本重点并非只在“新增功能点”，而在于把“可用能力”变成“可被快速掌握、可被稳定复用”的完整工具体系。 官方入口 JekyllNet 仓库 JekyllNet 文档网站 JekyllNet GitHub Pages 入口 JekllNet Gitee https://gitee.com/jekyllnet v0.2.0 核心亮点 新增完整使用说明：从安装...",
-      "link": "https://www.oschina.net/news/415353",
-      "category": "AI News"
-    },
-    {
-      "title": "Codong v0.1.3 完成核心特性与全部标准库，重复执行速度提升 170 倍",
-      "source": "开源中国",
-      "published": "2026-03-29",
-      "summary": "Codong v0.1.3 发布 Codong v0.1.3 完成了语言核心特性与全部标准库模块的补全，并引入编译缓存机制，使重复执行速度提升 170 倍，测试覆盖达到 1,427 个用例，通过率 100%。 编译缓存 本次更新引入 ~/.codong/cache 编译缓存目录。codong run 在首次执行时将源文件编译为本地二进制并写入缓存；后续执行相同文件时，直接...",
-      "link": "https://www.oschina.net/news/415339",
-      "category": "AI News"
-    },
-    {
-      "title": "RedBookC —— 最新的小红书自动发帖 Agent 完整开源，搭建后 100% 可立即使用",
-      "source": "开源中国",
-      "published": "2026-03-29",
-      "summary": "做小红书运营的人都知道，小红书的反作弊机制是国内各大平台里最严的之一。 市面上绝大多数所谓的「小红书自动发帖工具」，走的都是Cookie 注入的路线——把登录后的 Cookie 抠出来，直接拿去调接口发帖。听起来可行，但现实是这条路基本走不通。 小红书的Cookie 体系极其复杂。真实登录之后，除了基础的身份 Cookie，还...",
-      "link": "https://www.oschina.net/news/415309",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨全国猪价跌破5元创历史新低；雀巢12吨巧克力被盗；起诉小米汽车的“老头乐”企业致歉",
+      "title": "蚂蚁终圆券商梦",
       "source": "36氪",
-      "published": "2026-03-29",
-      "summary": "今日热点导览美副总统称无意滞留伊朗，将很快撤出国际民航组织新规：每位乘客最多携带两块移动电源王云鹤离职，曾任华为诺亚方舟实验室主任遭中国学界集体“拉黑”后，NeurIPS道歉索尼游戏主机PS5官宣涨价TOP3大新闻全国猪价跌破5元创历史新低，全国瘦肉型生猪交易均价为9.71元/公斤3月23日，卓创资讯监测全国瘦肉型生猪交易均价为9.71元/公斤（即跌破5元/斤），创历史新低。与此同时，生猪期货主力合约在3月27日盘中跌至9815元/吨，这也是该期货品种自2021年1月上市以来的历史新低。另据农业农村部披露的全国农产品批发市场一周价格行情监测报告，自2026年1月29日当周以来，猪肉批发均价已连",
-      "link": "https://36kr.com/p/3744669439508484?f=rss",
+      "published": "2026-03-30",
+      "summary": "作者 | 王晗玉编辑 | 张帆本月30日，蚂蚁集团将通过旗下上海云进信息技术有限公司，正式完成对香港老牌券商耀才证券的控股权收购。这场历时近一年的交易，不仅为蚂蚁集团补上了证券业务这最后一块拼图，更让资本市场再掀关于“互联网+券商”模式能否在香港重演业绩与股价齐飞的讨论。此前在3月16日，耀才证券发布公告称，蚂蚁集团发起的要约收购已通过中国有关部门及香港证监会审批，所有成交条件均已达成，预计将于3月30日正式完成交割。根据协议，蚂蚁以每股3.28港元的价格，收购耀才证券50.55%股份，总对价约28.14亿港元。消息落地，市场反应立竿见影。3月17日复牌后，耀才证券股价盘中一度暴涨超80%，截",
+      "link": "https://36kr.com/p/3745148560195846?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+      "title": "对话原力灵机唐文斌：我不喜欢讲我不信的话，也无法成为我不想成为的人",
       "source": "36氪",
-      "published": "2026-03-29",
-      "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素，",
-      "link": "https://36kr.com/p/3743855989587971?f=rss",
+      "published": "2026-03-30",
+      "summary": "文｜富充编辑｜苏建勋创业满一年，唐文斌的身上依旧保留着旷视时期的印记，在和我们的对话中，他时常说到“本质”这个词——那是旷视内部的一个“流行词”。清华“姚班”毕业之后，唐文斌和同学印奇、杨沐在2011年创办了旷视科技。在这家AI 1.0标志性企业中，人们喜欢追问“本质”。创业旷视的14年里，唐文斌经历了AI 1.0浪潮的完整起伏。从高歌猛进的业务扩展，到屡次与上市失之交臂，这些经历也打磨着他对“本质”的理解。关于对旷视最重要的反思，唐文斌认为是摊子不要铺得太大，而是应该先集中全力，把一个最有优势的业务做透。近来履新阶跃星辰董事长的印奇，在不久前的采访中也有过类似表达——商业模式本质上是做排除法",
+      "link": "https://36kr.com/p/3745064614494211?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
+      "title": "这次，我们不再需要海外对标",
       "source": "36氪",
-      "published": "2026-03-29",
-      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光灿院士，曾在美国密西根大学段路明院士组从事博士后研究，期间曾与国际离子阱先驱、IONQ创始人Chr",
-      "link": "https://36kr.com/p/3743360666566919?f=rss",
+      "published": "2026-03-30",
+      "summary": "《求是》杂志3月新近刊发了习近平总书记重要文章《推动海洋经济高质量发展》。总书记从党的十八大以来每次到沿海地区考察，都强调大力发展海洋经济、建设海洋强国。文章提出，推进中国式现代化，必须高效开发利用海洋，推动海洋经济高质量发展，走出一条具有中国特色的向海图强之路。大的思路上，要更加注重创新驱动，尽快突破关键核心技术，推动海洋科技实现高水平自立自强。近日，世航重磅斩获航海领域最高荣誉 2025年度中国航海学会科学技术进步一等奖，再次引起了全社会的关注。中国航海学会科学技术奖是经国务院《国家科学技术奖励条例》、科学技术部《社会力量设立科学技术奖管理办法》授权，并由国家科学技术奖励办公室以“国科奖字",
+      "link": "https://36kr.com/p/3744821877342217?f=rss",
       "category": "AI News"
     },
     {
-      "title": "绿色 IT ：如何减轻 AI 对环境的影响",
-      "source": "InfoQ 中文",
-      "published": "2026-03-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "FlashDB V2.2.0 发布，超轻量级嵌入式数据库",
-      "source": "开源中国",
-      "published": "2026-03-28",
-      "summary": "距离上次发布时隔1年半，V2.2.0 版本主要在功能上和更宽的写粒度有了支持，以适应更多的芯片，主要日志如下： TSDB：添加了 FDB_TSDB_FIXED_BLOB_SIZE 编译时选项，以减少固定大小 blob 场景下的闪存使用量。 TSDB：为高粒度 Flash 操作添加 TSDB 支持 KVDB：支持 kvdb 的 256 位写入粒度 CI：为 FDB_WRITE_GRAN=[1,8,32...",
-      "link": "https://www.oschina.net/news/414987",
-      "category": "AI News"
-    },
-    {
-      "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
+      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
       "source": "36氪",
-      "published": "2026-03-28",
-      "summary": "2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。在他看来，这场变革远不止于效率提升。从“跟风盯榜单”到“回归用户本身”，从“平台找内容",
-      "link": "https://36kr.com/p/3738258350817540?f=rss",
+      "published": "2026-03-30",
+      "summary": "作者丨欧雪编辑丨袁斯来华沿机器人CEO王光能在生活里，是个有些无趣的人。他不抽烟、不喝酒、不打麻将，最近才刚学会掼蛋。他有房子在南山区，但平时吃在公司食堂，住在公司旁的城中村。看上去，王光能不是个有进攻性的人，说话语速有些慢，声音不高，保留着难得的真实。更重要的是，王光能虽然技术出身，但没有很多天才身上有些刺人的锋芒，自信但不自负。和王光能一样，华沿机器人在很多时候并不为外界熟悉。他们不太会讲动人的案例，在具身智能估值动辄百亿的当下，显得过于朴素。去年5月，华沿机器人在港交所秘密递表，通过聆讯后以17港元发行价、90亿港元市值登陆港股。此次上市绿鞋前融资规模为2.01亿美元，绿鞋后融资规模为2",
+      "link": "https://36kr.com/p/3744805881724928?f=rss",
       "category": "AI News"
     }
   ]

@@ -1,101 +1,93 @@
 {
-  "updated": "2026-03-30T01:17:04.140000+00:00",
+  "updated": "2026-03-30T12:50:22.178753+00:00",
   "repositories": [
+    {
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 28630,
+      "stars_today": 2509,
+      "language": "Python",
+      "link": "https://github.com/microsoft/VibeVoice"
+    },
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 6705,
+      "stars": 9034,
       "stars_today": 1165,
       "language": "Python",
       "link": "https://github.com/luongnv89/claude-howto"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "stars": 27318,
-      "stars_today": 1056,
-      "language": "Python",
-      "link": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 16775,
-      "stars_today": 917,
-      "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "stars": 64028,
-      "stars_today": 137,
-      "language": "Python",
-      "link": "https://github.com/OpenBB-finance/OpenBB"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 122945,
-      "stars_today": 2230,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 42601,
-      "stars_today": 373,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": 17013,
+      "stars_today": 1785,
       "language": "TypeScript",
-      "link": "https://github.com/thedotmack/claude-mem"
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "stars": 25071,
+      "stars_today": 1050,
+      "language": "HTML",
+      "link": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
-      "stars": 85301,
-      "stars_today": 1132,
+      "stars": 85930,
+      "stars_today": 1138,
       "language": "Python",
       "link": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 15361,
-      "stars_today": 1308,
+      "name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "stars": 64284,
+      "stars_today": 499,
       "language": "Python",
-      "link": "https://github.com/mvanhorn/last30days-skill"
+      "link": "https://github.com/OpenBB-finance/OpenBB"
     },
     {
-      "name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 42684,
-      "stars_today": 919,
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 439385,
+      "stars_today": 376,
       "language": "TypeScript",
-      "link": "https://github.com/shareAI-lab/learn-claude-code"
+      "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "stars": 74316,
+      "stars_today": 68,
+      "language": "Python",
+      "link": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "stars": 71698,
+      "stars_today": 63,
+      "language": "TypeScript",
+      "link": "https://github.com/apache/superset"
     },
     {
       "name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "stars": 21152,
-      "stars_today": 37,
+      "stars": 21295,
+      "stars_today": 271,
       "language": "C",
       "link": "https://github.com/fastfetch-cli/fastfetch"
     },
     {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
-      "stars": 36355,
-      "stars_today": 224,
-      "language": "TypeScript",
-      "link": "https://github.com/moeru-ai/airi"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "stars": 42943,
-      "stars_today": 447,
-      "language": "TypeScript",
-      "link": "https://github.com/twentyhq/twenty"
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 17695,
+      "stars_today": 1859,
+      "language": "Python",
+      "link": "https://github.com/NousResearch/hermes-agent"
     }
   ]
 }
