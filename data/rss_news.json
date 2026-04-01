@@ -1,6 +1,46 @@
 {
-  "updated": "2026-03-31T12:47:05.470685+00:00",
+  "updated": "2026-04-01T01:20:29.521192+00:00",
   "articles": [
+    {
+      "title": ":fire: 重磅！这款 AI 低代码平台火了：一句话生成应用，一键输出 Web/H5/UniApp",
+      "source": "开源中国",
+      "published": "2026-04-01",
+      "summary": "无需写代码，AI帮你从设计稿生成完整应用 在数字化转型的浪潮中，低代码开发已成为企业降本增效的利器。今天要介绍的 VTJ.PRO，不仅是一个低代码平台，更是一个融合了 AI 能力的在线开发环境。 它让开发者（甚至非技术人员）能够通过可视化拖拽和 AI 对话的方式，快速构建跨平台应用。最让人惊艳的是，它可以直接输出 We...",
+      "link": "https://www.oschina.net/news/416367",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发丨东南亚二手电商「Kitar」完成Pre-A轮超千万美元融资，今年 GMV 将达1亿美金",
+      "source": "36氪",
+      "published": "2026-04-01",
+      "summary": "东南亚虽是电商竞争的焦灼之地，但仍有蓝海。36氪获悉，东南亚二手电商平台「Kitar」近日完成 Pre-A 轮超千万美元融资。本轮融资由源码律动领投，山行资本超额跟投，Mindworks 概念资本跟投，银橡资本担任独家财务顾问。本轮融资完成后，「Kitar」将加大在 AI 能力建设、质检与供应链基础设施、线下回收网络以及区域化运营体系上的投入，继续深耕印尼市场，并加快向东南亚更广泛市场扩展。「Kitar」创始人Frank Zhou毕业于清华大学电子系，互联网产品出身。2021年他移居东南亚，从零孵化Shopee外卖业务，成为东南亚第二大外卖平台，在此过程中深度理解了东南亚市场的“时光机”效应。",
+      "link": "https://36kr.com/p/3739823544205314?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+      "source": "36氪",
+      "published": "2026-04-01",
+      "summary": "今日热点导览苹果官方称“锁定模式”至今无人攻破红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换国内航线燃油附加费上涨通知被撤回达美乐比萨任命Nicola Frampton为CEO美国太空探索技术公司一颗“星链”卫星失联澳洲联储宣布10月起取消银行卡支付的附加费TOP3大新闻Patagonia客服回应收取“地球使用费”：属实，计划试行一个月近日，户外运动品牌Patagonia近期因在天猫旗舰店推出\"地球使用费\"政策引发热议，该政策要求消费者在购物时预付一笔物流包装费（首件15元，每加一件5元），收货后不退货可退还费用，若退货则扣除费用并捐赠给环保项目，品牌称其目的是减少网购对环境的影响。",
+      "link": "https://36kr.com/p/3747503534899976?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度",
+      "source": "量子位",
+      "published": "2026-03-31",
+      "summary": "理想前智驾一号位和阿里前副总裁携手创业",
+      "link": "https://www.qbitai.com/2026/03/394149.html",
+      "category": "AI News"
+    },
+    {
+      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "source": "量子位",
+      "published": "2026-03-31",
+      "summary": "提出新概念：Token架构力",
+      "link": "https://www.qbitai.com/2026/03/394135.html",
+      "category": "AI News"
+    },
     {
       "title": "刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！",
       "source": "量子位",
@@ -26,19 +66,35 @@
       "category": "AI News"
     },
     {
-      "title": "实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
-      "source": "量子位",
+      "title": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+      "source": "InfoQ 中文",
       "published": "2026-03-31",
-      "summary": "能看能听能唠嗑，还能现场vibe coding",
-      "link": "https://www.qbitai.com/2026/03/393941.html",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
-      "source": "量子位",
+      "title": "终于不用跟图表死磕了！这个 Skill 让 OpenClaw 直接封神",
+      "source": "InfoQ 中文",
       "published": "2026-03-31",
-      "summary": "以赛促研、以研促产",
-      "link": "https://www.qbitai.com/2026/03/393887.html",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/fjCbCtuTVq77dYvLb9TM?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "如何用阿里云龙虾CoPaw搭建个人第二大脑",
+      "source": "InfoQ 中文",
+      "published": "2026-03-31",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/rmwSfzYoCTzqT4bSaH6u?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "通义实验室推出CoPaw，更适合打工人的国产龙虾来了",
+      "source": "InfoQ 中文",
+      "published": "2026-03-31",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Z8OmAd2YjFBlxaA0yfij?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -50,35 +106,19 @@
       "category": "AI News"
     },
     {
-      "title": "等了两年，苹果国行iPhone AI凌晨突袭“上线”？数小时后光速撤回，乌龙原因曝光",
-      "source": "InfoQ 中文",
+      "title": "完全由 AI 维护，老登惨遭淘汰 | gpress v1.2.3 发布",
+      "source": "开源中国",
       "published": "2026-03-31",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/oBwDcReTgYrw0qNiTeO9?utm_source=rss&utm_medium=article",
+      "summary": "gpress 是 Web3 内容平台，Hertz + Go template + FTS5 全文检索，支持以太坊和百度超级链，兼容 Hugo、WordPress 生态，使用 Wasm 扩展插件，只需 200M 内存. 作为静态站点： gpress 生成的静态文件和 Hugo 一致，也可以简单认为 gpress 是 Hugo 的后台管理，兼容 Hugo 主题生态，已迁移多款 Hugo 主题:even、doks、boo...",
+      "link": "https://www.oschina.net/news/416353",
       "category": "AI News"
     },
     {
-      "title": "昨夜，Claude 接管电脑狂飙代码！OpenAI 发布最“阴险”插件截胡",
-      "source": "InfoQ 中文",
+      "title": "Codong Cookbook - 50 个独立开源示例库",
+      "source": "开源中国",
       "published": "2026-03-31",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5PyUjNXpqHs9Zd3kB67m?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "48小时，10k星！React 大佬新作把前端卷上天，网友评价严重分裂",
-      "source": "InfoQ 中文",
-      "published": "2026-03-31",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/xFsgDHc7gqYymj8O45OV?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
-      "source": "InfoQ 中文",
-      "published": "2026-03-31",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article",
+      "summary": "50 个开源合集，涵盖 Codong 语言的每一个模块、每一种模式、每一项特性。 什么是 Codong？ Codong 是一门面向开发者的现代脚本语言——兼具 Python 的表达力与 Go 的性能，同时摒弃了两者的繁琐样板代码。 简洁语法 —— 无分号、无类型声明、无需 package main 内置模块 —— web、db、redis、http、fs、llm、image、o...",
+      "link": "https://www.oschina.net/news/416284",
       "category": "AI News"
     },
     {
@@ -98,27 +138,19 @@
       "category": "AI News"
     },
     {
-      "title": "Mixxx 2.5.6 发布，开源 DJ 软件",
-      "source": "开源中国",
+      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+      "source": "36氪",
       "published": "2026-03-31",
-      "summary": "Mixxx 的全新稳定版本 2.5.6 现已发布，此版本包含各项更新和问题修复，同时对效果、控制器映射以及整体稳定性进行了改进。 公告称，这应该是 2.5 系列的最后一个版本。值得注意的是，由于发布流程中存在问题，2.5.5 版本已被跳过，因此本版本是 2.5.4 的后续版本。 2.5.6 版本中的重要更新和修复 搜索功能中的“not”运...",
-      "link": "https://www.oschina.net/news/416223/mixxx-2-5-6-released",
+      "summary": "文｜邱晓芬编辑｜苏建勋一句话介绍「智域基石」是一家致力于构建具身智能时代数据入口与训练输入基础设施的公司，其核心使命是将海量、杂乱的原始物理世界数据，精准编译成直接面向机器人任务成功率的高质量训练输入。团队介绍「智域基石」CEO杨哲轩为前PingCAP核心成员，拥有大规模分布式系统与底层架构设计的背景，也是连续创业者，负责多家公司商业化业务。「智域基石」CTO徐良威有着腾讯、小鹏机器人的从业背景，是实战经验丰富的机器人软硬件专家，熟悉具身智能算法对于数据的需求，也有丰富硬件落地的经验。「智域基石」COO为张计业，前华为地市总经理，曾担任具身智能公司「穹彻智能」生态负责人。融资进展完成数千万元天",
+      "link": "https://36kr.com/p/3746889894461960?f=rss",
       "category": "AI News"
     },
     {
-      "title": "泡泡玛特等 71 款 App 违规收集使用个人信息被通报",
-      "source": "开源中国",
+      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
+      "source": "36氪",
       "published": "2026-03-31",
-      "summary": "国家网络安全通报中心消息称，依据《网络安全法》《个人信息保护法》等法律法规，经国家计算机病毒应急处理中心检测，71款移动应用存在违法违规收集使用个人信息情况，现通报如下： 1、在App首次运行时未通过弹窗等明显方式提示用户阅读隐私政策等收集使用规则；以默认选择同意隐私政策等非明示方式征求用户同意；隐私政...",
-      "link": "https://www.oschina.net/news/416197",
-      "category": "AI News"
-    },
-    {
-      "title": "我用 Go 重写了一个 OpenClaw 框架：这就是 GoClaw",
-      "source": "开源中国",
-      "published": "2026-03-31",
-      "summary": "GoClaw 是一个用 Go 语言编写的个人 AI 助手，灵感来自 OpenClaw（原 Clawdbot/Moltbot）。它运行在本地服务器上，通过 WebSocket/HTTP 暴露服务，支持多种消息 channel（Telegram、WhatsApp、飞书、QQ、Slack 等）接入。",
-      "link": "https://my.oschina.net/u/4939618/blog/19442058",
+      "summary": "作者丨邱晓芬编辑丨苏建勋3月30日，vivo发布了其年度影像旗舰vivo X300系列两款机型，包括定位为“专业影像工具”的X300 Ultra、以及主打“全能旗舰”的X300s。据介绍，vivo X300 Ultra被定义为“专业V单”影像设备，该机型重点强化了与蔡司联合开发的“3+2”镜头群概念，即内置三颗主摄镜头，并可通过两款外接增距镜（400mm、200mm焦段）扩展光学焦距。除了影像上的硬件升级，vivo还宣布了“vivo色彩科学”技术矩阵，涵盖色彩感知、影调映射和个性化调色，并着重强调了其在视频工作流上的卖点。比如，vivo X300 Ultra支持全焦段4K 120fps 10-",
+      "link": "https://36kr.com/p/3746862709686786?f=rss",
       "category": "AI News"
     },
     {
@@ -127,38 +159,6 @@
       "published": "2026-03-31",
       "summary": "3月31日，绿城中国发布2025年度业绩。公告数据显示，2025年绿城中国实现营业收入1549.66亿元，同比微降2.26%；实现净利润22.86亿元，同比下滑44.9%；股东应占利润仅7098.9万元，同比减少95.55%，为公司上市以来最低值。绿城在公告中表示，利润下滑主要受房地产市场调整期长库存去化策略、资产减值计提以及合营联营企业业绩下降等因素影响。2025年内，绿城计提相关资产减值及公允价值变动损失净额49.21亿元(2024年：49.17亿元)。利润承压的同时，绿城中国销售端保持了规模稳定，负债情况也持续改善。短债占比降至18.6%，为历年新低，现金短债比达2.6倍。绿城2025年",
       "link": "https://36kr.com/p/3746759043006985?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "万科股价跌破4元，创上市以来新低",
-      "source": "36氪",
-      "published": "2026-03-31",
-      "summary": "3月31日，沪深股市收盘时，万科A（000002）报收3.99元/股，当日跌幅0.5%，首度自上市以来收于4元/股以下，创历史新低。同一天，港股万科企业（02202.HK）同步走弱，收盘报2.91港元/股，当日微涨0.34%，维持在历史低位区间。作者制图从2025年4月初7.14元/股算起，万科A近一年累计下跌约44.1%。若拉长至十年维度，从2018年前后复权高点约36元/股计算，万科A累计跌幅已近90%，十年间市值从巅峰时的近4500多亿元缩水至约476亿元，蒸发4000亿元左右。图源：东方财富网股价持续低迷，直接反映出市场对万科核心价值的重新评估。一方面，业绩巨亏成为压垮股价的核心导火索",
-      "link": "https://36kr.com/p/3746733908198151?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "碧桂园：连亏三年终盈利",
-      "source": "36氪",
-      "published": "2026-03-31",
-      "summary": "3月30日晚间，碧桂园集团发布2025年度业绩报告。报告期内，碧桂园实现总收入约1548.9亿元，同比减少约38.7%，已连续四年下降；权益合同销售金额约330.1亿元，权益销售面积约402万平方米。公司业务收入主要来房地产开发和科技建造。其中，占比高达97.2%的房地产开发业务，在2025年收入约1504.9亿元，下降38.8%%。剩下的2.8%来自科技建造及其他分部。2025年，因房地产市场下行导致新增业务量减少，科技建造收入同比下降45.8%至18.6亿元；物业投资及酒店经营等其他业务，收入约25.43亿元，同比降幅约为29.5%。虽然营收在不断下滑，但碧桂园在利润上却打了一个翻身仗。以",
-      "link": "https://36kr.com/p/3746707533087490?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-      "source": "36氪",
-      "published": "2026-03-31",
-      "summary": "大公司：韩国摄像头公司从供货iPhone向人形机器人拓展韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉之外，其他公司都采用了多传感器融合的模式。B站官宣将下线猜你喜欢算法36氪获悉，哔哩哔哩宣布：从明天零点起，B站将下线猜你喜欢算法，不再根据你的喜好来推荐主页内容，并上线推荐新算法。国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国3月31日，国行iPhone设置页面短暂出现“Apple智能与Siri”选项，",
-      "link": "https://36kr.com/p/3746654452187648?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "营收三年增16倍，壁仞科技迎来业绩兑现期",
-      "source": "36氪",
-      "published": "2026-03-31",
-      "summary": "3月30日港股盘后，壁仞科技发布上市后的首份财务报告。数据显示，2025年，公司实现营业收入10.35亿元，同比增长207.2%；同期毛利达5.57亿元，同比增长210.8%，对应毛利率为53.8%。2025年以来，模型的持续迭代、智能体的全面爆发叠加上地缘政治冲突的升温，共同驱动国产算力行业进入快速爆发期。而芯片作为核心基座，受益于行业爆发红利，实现了从技术突破到规模化落地的关键拐点。作为国产算力芯片的头部企业，壁仞科技此次发布的财报，不仅是公司业绩的观察窗口，更成为国产算力芯片发展趋势与商业化成色的“风向标”。那么，站在当下，国产算力芯片行业究竟行至何处？透过财报，壁仞科技呈现出哪些业绩亮",
-      "link": "https://36kr.com/p/3746575157658368?f=rss",
       "category": "AI News"
     }
   ]

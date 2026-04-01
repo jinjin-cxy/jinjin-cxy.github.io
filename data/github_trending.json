@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-31T12:46:51.191788+00:00",
+  "updated": "2026-04-01T01:20:16.194538+00:00",
   "repositories": [
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 11524,
+      "stars": 13067,
       "stars_today": 2390,
       "language": "Python",
       "link": "https://github.com/luongnv89/claude-howto"
@@ -12,104 +12,104 @@
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 32322,
-      "stars_today": 3862,
+      "stars": 33143,
+      "stars_today": 3863,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 18107,
-      "stars_today": 1127,
+      "stars": 19077,
+      "stars_today": 1126,
       "language": "TypeScript",
       "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
-      "stars": 27476,
-      "stars_today": 2408,
+      "stars": 28683,
+      "stars_today": 2407,
       "language": "HTML",
       "link": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 19559,
-      "stars_today": 1909,
+      "stars": 20385,
+      "stars_today": 1907,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 127248,
-      "stars_today": 2846,
+      "stars": 128183,
+      "stars_today": 2620,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "microsoft/agent-lightning",
       "description": "The absolute trainer to light up AI agents.",
-      "stars": 16087,
-      "stars_today": 251,
+      "stars": 16226,
+      "stars_today": 130,
       "language": "Python",
       "link": "https://github.com/microsoft/agent-lightning"
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 73854,
-      "stars_today": 440,
+      "stars": 74191,
+      "stars_today": 439,
       "language": "Python",
       "link": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
       "name": "Dimillian/Skills",
       "description": "My Codex Skills",
-      "stars": 2676,
-      "stars_today": 173,
+      "stars": 2858,
+      "stars_today": 115,
       "language": "Shell",
       "link": "https://github.com/Dimillian/Skills"
     },
     {
       "name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
-      "stars": 75162,
-      "stars_today": 862,
+      "stars": 75545,
+      "stars_today": 865,
       "language": "Python",
       "link": "https://github.com/sherlock-project/sherlock"
     },
     {
       "name": "neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
-      "stars": 97758,
-      "stars_today": 95,
+      "stars": 97944,
+      "stars_today": 93,
       "language": "Vim Script",
       "link": "https://github.com/neovim/neovim"
     },
     {
       "name": "vas3k/TaxHacker",
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": 3492,
-      "stars_today": 810,
+      "stars": 3740,
+      "stars_today": 318,
       "language": "TypeScript",
       "link": "https://github.com/vas3k/TaxHacker"
     },
     {
       "name": "OpenBMB/ChatDev",
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "stars": 32294,
-      "stars_today": 254,
+      "stars": 32416,
+      "stars_today": 84,
       "language": "Python",
       "link": "https://github.com/OpenBMB/ChatDev"
     },
     {
       "name": "jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 339229,
-      "stars_today": 874,
+      "stars": 339647,
+      "stars_today": 873,
       "language": "",
       "link": "https://github.com/jwasham/coding-interview-university"
     }
