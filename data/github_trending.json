@@ -1,117 +1,69 @@
 {
-  "updated": "2026-04-01T01:20:16.194538+00:00",
+  "updated": "2026-04-01T12:50:37.497559+00:00",
   "repositories": [
     {
-      "name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 13067,
-      "stars_today": 2390,
-      "language": "Python",
-      "link": "https://github.com/luongnv89/claude-howto"
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars": 96785,
+      "stars_today": 3905,
+      "language": "Shell",
+      "link": "https://github.com/anthropics/claude-code"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 33143,
-      "stars_today": 3863,
+      "stars": 33927,
+      "stars_today": 1704,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 19077,
-      "stars_today": 1126,
-      "language": "TypeScript",
-      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-    },
-    {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
-      "stars": 28683,
-      "stars_today": 2407,
+      "stars": 29889,
+      "stars_today": 2488,
       "language": "HTML",
       "link": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 20385,
-      "stars_today": 1907,
+      "name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 11645,
+      "stars_today": 495,
       "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
+      "link": "https://github.com/google-research/timesfm"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 128183,
-      "stars_today": 2620,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "stars": 16226,
-      "stars_today": 130,
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 14758,
+      "stars_today": 3336,
       "language": "Python",
-      "link": "https://github.com/microsoft/agent-lightning"
+      "link": "https://github.com/luongnv89/claude-howto"
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 74191,
-      "stars_today": 439,
-      "language": "Python",
-      "link": "https://github.com/PaddlePaddle/PaddleOCR"
+      "name": "axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "stars": 108775,
+      "stars_today": 88,
+      "language": "JavaScript",
+      "link": "https://github.com/axios/axios"
     },
     {
-      "name": "Dimillian/Skills",
-      "description": "My Codex Skills",
-      "stars": 2858,
-      "stars_today": 115,
-      "language": "Shell",
-      "link": "https://github.com/Dimillian/Skills"
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 71061,
+      "stars_today": 2345,
+      "language": "Rust",
+      "link": "https://github.com/openai/codex"
     },
     {
-      "name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "stars": 75545,
-      "stars_today": 865,
-      "language": "Python",
-      "link": "https://github.com/sherlock-project/sherlock"
-    },
-    {
-      "name": "neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "stars": 97944,
-      "stars_today": 93,
-      "language": "Vim Script",
-      "link": "https://github.com/neovim/neovim"
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "stars": 3740,
-      "stars_today": 318,
-      "language": "TypeScript",
-      "link": "https://github.com/vas3k/TaxHacker"
-    },
-    {
-      "name": "OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "stars": 32416,
-      "stars_today": 84,
-      "language": "Python",
-      "link": "https://github.com/OpenBMB/ChatDev"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 339647,
-      "stars_today": 873,
-      "language": "",
-      "link": "https://github.com/jwasham/coding-interview-university"
+      "name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 155598,
+      "stars_today": 421,
+      "language": "HTML",
+      "link": "https://github.com/f/prompts.chat"
     }
   ]
 }
