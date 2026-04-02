@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-02T01:12:17.189385+00:00",
+  "updated": "2026-04-02T12:43:39.061251+00:00",
   "articles": [
+    {
+      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "source": "量子位",
+      "published": "2026-04-02",
+      "summary": "赋能药物研发等万亿产业",
+      "link": "https://www.qbitai.com/2026/04/395198.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "source": "量子位",
+      "published": "2026-04-02",
+      "summary": "商汤大装置分享AI原生云实践",
+      "link": "https://www.qbitai.com/2026/04/395194.html",
+      "category": "AI News"
+    },
+    {
+      "title": "上市首日大涨111%！智谱MiniMax之后，德适交出大模型商业化最硬核答卷",
+      "source": "量子位",
+      "published": "2026-04-02",
+      "summary": "毛利率96.5%，谁说AI医疗不赚钱？",
+      "link": "https://www.qbitai.com/2026/04/395162.html",
+      "category": "AI News"
+    },
+    {
+      "title": "悟空率先接入国产最强编程模型Qwen3.6-Plus",
+      "source": "量子位",
+      "published": "2026-04-02",
+      "summary": "阿里AI模型与场景结合的关键实践",
+      "link": "https://www.qbitai.com/2026/04/395155.html",
+      "category": "AI News"
+    },
+    {
+      "title": "全尺寸具身人形销量全球第一之后，优必选再迎资本投票：花旗上调目标价至190港元",
+      "source": "量子位",
+      "published": "2026-04-02",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/04/395151.html",
+      "category": "AI News"
+    },
+    {
+      "title": "一个周末 + 1100 美元，干完 5 人 6 个月的活：Cloudflare 用 AI“复刻”Next.js，已跑进生产环境",
+      "source": "InfoQ 中文",
+      "published": "2026-04-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/XNfsebiwgEd1hbcissWd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从数据留底到隐身进开源，Claude Code 泄露的代码里，处处写着：这家公司人品不行",
+      "source": "InfoQ 中文",
+      "published": "2026-04-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/oyztKc9IQUguMOOx6imT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 原生时代，如何提供可用、易用、高效的算力服务？",
+      "source": "InfoQ 中文",
+      "published": "2026-04-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/vh9j9d6ceChVul80VLG4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道",
+      "source": "InfoQ 中文",
+      "published": "2026-04-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UMPFZoYAiPsvqbIoETR1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
+      "source": "InfoQ 中文",
+      "published": "2026-04-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/vblM3MlOEs86dmVdH8d1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AIGC For Future 全球挑战赛正式启幕，OSChina 邀您直通日内瓦",
+      "source": "开源中国",
+      "published": "2026-04-02",
+      "summary": "2026年3月31日，在联合国日内瓦万国宫，一场面向未来的全球数字创新行动正式拉开帷幕。",
+      "link": "https://my.oschina.net/u/4487475/blog/19471901",
+      "category": "AI News"
+    },
+    {
+      "title": "Fedora 拒绝使用 systemd 管理用户环境变量提案",
+      "source": "开源中国",
+      "published": "2026-04-02",
+      "summary": "Fedora工程与指导委员会（FESCo）本周正式否决了一项针对Fedora 45的变更提案，该提案计划利用systemd的环境生成器功能来管理用户级环境变量。这一决定引发了开源社区对systemd集成边界问题的再次讨论。 该提案的核心内容是使用systemd.environment-generator替代传统的shell配置文件（如~/.bashrc等）来管理用户环境变量...",
+      "link": "https://www.oschina.net/news/416921/fedora-rejects-systemd-feature",
+      "category": "AI News"
+    },
+    {
+      "title": "CrateDB 6.2.4 发布，分布式 SQL 数据库",
+      "source": "开源中国",
+      "published": "2026-04-02",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.4 现已正式发布，该版本更新内容如下： 修复了当...",
+      "link": "https://www.oschina.net/news/416912/cratedb-6-2-4-released",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯就 WorkBuddy 登录异常致歉：将向所有受影响国内用户补偿 1000 Credits",
+      "source": "开源中国",
+      "published": "2026-04-02",
+      "summary": "今天上午，部分用户在使用腾讯WorkBuddy时遇到登录异常。针对这一情况，腾讯云官方已发布致歉声明，并同步推出补偿措施。 据官方通报，4月2日09:10，腾讯云监测到部分国内用户出现WorkBuddy登录异常，主要表现为： 页面提示504服务错误 无法正常登录 登录后出现闪退或页面加载失败 经工程师紧急处理，问题于11:45逐步修复...",
+      "link": "https://www.oschina.net/news/416910",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: SolonCode CLI v2026.4.5 发布（编程智能体）",
+      "source": "开源中国",
+      "published": "2026-04-02",
+      "summary": "1、关于 SolonCode CLI（编程终端智能体） SolonCode CLI 是基于 Java + Solon AI 开发的 “Claude Code” 国产开源实现版本。 常见问题：它和 Claude Code 有什么不同？ 功能上很相似，关键差异： 采用 Java 实现，100% 开源。 使用“全中文”提示词构建。 不绑定特定提供商。需要配置模型。模型迭代会缩小差异、降低成...",
+      "link": "https://www.oschina.net/news/416887/soloncode-cli-2026-4-5",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
+      "source": "36氪",
+      "published": "2026-04-02",
+      "summary": "大公司：滴滴租车推出“无车必赔”机制，无车率下降15%为提升履约确定性，滴滴租车推出“无车必赔”机制：因商家原因导致无法用车，平台将协调升级车型，或全额退款并赔付三倍日租金。规则实施后，无车率同期下降15%，平台共赔付预约无车订单三百余次。针对车损纠纷和线下乱收费情况，平台提供免费第三方定损及先行赔付，费用全程线上公示，统一收款，严禁线下加价，违规收费先行赔付，线下乱收费投诉量下降50%。目前超95%的订单实现“无投诉、无纠纷”。韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖出36氪获悉，韩国交易所启动SIDECAR机制，暂停KOSDAQ程序化卖出。沃尔沃汽车第一季度全球销量同比下",
+      "link": "https://36kr.com/p/3749518049739271?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
+      "source": "36氪",
+      "published": "2026-04-02",
+      "summary": "图源视觉中国文｜肖漫编辑｜李勤、杨轩36氪汽车独家获悉，轻舟智航、元戎启行已向香港交易所秘密递交上市材料，计划于今年年内在港交所挂牌。一位投资行业人士告诉我们，元戎启行在2025年年底就已提交上市资料，比Momenta递表的时间还早两个月。港股IPO从递表到挂牌需经历递表审核、聆讯、路演与招股等关键阶段，顺利情况下全周期约6-9个月。也就是说，包含轻舟智航、元戎启行和Momenta在内的这批自动驾驶算法公司极有可能在今年下半年迎来IPO爆发潮。36氪从多位从多位投资行业人士处获悉，Momenta IPO估值预期突破千亿元；轻舟智航最新估值在15亿-20亿美元区间，预期IPO估值尚且未知。“大家",
+      "link": "https://36kr.com/p/3748118174335747?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "泡泡玛特无需下一个LABUBU",
+      "source": "36氪",
+      "published": "2026-04-02",
+      "summary": "3月25日，泡泡玛特交出了2025年的答卷。过去一年，泡泡玛特的收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。围绕泡泡玛特的讨论再次沸腾起来，只是相较于去年中报发布之际的欢欣鼓舞，此次与泡泡玛特亮眼财报成绩一并而至的，是资本市场的负面情绪。对此泡泡玛特没有坐以待毙，连续选择四个交易日斥资12亿港元大手笔回购，以此向市场传递公司长期向好的信心。股价过山车的背后仍是那些老生常谈的问题，泡泡玛特是否能维持住2025年的高速增长，以及其是否在依赖单一IP LABUBU。从IP的角度来看，过去一年LABUBU及其所在的THE MONSTERS系列收入超百亿元，占",
+      "link": "https://36kr.com/p/3749340971188992?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
+      "source": "36氪",
+      "published": "2026-04-02",
+      "summary": "文｜邓咏仪编辑｜苏建勋当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。“OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对《智能涌现》说，“我们的AIOS本质上也是一个Agent框架，但它是放在硬件端侧的OpenClaw——机器人、耳机、眼镜，都可以在这套OS上运行。”无界方舟从2024年成立起，就在做这件事。曾晓东给这套范式起了个名字：Vibe Hardware——用自然语言做硬件开发，AI就能自己写程序、调驱动、完成整个应用研发与部署。目前，无界方舟已经建立起了从硬件产品到OS的",
+      "link": "https://36kr.com/p/3749149674439169?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "36氪首发 | 00后交大博士做仿生飞行机器人，获启高、奇绩创坛、交大母基金等投资",
       "source": "36氪",
       "published": "2026-04-02",
       "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，仿生扑翼飞行机器人公司——深圳鹰瞰智翼科技有限公司（下称“鹰瞰智翼”）近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。鹰瞰智翼2025年3月成立于深圳，是全球第一家专注于具身智能扑翼机器人的公司。创始人陈昊是上海交通大学直博生，博士期间发表四篇顶刊论文。团队核心成员均为上海交大本硕博，来自机器人、控制与机械等相关背景，全员均为00后。目前，鹰瞰智翼已形成两条产品线：一是消费级产品“丹丹（Dante）”：面向全球极客群体，支持二次开发，具备特技飞",
       "link": "https://36kr.com/p/3748270618919424?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
-      "source": "36氪",
-      "published": "2026-04-02",
-      "summary": "文｜李小霞编辑｜乔芊 杨轩36氪独家获悉，近期抖音生活服务完成了浦燕子接任后的第二次大的组织架构调整。此次调整根据商户规模重新分为线上部门和线下部门。月GMV5万以上的客户被放到线上部门，分为KA（月GMV10万以上）、自助（月GMV在5-10万）、酒旅三个版块。其中前二者又分别按行业细分为餐饮、到店综合。月GMV5万以下的客户被放到线下部门。线下则按照区域划分为北区、南区、东区。相比此前的区域划分，砍掉了上海大区、中区，增加了东区，中区相关商户被分流到北区、东区。(36氪制图)具体人员任命如下：王雪芹，负责酒旅和KA餐饮，此前为抖音生活服务NKA业务负责人；吴嘉伟负责酒旅，向王雪芹汇报。常青",
-      "link": "https://36kr.com/p/3748296456143362?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
-      "source": "36氪",
-      "published": "2026-04-02",
-      "summary": "今日热点导览宇树科技被抽中首发企业现场检查国家税务总局：2025年个税汇算已超7000万人申请退税原特斯拉中国区高管孔艳双入职小米特斯拉正式停产Model S和Model X两款车型美国纽约市宣布撤销政府设备使用TikTok禁令TOP 3大新闻甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%全球软件巨头甲骨文（Oracle）于当地时间3月31日凌晨向员工群发邮件，宣布启动新一轮大规模裁员。多名收到通知的员工在社交媒体上披露，邮件措辞直白：“在认真评估甲骨文当前的业务需求后，我们决定取消您的岗位。今天是您的最后一个工作日。”据多家媒体报道，此次裁员覆盖美国、印度、欧洲等多个市场，波及工",
-      "link": "https://36kr.com/p/3748927500387072?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "为啥武汉无人车也“呆”了一次",
-      "source": "量子位",
-      "published": "2026-04-01",
-      "summary": "被误解的“安全感”",
-      "link": "https://www.qbitai.com/2026/04/394554.html",
-      "category": "AI News"
-    },
-    {
-      "title": "跟美图RoboNeo说句话，AI帮你复刻爆款",
-      "source": "量子位",
-      "published": "2026-04-01",
-      "summary": "美图旗下RoboNeo成跨境创作新利器",
-      "link": "https://www.qbitai.com/2026/04/394547.html",
-      "category": "AI News"
-    },
-    {
-      "title": "国内最强生图模型Wan2.7-Image来了",
-      "source": "量子位",
-      "published": "2026-04-01",
-      "summary": "具备文生图、图生组图、图像指令编辑和交互式编辑等全链路能力",
-      "link": "https://www.qbitai.com/2026/04/394530.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic被逼急了！亲生龙虾意外曝光，Karpathy：这就是Claude Claw",
-      "source": "量子位",
-      "published": "2026-04-01",
-      "summary": "要不……干脆就叫Clawdbot？",
-      "link": "https://www.qbitai.com/2026/04/394516.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
-      "source": "量子位",
-      "published": "2026-04-01",
-      "summary": "解锁AI视频沉浸式观感",
-      "link": "https://www.qbitai.com/2026/04/394373.html",
-      "category": "AI News"
-    },
-    {
-      "title": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
-      "source": "InfoQ 中文",
-      "published": "2026-04-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "1220亿美金！OpenAI 完成史上最大规模融资，微软“退居二线”，首次提及“超级应用”",
-      "source": "InfoQ 中文",
-      "published": "2026-04-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/0gETwo2o5fFsUQxotf1J?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？",
-      "source": "InfoQ 中文",
-      "published": "2026-04-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "突破泛化瓶颈：阿里云智能运维 Agent 评测体系实践",
-      "source": "InfoQ 中文",
-      "published": "2026-04-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9qgbqQFhMvJmTkPoFG8l?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案",
-      "source": "InfoQ 中文",
-      "published": "2026-04-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "NEO-unify：原生架构打造端到端多模态理解与生成统一模型",
-      "source": "开源中国",
-      "published": "2026-04-01",
-      "summary": "商汤科技联合南洋理工大学，提出一种全新的架构范式：NEO-unify（preview） 当前多模态智能架构困境 长期以来，多模态研究已形成一种默认范式：视觉编码器（Vision Encoder, VE） 负责感知与理解，而变分自编码器（Variational Autoencoder, VAE） 则用于内容生成。近期的一些工作尝试构建共享编码器，但这种折衷往往引入...",
-      "link": "https://www.oschina.net/news/416560",
-      "category": "AI News"
-    },
-    {
-      "title": "国行苹果 AI “回滚”后续：不只是更新推送被撤回，已下载的本地模型也被远程清除",
-      "source": "开源中国",
-      "published": "2026-04-01",
-      "summary": "2025年3月31日凌晨，国内部分iPhone用户意外收到了期待已久的Apple Intelligence功能推送，这一\"意外惊喜\"迅速在科技圈引发热议。 然而，由于苹果尚未获得中国监管部门的正式批准，该功能很快被下线。更令用户意外的是，据博主@数字尾巴爆料，此次撤回行动的深度远超预期——即便用户已将AI大模型下载至本地设备，苹果仍...",
-      "link": "https://www.oschina.net/news/416555",
-      "category": "AI News"
-    },
-    {
-      "title": "ScummVM 2026.2.0 发布，游戏模拟器",
-      "source": "开源中国",
-      "published": "2026-04-01",
-      "summary": "ScummVM 2026.2.0 现已发布，具体更新内容如下： 新增支持的游戏： Necronomicon: The Dawning of Darkness Crime Patrol Crime Patrol 2: Drug Wars The Last Bounty Hunter Mad Dog McCree Mad Dog II: The Lost Gold Space Pirates Who Shot Johnny Rock? 还改进了 PC 扬声器模拟，在启动器中支持多选（使用 Shift/Ct...",
-      "link": "https://www.oschina.net/news/416552/scummvm-2026-2-0",
-      "category": "AI News"
-    },
-    {
-      "title": "1-2 月我国软件业务收入 21534 亿元，同比增长 11.7%",
-      "source": "开源中国",
-      "published": "2026-04-01",
-      "summary": "工业和信息化部运行监测协调局发布 “2026 年 1—2 月份软件业运行情况” 指出，2026年前2个月，我国软件和信息技术服务业（以下简称“软件业”）运行态势良好，软件业务收入稳健增长，利润总额增势放缓，软件业务出口增长较快。 一、总体运行情况 前2个月，我国软件业务收入21534亿元，同比增长11.7%。软件业利润总额2...",
-      "link": "https://www.oschina.net/news/416536",
-      "category": "AI News"
-    },
-    {
-      "title": "Lodash 4.18.0 发布，JavaScript 实用工具库",
-      "source": "开源中国",
-      "published": "2026-04-01",
-      "summary": "Lodash 4.18.0 现已发布，一个现代化的 JavaScript 实用工具库。 Lodash 已获得主权技术机构 (Sovereign Tech Agency) 的支持，并将过渡到功能完成 (Feature-Complete) 成熟阶段，以确保其长期稳定、安全和可持续发展。作为这项工作的一部分，Lodash 正在重启其治理结构。一份章程草案即将发布。即将成立的技术指导委员会...",
-      "link": "https://www.oschina.net/news/416533/lodash-4-18-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-      "source": "36氪",
-      "published": "2026-04-01",
-      "summary": "文｜邱晓芬编辑｜苏建勋一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路、懂说话”的骑行伙伴。举个例子，当你在雨天转弯时，AI会识别到骑行状态，并自动开启防侧滑功能；你也可以让它“找附近人少的咖啡店”，电动车能听懂并导航……△小牛AI电摩N",
-      "link": "https://36kr.com/p/3748233045541637?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "2026有智青年挑战赛，报名通道全面开启！",
-      "source": "36氪",
-      "published": "2026-04-01",
-      "summary": "这不是一场传统比赛，是一次对话。我们始终相信，AI 的使命不应是取代人类，而是帮助人类变得更强大。因此在这次选拔中，我们不会关注你的教育背景、融资规模或是使用了多么前沿的算法，唯一在意的是你的产品是否真正让个体变得更强。行至决赛，你会站上WAVES的舞台，这是中国创投圈最重要的舞台之一，台下坐着投资人、产业伙伴、未来的用户，过去很多你叫得出名字的创业者，都是从这里被看见、被理解、被加速。2026年夏天，我们想把这个舞台分你一半。大赛报名已开启，欢迎所有年轻实干家报名，等你来定义下一个—商业坐标！Part01- 赛道划分赛道一：智能体——\"第二大脑\"挑战赛核心命题：设计一个能嵌入个人工作流或生活",
-      "link": "https://36kr.com/p/3748145916740100?f=rss",
       "category": "AI News"
     }
   ]
