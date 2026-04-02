@@ -1,67 +1,59 @@
 {
-  "updated": "2026-04-01T12:50:37.497559+00:00",
+  "updated": "2026-04-02T01:12:06.082373+00:00",
   "repositories": [
     {
       "name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 96785,
-      "stars_today": 3905,
+      "stars": 100929,
+      "stars_today": 10749,
       "language": "Shell",
       "link": "https://github.com/anthropics/claude-code"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 33927,
-      "stars_today": 1704,
+      "stars": 34455,
+      "stars_today": 1685,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "stars": 29889,
-      "stars_today": 2488,
-      "language": "HTML",
-      "link": "https://github.com/shanraisshan/claude-code-best-practice"
-    },
-    {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 11645,
-      "stars_today": 495,
+      "stars": 12130,
+      "stars_today": 380,
       "language": "Python",
       "link": "https://github.com/google-research/timesfm"
     },
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 14758,
-      "stars_today": 3336,
+      "stars": 15614,
+      "stars_today": 3301,
       "language": "Python",
       "link": "https://github.com/luongnv89/claude-howto"
     },
     {
       "name": "axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
-      "stars": 108775,
-      "stars_today": 88,
+      "stars": 108868,
+      "stars_today": 93,
       "language": "JavaScript",
       "link": "https://github.com/axios/axios"
     },
     {
       "name": "openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
-      "stars": 71061,
-      "stars_today": 2345,
+      "stars": 71739,
+      "stars_today": 2390,
       "language": "Rust",
       "link": "https://github.com/openai/codex"
     },
     {
       "name": "f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 155598,
-      "stars_today": 421,
+      "stars": 156025,
+      "stars_today": 398,
       "language": "HTML",
       "link": "https://github.com/f/prompts.chat"
     }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-01T12:50:47.192279+00:00",
+  "updated": "2026-04-02T01:12:17.192360+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 8,
+    "github_trending": 7,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -56,10 +56,6 @@
       "count": 3
     },
     {
-      "language": "HTML",
-      "count": 2
-    },
-    {
       "language": "Shell",
       "count": 1
     },
@@ -69,6 +65,10 @@
     },
     {
       "language": "Rust",
+      "count": 1
+    },
+    {
+      "language": "HTML",
       "count": 1
     }
   ]

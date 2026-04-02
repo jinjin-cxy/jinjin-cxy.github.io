@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T12:50:32.623990+00:00",
+  "updated": "2026-04-02T01:12:01.597696+00:00",
   "models": [
     {
       "id": "Qwen/Qwen2.5-7B-Instruct",
@@ -38,7 +38,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 11824607,
-      "likes": 3166,
+      "likes": 3167,
       "tags": [
         "transformers",
         "pytorch",
@@ -54,7 +54,7 @@
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
       "downloads": 9609206,
-      "likes": 652,
+      "likes": 651,
       "tags": [
         "transformers",
         "safetensors",
@@ -70,7 +70,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 9503192,
-      "likes": 1020,
+      "likes": 1021,
       "tags": [
         "transformers",
         "safetensors",
@@ -86,7 +86,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 8271163,
-      "likes": 5642,
+      "likes": 5643,
       "tags": [
         "transformers",
         "safetensors",
@@ -102,7 +102,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 7739504,
-      "likes": 427,
+      "likes": 429,
       "tags": [
         "transformers",
         "safetensors",
@@ -118,7 +118,7 @@
       "name": "Llama-3.2-3B-Instruct",
       "author": "meta-llama",
       "downloads": 7431697,
-      "likes": 2075,
+      "likes": 2078,
       "tags": [
         "transformers",
         "safetensors",
@@ -150,7 +150,7 @@
       "name": "opt-125m",
       "author": "facebook",
       "downloads": 7001435,
-      "likes": 236,
+      "likes": 237,
       "tags": [
         "transformers",
         "pytorch",
@@ -182,7 +182,7 @@
       "name": "Qwen3-4B-Instruct-2507",
       "author": "Qwen",
       "downloads": 6314659,
-      "likes": 789,
+      "likes": 790,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 6115764,
-      "likes": 4494,
+      "likes": 4495,
       "tags": [
         "transformers",
         "safetensors",
