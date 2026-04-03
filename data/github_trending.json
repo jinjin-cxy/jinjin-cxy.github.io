@@ -1,34 +1,58 @@
 {
-  "updated": "2026-04-03T01:13:31.074864+00:00",
+  "updated": "2026-04-03T12:36:04.137995+00:00",
   "repositories": [
-    {
-      "name": "siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": 15902,
-      "stars_today": 2573,
-      "language": "TypeScript",
-      "link": "https://github.com/siddharthvaddem/openscreen"
-    },
     {
       "name": "Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "stars": 11736,
+      "stars": 13162,
       "stars_today": 2867,
       "language": "TypeScript",
       "link": "https://github.com/Yeachan-Heo/oh-my-codex"
     },
     {
-      "name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
-      "stars": 36373,
-      "stars_today": 306,
-      "language": "",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks"
+      "name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 22584,
+      "stars_today": 1872,
+      "language": "Python",
+      "link": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+      "name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 13726,
+      "stars_today": 912,
+      "language": "Python",
+      "link": "https://github.com/google-research/timesfm"
+    },
+    {
+      "name": "siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "stars": 17344,
+      "stars_today": 2573,
+      "language": "TypeScript",
+      "link": "https://github.com/siddharthvaddem/openscreen"
+    },
+    {
+      "name": "dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": 2980,
+      "stars_today": 767,
+      "language": "Rust",
+      "link": "https://github.com/dmtrKovalenko/fff.nvim"
+    },
+    {
+      "name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 156890,
+      "stars_today": 369,
+      "language": "HTML",
+      "link": "https://github.com/f/prompts.chat"
     },
     {
       "name": "sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
-      "stars": 77284,
+      "stars": 77958,
       "stars_today": 827,
       "language": "Python",
       "link": "https://github.com/sherlock-project/sherlock"
