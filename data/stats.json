@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-04T01:07:08.884425+00:00",
+  "updated": "2026-04-04T12:29:06.707367+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 7,
+    "github_trending": 8,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -22,11 +22,11 @@
       "count": 13
     },
     {
-      "tag": "qwen2",
-      "count": 5
+      "tag": "qwen3",
+      "count": 6
     },
     {
-      "tag": "qwen3",
+      "tag": "qwen2",
       "count": 5
     },
     {
@@ -53,18 +53,18 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 3
+      "count": 4
     },
     {
       "language": "TypeScript",
       "count": 2
     },
     {
-      "language": "Rust",
+      "language": "C++",
       "count": 1
     },
     {
-      "language": "HTML",
+      "language": "Rust",
       "count": 1
     }
   ]

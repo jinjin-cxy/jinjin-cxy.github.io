@@ -1,6 +1,78 @@
 {
-  "updated": "2026-04-04T01:07:08.880462+00:00",
+  "updated": "2026-04-04T12:29:06.704441+00:00",
   "articles": [
+    {
+      "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+      "source": "量子位",
+      "published": "2026-04-04",
+      "summary": "唯一原生支持指代消解，Benchmark现象级领先",
+      "link": "https://www.qbitai.com/2026/04/396069.html",
+      "category": "AI News"
+    },
+    {
+      "title": "联想重新定义“龙虾”",
+      "source": "量子位",
+      "published": "2026-04-04",
+      "summary": "算需求有解了",
+      "link": "https://www.qbitai.com/2026/04/396015.html",
+      "category": "AI News"
+    },
+    {
+      "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+      "source": "量子位",
+      "published": "2026-04-04",
+      "summary": "“我的超能力是快速做原型，现在任何人都能做到了。”",
+      "link": "https://www.qbitai.com/2026/04/395995.html",
+      "category": "AI News"
+    },
+    {
+      "title": "智能体 AI 模式强化软件工程规范性",
+      "source": "InfoQ 中文",
+      "published": "2026-04-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+      "source": "InfoQ 中文",
+      "published": "2026-04-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-04-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
+      "source": "InfoQ 中文",
+      "published": "2026-04-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微语 1.8.0 发布 - 开源智能客服",
+      "source": "开源中国",
+      "published": "2026-04-04",
+      "summary": "微语是基于AI全新打造的一款开源企业级多租户团队智能协同平台，提供一站式客户服务解决方案/客服中心/联络中心，能够显著提高内部员工和外部客户沟通效率。 企业IM、智能客服、企业知识库、智能工单、AI Agent智能体、工作流、客户之声、呼叫中心、视频客服、客户管理CRM、培训管理、开放平台 1. 音频客服上线 2. 视频客...",
+      "link": "https://www.oschina.net/news/417526",
+      "category": "AI News"
+    },
+    {
+      "title": "一群00后极客和这家机器人公司共处72小时",
+      "source": "36氪",
+      "published": "2026-04-04",
+      "summary": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。图片由智能涌现拍摄和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支持，以及自变量WALL-OSS、Pi0.5、英伟达DreamZero等开源基模可供选择。图片由官方提供“就没打过这么富裕的仗！”在B站有33万粉丝的“同济子豪兄”，在",
+      "link": "https://36kr.com/p/3752115857638145?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
       "source": "量子位",
@@ -18,67 +90,11 @@
       "category": "AI News"
     },
     {
-      "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "2026 年 4 月 23 日至 24 日，深圳福田会展中心 2 号馆，GTC2026 全球流量大会（深圳）即将拉开帷幕。",
-      "link": "https://www.qbitai.com/2026/04/395447.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI收购了一家脱口秀公司",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "主持人与奥特曼私交超10年",
-      "link": "https://www.qbitai.com/2026/04/395316.html",
-      "category": "AI News"
-    },
-    {
-      "title": "企业玩不转龙虾，是人的思维出错了",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "MiniMax和腾讯云深度详解Agent大规模落地",
-      "link": "https://www.qbitai.com/2026/04/395307.html",
-      "category": "AI News"
-    },
-    {
       "title": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
       "source": "InfoQ 中文",
       "published": "2026-04-03",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
-      "source": "InfoQ 中文",
-      "published": "2026-04-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
-      "source": "InfoQ 中文",
-      "published": "2026-04-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来",
-      "source": "InfoQ 中文",
-      "published": "2026-04-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
-      "source": "InfoQ 中文",
-      "published": "2026-04-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -114,14 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "谷歌：没人比我更懂 “不作恶”",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "2026 年 4 月 2 日，谷歌 DeepMind 发布了 Gemma 4 系列模型。模型有四个规格 ——E2B、E4B、26B MoE、31B Dense—— 覆盖了从树莓派到单卡 H100 的全硬件区间，31B 在 Arena 开源榜冲到第三，26B MoE 只激活 38 亿参数就打出了同级 Dense 模型的效果。 但这些数字都不是当天最热的议题。...",
-      "link": "https://my.oschina.net/u/4487475/blog/19481944",
-      "category": "AI News"
-    },
-    {
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
       "source": "36氪",
       "published": "2026-04-03",
@@ -151,14 +159,6 @@
       "published": "2026-04-03",
       "summary": "文｜兰杰编辑｜乔芊2025年，泡泡玛特已经成长为一个庞然大物。3月25日，泡泡玛特公布了2025年财报，收入为人民币371.2亿元，同比增长185%，净利润为130.1亿元，同比增长293%。其中，海外市场成为拉动增长的主力，收入占比超四成。这是一份足够亮眼的财报成绩，但资本市场却不买帐。财报发布当日开盘后，泡泡玛特的股价一度跌超20%。3月26日，泡泡玛特发布公告称，将斥资5.99亿港元回购394万股股份，每股回购价区间为148.4-157.8港元。截至当日收盘，泡泡玛特每股报价150.7港元。此举意在稳定市场情绪，且向市场持续传递公司长期向好的信心。除了因为部分增长不及预期外，还有一个始终",
       "link": "https://36kr.com/p/3750711532569350?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "source": "36氪",
-      "published": "2026-04-03",
-      "summary": "如今内容行业风头正盛的莫过于AI拟真人剧。它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。早在2025年下半年的时候，这一内容形态就已经崭露头角。彼时有一批从业者认为，AI拟真人剧的天花板相当于整个传统影视行业，要高于AI漫剧，于是在诸多技术问题尚未被解决的时候就决定入局。今年1月以来，字节旗下Seedance2.0、生数科技Vidu Q3的发布则彻底引爆了这一赛道。人物表情的恐怖谷效应、角色难以保持的一致性，以及打斗场面不连贯等问题，都在底层大模型技术的进步中消融。Vidu解决方案负责人郑重如此表示，视频生成大模型在过去一年中，从“老照片复活、变身特效”等C",
-      "link": "https://36kr.com/p/3750704146072326?f=rss",
       "category": "AI News"
     }
   ]
