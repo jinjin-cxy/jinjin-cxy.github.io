@@ -1,6 +1,22 @@
 {
-  "updated": "2026-04-03T12:36:16.161267+00:00",
+  "updated": "2026-04-04T01:07:08.880462+00:00",
   "articles": [
+    {
+      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+      "source": "量子位",
+      "published": "2026-04-03",
+      "summary": "实现企业级Agent规模化管控",
+      "link": "https://www.qbitai.com/2026/04/395916.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "source": "量子位",
+      "published": "2026-04-03",
+      "summary": "千问APP迎来AI内容创作史诗级增强",
+      "link": "https://www.qbitai.com/2026/04/395477.html",
+      "category": "AI News"
+    },
     {
       "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
       "source": "量子位",
@@ -23,22 +39,6 @@
       "published": "2026-04-03",
       "summary": "MiniMax和腾讯云深度详解Agent大规模落地",
       "link": "https://www.qbitai.com/2026/04/395307.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "Claude的内心戏暴露了",
-      "link": "https://www.qbitai.com/2026/04/395279.html",
-      "category": "AI News"
-    },
-    {
-      "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "“离散视觉没有天花板”",
-      "link": "https://www.qbitai.com/2026/04/395216.html",
       "category": "AI News"
     },
     {
@@ -90,6 +90,14 @@
       "category": "AI News"
     },
     {
+      "title": "智能路由如何实现 90% 成本下降？",
+      "source": "开源中国",
+      "published": "2026-04-03",
+      "summary": "一、背景 随着大模型数量爆炸式增长，开发者面临一个经典问题：如何为每个任务选择最便宜且效果足够的模型？ 手动选择不可扩展，而简单规则（如“简单任务走小模型”）无法适应复杂多变的用户请求。 2025年，学术界和工业界开始系统研究LLM智能路由。其中，论文《Cost-Effective LLM Routing with Reinforcement Learnin...",
+      "link": "https://www.oschina.net/news/417325",
+      "category": "AI News"
+    },
+    {
       "title": "PhpStorm 2026.1 发布",
       "source": "开源中国",
       "published": "2026-04-03",
@@ -111,14 +119,6 @@
       "published": "2026-04-03",
       "summary": "2026 年 4 月 2 日，谷歌 DeepMind 发布了 Gemma 4 系列模型。模型有四个规格 ——E2B、E4B、26B MoE、31B Dense—— 覆盖了从树莓派到单卡 H100 的全硬件区间，31B 在 Arena 开源榜冲到第三，26B MoE 只激活 38 亿参数就打出了同级 Dense 模型的效果。 但这些数字都不是当天最热的议题。...",
       "link": "https://my.oschina.net/u/4487475/blog/19481944",
-      "category": "AI News"
-    },
-    {
-      "title": "【AI 智能运维平台】本周更新：上线 MLOps 体验，监控中心支持自定义上报监控数据",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :globe_with_meridians: 官网 • 支持体验 MLOps 模型能力：异常检测、时序预测、日志聚类 :desktop_computer: 节点管理 • 节点默...",
-      "link": "https://www.oschina.net/news/417237",
       "category": "AI News"
     },
     {
