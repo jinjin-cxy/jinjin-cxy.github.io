@@ -1,69 +1,85 @@
 {
-  "updated": "2026-04-05T01:15:48.515003+00:00",
+  "updated": "2026-04-05T12:30:21.132784+00:00",
   "repositories": [
+    {
+      "name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 16408,
+      "stars_today": 286,
+      "language": "Kotlin",
+      "link": "https://github.com/google-ai-edge/gallery"
+    },
     {
       "name": "Blaizzy/mlx-vlm",
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "stars": 3604,
-      "stars_today": 343,
+      "stars": 3765,
+      "stars_today": 408,
       "language": "Python",
       "link": "https://github.com/Blaizzy/mlx-vlm"
     },
     {
-      "name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "stars": 24247,
-      "stars_today": 1197,
-      "language": "Python",
-      "link": "https://github.com/onyx-dot-app/onyx"
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "stars": 15648,
-      "stars_today": 1789,
-      "language": "TypeScript",
-      "link": "https://github.com/Yeachan-Heo/oh-my-codex"
-    },
-    {
       "name": "siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": 19875,
-      "stars_today": 1591,
+      "stars": 21554,
+      "stars_today": 2692,
       "language": "TypeScript",
       "link": "https://github.com/siddharthvaddem/openscreen"
     },
     {
-      "name": "telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "stars": 30835,
-      "stars_today": 249,
-      "language": "C++",
-      "link": "https://github.com/telegramdesktop/tdesktop"
-    },
-    {
       "name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 35699,
-      "stars_today": 935,
+      "stars": 36164,
+      "stars_today": 866,
       "language": "Rust",
       "link": "https://github.com/block/goose"
     },
     {
-      "name": "microsoft/agent-framework",
-      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": 8707,
-      "stars_today": 72,
+      "name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 24654,
+      "stars_today": 960,
       "language": "Python",
-      "link": "https://github.com/microsoft/agent-framework"
+      "link": "https://github.com/onyx-dot-app/onyx"
     },
     {
-      "name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "stars": 79373,
-      "stars_today": 994,
-      "language": "Python",
-      "link": "https://github.com/sherlock-project/sherlock"
+      "name": "badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "stars": 31662,
+      "stars_today": 340,
+      "language": "TypeScript",
+      "link": "https://github.com/badlogic/pi-mono"
+    },
+    {
+      "name": "dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars": 3507,
+      "stars_today": 443,
+      "language": "Rust",
+      "link": "https://github.com/dmtrKovalenko/fff.nvim"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "description": "",
+      "stars": 1312,
+      "stars_today": 113,
+      "language": "C++",
+      "link": "https://github.com/google-ai-edge/LiteRT-LM"
+    },
+    {
+      "name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "stars": 30937,
+      "stars_today": 265,
+      "language": "C++",
+      "link": "https://github.com/telegramdesktop/tdesktop"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 441143,
+      "stars_today": 292,
+      "language": "TypeScript",
+      "link": "https://github.com/freeCodeCamp/freeCodeCamp"
     }
   ]
 }

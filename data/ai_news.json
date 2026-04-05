@@ -1,44 +1,92 @@
 {
-  "updated": "2026-04-05T01:16:00.065287+00:00",
+  "updated": "2026-04-05T12:30:37.141665+00:00",
   "articles": [
+    {
+      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+      "source": "量子位",
+      "published": "2026-04-05",
+      "summary": "正面回应了和Anthropic的竞争",
+      "link": "https://www.qbitai.com/2026/04/396535.html",
+      "category": "AI News"
+    },
+    {
+      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "source": "量子位",
+      "published": "2026-04-05",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/04/396533.html",
+      "category": "AI News"
+    },
+    {
+      "title": "具身龙虾，上车理想",
+      "source": "量子位",
+      "published": "2026-04-05",
+      "summary": "在你取车的时候，主动跟你打招呼",
+      "link": "https://www.qbitai.com/2026/04/396517.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT-6，曝光了",
+      "source": "量子位",
+      "published": "2026-04-05",
+      "summary": "彻底奔着AGI去的模型",
+      "link": "https://www.qbitai.com/2026/04/396366.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "source": "量子位",
+      "published": "2026-04-05",
+      "summary": "开源开发者的赛博马鞭",
+      "link": "https://www.qbitai.com/2026/04/396358.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+      "source": "InfoQ 中文",
+      "published": "2026-04-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Evomap如何让Agent从单体智能到群体进化｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-04-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "DockMaster Pro v1.0.0 正式发布",
+      "source": "开源中国",
+      "published": "2026-04-05",
+      "summary": "大家好，DockMaster Pro 今天正式发布首个版本 v1.0.0。 DockMaster Pro 是一款 macOS Dock 栏增强工具，致力于将原生 Dock 从「应用启动器」升级为「生产力中枢」。如果你觉得 macOS 原生 Dock 的功能过于单一，缺乏个性化空间，DockMaster Pro 正是为此而生。 主题引擎 v1.0.0 内置完整的主题系统，提供多套开箱即用的...",
+      "link": "https://www.oschina.net/news/417769",
+      "category": "AI News"
+    },
+    {
+      "title": "MateClaw 1.0.0 正式版发布，开源的 JAVA 版本龙虾",
+      "source": "开源中国",
+      "published": "2026-04-05",
+      "summary": "懂你所需，利爪随行：MateClaw 正式开源，补齐 Java 生态的 AI Agent 拼图 在 AI Agent 赛道百花齐放的 2026 年，开发者们对“数字生命中枢”的渴望达到了顶峰。前有 72 小时斩获 6 万 Star 的 OpenClaw [1]，后有各类基于 Python 和 Node.js 的智能体框架层出不穷。然而，在企业级应用市场占据绝对主导地位的 Java 生态...",
+      "link": "https://www.oschina.net/news/417684",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+      "source": "36氪",
+      "published": "2026-04-05",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华精密仪器系硕士，曾任职GE医疗CT部门。公司在X射线光谱分析与AI智能识别算法领域有近二十年科研积累。硬氪获悉，传统选矿主要依赖人工手选或湿法工艺。人工手选面临年轻人",
+      "link": "https://36kr.com/p/3753526848897792?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
       "source": "36氪",
       "published": "2026-04-05",
       "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。3月31日，AWOL Vision新款超短焦4K三色激光投影产品Aetherion在Ki",
       "link": "https://36kr.com/p/3752260051616512?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
-      "source": "量子位",
-      "published": "2026-04-04",
-      "summary": "日调用量突破1.4万亿Token",
-      "link": "https://www.qbitai.com/2026/04/396346.html",
-      "category": "AI News"
-    },
-    {
-      "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-      "source": "量子位",
-      "published": "2026-04-04",
-      "summary": "唯一原生支持指代消解，Benchmark现象级领先",
-      "link": "https://www.qbitai.com/2026/04/396069.html",
-      "category": "AI News"
-    },
-    {
-      "title": "联想重新定义“龙虾”",
-      "source": "量子位",
-      "published": "2026-04-04",
-      "summary": "算需求有解了",
-      "link": "https://www.qbitai.com/2026/04/396015.html",
-      "category": "AI News"
-    },
-    {
-      "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
-      "source": "量子位",
-      "published": "2026-04-04",
-      "summary": "“我的超能力是快速做原型，现在任何人都能做到了。”",
-      "link": "https://www.qbitai.com/2026/04/395995.html",
       "category": "AI News"
     },
     {
@@ -66,14 +114,6 @@
       "category": "AI News"
     },
     {
-      "title": "Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具",
-      "source": "InfoQ 中文",
-      "published": "2026-04-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "微语 1.8.0 发布 - 开源智能客服",
       "source": "开源中国",
       "published": "2026-04-04",
@@ -87,22 +127,6 @@
       "published": "2026-04-04",
       "summary": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。图片由智能涌现拍摄和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支持，以及自变量WALL-OSS、Pi0.5、英伟达DreamZero等开源基模可供选择。图片由官方提供“就没打过这么富裕的仗！”在B站有33万粉丝的“同济子豪兄”，在",
       "link": "https://36kr.com/p/3752115857638145?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-      "source": "量子位",
-      "published": "2026-04-03",
-      "summary": "实现企业级Agent规模化管控",
-      "link": "https://www.qbitai.com/2026/04/395916.html",
-      "category": "AI News"
-    },
-    {
-      "title": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
-      "source": "InfoQ 中文",
-      "published": "2026-04-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -122,22 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "PhpStorm 2026.1 发布",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "PhpStorm 2026.1 现已发布，此版本带来了全新的 PhpStorm MCP 工具、集成在 IDE 中的全新第三方 Agent、对 Git 工作树的支持，以及诸多提升 PHP 和 Laravel 开发者工作效率的功能。 PhpStorm MCP 工具 在 PhpStorm 2025.2 中，为 Claude Code、Windsurf 或 Codex 等第三方编码 Agent 添加了集成式 MCP 服务器，以用于访问...",
-      "link": "https://www.oschina.net/news/417306/phpstorm-2026-1",
-      "category": "AI News"
-    },
-    {
-      "title": "Electron 41.1.1 发布",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "Electron 是一个使用 JavaScript、HTML 和 CSS 构建跨平台的桌面应用程序。它基于 Node.js 和 Chromium，被 Atom 编辑器和许多其他应用程序使用。Electron 兼容 Mac、Windows 和 Linux，可以构建出三个平台的应用程序。 Electron v41.1.1 现已发布，一些更新内容如下： 修复 修复了在跟踪会话处于活动状态时调用content...",
-      "link": "https://www.oschina.net/news/417242/electron-41-1-1-released",
-      "category": "AI News"
-    },
-    {
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
       "source": "36氪",
       "published": "2026-04-03",
@@ -151,14 +159,6 @@
       "published": "2026-04-03",
       "summary": "作者 | 钟艺璇3月30日，第二届“元气森林创造营2044”活动在咸宁举行。活动现场，十余位年轻的产品经理带着多款元气森林家族新产品上台亮相，分享了各自打造新品的初心与研发历程。“创造营2044”萌芽于2024年元气森林经销商大会上“20年后再相会”的承诺，是元气森林给年轻人舞台，用长期主义回报用户信任的具体实践。开幕式发言时，元气森林创始人唐彬森提到，元气森林许多产品，一开始都来源于产品经理简单的想法。“世界上很多伟大的东西，开始的时候并没有外界想象的那么伟大，一开始时候只是一些简单粗糙的想法。创造营2044不是发布会，而是一场记录会，就是希望记录这些最开始的简单纯粹。记录初心、记录简单，记",
       "link": "https://36kr.com/p/3749467949482759?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "一款运营三年的模拟经营游戏，是如何活力依旧的？",
-      "source": "36氪",
-      "published": "2026-04-03",
-      "summary": "文｜兰杰编辑｜刘士武你觉得桃源是？A：逃避之所；B：向往之所。这是《桃源深处有人家》中一个经典的选择，某种程度上也是这个游戏的侧写。在这款游戏中，聚集了追求生活感和希望慢下来的村民和玩家。3月22日，模拟经营游戏《桃源深处有人家》（以下简称《桃源》）迎来了它上线以来的第三个生日。三年的时间里，《桃源》已经占据了自己的生态位——不在造福神话之列，但成为了提及模拟经营游戏时绕不开的例子。这对于这样一款不算“重”的游戏来讲，是一个难得的成绩。在过去两年间，模拟经营游戏一度是头部大厂们争相布局的赛道，但真正跑出来的是少数。绝大多数时候，玩家只知道《星露谷物语》或更加古早的《牧场物语》。竞技游戏是腾讯游",
-      "link": "https://36kr.com/p/3750714899415817?f=rss",
       "category": "AI News"
     }
   ]
