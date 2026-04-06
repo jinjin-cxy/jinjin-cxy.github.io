@@ -1,44 +1,108 @@
 {
-  "updated": "2026-04-06T01:16:10.625120+00:00",
+  "updated": "2026-04-06T12:42:46.617201+00:00",
   "articles": [
+    {
+      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "核心思路：从画大纲到扣细节",
+      "link": "https://www.qbitai.com/2026/04/396738.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "网友：感觉他们今年不可能上市了",
+      "link": "https://www.qbitai.com/2026/04/396704.html",
+      "category": "AI News"
+    },
+    {
+      "title": "具身Scaling Law押对了！独角兽新品1小时学会新任务，重复1800次成功率99%",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "机器人模型卷出新高度",
+      "link": "https://www.qbitai.com/2026/04/396694.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "你的AI产品，从Day0起就应具备“全球原生基因”",
+      "link": "https://www.qbitai.com/2026/04/396675.html",
+      "category": "AI News"
+    },
+    {
+      "title": "自动驾驶优化：从复杂性到实时工程",
+      "source": "InfoQ 中文",
+      "published": "2026-04-06",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 时代的架构治理",
+      "source": "InfoQ 中文",
+      "published": "2026-04-06",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "有道龙虾 LobsterAI 的养成与实践｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-04-06",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Notepad-- v3.7.1 已经发布，文本编辑器",
+      "source": "开源中国",
+      "published": "2026-04-06",
+      "summary": "Notepad-- v3.7.1 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.7.1-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.7.1-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 历史版本汇总在百度网盘： https://pan.baidu.com/s/5MpFGSKtiH...",
+      "link": "https://www.oschina.net/news/417923",
+      "category": "AI News"
+    },
+    {
+      "title": "【Ease UI】2026-04-06 组件更新：新增组件 xly-json-viewer json 查看器组件",
+      "source": "开源中国",
+      "published": "2026-04-06",
+      "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
+      "link": "https://www.oschina.net/news/417899",
+      "category": "AI News"
+    },
+    {
+      "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
+      "source": "36氪",
+      "published": "2026-04-06",
+      "summary": "4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。官方图片产品共创方面，荣耀与京东将围绕手机、全场景、AIoT、机器人等各领域产品的全生命周期进行深度协作。双方将推进战略新品首发合作，共同打造行业爆品，基于各自优势，联合开展IP与C2M定制项目，推动行业级创新。双方将针对外卖骑手、快递员、游戏玩家等特定用户人群进行产品共创，将荣耀的软硬件定制能力与京东的用户洞察有机结合，打造更多基于场景的产品亮点，同时，双方将协同进行产品",
+      "link": "https://36kr.com/p/3755161993675523?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "source": "36氪",
+      "published": "2026-04-06",
+      "summary": "作者 | 张子怡编辑 | 袁斯来AI硬件赛道，似乎一夜之间跨入新世界。上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，Agent Box就是⼀台面向个人用户的AI专用设备，其存在的唯⼀目的是在本地运行大模型和自主代理。市面上已经有数家推出Agent Box的公司，包括Pamir、Violo",
+      "link": "https://36kr.com/p/3754812277998083?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] Industrial policy for the Intelligence Age",
+      "source": "OpenAI Blog",
+      "published": "2026-04-06",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "category": "AI News"
+    },
     {
       "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
       "source": "量子位",
       "published": "2026-04-05",
       "summary": "正面回应了和Anthropic的竞争",
       "link": "https://www.qbitai.com/2026/04/396535.html",
-      "category": "AI News"
-    },
-    {
-      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "source": "量子位",
-      "published": "2026-04-05",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/396533.html",
-      "category": "AI News"
-    },
-    {
-      "title": "具身龙虾，上车理想",
-      "source": "量子位",
-      "published": "2026-04-05",
-      "summary": "在你取车的时候，主动跟你打招呼",
-      "link": "https://www.qbitai.com/2026/04/396517.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-6，曝光了",
-      "source": "量子位",
-      "published": "2026-04-05",
-      "summary": "彻底奔着AGI去的模型",
-      "link": "https://www.qbitai.com/2026/04/396366.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
-      "source": "量子位",
-      "published": "2026-04-05",
-      "summary": "开源开发者的赛博马鞭",
-      "link": "https://www.qbitai.com/2026/04/396358.html",
       "category": "AI News"
     },
     {
@@ -58,19 +122,11 @@
       "category": "AI News"
     },
     {
-      "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
-      "source": "InfoQ 中文",
+      "title": "XXL-JOB v3.4.0 发布 | OpenClaw 集成、合并调度、健壮性及体验增强",
+      "source": "开源中国",
       "published": "2026-04-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Evomap如何让Agent从单体智能到群体进化｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-04-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
+      "summary": "Release Notes 1、【新增】集成OpenClaw: AI执行器新增“openClawJobHandler”内置任务，与OpenClaw集成打通，支持快速开发AI类任务； 2、【增强】任务合并调度：任务调度后批量合并更新，高频调度场景可百倍降低SQL操作合并执行，提升调度性能； （任务调度后批量合并更新配置：“xxl.job.schedule.batchsize”） 3、【...",
+      "link": "https://www.oschina.net/news/417857",
       "category": "AI News"
     },
     {
@@ -90,14 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "MateClaw 1.0.0 正式版发布，开源的 JAVA 版本龙虾",
-      "source": "开源中国",
-      "published": "2026-04-05",
-      "summary": "懂你所需，利爪随行：MateClaw 正式开源，补齐 Java 生态的 AI Agent 拼图 在 AI Agent 赛道百花齐放的 2026 年，开发者们对“数字生命中枢”的渴望达到了顶峰。前有 72 小时斩获 6 万 Star 的 OpenClaw [1]，后有各类基于 Python 和 Node.js 的智能体框架层出不穷。然而，在企业级应用市场占据绝对主导地位的 Java 生态...",
-      "link": "https://www.oschina.net/news/417684",
-      "category": "AI News"
-    },
-    {
       "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
       "source": "36氪",
       "published": "2026-04-05",
@@ -111,54 +159,6 @@
       "published": "2026-04-05",
       "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。3月31日，AWOL Vision新款超短焦4K三色激光投影产品Aetherion在Ki",
       "link": "https://36kr.com/p/3752260051616512?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "智能体 AI 模式强化软件工程规范性",
-      "source": "InfoQ 中文",
-      "published": "2026-04-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "微语 1.8.0 发布 - 开源智能客服",
-      "source": "开源中国",
-      "published": "2026-04-04",
-      "summary": "微语是基于AI全新打造的一款开源企业级多租户团队智能协同平台，提供一站式客户服务解决方案/客服中心/联络中心，能够显著提高内部员工和外部客户沟通效率。 企业IM、智能客服、企业知识库、智能工单、AI Agent智能体、工作流、客户之声、呼叫中心、视频客服、客户管理CRM、培训管理、开放平台 1. 音频客服上线 2. 视频客...",
-      "link": "https://www.oschina.net/news/417526",
-      "category": "AI News"
-    },
-    {
-      "title": "一群00后极客和这家机器人公司共处72小时",
-      "source": "36氪",
-      "published": "2026-04-04",
-      "summary": "2026年3月29日下午5点，在我们抵达深圳科创学院四楼时，参加“全球首届具身智能开发者大会”的20组选手，已经在这里持续开发了60个小时。现场弥漫着一股咖啡混合着冷气的味道，随处可见没吃完的奶茶和果切，楼道里和墙角支着一个个帐篷，有选手在里面补觉，“前一天熬到凌晨4点”。图片由智能涌现拍摄和开发应用/软件的黑客松不同，在这场具身智能开发者大会上，看得见的，有近百台高性能六轴机械臂；看不见的，背后还有100+ PFLOPs的算力支持，以及自变量WALL-OSS、Pi0.5、英伟达DreamZero等开源基模可供选择。图片由官方提供“就没打过这么富裕的仗！”在B站有33万粉丝的“同济子豪兄”，在",
-      "link": "https://36kr.com/p/3752115857638145?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "Tailscale 推出 macOS 窗口化界面：解决刘海屏菜单栏图标“消失”难题",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "3月27日，Tailscale正式发布macOS窗口化界面，优雅解决了自2021年MacBook Pro引入刘海屏以来困扰用户的菜单栏图标\"隐形\"问题。这一更新不仅是交互设计的优化，更代表了网络工具从\"系统后台\"向\"独立工作区\"演进的产品思路转变。 刘海屏MacBook的独特设计给开发者带来了意想不到的挑战。当菜单栏图标过多时，超出刘海右侧空...",
-      "link": "https://www.oschina.net/news/417344",
-      "category": "AI News"
-    },
-    {
-      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "source": "36氪",
-      "published": "2026-04-03",
-      "summary": "作者｜黄楠编辑｜袁斯来神州数码（000034.SZ）2025年全年业绩报告近日发布。财报显示，公司全年实现营业收入1438亿元，同比增长12%，营收规模连续三年稳步攀升。其中，AI相关业务成为核心增长引擎，全年收入达330亿元，同比增长了48%，正式迈入规模化落地期，成为与传统分销业务并重的当期增长极。具体到业务板块，高价值战略业务呈现爆发式增长。以神州问学为核心的AI软件及服务业务营收1.1亿元，同比增长了165.4%，企业级Agent中台进入商业化变现阶段；数云服务及软件业务营收35.6亿元，同比增长22%；自有品牌神州鲲泰算力产品营收同比增长62.4%达到74.4亿元，成为AI基础设施核",
-      "link": "https://36kr.com/p/3751046517129735?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "元气森林2044创造营背后：创新要年轻，研发要更重 | 最前线",
-      "source": "36氪",
-      "published": "2026-04-03",
-      "summary": "作者 | 钟艺璇3月30日，第二届“元气森林创造营2044”活动在咸宁举行。活动现场，十余位年轻的产品经理带着多款元气森林家族新产品上台亮相，分享了各自打造新品的初心与研发历程。“创造营2044”萌芽于2024年元气森林经销商大会上“20年后再相会”的承诺，是元气森林给年轻人舞台，用长期主义回报用户信任的具体实践。开幕式发言时，元气森林创始人唐彬森提到，元气森林许多产品，一开始都来源于产品经理简单的想法。“世界上很多伟大的东西，开始的时候并没有外界想象的那么伟大，一开始时候只是一些简单粗糙的想法。创造营2044不是发布会，而是一场记录会，就是希望记录这些最开始的简单纯粹。记录初心、记录简单，记",
-      "link": "https://36kr.com/p/3749467949482759?f=rss",
       "category": "AI News"
     }
   ]
