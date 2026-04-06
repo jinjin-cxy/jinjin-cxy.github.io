@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T12:30:37.141665+00:00",
+  "updated": "2026-04-06T01:16:10.625120+00:00",
   "articles": [
     {
       "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
@@ -42,6 +42,22 @@
       "category": "AI News"
     },
     {
+      "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
+      "source": "InfoQ 中文",
+      "published": "2026-04-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
+      "source": "InfoQ 中文",
+      "published": "2026-04-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
       "title": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
       "source": "InfoQ 中文",
       "published": "2026-04-05",
@@ -55,6 +71,14 @@
       "published": "2026-04-05",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "免费甘特图星甘 StarGantt 假期不打烊！推出小时模式、优化微信登录，AI 生成更稳定",
+      "source": "开源中国",
+      "published": "2026-04-05",
+      "summary": "清明假期期间，星甘团队围绕几个非常实际的使用场景持续优化：排期到小时维度、登录要更顺、AI生成要更稳。如果你正在找一款既能做项目排期、又能兼顾协作与效率的免费甘特图工具，这一轮更新值得重点看看。 1. 甘特图支持小时视图：更适合细颗粒度排期 除了默认视图、月视图、季度视图之外，星甘StarGantt最近新增了小时...",
+      "link": "https://www.oschina.net/news/417819",
       "category": "AI News"
     },
     {
@@ -98,22 +122,6 @@
       "category": "AI News"
     },
     {
-      "title": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
-      "source": "InfoQ 中文",
-      "published": "2026-04-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-04-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "微语 1.8.0 发布 - 开源智能客服",
       "source": "开源中国",
       "published": "2026-04-04",
@@ -135,14 +143,6 @@
       "published": "2026-04-03",
       "summary": "3月27日，Tailscale正式发布macOS窗口化界面，优雅解决了自2021年MacBook Pro引入刘海屏以来困扰用户的菜单栏图标\"隐形\"问题。这一更新不仅是交互设计的优化，更代表了网络工具从\"系统后台\"向\"独立工作区\"演进的产品思路转变。 刘海屏MacBook的独特设计给开发者带来了意想不到的挑战。当菜单栏图标过多时，超出刘海右侧空...",
       "link": "https://www.oschina.net/news/417344",
-      "category": "AI News"
-    },
-    {
-      "title": "智能路由如何实现 90% 成本下降？",
-      "source": "开源中国",
-      "published": "2026-04-03",
-      "summary": "一、背景 随着大模型数量爆炸式增长，开发者面临一个经典问题：如何为每个任务选择最便宜且效果足够的模型？ 手动选择不可扩展，而简单规则（如“简单任务走小模型”）无法适应复杂多变的用户请求。 2025年，学术界和工业界开始系统研究LLM智能路由。其中，论文《Cost-Effective LLM Routing with Reinforcement Learnin...",
-      "link": "https://www.oschina.net/news/417325",
       "category": "AI News"
     },
     {
