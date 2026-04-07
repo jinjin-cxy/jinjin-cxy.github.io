@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-07T01:14:22.571890+00:00",
+  "updated": "2026-04-07T12:53:27.341851+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 13,
+    "github_trending": 9,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -52,15 +52,11 @@
   ],
   "top_languages": [
     {
-      "language": "TypeScript",
-      "count": 5
-    },
-    {
-      "language": "C++",
-      "count": 2
-    },
-    {
       "language": "Python",
+      "count": 4
+    },
+    {
+      "language": "TypeScript",
       "count": 2
     },
     {
@@ -68,7 +64,7 @@
       "count": 1
     },
     {
-      "language": "Swift",
+      "language": "C++",
       "count": 1
     }
   ]

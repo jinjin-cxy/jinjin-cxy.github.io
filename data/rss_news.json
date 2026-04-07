@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-07T01:14:22.568461+00:00",
+  "updated": "2026-04-07T12:53:27.339257+00:00",
   "articles": [
     {
-      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
       "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "独创“诊断-生成-校准”闭环体系",
-      "link": "https://www.qbitai.com/2026/04/396863.html",
+      "published": "2026-04-07",
+      "summary": "榜一大哥平均每天用掉93.6亿Token",
+      "link": "https://www.qbitai.com/2026/04/397610.html",
       "category": "AI News"
     },
     {
-      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+      "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
       "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "即插即用无需重新训练",
-      "link": "https://www.qbitai.com/2026/04/396841.html",
+      "published": "2026-04-07",
+      "summary": "首个系统性AI情绪回路研究",
+      "link": "https://www.qbitai.com/2026/04/397576.html",
       "category": "AI News"
     },
     {
-      "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
+      "title": "哈萨比斯传记里讲了好多八卦啊",
       "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "核心思路：从画大纲到扣细节",
-      "link": "https://www.qbitai.com/2026/04/396738.html",
+      "published": "2026-04-07",
+      "summary": "没想到，你是这样的哈萨比斯！",
+      "link": "https://www.qbitai.com/2026/04/397553.html",
       "category": "AI News"
     },
     {
-      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
       "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "网友：感觉他们今年不可能上市了",
-      "link": "https://www.qbitai.com/2026/04/396704.html",
+      "published": "2026-04-07",
+      "summary": "首次披露智能驾驶收入",
+      "link": "https://www.qbitai.com/2026/04/397523.html",
       "category": "AI News"
     },
     {
-      "title": "具身Scaling Law押对了！独角兽新品1小时学会新任务，重复1800次成功率99%",
+      "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
       "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "机器人模型卷出新高度",
-      "link": "https://www.qbitai.com/2026/04/396694.html",
+      "published": "2026-04-07",
+      "summary": "修图师正在从“操作者”变成“管理者”，从“技术执行者”变成“创意决策者”。",
+      "link": "https://www.qbitai.com/2026/04/397517.html",
       "category": "AI News"
     },
     {
-      "title": "自动驾驶优化：从复杂性到实时工程",
+      "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
       "source": "InfoQ 中文",
-      "published": "2026-04-06",
+      "published": "2026-04-07",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "AI 时代的架构治理",
+      "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
       "source": "InfoQ 中文",
-      "published": "2026-04-06",
+      "published": "2026-04-07",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "有道龙虾 LobsterAI 的养成与实践｜QCon北京",
+      "title": "从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京",
       "source": "InfoQ 中文",
-      "published": "2026-04-06",
+      "published": "2026-04-07",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Notepad-- v3.7.1 已经发布，文本编辑器",
+      "title": "ProxySQL推出多层的版本发布策略",
+      "source": "InfoQ 中文",
+      "published": "2026-04-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "2026龙虾饲养手册：21套“养虾”方案横评，从个人到企业怎么选",
+      "source": "InfoQ 中文",
+      "published": "2026-04-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ePtWEQZ7vkpqTjOlsMHU?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: Spring-AI 与 Solon-AI 深度对比分析报告",
       "source": "开源中国",
-      "published": "2026-04-06",
-      "summary": "Notepad-- v3.7.1 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.7.1-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.7.1-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 MacOS 版本 Notepad--v3.7.1-mac_arm64_12.3.dmg 是macos 12.x ...",
-      "link": "https://www.oschina.net/news/417923",
+      "published": "2026-04-07",
+      "summary": "一、框架概述 1.1 共同点概述 Spring AI 与 Solon AI 都是面向 Java 开发者的 AI 应用开发框架，旨在简化大语言模型（LLM）在企业级应用中的集成与开发。尽管两者在设计理念、生态定位和实现细节上有所不同，但它们在核心目标和能力上具有显著的共性： 统一模型接口：两者都提供了统一的 LLM 调用接口，屏蔽底层不同模型...",
+      "link": "https://www.oschina.net/news/418355",
       "category": "AI News"
     },
     {
-      "title": "【Ease UI】2026-04-06 组件更新：新增组件 xly-json-viewer json 查看器组件",
+      "title": "字节跳动开源 Scale-SWE 数据集",
       "source": "开源中国",
-      "published": "2026-04-06",
-      "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
-      "link": "https://www.oschina.net/news/417899",
+      "published": "2026-04-07",
+      "summary": "中国人民大学高瓴人工智能学院与字节跳动技术团队合作近日完成相关研究，发布 Scale-SWE 数据集。研究团队依托火山引擎的 Sandbox 基建，通过 Sandboxed multi-agent 系统，成功实现 SWE 任务的规模化拓展，构建起包含 100k 真实数据、目前规模最大的开源高质量 SWE 数据集。 基于该数据集蒸馏数据所训练的 Qwen3-30A3B-...",
+      "link": "https://www.oschina.net/news/418336",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
+      "title": "Stellarium v​​26.1 发布",
+      "source": "开源中国",
+      "published": "2026-04-07",
+      "summary": "Stellarium 26.1 已发布。Stellarium 是一款免费开源 GPL（自由软件基金会 GNU 通用公共许可证）软件，它使用 OpenGL 图形接口对星空进行实时渲染。软件可以模拟肉眼、双筒望远镜和小型天文等观察天空，根据观测者所处时间和位置，计算出天空中太阳、月球、行星等天体位置，并将其精确地显示出来。还可以绘制星座、演示天...",
+      "link": "https://www.oschina.net/news/418320/stellarium-26-1-released",
+      "category": "AI News"
+    },
+    {
+      "title": "一群虾协作，比一只虾强！Clawith：建立一个龙虾团队",
+      "source": "开源中国",
+      "published": "2026-04-07",
+      "summary": "如果你在搭企业内部的 AI 工作流、研究多 Agent 架构、或者只是对 “一群虾协作” 这件事感到好奇 —— 都值得来看一眼。",
+      "link": "https://my.oschina.net/u/4487475/blog/19530107",
+      "category": "AI News"
+    },
+    {
+      "title": "基于 Cursor Agent 的流水线 AI CR 实践",
+      "source": "开源中国",
+      "published": "2026-04-07",
+      "summary": "在实际迭代开发中，不同需求的代码规模差异很大，有些需求涉及上千行代码，有些则只有一两行。且对于前端的代码验收，主要侧重在界面功能，通过功能验收，没法确保每一行代码都测试到的，以及功能的代码逻辑是否合理，是否健壮、是否规范等问题，都需要通过人工代码 CR 来进一步兜底验收代码的质量，尽量降低业务线上出错...",
+      "link": "https://my.oschina.net/u/5783135/blog/19528418",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
       "source": "36氪",
-      "published": "2026-04-06",
-      "summary": "今日热点导览曹操墓前摆满布洛芬，景区工作人员回应胖东来再回应“鸡蛋被检出角黄素”张雪机车创始人深夜回应“一个子儿都没有”言论2026清明档电影票房已破2.8亿元沙特：将原油升水上调至纪录高位TOP 3大新闻白宫回应特朗普病重住院当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表示美国总统特朗普近日在社交媒体上的帖子是他人代发，并直指“特朗普的健康状况令人担忧”。“他现在在沃尔特·里德医疗中心，可能离世只有几分钟了。”白宫通讯主任史蒂文·张发帖辟谣：在这个复活节周末，总统特朗普一直在白宫和椭圆形办公室马不停蹄地工作。白宫也通过其官方账号“快速",
-      "link": "https://36kr.com/p/3755994793280000?f=rss",
+      "published": "2026-04-07",
+      "summary": "大公司：产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报）名创优品：预计2026年底将开设200家“乐园系”门店36氪获悉，截至4月7日，名创优品已在全球落地65家“乐园系”门店，涵盖MINISO SPACE、MINISO FRIENDS、MINISO LAND、SUPER MINISO",
+      "link": "https://36kr.com/p/3756523983536905?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 荣耀与京东签订战略合作协议 推进AI、机器人、C2M共创合作",
+      "title": "阿迪达斯不需要下一个Samba",
       "source": "36氪",
-      "published": "2026-04-06",
-      "summary": "4月2日，荣耀与京东签订战略合作协议，正式建立全方位战略合作伙伴关系，双方将围绕产品共创、用户共营、生态共享三大核心领域，构建全面覆盖、深度融合、价值共生的新型合作体系，致力于实现三年累计规模超1000亿元的全领域合作目标。官方图片产品共创方面，荣耀与京东将围绕手机、全场景、AIoT、机器人等各领域产品的全生命周期进行深度协作。双方将推进战略新品首发合作，共同打造行业爆品，基于各自优势，联合开展IP与C2M定制项目，推动行业级创新。双方将针对外卖骑手、快递员、游戏玩家等特定用户人群进行产品共创，将荣耀的软硬件定制能力与京东的用户洞察有机结合，打造更多基于场景的产品亮点，同时，双方将协同进行产品",
-      "link": "https://36kr.com/p/3755161993675523?f=rss",
+      "published": "2026-04-07",
+      "summary": "文｜贺哲馨编辑｜乔芊天刚擦黑，上海新天地一处老校舍的灯就亮了，人群随着光涌进来。曾经是教室的空间被布置成不同的主题：陈列着《足球周刊》、挂满复古球衣或者摆着摊位。人群在楼上楼下反复流动，像在逛一个临时拼起来的跳蚤市场，而不是一场发布会。但它确实是一场发布会。主角是阿迪达斯最新发布的世界杯国家队客场球衣——时隔36年，这些球衣的右襟上再次换回了三叶草标识，这确实让它们显得更时尚了。随后的秀场里，这些球衣被出色的设计师和搭配达人们带进日常穿搭的语境中，离“上街”只差了一步。Superstar也被放在了更靠前的位置。从楼梯墙面上Blackpink成员之一Jennie的海报，到小红书时尚博主的上脚示范",
+      "link": "https://36kr.com/p/3745098994876420?f=rss",
       "category": "AI News"
     },
     {
-      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
       "source": "36氪",
-      "published": "2026-04-06",
-      "summary": "作者 | 张子怡编辑 | 袁斯来AI硬件赛道，似乎一夜之间跨入新世界。上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。此前更多在极客圈子里风行的Agent Box忽然被推到前台。简单说，Agent Box就是⼀台面向个人用户的AI专用设备，其存在的唯⼀目的是在本地运行大模型和自主代理。市面上已经有数家推出Agent Box的公司，包括Pamir、Violo",
-      "link": "https://36kr.com/p/3754812277998083?f=rss",
+      "published": "2026-04-07",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，兴荣新源（厦门）科技有限公司（以下简称“兴荣新源”）近日完成了数千万元天使轮融资，由蓝图创投和厦门高新投共同投资，融资资金将主要用于研发投入及扩大产能。兴荣新源成立于2022年，总部位于厦门市，致力于钠离子电池正极材料的研发、生产和销售，公司围绕复合磷酸铁钠（NFPP）技术路线，构建了系统化的材料设计与工艺能力。兴荣新源的技术优势主要体现在材料设计与工艺创新上，公司采用独有的复合碳包覆技术，显著提升了NFPP材料的电子导电性；通过配方体系优化与精细化工艺控制，抑制了杂相生成，进一步提升了材料的结构纯度与一致性；通过纳米级颗粒设计并引入级配理论，充分释放",
+      "link": "https://36kr.com/p/3756486340199170?f=rss",
       "category": "AI News"
     },
     {
-      "title": "[EN] Announcing the OpenAI Safety Fellowship",
-      "source": "OpenAI Blog",
-      "published": "2026-04-06",
-      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
+      "source": "36氪",
+      "published": "2026-04-07",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来当下市面上的AI陪伴玩具大多围绕儿童与老年人设计，而Blinkko则从一开始就将目标人群指向年轻人。相比通过语言交流建立陪伴关系，创始人沈彤欣却告诉硬氪：“我们不相信AI真的能陪伴人。”基于这样的判断，这个获得奇绩创坛投资的早期团队，做出了一只“趴在肩上的宠物”。如果只把它当作一个AI陪伴玩具，这个项目很容易被误解——它的核心不在于填补独处时的空白，而在于成为一种可以被带入真实场景的“社交信号”。这一尝试来自一个年轻团队：创始人沈彤欣曾在苹果负责员工体验，擅长通过设计连接人与场景；硬件负责人曾就读于哈佛设计研究学院，专注人机交互领域；软件负责人毕业于加州大学伯克",
+      "link": "https://36kr.com/p/3756484693967619?f=rss",
       "category": "AI News"
     },
     {
-      "title": "[EN] Industrial policy for the Intelligence Age",
-      "source": "OpenAI Blog",
-      "published": "2026-04-06",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "category": "AI News"
-    },
-    {
-      "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
-      "source": "InfoQ 中文",
-      "published": "2026-04-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
-      "source": "InfoQ 中文",
-      "published": "2026-04-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "XXL-JOB v3.4.0 发布 | OpenClaw 集成、合并调度、健壮性及体验增强",
-      "source": "开源中国",
-      "published": "2026-04-05",
-      "summary": "Release Notes 1、【新增】集成OpenClaw: AI执行器新增“openClawJobHandler”内置任务，与OpenClaw集成打通，支持快速开发AI类任务； 2、【增强】任务合并调度：任务调度后批量合并更新，高频调度场景可百倍降低SQL操作合并执行，提升调度性能； （任务调度后批量合并更新配置：“xxl.job.schedule.batchsize”） 3、【...",
-      "link": "https://www.oschina.net/news/417857",
-      "category": "AI News"
-    },
-    {
-      "title": "免费甘特图星甘 StarGantt 假期不打烊！推出小时模式、优化微信登录，AI 生成更稳定",
-      "source": "开源中国",
-      "published": "2026-04-05",
-      "summary": "清明假期期间，星甘团队围绕几个非常实际的使用场景持续优化：排期到小时维度、登录要更顺、AI生成要更稳。如果你正在找一款既能做项目排期、又能兼顾协作与效率的免费甘特图工具，这一轮更新值得重点看看。 1. 甘特图支持小时视图：更适合细颗粒度排期 除了默认视图、月视图、季度视图之外，星甘StarGantt最近新增了小时...",
-      "link": "https://www.oschina.net/news/417819",
-      "category": "AI News"
-    },
-    {
-      "title": "DockMaster Pro v1.0.0 正式发布",
-      "source": "开源中国",
-      "published": "2026-04-05",
-      "summary": "大家好，DockMaster Pro 今天正式发布首个版本 v1.0.0。 DockMaster Pro 是一款 macOS Dock 栏增强工具，致力于将原生 Dock 从「应用启动器」升级为「生产力中枢」。如果你觉得 macOS 原生 Dock 的功能过于单一，缺乏个性化空间，DockMaster Pro 正是为此而生。 主题引擎 v1.0.0 内置完整的主题系统，提供多套开箱即用的...",
-      "link": "https://www.oschina.net/news/417769",
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "source": "36氪",
+      "published": "2026-04-07",
+      "summary": "36氪获悉，企业级AI解决方案供应商「红熊AI」已于近日完成 2.1亿元A轮融资，投后估值超15亿元。本轮由华禹创投领投，老股东格睿丰投资、稼沃资本跟投，徐汇资本、上汽美元基金、嘉铭浩春、誉华资产等多家机构参与投资，三位创始团队成员也以本轮估值跟投约3000万元。这已是华禹创投连续第四轮押注红熊AI。成立于2024年4月7日的红熊AI，主打“记忆科学+全模态大模型”技术路线，致力于让 AI 具备类似人类的\"情节记忆\"能力，从而在物理世界实现更精准的感知、决策与行动。创始人兼CEO温德亮向 36 氪透露红熊AI预计于2027年2-3季度向港交所递表、2028年正式启动上市。从“产品思维”到“技术",
+      "link": "https://36kr.com/p/3750675963904513?f=rss",
       "category": "AI News"
     }
   ]
