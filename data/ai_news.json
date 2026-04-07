@@ -1,6 +1,22 @@
 {
-  "updated": "2026-04-06T12:42:46.617201+00:00",
+  "updated": "2026-04-07T01:14:22.568461+00:00",
   "articles": [
+    {
+      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "独创“诊断-生成-校准”闭环体系",
+      "link": "https://www.qbitai.com/2026/04/396863.html",
+      "category": "AI News"
+    },
+    {
+      "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+      "source": "量子位",
+      "published": "2026-04-06",
+      "summary": "即插即用无需重新训练",
+      "link": "https://www.qbitai.com/2026/04/396841.html",
+      "category": "AI News"
+    },
     {
       "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
       "source": "量子位",
@@ -23,14 +39,6 @@
       "published": "2026-04-06",
       "summary": "机器人模型卷出新高度",
       "link": "https://www.qbitai.com/2026/04/396694.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI创业，已经没有“出海”这个词了丨量子位沙龙",
-      "source": "量子位",
-      "published": "2026-04-06",
-      "summary": "你的AI产品，从Day0起就应具备“全球原生基因”",
-      "link": "https://www.qbitai.com/2026/04/396675.html",
       "category": "AI News"
     },
     {
@@ -61,7 +69,7 @@
       "title": "Notepad-- v3.7.1 已经发布，文本编辑器",
       "source": "开源中国",
       "published": "2026-04-06",
-      "summary": "Notepad-- v3.7.1 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.7.1-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.7.1-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 历史版本汇总在百度网盘： https://pan.baidu.com/s/5MpFGSKtiH...",
+      "summary": "Notepad-- v3.7.1 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.7.1-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.7.1-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 MacOS 版本 Notepad--v3.7.1-mac_arm64_12.3.dmg 是macos 12.x ...",
       "link": "https://www.oschina.net/news/417923",
       "category": "AI News"
     },
@@ -71,6 +79,14 @@
       "published": "2026-04-06",
       "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
       "link": "https://www.oschina.net/news/417899",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
+      "source": "36氪",
+      "published": "2026-04-06",
+      "summary": "今日热点导览曹操墓前摆满布洛芬，景区工作人员回应胖东来再回应“鸡蛋被检出角黄素”张雪机车创始人深夜回应“一个子儿都没有”言论2026清明档电影票房已破2.8亿元沙特：将原油升水上调至纪录高位TOP 3大新闻白宫回应特朗普病重住院当地时间4月4日，一则关于特朗普病重住院的消息迅速引爆网络。美国前参议员沃克·米特在社交媒体X上发文，表示美国总统特朗普近日在社交媒体上的帖子是他人代发，并直指“特朗普的健康状况令人担忧”。“他现在在沃尔特·里德医疗中心，可能离世只有几分钟了。”白宫通讯主任史蒂文·张发帖辟谣：在这个复活节周末，总统特朗普一直在白宫和椭圆形办公室马不停蹄地工作。白宫也通过其官方账号“快速",
+      "link": "https://36kr.com/p/3755994793280000?f=rss",
       "category": "AI News"
     },
     {
@@ -90,19 +106,19 @@
       "category": "AI News"
     },
     {
+      "title": "[EN] Announcing the OpenAI Safety Fellowship",
+      "source": "OpenAI Blog",
+      "published": "2026-04-06",
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "category": "AI News"
+    },
+    {
       "title": "[EN] Industrial policy for the Intelligence Age",
       "source": "OpenAI Blog",
       "published": "2026-04-06",
       "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-      "source": "量子位",
-      "published": "2026-04-05",
-      "summary": "正面回应了和Anthropic的竞争",
-      "link": "https://www.qbitai.com/2026/04/396535.html",
       "category": "AI News"
     },
     {
@@ -143,22 +159,6 @@
       "published": "2026-04-05",
       "summary": "大家好，DockMaster Pro 今天正式发布首个版本 v1.0.0。 DockMaster Pro 是一款 macOS Dock 栏增强工具，致力于将原生 Dock 从「应用启动器」升级为「生产力中枢」。如果你觉得 macOS 原生 Dock 的功能过于单一，缺乏个性化空间，DockMaster Pro 正是为此而生。 主题引擎 v1.0.0 内置完整的主题系统，提供多套开箱即用的...",
       "link": "https://www.oschina.net/news/417769",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-      "source": "36氪",
-      "published": "2026-04-05",
-      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，矿石AI智能分选设备企业——北京霍里思特科技有限公司（下称“霍里思特”）已完成近2亿元C轮融资，由招商局资本领投，京国瑞、大兴产投、北创投、开源思创及初辉资本跟投。本轮资金将主要用于核心技术研发、全球化业务拓展及团队建设。霍里思特成立于2010年，是国内在全矿种（有色、黑色、非金属、放射性及煤矿）均有智能分选大量落地应用的设备供应商。公司核心团队源自清华大学精密仪器系国家重点实验室，创始人郭劲为清华精密仪器系硕士，曾任职GE医疗CT部门。公司在X射线光谱分析与AI智能识别算法领域有近二十年科研积累。硬氪获悉，传统选矿主要依赖人工手选或湿法工艺。人工手选面临年轻人",
-      "link": "https://36kr.com/p/3753526848897792?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
-      "source": "36氪",
-      "published": "2026-04-05",
-      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。AWOL Vision成立于2020年，长期专注RGB激光投影与家庭视听体验创新，并以深圳海高特科技有限公司作为其研发与设计中枢，为全球视听领域用户提供更具沉浸感的解决方案，重塑家庭娱乐体验。3月31日，AWOL Vision新款超短焦4K三色激光投影产品Aetherion在Ki",
-      "link": "https://36kr.com/p/3752260051616512?f=rss",
       "category": "AI News"
     }
   ]
