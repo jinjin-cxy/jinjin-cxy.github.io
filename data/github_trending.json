@@ -1,77 +1,93 @@
 {
-  "updated": "2026-04-08T01:14:58.003792+00:00",
+  "updated": "2026-04-08T12:52:44.136187+00:00",
   "repositories": [
-    {
-      "name": "google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": 18781,
-      "stars_today": 897,
-      "language": "Kotlin",
-      "link": "https://github.com/google-ai-edge/gallery"
-    },
-    {
-      "name": "google-ai-edge/LiteRT-LM",
-      "description": "",
-      "stars": 2542,
-      "stars_today": 528,
-      "language": "C++",
-      "link": "https://github.com/google-ai-edge/LiteRT-LM"
-    },
-    {
-      "name": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
-      "stars": 7951,
-      "stars_today": 662,
-      "language": "Python",
-      "link": "https://github.com/NVIDIA/personaplex"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 24515,
-      "stars_today": 1195,
-      "language": "TypeScript",
-      "link": "https://github.com/abhigyanpatwari/GitNexus"
-    },
-    {
-      "name": "tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "stars": 19555,
-      "stars_today": 859,
-      "language": "TypeScript",
-      "link": "https://github.com/tobi/qmd"
-    },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "",
-      "stars": 8062,
-      "stars_today": 51,
+      "stars": 8465,
+      "stars_today": 686,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+      "stars": 4236,
+      "stars_today": 645,
+      "language": "Python",
+      "link": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 19226,
+      "stars_today": 853,
+      "language": "Kotlin",
+      "link": "https://github.com/google-ai-edge/gallery"
+    },
+    {
+      "name": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "stars": 8245,
+      "stars_today": 589,
+      "language": "Python",
+      "link": "https://github.com/NVIDIA/personaplex"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "description": "",
+      "stars": 2812,
+      "stars_today": 500,
+      "language": "C++",
+      "link": "https://github.com/google-ai-edge/LiteRT-LM"
+    },
+    {
       "name": "elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
-      "stars": 10037,
-      "stars_today": 636,
+      "stars": 10293,
+      "stars_today": 572,
       "language": "Python",
       "link": "https://github.com/elebumm/RedditVideoMakerBot"
     },
     {
-      "name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": 12208,
-      "stars_today": 168,
-      "language": "Python",
-      "link": "https://github.com/HKUDS/DeepTutor"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 140677,
+      "stars_today": 1926,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "stars": 3896,
-      "stars_today": 215,
+      "name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "stars": 3918,
+      "stars_today": 67,
       "language": "Python",
-      "link": "https://github.com/TheCraigHewitt/seomachine"
+      "link": "https://github.com/newton-physics/newton"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
+      "stars": 25040,
+      "stars_today": 981,
+      "language": "TypeScript",
+      "link": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 50478,
+      "stars_today": 123,
+      "language": "Python",
+      "link": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "name": "goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+      "stars": 27977,
+      "stars_today": 23,
+      "language": "Go",
+      "link": "https://github.com/goharbor/harbor"
     }
   ]
 }
