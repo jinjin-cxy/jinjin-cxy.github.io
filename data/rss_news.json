@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-09T01:06:28.386801+00:00",
+  "updated": "2026-04-09T12:55:26.777982+00:00",
   "articles": [
     {
-      "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+      "source": "量子位",
+      "published": "2026-04-09",
+      "summary": "据传10号正式发布",
+      "link": "https://www.qbitai.com/2026/04/398157.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+      "source": "量子位",
+      "published": "2026-04-09",
+      "summary": "全球首个消费级AI Agent Harness冲上热搜",
+      "link": "https://www.qbitai.com/2026/04/398140.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
+      "source": "量子位",
+      "published": "2026-04-09",
+      "summary": "开源平替GitHub迅速揽获2.6k Star",
+      "link": "https://www.qbitai.com/2026/04/398121.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
+      "source": "量子位",
+      "published": "2026-04-09",
+      "summary": "可通过OpenClaw等Agent产品一键安装",
+      "link": "https://www.qbitai.com/2026/04/398117.html",
+      "category": "AI News"
+    },
+    {
+      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "source": "量子位",
+      "published": "2026-04-09",
+      "summary": "用上“记忆宫殿”，检索提升34%",
+      "link": "https://www.qbitai.com/2026/04/398090.html",
+      "category": "AI News"
+    },
+    {
+      "title": "聚焦AI，深耕智造丨2026 赋能开发者大会圆满举办！",
+      "source": "InfoQ 中文",
+      "published": "2026-04-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈",
+      "source": "InfoQ 中文",
+      "published": "2026-04-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%",
+      "source": "InfoQ 中文",
+      "published": "2026-04-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
+      "source": "InfoQ 中文",
+      "published": "2026-04-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "智算筑基，开源致远：开源中国亮相北京教装展，AI教育战略全面升级，打造贯通式人才培养计划",
+      "source": "开源中国",
+      "published": "2026-04-09",
+      "summary": "4月8日至10日，第35届北京教育装备展示会在北京展览馆举办。开源中国作为支持单位深度参与本届展会，旗下北京奥思研工智能科技有限公司同时承担“数智化赋能高等教育发展论坛”支持工作与“人工智能赋能教育创新实践论坛”承办工作。以此为契机，开源中国正式对外传递教育业务战略升级的明确信号——从工具与社区服务者，...",
+      "link": "https://www.oschina.net/news/419048",
+      "category": "AI News"
+    },
+    {
+      "title": "TimescaleDB 2.26.2 发布，基于 PostgreSQL 的时序数据库",
+      "source": "开源中国",
+      "published": "2026-04-09",
+      "summary": "TimescaleDB 是一个开源数据库，旨在使 SQL 可扩展到时间序列数据，基于 PostgreSQL 构建的，并打包为 PostgreSQL 扩展程序，提供跨时间和空间的自动分区，以及完整的 SQL 支持。 TimescaleDB 2.26.2 现已发布，此版本修复了自 2.26.1 版本以来存在的错误。官方建议尽快升级。 错误修复 #9460 修复EXPLAIN中直接压缩的 ...",
+      "link": "https://www.oschina.net/news/419047/timescaledb-2-26-2-released",
+      "category": "AI News"
+    },
+    {
+      "title": "Hermes Agent 与 OpenClaw：开源 AI 智能体的两种设计哲学",
+      "source": "开源中国",
+      "published": "2026-04-09",
+      "summary": "2026 年，开源 AI 智能体领域迎来了一场静悄悄的革命。当 OpenClaw 以 20 万+ GitHub Stars 的惊人速度席卷开发者社区时，Nous Research 推出的 Hermes Agent 正在用另一种方式重新定义\"智能体\"的含义——不是更强大的工具，而是会自我进化的数字同事。 两种截然不同的设计哲学 OpenClaw 诞生于 2025 年末，是一个基于 ...",
+      "link": "https://www.oschina.net/news/419024",
+      "category": "AI News"
+    },
+    {
+      "title": "从 OpenClaw 看 Agent 架构设计",
+      "source": "开源中国",
+      "published": "2026-04-09",
+      "summary": "本文通过对 OpenClaw，Claude Code 等主流 Agent 产品的设计进行分析，给出 Agent 架构设计的关键决策，分析各方案的利弊。",
+      "link": "https://my.oschina.net/vivotech/blog/19554828",
+      "category": "AI News"
+    },
+    {
+      "title": "字节推出原生全双工语音大模型 Seeduplex",
+      "source": "开源中国",
+      "published": "2026-04-09",
+      "summary": "字节跳动 Seed 宣布正式推出原生全双工语音大模型 Seeduplex。相比于上一代半双工豆包端到端语音模型，Seeduplex 基于“边听边说”的全新框架设计，交互体验的自然感、顺畅度大幅提升。 赋予模型更自然的对话节奏和更出色的抗干扰能力——不再是简单的一问一答，而是能在噪声与无关人声的干扰下精准响应，做到快慢有度、...",
+      "link": "https://www.oschina.net/news/419006",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
       "source": "36氪",
       "published": "2026-04-09",
-      "summary": "今日热点导览国资委成立境外国资工作局李飞飞出任阿里云CTOB站“按暂停弹出广告”功能将于4月10日上线多款印度原料药被暂停进口德勤：一季度香港新股集资1099亿港元，全球居首TOP3大新闻张雪机车LOGO被指抄袭，设计公司回应4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者注意到，张雪此前曾公开表示，张雪机车的整体设计花费约40万元，核心图形LOGO是“免费赠送”。据了解，张雪机车的LOGO由杭州巴顿品牌设计公司负责。该公司官网展示了张雪机车的LOGO设计思路，该公司的客户还包括香飘飘",
-      "link": "https://36kr.com/p/3758836635730432?f=rss",
+      "summary": "大公司：苏宁易采云升级“青云计划”，三年培育50个亿元级伙伴36氪获悉，4月9日，2026苏宁易采云合作伙伴大会在南京举办。会上宣布升级“青云计划”，提出新一轮三年发展目标：培育50个以上年交易规模过亿的合作伙伴，拓展采购单位至800万个，新增超1600家KA客户，年度订单量提升至1470万单，供应商签约数量增至4000家以上。该计划将全面推动政企采购的智能化与无人化转型。李佳琦回应“缺席”直播：没有退休4月8日，主播李佳琦在淘宝直播活动中表示，可能缺席两个季度的直播，引发外界对其暂停直播猜测。4月8日晚间，李佳琦在小红书回应称，此前演讲系口误，是缺席两个月，不是两个季度，“没有退休”。（第一",
+      "link": "https://36kr.com/p/3759461864424195?f=rss",
       "category": "AI News"
     },
     {
-      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
-      "source": "量子位",
-      "published": "2026-04-08",
-      "summary": "最新发布AI图表智能体，可深度编辑",
-      "link": "https://www.qbitai.com/2026/04/398001.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
-      "source": "量子位",
-      "published": "2026-04-08",
-      "summary": "2026年，是具身原生元年",
-      "link": "https://www.qbitai.com/2026/04/397951.html",
-      "category": "AI News"
-    },
-    {
-      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
-      "source": "量子位",
-      "published": "2026-04-08",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/397942.html",
-      "category": "AI News"
-    },
-    {
-      "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
-      "source": "量子位",
-      "published": "2026-04-08",
-      "summary": "理想首款人形机器人也要来了",
-      "link": "https://www.qbitai.com/2026/04/397930.html",
-      "category": "AI News"
-    },
-    {
-      "title": "SentiPulse携手人大高瓴：开源交互式3D数字人框架SentiAvatar，领跑行业主流模型",
-      "source": "量子位",
-      "published": "2026-04-08",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/397922.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
-      "source": "InfoQ 中文",
-      "published": "2026-04-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub 如何用 AI 重构反馈处理机制",
-      "source": "InfoQ 中文",
-      "published": "2026-04-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5SYq9w4s86yxTAuu0opy?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code史诗级负优化！大厂AI主管批思考深度暴跌，官方回应被开发者怼爆：菜成AI“玩具”",
-      "source": "InfoQ 中文",
-      "published": "2026-04-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/mqW0bszWH0fC8oBDcsax?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "组织规模扩大时，如何应对信任与心理安全感",
-      "source": "InfoQ 中文",
-      "published": "2026-04-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Ww70qxUXVsAsuJrstBBZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 那个“强到不敢发”的模型，终于来了！",
-      "source": "InfoQ 中文",
-      "published": "2026-04-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/2Sy6GlLvKgbPcwoCGDjx?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek 上线专家模式：产品首次引入分层设计，V4 模型传闻再起",
-      "source": "开源中国",
-      "published": "2026-04-08",
-      "summary": "DeepSeek 网页端迎来重要更新，在输入框上方新增「快速模式」与「专家模式」两项功能。这是 DeepSeek 自年初走红以来，首次在产品端引入模式分层设计。与此同时，带有图片图标的「视觉模型」功能也已开启灰度测试。 此次上线的两种模式在生成速度与任务处理范围上形成明显区分。快速模式侧重于日常对话与即时响应，适合处...",
-      "link": "https://www.oschina.net/news/418722",
-      "category": "AI News"
-    },
-    {
-      "title": "BitTorrent 创始人炮轰 Claude 团队：Vibe Coding 已走火入魔",
-      "source": "开源中国",
-      "published": "2026-04-08",
-      "summary": "BitTorrent协议创始人Bram Cohen近日发表文章，猛烈批评Anthropic公司Claude团队的开发方式，指出其过度追求\"Vibe Coding\"（氛围编程）理念，导致代码质量堪忧。此前Claude Code源代码泄露事件引发社区热议，Cohen认为这正是\"自产自用\"（Dogfooding）走火入魔的典型案例。 \"Vibe Coding\"是近期AI编程领域兴起的概念，指开...",
-      "link": "https://www.oschina.net/news/418700",
-      "category": "AI News"
-    },
-    {
-      "title": "Docker 29.4.0 发布",
-      "source": "开源中国",
-      "published": "2026-04-08",
-      "summary": "Docker 29.4.0 现已发布，具体更新内容如下： 错误修复和功能增强 docker cp：同时报告内容大小和传输大小。docker/cli#6800 修复了docker stats --all仍然显示已移除容器的问题。docker/cli#6863 修复了一个罕见的错误，该错误可能导致容器无法移除。moby/moby#51724 修复了特权容器在重启后丢失其显式 AppArmor 配置（...",
-      "link": "https://www.oschina.net/news/418681/docker-29-4-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Lumina 0.2.0 正式发布：Lumina.Froms 可 AOT 的 WinForms 平替方案重磅落地",
-      "source": "开源中国",
-      "published": "2026-04-08",
-      "summary": "Lumina 0.2.0版本正式发布，该版本依托C# Native AOT技术深度优化，核心聚焦两大核心方向——简洁高效的DWM特效开启，以及可平替WinForms、支持Native AOT编译、程序体积仅2MB左右的Lumina.Forms组件包，零.NET运行时依赖，为Windows桌面开发与美化提供全新选择。 一、特效开启：简洁高效，一键解锁桌面视觉新体验 Lumi...",
-      "link": "https://www.oschina.net/news/418663/lumina-0-2-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 对 IT 行业的真实冲击：不是狼来了，是狼已经在门口了",
-      "source": "开源中国",
-      "published": "2026-04-08",
-      "summary": "JeecgBoot AI 专题观察 | 一个深度使用 AI 编程半年的开发者，聊聊这个行业正在发生什么、程序员该怎么办 从手写汇编到高级语言，从高级语言到框架，从框架到低代码 —— 每一次技术跃迁，都有人说程序员要失业了。结果呢？需求膨胀得更快，程序员反而更多了。这次 AI 的冲击比以往任何一次都大，但底层逻辑相似 —— 变...",
-      "link": "https://www.oschina.net/news/418661",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
+      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
       "source": "36氪",
-      "published": "2026-04-08",
-      "summary": "大公司：三星电子中国业务陷重组传闻，重心转向半导体4月8日，有消息称，三星电子中国战略将进行调整，未来可能只保留手机和存储业务，重心转向存储等半导体业务。此外，三星电子在中国的家电业务不断收缩，今年下半年有可能变为代理制。截至发稿前，三星官方并未对上述消息做出正式回应。（第一财经）星巴克中国发布“千店千面”战略36氪获悉，星巴克中国今日宣布，星巴克全球与博裕投资的战略合作已启动，并发布“千店千面”战略，聚焦五大举措，包括：专业咖啡首选、高品质产品创新、场景化门店拓展、伙伴打造“一店一社区”、AI助力人文联结。上海迪士尼乐园自开园以来已累计接待游客超一亿人次中国国际经济交流中心4月8日发布的最新",
-      "link": "https://36kr.com/p/3756524566610437?f=rss",
+      "published": "2026-04-09",
+      "summary": "作者｜任彩茹编辑｜乔芊并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“Token”，浏览器一定不是那个看起来“最性感”的形态，也很难与美团的核心业务紧密相融。GN06负责人刘炯认为，AI应用的做法可以有100种，而他想做的事情，是让浏览器帮技术“小白”把活干了，解放大家的时间。“大量的学生、知识工作者、自媒体，每天大部分时间都在电脑上，电脑上的时间大",
+      "link": "https://36kr.com/p/3759372854706953?f=rss",
       "category": "AI News"
     },
     {
-      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
+      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
       "source": "36氪",
-      "published": "2026-04-08",
-      "summary": "文｜彭倩编辑｜乔芊 杨轩4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年， Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH ）事业群，所有关联业务需要围绕 Token 进行商业化。组织变动也随之发生。据36氪了解，中国电商事业群 AI 业务的负责人张凯夫不再负责，承载 AI 业务的“智能搜推产品”事",
-      "link": "https://36kr.com/p/3748018292802309?f=rss",
+      "published": "2026-04-09",
+      "summary": "亦庄又“炸场”了。AI未来大会现场4月8日启幕的AI FUTURE北京亦庄AI未来大会上，一系列重磅消息密集释放，彻底点燃科技圈热度。这场为期两天的盛会，吸引了2000余位业内精英、34家头部企业参与。AI未来大会现场现场更有罗振宇、方汉等行业大佬现场分享洞见，成为亦庄AI实力的一次集中秀肌肉。AI未来大会现场在AIFUT北京亦庄AI未来大会上，全国首个聚焦AI超级个体的全周期服务站——北京经开区模数OPC（One Person Company）社区正式亮相。目前，模数OPC社区首期3000平方米创新空间已投用，未来计划在两年内培育1万名AI独立开发者和100家“超级个体”公司。AI未来大会现",
+      "link": "https://36kr.com/p/3759269095113219?f=rss",
       "category": "AI News"
     },
     {
-      "title": "我们寻找迎风而立的人｜2026年「36Under36」 征集开始",
+      "title": "OBSBOT寻影新品发布，在口袋直播摄像头中实现AI智能跟踪与4K画质｜最前线",
       "source": "36氪",
-      "published": "2026-04-08",
-      "summary": "出品｜36氪创投研究院文｜罗婧、杜梦如何形容2026的创投行业？「暗涌Waves」回望过去一年，试图找到最恰当的形容：当AI重新搭建产业底座，当硬科技成为底色，当全球化与本土创新彼此缠绕，我们已全然接受一级市场的新叙事、新世代。从肖弘2016年的一场黑客松，到2026年的蝴蝶效应，我们深知总有人挺立在创业前线；当一位位科学家从实验室走向量产前线，我们坚信总有人在开辟前路。这群人，有一个共同点：不被风口塑形，在湍流中站稳，用持续创造定义自己的形状。年轻，是他们的共性。每一位都用行动证明：真正的价值从来不在风口之上，而在长期坚持的土地里。提炼今年的创投圈：风已至，路在前。2026，年轻人被推上风口",
-      "link": "https://36kr.com/p/3757769438609920?f=rss",
+      "published": "2026-04-09",
+      "summary": "作者｜黄楠编辑｜袁斯来直播与视频会议已成为日常工作和生活的一部分，创作者对设备的需求也从“能拍就行”转向了“随时随地专业开播”。但当前市场上的常见方案各有短板：手机直播容易过热降频，且无法灵活多机位；传统网络摄像头画质一般、对焦慢、缺少智能跟踪；单反加采集卡虽然画质好，但整套设备笨重，还需要复杂的供电和推流设置，移动场景下很难即开即用。这个介于“专业画质”与“极致便携”之间的市场空白，正被越来越多设备厂商视为新的机会点。4月9日，全球智能影像品牌OBSBOT寻影最新产品寻影Tiny 3正式发布，一款仅重63g、搭载1/1.28英寸传感器并支持4K超清画质的AI直播摄像头。寻影的差异化路径一直非",
+      "link": "https://36kr.com/p/3759286934356744?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
+      "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
       "source": "36氪",
-      "published": "2026-04-08",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，苏州灵动佳芯科技有限公司（下称“灵动佳芯”）近期完成A轮融资，融资金额近亿元。本轮融资引入锦秋基金、中芯聚源、瑞丞投资、润璋创投等多家产业方与财务投资机构，慕石资本担任长期战略财务顾问。灵动佳芯成立于2021年，是一家基于压电材料与半导体技术开发传感器解决方案的企业，应用场景覆盖智能机器人、智能穿戴、新能源与锂电池等多个领域。创始核心团队均出身于国内电子科技大厂，拥有数十年管理、研发及量产经验。在业务路径上，公司自成立之初即采取“成熟业务+前沿技术”双线推进策略：一方面，通过成熟市场产品的规模化出货建立收入基础，扩充客户群体；另一方面，围绕新兴应用场景",
-      "link": "https://36kr.com/p/3757589543813893?f=rss",
+      "published": "2026-04-09",
+      "summary": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联网及科技领域的知名企业。该公司以 AR 眼镜作为入口，致力于为消费者提供下一代的 All-in-one 移动办公解决方案，核心产品为 Inair Pod。该设备搭",
+      "link": "https://36kr.com/p/3759045427937793?f=rss",
       "category": "AI News"
     }
   ]

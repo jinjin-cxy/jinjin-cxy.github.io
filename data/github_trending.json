@@ -1,93 +1,85 @@
 {
-  "updated": "2026-04-09T01:06:19.381492+00:00",
+  "updated": "2026-04-09T12:55:10.228121+00:00",
   "repositories": [
     {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 41896,
+      "stars_today": 5794,
+      "language": "Python",
+      "link": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
       "name": "forrestchang/andrej-karpathy-skills",
-      "description": "",
-      "stars": 9005,
-      "stars_today": 702,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 9828,
+      "stars_today": 1371,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "stars": 4587,
-      "stars_today": 649,
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 14187,
+      "stars_today": 1306,
       "language": "Python",
-      "link": "https://github.com/TheCraigHewitt/seomachine"
+      "link": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "name": "google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": 19507,
-      "stars_today": 853,
-      "language": "Kotlin",
-      "link": "https://github.com/google-ai-edge/gallery"
-    },
-    {
-      "name": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
-      "stars": 8416,
-      "stars_today": 586,
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 7344,
+      "stars_today": 460,
       "language": "Python",
-      "link": "https://github.com/NVIDIA/personaplex"
+      "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
-      "name": "google-ai-edge/LiteRT-LM",
-      "description": "",
-      "stars": 2989,
-      "stars_today": 501,
-      "language": "C++",
-      "link": "https://github.com/google-ai-edge/LiteRT-LM"
-    },
-    {
-      "name": "elebumm/RedditVideoMakerBot",
-      "description": "Create Reddit Videos with just✨ one command ✨",
-      "stars": 10487,
-      "stars_today": 555,
-      "language": "Python",
-      "link": "https://github.com/elebumm/RedditVideoMakerBot"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 13172,
+      "stars_today": 1012,
+      "language": "Java",
+      "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 141531,
-      "stars_today": 2028,
+      "stars": 142911,
+      "stars_today": 2318,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
-      "name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "stars": 4096,
-      "stars_today": 91,
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+      "stars": 4946,
+      "stars_today": 725,
       "language": "Python",
-      "link": "https://github.com/newton-physics/newton"
+      "link": "https://github.com/TheCraigHewitt/seomachine"
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 25306,
-      "stars_today": 980,
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "stars": 14093,
+      "stars_today": 138,
       "language": "TypeScript",
-      "link": "https://github.com/abhigyanpatwari/GitNexus"
+      "link": "https://github.com/coleam00/Archon"
     },
     {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 50685,
-      "stars_today": 151,
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 11892,
+      "stars_today": 223,
       "language": "Python",
-      "link": "https://github.com/virattt/ai-hedge-fund"
+      "link": "https://github.com/shiyu-coder/Kronos"
     },
     {
-      "name": "goharbor/harbor",
-      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-      "stars": 28122,
-      "stars_today": 42,
-      "language": "Go",
-      "link": "https://github.com/goharbor/harbor"
+      "name": "YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 6543,
+      "stars_today": 174,
+      "language": "TypeScript",
+      "link": "https://github.com/YishenTu/claudian"
     }
   ]
 }
