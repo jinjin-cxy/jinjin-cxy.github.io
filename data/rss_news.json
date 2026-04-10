@@ -1,6 +1,142 @@
 {
-  "updated": "2026-04-10T01:15:49.788028+00:00",
+  "updated": "2026-04-10T12:41:44.847466+00:00",
   "articles": [
+    {
+      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
+      "source": "量子位",
+      "published": "2026-04-10",
+      "summary": "面向医生和医学生开放使用",
+      "link": "https://www.qbitai.com/2026/04/399366.html",
+      "category": "AI News"
+    },
+    {
+      "title": "击败PI！星动纪元登顶具身奥林匹克，狂揽三项全球冠军",
+      "source": "量子位",
+      "published": "2026-04-10",
+      "summary": "技术的终极价值，在于实用",
+      "link": "https://www.qbitai.com/2026/04/399351.html",
+      "category": "AI News"
+    },
+    {
+      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
+      "source": "量子位",
+      "published": "2026-04-10",
+      "summary": "勇闯北京晚高峰，实测舒服又轻松",
+      "link": "https://www.qbitai.com/2026/04/398869.html",
+      "category": "AI News"
+    },
+    {
+      "title": "奔驰崩了，在华销量大跌27%",
+      "source": "量子位",
+      "published": "2026-04-10",
+      "summary": "年初降价原因找到了",
+      "link": "https://www.qbitai.com/2026/04/398823.html",
+      "category": "AI News"
+    },
+    {
+      "title": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+      "source": "量子位",
+      "published": "2026-04-10",
+      "summary": "开源模型，已经来到了中国时间",
+      "link": "https://www.qbitai.com/2026/04/398807.html",
+      "category": "AI News"
+    },
+    {
+      "title": "神秘模型屠榜多日、碾压Seedance 2.0！背后竟是阿里大招：新部门首作实锤，引爆股价拉升",
+      "source": "InfoQ 中文",
+      "published": "2026-04-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/H6Y6KmRbTKapOjYmTU63?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作",
+      "source": "InfoQ 中文",
+      "published": "2026-04-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+      "source": "InfoQ 中文",
+      "published": "2026-04-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "一眼辨出 Deepfake！蚂蚁集团AI鉴真技术登顶世界顶会",
+      "source": "InfoQ 中文",
+      "published": "2026-04-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ZItzV0JrkeLOfTqiH0M7?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开源信仰崩塌？Meta发布闭源巨兽，143亿美金重注AI赛道的野心",
+      "source": "InfoQ 中文",
+      "published": "2026-04-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/I71O7o2pufO4WFbpyTFT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开源中国完成 C+ 轮融资，冲刺“开源AI第一股”",
+      "source": "开源中国",
+      "published": "2026-04-10",
+      "summary": "4月10日，开源中国宣布完成数亿元C+轮融资，由上海国投先导基金领投，中国互联网投资基金、君联资本、联想创投、苏创投及贝克资本联合跟投。截至目前，开源中国累计融资规模已接近20亿元。 开源中国于2008年8月创立，是国内核心开源与AI基础设施服务商，目前团队超300人，总部在北京市，同时在深圳、广州、郑州设立了研发...",
+      "link": "https://www.oschina.net/news/419523",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: SolonCode CLI v2026.4.11 发布（编码智能体）",
+      "source": "开源中国",
+      "published": "2026-04-10",
+      "summary": "1、关于 SolonCode CLI（编程终端智能体） SolonCode CLI 是基于 Java + Solon AI 开发的 “编程终端智能体”。 常见问题：它和 Claude Code 有什么不同？ 功能上很相似，关键差异： 采用 Java 实现，100% 开源。 使用 “全中文” 提示词构建（英文不好的人，会很亲切）。 不绑定特定提供商。需要配置模型。模型迭代会缩...",
+      "link": "https://www.oschina.net/news/419514",
+      "category": "AI News"
+    },
+    {
+      "title": "DataFlow - 以数据为中心的 AI 系统",
+      "source": "开源中国",
+      "published": "2026-04-10",
+      "summary": "DataFlow 是一个高效完成高质量数据治理的系统，旨在对诸如 PDF 文档、纯文本、爬虫数据等低质量而嘈杂的数据进行 修正、扩增、评估与过滤（refine, generate, evaluate, filt） 以得到高质量的训练数据。这些数据可以通过预训练、有监督微调、强化学习训练提升大语言模型在通用领域（推理能力和检索能力）与特定领域（如...",
+      "link": "https://www.oschina.net/p/dataflow",
+      "category": "AI News"
+    },
+    {
+      "title": "AI，最终幻想",
+      "source": "开源中国",
+      "published": "2026-04-10",
+      "summary": "距离当前服务器 500 公里外，某处废墟里有一块 1980 年代德国产的精密钢片，因特定的晶体结构和氧化程度，能发出最纯净的中音 C。 ClaudeDot，一个挂在 macOS 菜单栏里的小圆点，当 Claude Code 在终端里默默运行时，这个小点会在菜单栏里呼吸，蓝色是等待，紫色是思考，黄色是工具调用中。除了颜色，它还配有音效，需要...",
+      "link": "https://www.oschina.net/news/419487/ai-future",
+      "category": "AI News"
+    },
+    {
+      "title": "PHP 8.5.5 发布",
+      "source": "开源中国",
+      "published": "2026-04-10",
+      "summary": "PHP 8.5.5 现已发布，这是一个漏洞修复版本。建议所有 PHP 8.5 用户升级到此版本。 Core： 修复了错误 GH-20672（局部 shadowed 特征属性的 property_info 大小不正确）。 修复了错误 GH-20875、GH-20873、GH-20854（在 get_property_ptr_ptr 中为 lazy 代理传播 IN_GET 保护）。 Bz2： 修复总输出大小截断导致的错误。 ...",
+      "link": "https://www.oschina.net/news/419485/php-8-5-5-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+      "source": "36氪",
+      "published": "2026-04-10",
+      "summary": "大公司：长安汽车：2025年净利润40.75亿元36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全体股东每10股派发现金红利1.15元（含税），不送红股，不以公积金转增股本。春秋航空：2025年净利润23.17亿元，同比增长1.96%36氪获悉，春秋航空公告，2025年实现营业收入214.6亿元，同比增长7.30%；归属于上市公司股东的净利润23.17亿元，上年同期22.73亿元，同比增长1.96%；基本每股收益2.3",
+      "link": "https://36kr.com/p/3760914298651400?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "可能我们都低估了《王者荣耀世界》",
+      "source": "36氪",
+      "published": "2026-04-10",
+      "summary": "今天，《王者荣耀世界》于PC端正式公测，并计划于4月内上线移动端。对于亿万王者玩家而言，等待多年的IP新作，终于揭开了面纱。《王者荣耀世界》PC端正式上线自2021年首曝以来，《王者荣耀世界》一直被认为是腾讯针对“内容为王”趋势打出的重要手牌。在彼时背景下的《王者荣耀世界》，曾被一部分人解读为又一款追逐风口、收割IP价值的产品——尤其是它所依托的，是腾讯旗下日均活跃用户超过1.39亿、稳居国内游戏榜首的《王者荣耀》。然而，真正上手体验过公测版本后，很多人可能会意识到：这款游戏试图回答的，并非“如何做一款流行的开放世界游戏”，而在于如何基于王者IP的故事框架，“构建一个可供玩家沉浸探索、共同冒险",
+      "link": "https://36kr.com/p/3760782917288705?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
       "source": "36氪",
@@ -18,147 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
-      "source": "量子位",
-      "published": "2026-04-09",
-      "summary": "据传10号正式发布",
-      "link": "https://www.qbitai.com/2026/04/398157.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
-      "source": "量子位",
-      "published": "2026-04-09",
-      "summary": "全球首个消费级AI Agent Harness冲上热搜",
-      "link": "https://www.qbitai.com/2026/04/398140.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
-      "source": "量子位",
-      "published": "2026-04-09",
-      "summary": "开源平替GitHub迅速揽获2.6k Star",
-      "link": "https://www.qbitai.com/2026/04/398121.html",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户",
-      "source": "量子位",
-      "published": "2026-04-09",
-      "summary": "可通过OpenClaw等Agent产品一键安装",
-      "link": "https://www.qbitai.com/2026/04/398117.html",
-      "category": "AI News"
-    },
-    {
-      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
-      "source": "量子位",
-      "published": "2026-04-09",
-      "summary": "用上“记忆宫殿”，检索提升34%",
-      "link": "https://www.qbitai.com/2026/04/398090.html",
-      "category": "AI News"
-    },
-    {
-      "title": "聚焦AI，深耕智造丨2026 赋能开发者大会圆满举办！",
-      "source": "InfoQ 中文",
-      "published": "2026-04-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UFSb4zOXu9IKc6lhXZdQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "高能研讨会｜Arm SME2 赋能端侧 AI：极致推理性能实践",
-      "source": "InfoQ 中文",
-      "published": "2026-04-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/gkS9sFcN0eMGxPyG0g41?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Spotify 2025 年度回顾：AI 规模化叙事背后的隐私博弈",
-      "source": "InfoQ 中文",
-      "published": "2026-04-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qfW0WobGro3ofIrVIRfO?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Pinterest 通过自动内存重试将 Spark 的 OOM 故障减少了 96%",
-      "source": "InfoQ 中文",
-      "published": "2026-04-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zIgDwX3KbGVGPsebIv76?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
-      "source": "InfoQ 中文",
-      "published": "2026-04-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "智算筑基，开源致远：开源中国亮相北京教装展，AI教育战略全面升级，打造贯通式人才培养计划",
-      "source": "开源中国",
-      "published": "2026-04-09",
-      "summary": "4月8日至10日，第35届北京教育装备展示会在北京展览馆举办。开源中国作为支持单位深度参与本届展会，旗下北京奥思研工智能科技有限公司同时承担“数智化赋能高等教育发展论坛”支持工作与“人工智能赋能教育创新实践论坛”承办工作。以此为契机，开源中国正式对外传递教育业务战略升级的明确信号——从工具与社区服务者，...",
-      "link": "https://www.oschina.net/news/419048",
-      "category": "AI News"
-    },
-    {
-      "title": "TimescaleDB 2.26.2 发布，基于 PostgreSQL 的时序数据库",
-      "source": "开源中国",
-      "published": "2026-04-09",
-      "summary": "TimescaleDB 是一个开源数据库，旨在使 SQL 可扩展到时间序列数据，基于 PostgreSQL 构建的，并打包为 PostgreSQL 扩展程序，提供跨时间和空间的自动分区，以及完整的 SQL 支持。 TimescaleDB 2.26.2 现已发布，此版本修复了自 2.26.1 版本以来存在的错误。官方建议尽快升级。 错误修复 #9460 修复EXPLAIN中直接压缩的 ...",
-      "link": "https://www.oschina.net/news/419047/timescaledb-2-26-2-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Hermes Agent 与 OpenClaw：开源 AI 智能体的两种设计哲学",
-      "source": "开源中国",
-      "published": "2026-04-09",
-      "summary": "2026 年，开源 AI 智能体领域迎来了一场静悄悄的革命。当 OpenClaw 以 20 万+ GitHub Stars 的惊人速度席卷开发者社区时，Nous Research 推出的 Hermes Agent 正在用另一种方式重新定义\"智能体\"的含义——不是更强大的工具，而是会自我进化的数字同事。 两种截然不同的设计哲学 OpenClaw 诞生于 2025 年末，是一个基于 ...",
-      "link": "https://www.oschina.net/news/419024",
-      "category": "AI News"
-    },
-    {
-      "title": "从 OpenClaw 看 Agent 架构设计",
-      "source": "开源中国",
-      "published": "2026-04-09",
-      "summary": "本文通过对 OpenClaw，Claude Code 等主流 Agent 产品的设计进行分析，给出 Agent 架构设计的关键决策，分析各方案的利弊。",
-      "link": "https://my.oschina.net/vivotech/blog/19554828",
-      "category": "AI News"
-    },
-    {
-      "title": "字节推出原生全双工语音大模型 Seeduplex",
-      "source": "开源中国",
-      "published": "2026-04-09",
-      "summary": "字节跳动 Seed 宣布正式推出原生全双工语音大模型 Seeduplex。相比于上一代半双工豆包端到端语音模型，Seeduplex 基于“边听边说”的全新框架设计，交互体验的自然感、顺畅度大幅提升。 赋予模型更自然的对话节奏和更出色的抗干扰能力——不再是简单的一问一答，而是能在噪声与无关人声的干扰下精准响应，做到快慢有度、...",
-      "link": "https://www.oschina.net/news/419006",
-      "category": "AI News"
-    },
-    {
       "title": "欣旺达装车特斯拉，供应全球车型｜36氪独家",
       "source": "36氪",
       "published": "2026-04-09",
       "summary": "特斯拉在中国的供应链布局还在扩大。36氪汽车从多位产业人士处获悉，欣旺达旗下专注动力电池业务的子公司——欣旺达动力，已进入特斯拉全球供应链，成为特斯拉全球第五家动力电池供应商。接触到项目的产业链人士透露，这款电池已从欣旺达浙江义乌工厂出货，搭载在特斯拉上海工厂销往海外的车型上，“已经出货有一阵子了。”至于这款电池何时搭载于国内车型，目前还无定论。“通常来说，特斯拉上新的零部件，会有小一年的观察期。”有电池行业人士向36氪分析，但是不排除其他决策因素。一直以来，特斯都在寻找宁德时代之外的第二家中国动力电池供应商，以探索降本空间。比亚迪曾向特斯拉欧洲工厂出货，但此后未有明确进展。欣旺达是在此之后，",
       "link": "https://36kr.com/p/3759598959969030?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜李佳琦回应“缺席”直播：没有退休；市场消息： 获高盛投资的 “GO” 打车应用计划今年在日本上市",
-      "source": "36氪",
-      "published": "2026-04-09",
-      "summary": "大公司：苏宁易采云升级“青云计划”，三年培育50个亿元级伙伴36氪获悉，4月9日，2026苏宁易采云合作伙伴大会在南京举办。会上宣布升级“青云计划”，提出新一轮三年发展目标：培育50个以上年交易规模过亿的合作伙伴，拓展采购单位至800万个，新增超1600家KA客户，年度订单量提升至1470万单，供应商签约数量增至4000家以上。该计划将全面推动政企采购的智能化与无人化转型。李佳琦回应“缺席”直播：没有退休4月8日，主播李佳琦在淘宝直播活动中表示，可能缺席两个季度的直播，引发外界对其暂停直播猜测。4月8日晚间，李佳琦在小红书回应称，此前演讲系口误，是缺席两个月，不是两个季度，“没有退休”。（第一",
-      "link": "https://36kr.com/p/3759461864424195?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
-      "source": "36氪",
-      "published": "2026-04-09",
-      "summary": "作者｜任彩茹编辑｜乔芊并入美团两年半，GN06（光年之外应团队并入美团后的名字）被赋予的使命始终是：在主营业务之外，找AI Native的增长点。今年3月，他们把这件事落到了一个具体的产品上——AI浏览器「Tabbit」正式进入公测。为什么是浏览器？大公司在AI领域争展锋芒，行业如今的热词是“虾”、“Agent”、“Token”，浏览器一定不是那个看起来“最性感”的形态，也很难与美团的核心业务紧密相融。GN06负责人刘炯认为，AI应用的做法可以有100种，而他想做的事情，是让浏览器帮技术“小白”把活干了，解放大家的时间。“大量的学生、知识工作者、自媒体，每天大部分时间都在电脑上，电脑上的时间大",
-      "link": "https://36kr.com/p/3759372854706953?f=rss",
       "category": "AI News"
     }
   ]

@@ -1,85 +1,101 @@
 {
-  "updated": "2026-04-10T01:15:39.637554+00:00",
+  "updated": "2026-04-10T12:41:33.852332+00:00",
   "repositories": [
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": 98022,
+      "stars_today": 2353,
+      "language": "Python",
+      "link": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "stars": 14848,
+      "stars_today": 756,
+      "language": "TypeScript",
+      "link": "https://github.com/coleam00/Archon"
+    },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 44522,
-      "stars_today": 6485,
+      "stars": 49353,
+      "stars_today": 7674,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
+      "name": "rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 11421,
+      "stars_today": 1187,
+      "language": "TypeScript",
+      "link": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 5176,
+      "stars_today": 1680,
+      "language": "TypeScript",
+      "link": "https://github.com/multica-ai/multica"
+    },
+    {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 10475,
-      "stars_today": 1364,
+      "stars": 11251,
+      "stars_today": 1454,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 12486,
+      "stars_today": 602,
+      "language": "Python",
+      "link": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
       "name": "HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": 14882,
-      "stars_today": 1310,
+      "stars": 15567,
+      "stars_today": 1426,
       "language": "Python",
       "link": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 7665,
-      "stars_today": 496,
-      "language": "Python",
-      "link": "https://github.com/OpenBMB/VoxCPM"
-    },
-    {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 13806,
-      "stars_today": 1124,
+      "stars": 14436,
+      "stars_today": 1309,
       "language": "Java",
       "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 143758,
-      "stars_today": 2299,
+      "stars": 144969,
+      "stars_today": 2150,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-      "stars": 5211,
-      "stars_today": 725,
-      "language": "Python",
-      "link": "https://github.com/TheCraigHewitt/seomachine"
+      "name": "jqlang/jq",
+      "description": "Command-line JSON processor",
+      "stars": 34146,
+      "stars_today": 48,
+      "language": "C",
+      "link": "https://github.com/jqlang/jq"
     },
     {
-      "name": "coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": 14426,
-      "stars_today": 185,
-      "language": "TypeScript",
-      "link": "https://github.com/coleam00/Archon"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 12187,
-      "stars_today": 245,
-      "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "name": "YishenTu/claudian",
-      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-      "stars": 6835,
-      "stars_today": 200,
-      "language": "TypeScript",
-      "link": "https://github.com/YishenTu/claudian"
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "stars": 35043,
+      "stars_today": 1248,
+      "language": "HTML",
+      "link": "https://github.com/shanraisshan/claude-code-best-practice"
     }
   ]
 }
