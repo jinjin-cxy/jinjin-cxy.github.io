@@ -1,107 +1,107 @@
 {
-  "updated": "2026-04-11T12:30:30.247013+00:00",
+  "updated": "2026-04-12T01:20:01.326368+00:00",
   "repositories": [
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 55649,
-      "stars_today": 6437,
+      "stars": 59032,
+      "stars_today": 6438,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 100995,
-      "stars_today": 3069,
+      "stars": 102241,
+      "stars_today": 3086,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": 16137,
-      "stars_today": 1339,
+      "stars": 16477,
+      "stars_today": 1346,
       "language": "TypeScript",
       "link": "https://github.com/coleam00/Archon"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 12300,
-      "stars_today": 1070,
+      "stars": 13633,
+      "stars_today": 1066,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 7094,
-      "stars_today": 1950,
+      "stars": 7938,
+      "stars_today": 1948,
       "language": "TypeScript",
       "link": "https://github.com/multica-ai/multica"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
-      "stars": 36489,
-      "stars_today": 1476,
+      "stars": 37082,
+      "stars_today": 1475,
       "language": "HTML",
       "link": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
-      "stars": 67604,
-      "stars_today": 472,
+      "stars": 67790,
+      "stars_today": 361,
       "language": "Roff",
       "link": "https://github.com/TapXWorld/ChinaTextbook"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 9325,
-      "stars_today": 953,
+      "stars": 9919,
+      "stars_today": 1084,
       "language": "Python",
       "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 13089,
-      "stars_today": 607,
+      "stars": 14280,
+      "stars_today": 595,
       "language": "Python",
       "link": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 15189,
-      "stars_today": 777,
+      "stars": 15621,
+      "stars_today": 775,
       "language": "Java",
       "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
       "name": "HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": 16375,
-      "stars_today": 836,
+      "stars": 16783,
+      "stars_today": 837,
       "language": "Python",
       "link": "https://github.com/HKUDS/DeepTutor"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 146501,
-      "stars_today": 1589,
+      "stars": 147176,
+      "stars_today": 1591,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "alexpate/awesome-design-systems",
       "description": "💅🏻 ⚒ A collection of awesome design systems",
-      "stars": 21357,
-      "stars_today": 1978,
+      "stars": 22402,
+      "stars_today": 2050,
       "language": "",
       "link": "https://github.com/alexpate/awesome-design-systems"
     }
