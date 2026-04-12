@@ -1,12 +1,68 @@
 {
-  "updated": "2026-04-12T01:20:10.824205+00:00",
+  "updated": "2026-04-12T12:34:30.608080+00:00",
   "articles": [
     {
-      "title": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
+      "source": "量子位",
+      "published": "2026-04-12",
+      "summary": "超声AI迈入大模型时代",
+      "link": "https://www.qbitai.com/2026/04/399975.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude复活30年前传奇游戏，仅用一个周末",
+      "source": "量子位",
+      "published": "2026-04-12",
+      "summary": "破解了作者的自定义语言",
+      "link": "https://www.qbitai.com/2026/04/399903.html",
+      "category": "AI News"
+    },
+    {
+      "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
+      "source": "量子位",
+      "published": "2026-04-12",
+      "summary": "可能是最有想象力的灵巧手公司之一",
+      "link": "https://www.qbitai.com/2026/04/399681.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
       "source": "InfoQ 中文",
       "published": "2026-04-12",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "首席工程师之路：培养领导力",
+      "source": "InfoQ 中文",
+      "published": "2026-04-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Aspire 13.2 正式发布，带来扩展版 CLI、预览版 TypeScript AppHost 及仪表盘改进",
+      "source": "InfoQ 中文",
+      "published": "2026-04-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gXDZZmbAobi5TfwKUxLH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "source": "InfoQ 中文",
+      "published": "2026-04-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "source": "InfoQ 中文",
+      "published": "2026-04-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -23,54 +79,6 @@
       "published": "2026-04-11",
       "summary": "所幸无人受伤",
       "link": "https://www.qbitai.com/2026/04/399473.html",
-      "category": "AI News"
-    },
-    {
-      "title": "中国具身模型狂揽全球第一！机器人的人类数据时代来了",
-      "source": "量子位",
-      "published": "2026-04-11",
-      "summary": "10万小时数据集，00后创业灵初智能一战成名",
-      "link": "https://www.qbitai.com/2026/04/399417.html",
-      "category": "AI News"
-    },
-    {
-      "title": "刘壮陈丹琦新作：开源通用视觉推理RL框架，0思考数据刷新SOTA",
-      "source": "量子位",
-      "published": "2026-04-11",
-      "summary": "广泛的数据是视觉推理强化学习Scaling的主要驱动力",
-      "link": "https://www.qbitai.com/2026/04/399393.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
-      "source": "InfoQ 中文",
-      "published": "2026-04-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub Actions 正式发布自定义 Runner 镜像",
-      "source": "InfoQ 中文",
-      "published": "2026-04-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MCP开发者峰会观察：网关、无状态请求与企业级落地路径",
-      "source": "InfoQ 中文",
-      "published": "2026-04-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/f4df9bE6zm1wy9pI1xKA?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
-      "source": "InfoQ 中文",
-      "published": "2026-04-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -111,14 +119,6 @@
       "published": "2026-04-11",
       "summary": "伊达母公司米连科技向港交所递交招股书作者 | 王涛编辑 | 吾人来源 | 融中财经又一个“红娘平台”要去IPO了。前不久，伊达母公司米连科技向港交所递交招股书，由华泰国际担任独家保荐人。这也是继去年9月米连首次递表失效后的第二轮冲刺。据悉，米连在海内外运营有多款在线情感社交平台。其中，2017年上线的伊对APP是米连科技的核心产品，更新后的招股书显示，其开创的主持人用户引导的三方互动，以及收入分成模式，在2025年共计为母公司带来了33.67亿元营收，占总营收比例约八成。与互联网企业常见的“赔本赚吆喝”的套路不同，米连的财报十分亮眼。招股书披露其在2025年全年营收41.22亿元，净利润5.1",
       "link": "https://36kr.com/p/3761856919093768?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "source": "量子位",
-      "published": "2026-04-10",
-      "summary": "以1334Elo评分高居榜首",
-      "link": "https://www.qbitai.com/2026/04/399370.html",
       "category": "AI News"
     },
     {
