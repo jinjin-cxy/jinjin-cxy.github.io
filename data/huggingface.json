@@ -1,12 +1,12 @@
 {
-  "updated": "2026-04-13T01:21:35.090306+00:00",
+  "updated": "2026-04-13T12:56:35.780250+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
-      "downloads": 15133638,
-      "likes": 1188,
+      "downloads": 15132434,
+      "likes": 1189,
       "tags": [
         "transformers",
         "safetensors",
@@ -21,8 +21,8 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 13621649,
-      "likes": 3192,
+      "downloads": 13743378,
+      "likes": 3194,
       "tags": [
         "transformers",
         "pytorch",
@@ -37,7 +37,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
-      "downloads": 12936213,
+      "downloads": 12901134,
       "likes": 1201,
       "tags": [
         "transformers",
@@ -53,7 +53,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
-      "downloads": 9915572,
+      "downloads": 9909829,
       "likes": 666,
       "tags": [
         "transformers",
@@ -69,8 +69,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
-      "downloads": 9266275,
-      "likes": 5681,
+      "downloads": 9281533,
+      "likes": 5684,
       "tags": [
         "transformers",
         "safetensors",
@@ -85,7 +85,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
-      "downloads": 8750507,
+      "downloads": 9112856,
       "likes": 439,
       "tags": [
         "transformers",
@@ -101,8 +101,8 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "author": "Qwen",
-      "downloads": 8161941,
-      "likes": 1037,
+      "downloads": 8132779,
+      "likes": 1038,
       "tags": [
         "transformers",
         "safetensors",
@@ -117,7 +117,7 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "author": "Qwen",
-      "downloads": 8077185,
+      "downloads": 8008172,
       "likes": 595,
       "tags": [
         "transformers",
@@ -133,7 +133,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "name": "Qwen3-1.7B",
       "author": "Qwen",
-      "downloads": 8067534,
+      "downloads": 7932028,
       "likes": 446,
       "tags": [
         "transformers",
@@ -149,8 +149,8 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "name": "Qwen3-4B-Instruct-2507",
       "author": "Qwen",
-      "downloads": 7239962,
-      "likes": 804,
+      "downloads": 7265970,
+      "likes": 805,
       "tags": [
         "transformers",
         "safetensors",
@@ -165,7 +165,7 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "author": "facebook",
-      "downloads": 6476982,
+      "downloads": 6497157,
       "likes": 242,
       "tags": [
         "transformers",
@@ -178,10 +178,26 @@
       "updated": ""
     },
     {
+      "id": "deepseek-ai/DeepSeek-V3.2",
+      "name": "DeepSeek-V3.2",
+      "author": "deepseek-ai",
+      "downloads": 6410111,
+      "likes": 1386,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v32",
+        "text-generation",
+        "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base"
+      ],
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
+      "updated": ""
+    },
+    {
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "author": "trl-internal-testing",
-      "downloads": 6423307,
+      "downloads": 6358156,
       "likes": 4,
       "tags": [
         "transformers",
@@ -197,8 +213,8 @@
       "id": "Qwen/Qwen3-Embedding-0.6B",
       "name": "Qwen3-Embedding-0.6B",
       "author": "Qwen",
-      "downloads": 6081757,
-      "likes": 976,
+      "downloads": 6074678,
+      "likes": 977,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -213,7 +229,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "author": "openai",
-      "downloads": 5952491,
+      "downloads": 6010268,
       "likes": 4529,
       "tags": [
         "transformers",
@@ -223,22 +239,6 @@
         "vllm"
       ],
       "link": "https://huggingface.co/openai/gpt-oss-20b",
-      "updated": ""
-    },
-    {
-      "id": "Qwen/Qwen2.5-0.5B-Instruct",
-      "name": "Qwen2.5-0.5B-Instruct",
-      "author": "Qwen",
-      "downloads": 5490575,
-      "likes": 495,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat"
-      ],
-      "link": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
       "updated": ""
     }
   ]

@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-13T01:21:49.736130+00:00",
+  "updated": "2026-04-13T12:56:51.617546+00:00",
   "articles": [
     {
-      "title": "36氪首发｜港中文博士和前大疆智能制造负责人创业，要做AI时代的“个性化乐高”",
+      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
+      "source": "量子位",
+      "published": "2026-04-13",
+      "summary": "火热申报中！截至4月27日。",
+      "link": "https://www.qbitai.com/2026/04/401011.html",
+      "category": "AI News"
+    },
+    {
+      "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+      "source": "量子位",
+      "published": "2026-04-13",
+      "summary": "“伯克利归国四子”只剩仨",
+      "link": "https://www.qbitai.com/2026/04/401002.html",
+      "category": "AI News"
+    },
+    {
+      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+      "source": "量子位",
+      "published": "2026-04-13",
+      "summary": "拿下九家全球TOP 10车企",
+      "link": "https://www.qbitai.com/2026/04/400567.html",
+      "category": "AI News"
+    },
+    {
+      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
+      "source": "量子位",
+      "published": "2026-04-13",
+      "summary": "一月标星6.66万+",
+      "link": "https://www.qbitai.com/2026/04/400522.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+      "source": "量子位",
+      "published": "2026-04-13",
+      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中",
+      "link": "https://www.qbitai.com/2026/04/400500.html",
+      "category": "AI News"
+    },
+    {
+      "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+      "source": "InfoQ 中文",
+      "published": "2026-04-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "“同事.skill”不用写了，爱马仕 Hermes 主动“蒸馏”你，还让开发者集体抛弃 “龙虾”？！",
+      "source": "InfoQ 中文",
+      "published": "2026-04-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Xv0OsbvHjLT34YzWKc3J?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
+      "source": "InfoQ 中文",
+      "published": "2026-04-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris",
+      "source": "InfoQ 中文",
+      "published": "2026-04-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "不用则废：开发者直面 AI 编码工具的隐性代价",
+      "source": "InfoQ 中文",
+      "published": "2026-04-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "【Ease UI】2026-04-13 组件更新：新增组件 xly-gantt 甘特图组件和预览网站新增拓扑图、日历视图、PDF 签名组件功能预览",
+      "source": "开源中国",
+      "published": "2026-04-13",
+      "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
+      "link": "https://www.oschina.net/news/420417",
+      "category": "AI News"
+    },
+    {
+      "title": "🔥🔥deepin x 百度飞桨（PaddlePaddle）Meetup 成都站",
+      "source": "开源中国",
+      "published": "2026-04-13",
+      "summary": "当deepin操作系统遇上百度飞桨，会碰撞出怎样的火花？ 4 月18日（本周六），deepin与百度飞桨携手，特别策划了本次AI 开发者线下技术沙龙。 无论你是开发者，开源爱好者、还是高校计算机专业的后起之秀，都欢迎你的到来！",
+      "link": "https://www.oschina.net/event/8598293",
+      "category": "AI News"
+    },
+    {
+      "title": "小红书黑客松巅峰赛落幕：HarmonyOS 四大创新特性引爆空间化交互革命",
+      "source": "开源中国",
+      "published": "2026-04-13",
+      "summary": "4月10日，小红书黑客松巅峰赛在开发者们48小时鏖战中落下帷幕，一场关于“宝藏开发者”的创意博弈也终于尘埃落定。在这场汇聚了国内顶尖极客的赛事中，HarmonyOS赛道无疑成了最具技术张力的舞台。 从现场“宝藏档案馆”中陈列的9位开发者故事，我们观察到一个明确的信号：HarmonyOS不再仅仅是一个操作系统，它正在通过安...",
+      "link": "https://www.oschina.net/news/420396",
+      "category": "AI News"
+    },
+    {
+      "title": "Semi Design v2.94.0 发布，抖音企业级 UI 库",
+      "source": "开源中国",
+      "published": "2026-04-13",
+      "summary": "Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。 Semi Design v2.94.0 已发布，此版本带来如下更新内容： 【Feature】 Form 组件新增静默校验功能，validate ...",
+      "link": "https://www.oschina.net/news/420392/semi-design-2-94-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "加密库 libsodium 1.0.22 发布",
+      "source": "开源中国",
+      "published": "2026-04-13",
+      "summary": "libsodium 1.0.22 现已发布。此版本更新包含了 1.0.21-stable 版本的所有更改，此外还包括： 后量子密钥封装现已可用。ML-KEM768（the NIST-standardized lattice-based KEM）可通过crypto_kem_mlkem768_*()相关函数调用。 X-Wing 是一种混合型 KEM，它结合了 ML-KEM768 和 X25519，可同时抵御经典和量子攻击，可通过cry...",
+      "link": "https://www.oschina.net/news/420378/libsodium-1-0-22-released",
+      "category": "AI News"
+    },
+    {
+      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
       "source": "36氪",
       "published": "2026-04-13",
-      "summary": "作者 | 张子怡编辑 | 袁斯来36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。本轮资金将主要用于积木生成大模型训练、AI Agent的研发以及海外市场的拓展，持续构建“AI驱动的个性化制造”核心能力体系。过去两年，生成式AI的爆发大多集中在数字世界，而UNICUS选择让AI走进物理工厂。基于自研的全自动化设计及生产系统，UNICUS率先探索出一套由技术驱动的定制化玩具规模量产路径。长期以来，",
-      "link": "https://36kr.com/p/3763919765226240?f=rss",
+      "summary": "作者丨欧雪编辑丨袁斯来在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠® LumiCraft具身打磨机器人。三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通、航空航天、风力发电、汽车制造等领域。长期以来，打磨环节工艺高度依赖经验，劳动强度大、作业环境恶劣。图速科",
+      "link": "https://36kr.com/p/3765207394009602?f=rss",
       "category": "AI News"
     },
     {
-      "title": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+      "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
       "source": "36氪",
       "published": "2026-04-13",
-      "summary": "文｜胡香赟编辑｜海若镜“医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。近日，据外媒报道百图生科、华深智药已启动IPO进程；中国创新药产业链上，拿到阶段性结果的“AI原生公司”受到资本青睐。其中，AI临床研发服务公司深度智耀的融资节奏更引关注。去年12月至今年3月，这家公司接连官宣3笔D轮系列融资，累计募资接近2亿美元。据了解，当前深度智耀估值已达到数十亿美金，与去年年中相比，估值涨幅超6倍；且正在推进新一轮Pre-IPO融资。另据公司介绍，公司近两年拿单量、业绩增速很快。2025年以来，销售订单额已近10亿元；",
-      "link": "https://36kr.com/p/3757975636050695?f=rss",
+      "summary": "大公司：金山办公：一季度净利同比预增402%-473%36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。沪电股份：一季度净利同比预增54.76%-65.25%36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。Meta押注AI数字人，正打造AI版扎克伯格Meta正在打造人工智能版马克・扎克伯格，可代他与员工互动，这是这家科技巨头全面向AI转型的重要举措之一。据四位知情人士透露，这家市值1.6万亿美元的集",
+      "link": "https://36kr.com/p/3765146768376326?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨海底捞通报员工被强制自费买礼物；王石否认被抓；何超蕸去世，信德集团官网已变黑白",
+      "title": "野人先生崔渐为：“网红”标签对我们不公平丨厚雪专访",
       "source": "36氪",
       "published": "2026-04-13",
-      "summary": "今日热点导览特朗普政府将打击赴美生子闪迪股价1年暴涨2500%，华尔街分析师强烈看涨闪迪蜜雪冰城南美首店开业价格曝光：柠檬水8元人民币一杯欧盟航空燃油三周后或系统性短缺YouTube近三年来首次在美国上调订阅价格TOP3大新闻海底捞通报员工被强制自费买礼物：已通知一千多家门店内部排查近日，有消费者爆料称，海底捞门店赠送给顾客的玩具和礼物并非公司统一配发，而是由员工自掏腰包购买。4月11日，海底捞火锅发布了关于“海底捞伙伴因顾客投诉被强制自费买礼物事件”的说明，表示“郑重承诺一定依法对该伙伴进行赔偿，并当面或按照该伙伴的意愿通过其他渠道致以诚挚的歉意。”并称：由于我们担心在其它门店存在类似情况，",
-      "link": "https://36kr.com/p/3764503979328001?f=rss",
+      "summary": "作者 | 钟艺璇编辑 | 乔芊如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波比冰淇淋（原波比艾斯）乃至蜜雪冰城为代表的软冰（Soft Serve）以规模化优势，又占其半壁江山，Gelato由于手工现制、",
+      "link": "https://36kr.com/p/3765076875117314?f=rss",
       "category": "AI News"
     },
     {
-      "title": "「Claude Code之父」其实是野路子来的……",
-      "source": "量子位",
-      "published": "2026-04-12",
-      "summary": "一生都在试图逃离原生公司（bushi）",
-      "link": "https://www.qbitai.com/2026/04/400306.html",
-      "category": "AI News"
-    },
-    {
-      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
-      "source": "量子位",
-      "published": "2026-04-12",
-      "summary": "有自己的网盘和邮箱，产出还能自动归档",
-      "link": "https://www.qbitai.com/2026/04/400197.html",
-      "category": "AI News"
-    },
-    {
-      "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
-      "source": "量子位",
-      "published": "2026-04-12",
-      "summary": "HTML也能跑Doom游戏了？？",
-      "link": "https://www.qbitai.com/2026/04/399996.html",
-      "category": "AI News"
-    },
-    {
-      "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
-      "source": "量子位",
-      "published": "2026-04-12",
-      "summary": "超声AI迈入大模型时代",
-      "link": "https://www.qbitai.com/2026/04/399975.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude复活30年前传奇游戏，仅用一个周末",
-      "source": "量子位",
-      "published": "2026-04-12",
-      "summary": "破解了作者的自定义语言",
-      "link": "https://www.qbitai.com/2026/04/399903.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
-      "source": "InfoQ 中文",
-      "published": "2026-04-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "首席工程师之路：培养领导力",
-      "source": "InfoQ 中文",
-      "published": "2026-04-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Aspire 13.2 正式发布，带来扩展版 CLI、预览版 TypeScript AppHost 及仪表盘改进",
-      "source": "InfoQ 中文",
-      "published": "2026-04-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/gXDZZmbAobi5TfwKUxLH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
-      "source": "InfoQ 中文",
-      "published": "2026-04-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
-      "source": "InfoQ 中文",
-      "published": "2026-04-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "为什么有钱人也不买GUCCI了？",
+      "title": "包容 探索 求真 守正｜2026光幕计划终审阵容与年度面孔公布",
       "source": "36氪",
-      "published": "2026-04-11",
-      "summary": "曾经一只酒神包便能掀起排队热潮的GUCCI（古驰），如今似乎正通过关店、降价来重新找回市场。3月底，GUCCI上海环贸iapm旗舰店关闭。此前，该品牌已撤掉上海芮欧百货和新世界大丸百货两家标志性门店——仅两年内一个城市内就关了三家店，关店数量占了总数的三分之一。但另一边，开进奥莱的GUCCI热闹非凡，成了排队王中的“当红炸子鸡”。只要去奥莱，大部分消费者首奔的店都是GUCCI，因为在那里可以淘到5折甚至2.5折的货品。GUCCI奥莱门店 | 图 王涵艺摄正价店卖不动，奥莱店“抢疯”。曾经的顶奢品牌GUCCI，到底怎么了？GUCCI为何卖不动？开云集团2025年财报显示，GUCCI营收同比暴跌2",
-      "link": "https://36kr.com/p/3762200670077448?f=rss",
+      "published": "2026-04-13",
+      "summary": "当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧”与媒介的“快”之外，那些源于血肉之躯的、笨拙而恳切的“真”，是否依然拥有抵达人心的力量？辨识这份真实，需要深耕岁月、敬畏专业的目光。为此，我们荣幸地邀请到李少红导演担任第十六届北京国际电影节BE SEEN 光幕计划终评审主席，赵小丁、吴刚、俞白眉、魏钦涛担任终审评委。他们以多年的创作生命为标尺，为这份最终的年度面孔入选演员名单注入了厚重的公信力与深远的期待。“表演有无数个高山要翻跃。”终审现场，评委俞白眉的这句话，道出了在场者的",
+      "link": "https://36kr.com/p/3764886161048323?f=rss",
       "category": "AI News"
     },
     {
-      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
+      "title": "这届留学生，用AI看病省出一辆特斯拉",
       "source": "36氪",
-      "published": "2026-04-11",
-      "summary": "作者/吴琼报道/投资界PEdaily唏嘘一幕。近日，知名AI创业公司Yupp宣布：将停止服务，于4月15日正式关闭。要知道，这距离Yupp产品上线才不到一年时间。曾经，Yupp的故事颇具前景：瞄准AI模型评测赛道——通过免费模型服务吸引用户评测，再将测评数据卖给模型厂商。犹记得2024年，公司拿下3300万美元（约合2.2亿元）的豪华种子轮，身后聚集a16z合伙人、Google首席科学家、Twitter联合创始人等超45位天使投资人。只是，Yupp却以极为荒诞的方式失败：投资人的钱还没花完，AI技术的演进就让其市场不复存在。而这一切，就发生在短短几个月之间。拿下豪华种子轮，一家明星AI公司宣布",
-      "link": "https://36kr.com/p/3762088319484419?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "Kairoa 开发者工具箱 v1.1.18 发布 - 新增 AI 多协议支持",
-      "source": "开源中国",
-      "published": "2026-04-10",
-      "summary": "Kairoa 是一款专为开发者打造的跨平台桌面工具箱，这次 v1.1.18 版本主要完善了 AI 聊天功能的协议支持。 这次更新了什么 AI 聊天模块现在支持更多协议类型了。之前只支持 OpenAI 格式的接口，本次更新新增了 了 Anthropic Messages API 和 Google Gemini 原生协议的支持。 对于自定义服务商，现在可以在配置里选择具体的...",
-      "link": "https://www.oschina.net/news/419616",
-      "category": "AI News"
-    },
-    {
-      "title": "MacState v1.8.2 发布",
-      "source": "开源中国",
-      "published": "2026-04-10",
-      "summary": "MacState v1.8.2 已发布。轻量级 macOS 菜单栏系统监控工具，纯 Swift 开发，零第三方依赖，所有指标合并显示在单个状态栏项中，资源占用极低。 状态栏 设置面板 充电信息 优化 / Improved 线程数优化 — 消除 3 个进程面板独立定时器和队列，合并到 MonitorManager 统一调度；移除能耗 tooltip 独立 5s Timer，改用回调...",
-      "link": "https://www.oschina.net/news/419566",
-      "category": "AI News"
-    },
-    {
-      "title": "开源中国完成 C+ 轮融资，冲刺“开源AI第一股”",
-      "source": "开源中国",
-      "published": "2026-04-10",
-      "summary": "4月10日，开源中国宣布完成数亿元C+轮融资，由上海国投先导基金领投，中国互联网投资基金、君联资本、联想创投、苏创投及贝克资本联合跟投。截至目前，开源中国累计融资规模已接近20亿元。 开源中国于2008年8月创立，是国内核心开源与AI基础设施服务商，目前团队超300人，总部在北京市，同时在深圳、广州、郑州设立了研发...",
-      "link": "https://www.oschina.net/news/419523",
-      "category": "AI News"
-    },
-    {
-      "title": ":fire: SolonCode CLI v2026.4.11 发布（编码智能体）",
-      "source": "开源中国",
-      "published": "2026-04-10",
-      "summary": "1、关于 SolonCode CLI（编程终端智能体） SolonCode CLI 是基于 Java + Solon AI 开发的 “编程终端智能体”。 常见问题：它和 Claude Code 有什么不同？ 功能上很相似，关键差异： 采用 Java 实现，100% 开源。 使用 “全中文” 提示词构建（英文不好的人，会很亲切）。 不绑定特定提供商。需要配置模型。模型迭代会缩...",
-      "link": "https://www.oschina.net/news/419514",
-      "category": "AI News"
-    },
-    {
-      "title": "DataFlow - 以数据为中心的 AI 系统",
-      "source": "开源中国",
-      "published": "2026-04-10",
-      "summary": "DataFlow 是一个高效完成高质量数据治理的系统，旨在对诸如 PDF 文档、纯文本、爬虫数据等低质量而嘈杂的数据进行 修正、扩增、评估与过滤（refine, generate, evaluate, filt） 以得到高质量的训练数据。这些数据可以通过预训练、有监督微调、强化学习训练提升大语言模型在通用领域（推理能力和检索能力）与特定领域（如...",
-      "link": "https://www.oschina.net/p/dataflow",
+      "published": "2026-04-13",
+      "summary": "01. 用AI硬扛20天，省出一辆特斯拉回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算，发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历——之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，再加上4、500磅的手术费，治一颗牙至少要花4000磅，折合人民币近40000块。花了天价不说，效果也一言难尽。治完没多久，土土的牙冠就掉了，技术完全不值这个价。“这钱",
+      "link": "https://36kr.com/p/3764892434711049?f=rss",
       "category": "AI News"
     }
   ]
