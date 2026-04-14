@@ -1,6 +1,150 @@
 {
-  "updated": "2026-04-14T01:20:38.905206+00:00",
+  "updated": "2026-04-14T12:56:54.933221+00:00",
   "articles": [
+    {
+      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
+      "source": "量子位",
+      "published": "2026-04-14",
+      "summary": "推进人工智能人才培养和应用创新，统筹谋划基础环境和创新生态建设，系统构建智能时代的教育体系。",
+      "link": "https://www.qbitai.com/2026/04/401190.html",
+      "category": "AI News"
+    },
+    {
+      "title": "什么Excel这函数那公式，我千问永远一步搞定",
+      "source": "量子位",
+      "published": "2026-04-14",
+      "summary": "手机电脑全打通，随时随地大白话改表格",
+      "link": "https://www.qbitai.com/2026/04/401127.html",
+      "category": "AI News"
+    },
+    {
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "source": "量子位",
+      "published": "2026-04-14",
+      "summary": "AI普及率正在历史性加速",
+      "link": "https://www.qbitai.com/2026/04/401094.html",
+      "category": "AI News"
+    },
+    {
+      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+      "source": "量子位",
+      "published": "2026-04-14",
+      "summary": "团队即将发布最新成果",
+      "link": "https://www.qbitai.com/2026/04/401065.html",
+      "category": "AI News"
+    },
+    {
+      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+      "source": "量子位",
+      "published": "2026-04-14",
+      "summary": "把OpenClaw装进企业机房",
+      "link": "https://www.qbitai.com/2026/04/401047.html",
+      "category": "AI News"
+    },
+    {
+      "title": "模力工场 036 周 AI 应用周榜：AI不只做“单点能力”，而是在拼“完整工作流”",
+      "source": "InfoQ 中文",
+      "published": "2026-04-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/G27veSK8ZHwhmNdHilNB?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识",
+      "source": "InfoQ 中文",
+      "published": "2026-04-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "TDSQL-C 全球数据库的容灾切换与发展方向 | 腾讯云数据库 DBTalk",
+      "source": "InfoQ 中文",
+      "published": "2026-04-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/4x5kTGc6DUpRuYc3oVwB?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全",
+      "source": "InfoQ 中文",
+      "published": "2026-04-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "时序数据库 Apache IoTDB V2.0.8 发布",
+      "source": "开源中国",
+      "published": "2026-04-14",
+      "summary": "V2.0.8 版本在 AI 模型能力上扩充了对现有主流时序大模型之一 Chronos-2 的支持，同时内置大模型支持并发推理能力。在数据库方面，TIME 列支持自定义命名，优化数据同步路径配置的灵活性，并对数据库监控、性能、稳定性进行了全方位提升。",
+      "link": "https://my.oschina.net/u/9120954/blog/19575463",
+      "category": "AI News"
+    },
+    {
+      "title": "CrateDB 6.2.5 发布，分布式 SQL 数据库",
+      "source": "开源中国",
+      "published": "2026-04-14",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.5 现已正式发布，该版本更新内容如下： 修复了一...",
+      "link": "https://www.oschina.net/news/420842/cratedb-6-2-5-released",
+      "category": "AI News"
+    },
+    {
+      "title": "UJCMS 11.0.0 发布，国内 Java CMS 网站内容管理系统",
+      "source": "开源中国",
+      "published": "2026-04-14",
+      "summary": "本次版本是一次重要的架构升级，对项目结构、前端技术栈和构建流程进行了全面优化。项目从单模块结构重构为多模块结构，提升了代码的组织性与模块化能力；后台前端并入主项目，不再需要维护两个独立仓库，有效降低了开发与部署的复杂度；模板组件库文件及后台前端编译产物不再提交至版本库，改为运行前按需安装与生成，显...",
+      "link": "https://www.oschina.net/news/420835",
+      "category": "AI News"
+    },
+    {
+      "title": "从校园到产业峰会的最佳路径：为 openvela 社区贡献代码",
+      "source": "开源中国",
+      "published": "2026-04-14",
+      "summary": "在开源社区里，你的每一次贡献都会被看到，你的能力会被真实地记录。就业不再靠海投简历摸奖，而是努力水到渠成的事。",
+      "link": "https://my.oschina.net/u/4487475/blog/19575351",
+      "category": "AI News"
+    },
+    {
+      "title": "IBM 以 1700 万美元与美国司法部达成和解协议",
+      "source": "开源中国",
+      "published": "2026-04-14",
+      "summary": "IBM 于上周五与美国司法部达成了一项价值 1700 万美元的和解协议。 此前该公司被指控在招聘和晋升过程中考虑“种族、肤色、国籍或性别”因素，涉嫌实施了“非法的多元化、公平与包容（DEI）做法”。美国司法部还指控 IBM 将政府合同资金用于 DEI 项目，随后又申请报销。 IBM否认有任何不当行为，并表示此次和解并不代表 ...",
+      "link": "https://www.oschina.net/news/420793",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
+      "source": "36氪",
+      "published": "2026-04-14",
+      "summary": "大公司：全球最大零食店“零食王国”将于4月17日开业36氪获悉，由鸣鸣很忙集团创建的全球规模最大的沉浸式零食体验空间“零食王国”，将于4月17日在湖南长沙芙蓉广场正式开业。该项目拥有超1.2万㎡的零售与体验空间，汇聚了全球约70个国家和地区的风味、超过6500个国内外品牌及3.5万款商品。TCL电子将出售印度电视制造业务？公司回应：不持有该资产针对TCL电子拟出售印度电视制造部门股份传闻，TCL电子代表今日回应称，“公司并不拥有此前报道中提到的资产”。据此前报道，TCL电子控股有限公司正考虑向印度买家出售其在当地电视制造部门的部分股份，以帮助务增长。苹果新款平价电脑MacBook Neo首批产",
+      "link": "https://36kr.com/p/3766487517594377?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
+      "source": "36氪",
+      "published": "2026-04-14",
+      "summary": "文 | 张冰冰编辑 | 阿至36氪获悉，蓝点触控（北京）科技有限公司（以下简称「蓝点触控」）近日宣布完成超亿元C+轮融资，由宁德时代旗下溥泉资本、智元机器人、银河通用、奥普特、银河源汇等机构联合投资。这是近一年内「蓝点触控」完成的第三轮过亿元融资。「蓝点触控」是36氪长期关注的企业，聚焦机器人力传感器，已搭建涵盖高性能弹性体设计、嵌入式硬件电路、高精度结构解耦算法及六维同步校准在内的四大平台型技术，形成人形机器人专用力传感器、通用力传感器、力控综合解决方案及复合型机器人工作站等多元化产品体系。凭借0.1%FS的高精度、10kHz以上高频响应、500%抗过载等性能指标，「蓝点触控」打破海外厂商技",
+      "link": "https://36kr.com/p/3766434507440903?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "「美股例外」何时休？",
+      "source": "36氪",
+      "published": "2026-04-14",
+      "summary": "作者 | 黄绎达编辑 | 张帆进入4月以来，受地缘关系缓和、“再通胀”预期走弱等利好的持续释放，美股三大指数持续走强。截至4月13日，标普500在4月的前8个交易日里实现6连阳，纳指的同期区间涨幅则相对更高，录得7.38%。行业板块方面，科技板块作为本轮美股短期上涨的“领头羊”表现相对强势。细分领域中的半导体、芯片、AI、量子技术等方向的表现尤为突出；截至4月13日，万得美国半导体指数、万得美国芯片指数、万得美国AI指数4月以来的区间涨幅都超过了10%。图：美股三大指数走势；资料来源：wind，36氪回顾今年以来美股大盘的走势，进入2月以后，美股三大指数均出现了不同程度的持续调整，主要受到了中",
+      "link": "https://36kr.com/p/3766410231726855?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
       "source": "36氪",
@@ -15,150 +159,6 @@
       "published": "2026-04-14",
       "summary": "作者｜黄楠编辑｜袁斯来如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。张海波早把自己训练成了各种球类的高手。2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。张海波很早就精通乒乓球，他是国内最早一批将强化学习用于乒乓球对打的工程师。早年在上市公司任职期间，他就做出了一套能与人进行“人机对战”的具身机械臂方案。这套系统成本高达20多万元，曾为国家队提供数据分析，甚",
       "link": "https://36kr.com/p/3764953900990977?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
-      "source": "36氪",
-      "published": "2026-04-14",
-      "summary": "今日热点导览张雪回应机车新手禁令西班牙首相桑切斯参观小米科技园中央网信办：加强网络直播打赏规范管理小红书跨境电商平台Redshop将于今年6月正式上线A股景气度投资或回归主线TOP3大新闻“马斯克版微信”或在4月17日上线美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，旨在构建集聊天、支付、AI于一体的超级应用生态。XChat无需手机号注册，支持音视频通话、阅后即焚及防截图，并深度集成了AI助手Grok。然而，尽管马斯克宣称其采用“比特币式加密”，但安全专家指出其缺乏第三方",
-      "link": "https://36kr.com/p/3765932138103554?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
-      "source": "量子位",
-      "published": "2026-04-13",
-      "summary": "火热申报中！截至4月27日。",
-      "link": "https://www.qbitai.com/2026/04/401011.html",
-      "category": "AI News"
-    },
-    {
-      "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
-      "source": "量子位",
-      "published": "2026-04-13",
-      "summary": "“伯克利归国四子”只剩仨",
-      "link": "https://www.qbitai.com/2026/04/401002.html",
-      "category": "AI News"
-    },
-    {
-      "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
-      "source": "量子位",
-      "published": "2026-04-13",
-      "summary": "拿下九家全球TOP 10车企",
-      "link": "https://www.qbitai.com/2026/04/400567.html",
-      "category": "AI News"
-    },
-    {
-      "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
-      "source": "量子位",
-      "published": "2026-04-13",
-      "summary": "一月标星6.66万+",
-      "link": "https://www.qbitai.com/2026/04/400522.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
-      "source": "量子位",
-      "published": "2026-04-13",
-      "summary": "概念来自字节Seed团队与多个高校合作的一篇论文，Yoshua Bengio也参与其中",
-      "link": "https://www.qbitai.com/2026/04/400500.html",
-      "category": "AI News"
-    },
-    {
-      "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
-      "source": "InfoQ 中文",
-      "published": "2026-04-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "“同事.skill”不用写了，爱马仕 Hermes 主动“蒸馏”你，还让开发者集体抛弃 “龙虾”？！",
-      "source": "InfoQ 中文",
-      "published": "2026-04-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Xv0OsbvHjLT34YzWKc3J?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
-      "source": "InfoQ 中文",
-      "published": "2026-04-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris",
-      "source": "InfoQ 中文",
-      "published": "2026-04-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "不用则废：开发者直面 AI 编码工具的隐性代价",
-      "source": "InfoQ 中文",
-      "published": "2026-04-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "【Ease UI】2026-04-13 组件更新：新增组件 xly-gantt 甘特图组件和预览网站新增拓扑图、日历视图、PDF 签名组件功能预览",
-      "source": "开源中国",
-      "published": "2026-04-13",
-      "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
-      "link": "https://www.oschina.net/news/420417",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥🔥deepin x 百度飞桨（PaddlePaddle）Meetup 成都站",
-      "source": "开源中国",
-      "published": "2026-04-13",
-      "summary": "当deepin操作系统遇上百度飞桨，会碰撞出怎样的火花？ 4 月18日（本周六），deepin与百度飞桨携手，特别策划了本次AI 开发者线下技术沙龙。 无论你是开发者，开源爱好者、还是高校计算机专业的后起之秀，都欢迎你的到来！",
-      "link": "https://www.oschina.net/event/8598293",
-      "category": "AI News"
-    },
-    {
-      "title": "小红书黑客松巅峰赛落幕：HarmonyOS 四大创新特性引爆空间化交互革命",
-      "source": "开源中国",
-      "published": "2026-04-13",
-      "summary": "4月10日，小红书黑客松巅峰赛在开发者们48小时鏖战中落下帷幕，一场关于“宝藏开发者”的创意博弈也终于尘埃落定。在这场汇聚了国内顶尖极客的赛事中，HarmonyOS赛道无疑成了最具技术张力的舞台。 从现场“宝藏档案馆”中陈列的9位开发者故事，我们观察到一个明确的信号：HarmonyOS不再仅仅是一个操作系统，它正在通过安...",
-      "link": "https://www.oschina.net/news/420396",
-      "category": "AI News"
-    },
-    {
-      "title": "Semi Design v2.94.0 发布，抖音企业级 UI 库",
-      "source": "开源中国",
-      "published": "2026-04-13",
-      "summary": "Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。 Semi Design v2.94.0 已发布，此版本带来如下更新内容： 【Feature】 Form 组件新增静默校验功能，validate ...",
-      "link": "https://www.oschina.net/news/420392/semi-design-2-94-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "加密库 libsodium 1.0.22 发布",
-      "source": "开源中国",
-      "published": "2026-04-13",
-      "summary": "libsodium 1.0.22 现已发布。此版本更新包含了 1.0.21-stable 版本的所有更改，此外还包括： 后量子密钥封装现已可用。ML-KEM768（the NIST-standardized lattice-based KEM）可通过crypto_kem_mlkem768_*()相关函数调用。 X-Wing 是一种混合型 KEM，它结合了 ML-KEM768 和 X25519，可同时抵御经典和量子攻击，可通过cry...",
-      "link": "https://www.oschina.net/news/420378/libsodium-1-0-22-released",
-      "category": "AI News"
-    },
-    {
-      "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
-      "source": "36氪",
-      "published": "2026-04-13",
-      "summary": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。不过，这次荣耀直接把YOYO Claw封进了PC端，成为笔记本出厂即带的能力。荣耀PC产品总经理朱臣才分享道：“今年我们希望PC（Personal Computer）能升级为Partner Creator，",
-      "link": "https://36kr.com/p/3765331768967686?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
-      "source": "36氪",
-      "published": "2026-04-13",
-      "summary": "作者丨欧雪编辑丨袁斯来在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠® LumiCraft具身打磨机器人。三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通、航空航天、风力发电、汽车制造等领域。长期以来，打磨环节工艺高度依赖经验，劳动强度大、作业环境恶劣。图速科",
-      "link": "https://36kr.com/p/3765207394009602?f=rss",
       "category": "AI News"
     }
   ]
