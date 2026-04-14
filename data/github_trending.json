@@ -1,123 +1,123 @@
 {
-  "updated": "2026-04-13T12:56:40.268738+00:00",
+  "updated": "2026-04-14T01:20:29.574280+00:00",
   "repositories": [
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 20648,
-      "stars_today": 5828,
+      "stars": 25313,
+      "stars_today": 5733,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 74329,
-      "stars_today": 11297,
+      "stars": 77250,
+      "stars_today": 11289,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 16628,
-      "stars_today": 1552,
+      "stars": 17030,
+      "stars_today": 1554,
       "language": "Python",
       "link": "https://github.com/shiyu-coder/Kronos"
     },
     {
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 51753,
-      "stars_today": 3185,
+      "stars": 53332,
+      "stars_today": 3175,
       "language": "TypeScript",
       "link": "https://github.com/thedotmack/claude-mem"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 106256,
-      "stars_today": 2811,
+      "stars": 106980,
+      "stars_today": 2808,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 10430,
-      "stars_today": 1724,
+      "stars": 11148,
+      "stars_today": 1715,
       "language": "TypeScript",
       "link": "https://github.com/multica-ai/multica"
     },
     {
       "name": "coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "stars": 17413,
-      "stars_today": 679,
+      "stars": 17625,
+      "stars_today": 677,
       "language": "TypeScript",
       "link": "https://github.com/coleam00/Archon"
     },
     {
       "name": "snarktank/ralph",
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-      "stars": 16326,
-      "stars_today": 683,
+      "stars": 16524,
+      "stars_today": 691,
       "language": "TypeScript",
       "link": "https://github.com/snarktank/ralph"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 52672,
-      "stars_today": 782,
+      "stars": 52960,
+      "stars_today": 783,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 39028,
-      "stars_today": 328,
+      "stars": 39526,
+      "stars_today": 1012,
       "language": "Jupyter Notebook",
       "link": "https://github.com/anthropics/claude-cookbooks"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
-      "stars": 40515,
-      "stars_today": 2477,
+      "stars": 41814,
+      "stars_today": 2461,
       "language": "HTML",
       "link": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
       "name": "jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
-      "stars": 15663,
-      "stars_today": 491,
+      "stars": 16331,
+      "stars_today": 512,
       "language": "TypeScript",
       "link": "https://github.com/jamiepine/voicebox"
     },
     {
       "name": "ahujasid/blender-mcp",
       "description": "",
-      "stars": 19338,
-      "stars_today": 335,
+      "stars": 19500,
+      "stars_today": 339,
       "language": "Python",
       "link": "https://github.com/ahujasid/blender-mcp"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
-      "stars": 90047,
-      "stars_today": 235,
+      "stars": 90245,
+      "stars_today": 217,
       "language": "Python",
       "link": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
       "name": "gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-      "stars": 51711,
-      "stars_today": 630,
+      "stars": 52124,
+      "stars_today": 655,
       "language": "JavaScript",
       "link": "https://github.com/gsd-build/get-shit-done"
     }
