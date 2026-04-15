@@ -1,101 +1,109 @@
 {
-  "updated": "2026-04-15T01:17:13.365719+00:00",
+  "updated": "2026-04-15T12:55:40.518567+00:00",
   "repositories": [
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 33952,
-      "stars_today": 9263,
+      "stars": 39264,
+      "stars_today": 9622,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
-      "name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 55829,
-      "stars_today": 2997,
-      "language": "TypeScript",
-      "link": "https://github.com/thedotmack/claude-mem"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
-      "stars": 17355,
-      "stars_today": 1162,
-      "language": "TypeScript",
-      "link": "https://github.com/jamiepine/voicebox"
-    },
-    {
       "name": "pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
-      "stars": 11653,
-      "stars_today": 820,
+      "stars": 12223,
+      "stars_today": 1422,
       "language": "TypeScript",
       "link": "https://github.com/pascalorg/editor"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 108487,
-      "stars_today": 1675,
-      "language": "Python",
-      "link": "https://github.com/microsoft/markitdown"
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
+      "stars": 56909,
+      "stars_today": 2330,
+      "language": "TypeScript",
+      "link": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 152313,
-      "stars_today": 1919,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 66370,
-      "stars_today": 472,
-      "language": "Assembly",
-      "link": "https://github.com/chrislgarry/Apollo-11"
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": 28991,
+      "stars_today": 1068,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
-      "stars": 54157,
-      "stars_today": 1007,
+      "stars": 54694,
+      "stars_today": 1062,
       "language": "Python",
       "link": "https://github.com/virattt/ai-hedge-fund"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 17810,
-      "stars_today": 963,
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": 66614,
+      "stars_today": 625,
+      "language": "Assembly",
+      "link": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 153499,
+      "stars_today": 2079,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "stars": 17878,
+      "stars_today": 1079,
+      "language": "TypeScript",
+      "link": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 422587,
+      "stars_today": 839,
       "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
+      "link": "https://github.com/public-apis/public-apis"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 84436,
-      "stars_today": 8301,
+      "name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "stars": 2253,
+      "stars_today": 1020,
+      "language": "TypeScript",
+      "link": "https://github.com/vercel-labs/open-agents"
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 1577,
+      "stars_today": 413,
       "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
+      "link": "https://github.com/lsdefine/GenericAgent"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 40261,
-      "stars_today": 931,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/anthropics/claude-cookbooks"
+      "name": "google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "stars": 13402,
+      "stars_today": 833,
+      "language": "Python",
+      "link": "https://github.com/google/magika"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "stars": 43821,
-      "stars_today": 2583,
-      "language": "HTML",
-      "link": "https://github.com/shanraisshan/claude-code-best-practice"
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "stars": 9895,
+      "stars_today": 523,
+      "language": "Shell",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     }
   ]
 }
