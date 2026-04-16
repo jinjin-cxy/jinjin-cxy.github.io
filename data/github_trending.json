@@ -1,109 +1,109 @@
 {
-  "updated": "2026-04-16T01:22:37.524915+00:00",
+  "updated": "2026-04-16T13:00:23.151956+00:00",
   "repositories": [
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 43132,
-      "stars_today": 9646,
+      "stars": 47134,
+      "stars_today": 7939,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
-      "name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
-      "stars": 12662,
-      "stars_today": 1391,
-      "language": "TypeScript",
-      "link": "https://github.com/pascalorg/editor"
-    },
-    {
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses",
-      "stars": 57865,
-      "stars_today": 2305,
+      "stars": 58792,
+      "stars_today": 1907,
       "language": "TypeScript",
       "link": "https://github.com/thedotmack/claude-mem"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": 29464,
-      "stars_today": 941,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/Lordog/dive-into-llms"
-    },
-    {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "stars": 55080,
-      "stars_today": 1058,
-      "language": "Python",
-      "link": "https://github.com/virattt/ai-hedge-fund"
-    },
-    {
-      "name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": 66810,
-      "stars_today": 606,
-      "language": "Assembly",
-      "link": "https://github.com/chrislgarry/Apollo-11"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 154328,
-      "stars_today": 2055,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
-      "stars": 18302,
-      "stars_today": 1062,
-      "language": "TypeScript",
-      "link": "https://github.com/jamiepine/voicebox"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "stars": 423366,
-      "stars_today": 950,
-      "language": "Python",
-      "link": "https://github.com/public-apis/public-apis"
-    },
-    {
-      "name": "vercel-labs/open-agents",
-      "description": "An open source template for building cloud agents.",
-      "stars": 2652,
-      "stars_today": 915,
-      "language": "TypeScript",
-      "link": "https://github.com/vercel-labs/open-agents"
-    },
-    {
       "name": "lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 1954,
-      "stars_today": 446,
+      "stars": 2461,
+      "stars_today": 883,
       "language": "Python",
       "link": "https://github.com/lsdefine/GenericAgent"
     },
     {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "stars": 18759,
+      "stars_today": 887,
+      "language": "TypeScript",
+      "link": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "stars": 2980,
+      "stars_today": 735,
+      "language": "TypeScript",
+      "link": "https://github.com/vercel-labs/open-agents"
+    },
+    {
       "name": "google/magika",
       "description": "Fast and accurate AI powered file content types detection",
-      "stars": 13800,
-      "stars_today": 768,
+      "stars": 14278,
+      "stars_today": 871,
       "language": "Python",
       "link": "https://github.com/google/magika"
     },
     {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "stars": 10476,
-      "stars_today": 612,
-      "language": "Shell",
-      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+      "name": "steipete/wacli",
+      "description": "WhatsApp CLI",
+      "stars": 1535,
+      "stars_today": 354,
+      "language": "Go",
+      "link": "https://github.com/steipete/wacli"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "stars": 15608,
+      "stars_today": 156,
+      "language": "Python",
+      "link": "https://github.com/topoteretes/cognee"
+    },
+    {
+      "name": "z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 1460,
+      "stars_today": 183,
+      "language": "Python",
+      "link": "https://github.com/z-lab/dflash"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": 30377,
+      "stars_today": 1394,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 20977,
+      "stars_today": 110,
+      "language": "Python",
+      "link": "https://github.com/openai/openai-agents-python"
+    },
+    {
+      "name": "EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "stars": 2911,
+      "stars_today": 866,
+      "language": "JavaScript",
+      "link": "https://github.com/EvoMap/evolver"
+    },
+    {
+      "name": "BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "stars": 8710,
+      "stars_today": 448,
+      "language": "Dart",
+      "link": "https://github.com/BasedHardware/omi"
     }
   ]
 }

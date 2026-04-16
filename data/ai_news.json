@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-16T01:22:47.612328+00:00",
+  "updated": "2026-04-16T13:00:34.631065+00:00",
   "articles": [
     {
-      "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
+      "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
+      "source": "量子位",
+      "published": "2026-04-16",
+      "summary": "市值跻身A股前三",
+      "link": "https://www.qbitai.com/2026/04/401719.html",
+      "category": "AI News"
+    },
+    {
+      "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
+      "source": "量子位",
+      "published": "2026-04-16",
+      "summary": "创下中国具身智能有史以来最高单轮融资纪录，仅用一年时间成功领跑具身智能行业第一梯队。",
+      "link": "https://www.qbitai.com/2026/04/401714.html",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯官宣升级AI小程序成长计划，所有小程序都能申请",
+      "source": "量子位",
+      "published": "2026-04-16",
+      "summary": "参与门槛全面放开",
+      "link": "https://www.qbitai.com/2026/04/401710.html",
+      "category": "AI News"
+    },
+    {
+      "title": "智象未来完成新一轮融资，全力打造下一代原生全模态世界模型",
+      "source": "量子位",
+      "published": "2026-04-16",
+      "summary": "超5亿元新一轮融资。",
+      "link": "https://www.qbitai.com/2026/04/401705.html",
+      "category": "AI News"
+    },
+    {
+      "title": "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了",
+      "source": "量子位",
+      "published": "2026-04-16",
+      "summary": "省下50%Tokens，打破养虾高成本困境",
+      "link": "https://www.qbitai.com/2026/04/401682.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3",
+      "source": "InfoQ 中文",
+      "published": "2026-04-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md",
+      "source": "InfoQ 中文",
+      "published": "2026-04-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元",
+      "source": "InfoQ 中文",
+      "published": "2026-04-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/aabRtNR5WreQuo4Kt4h9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
+      "source": "InfoQ 中文",
+      "published": "2026-04-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude 推行强制化实名认证：部分功能需提交证件和自拍",
+      "source": "InfoQ 中文",
+      "published": "2026-04-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/dDG9KpwHWj9ufYENNgVP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "COPU 名誉主席陆首群与 Linux 基金会执行董事 Jim Zemlin 会晤",
+      "source": "开源中国",
+      "published": "2026-04-16",
+      "summary": "Linux基金会执行董事Jim Zemlin一行于4月16日在北京与中国开源软件推进联盟(COPU)名誉主席陆首群一行友情会晤。双方讨论国内和全球开源、深度信息技术和人工智能发展问题。 Jim介绍由Linux基金会宣布在美国成立的智能体人工智能基金会(Agentic AI Foundation，AAIF)的情况； 陆主席介绍拟于6月25~26日召开《第21届开源中...",
+      "link": "https://www.oschina.net/news/423128",
+      "category": "AI News"
+    },
+    {
+      "title": "Guava 33.6.0 发布，Google 的 Java 核心工具库",
+      "source": "开源中国",
+      "published": "2026-04-16",
+      "summary": "Guava 33.6.0 现已发布。Guava 是 Google 的一套核心 Java 库，包括新的集合类型（如 multimap 和 multiset）、图库，以及用于并发、I/O、散列、缓存、基元、字符串等实用工具。它被广泛用于 Google 内部的 Java 项目，同时也被许多其他公司广泛使用。 Maven \n<dependency>\n  <groupId>com.google.guava</groupId>\n ...",
+      "link": "https://www.oschina.net/news/423096/guava-33-6-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "TinyVue 3.30 正式发布",
+      "source": "开源中国",
+      "published": "2026-04-16",
+      "summary": "近期，OpenTiny 社区正式发布 TinyVue v3.30.0！这个版本不仅是一次常规的功能迭代，更是 TinyVue 在 “跨端响应式” 上的里程碑式飞跃。",
+      "link": "https://my.oschina.net/u/6769809/blog/19577885",
+      "category": "AI News"
+    },
+    {
+      "title": "LinkedIn 数据显示：AI 并非影响就业的罪魁祸首",
+      "source": "开源中国",
+      "published": "2026-04-16",
+      "summary": "微软旗下职业社交网站领英（LinkedIn）的全球事务与法律事务主管 Blake Lawit 在接受采访时证实，该公司数据显示自 2022 年以来，招聘人数下降了约 20%。 但他反驳了将责任归咎于 AI 的说法。“我们对此进行了研究——因为大家都想知道这个问题的答案：AI 目前是否正在影响就业？我们进行了研究，老实说，我们尚未观察到...",
+      "link": "https://www.oschina.net/news/423061",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude 背刺用户，国产大模型谁能顶上？",
+      "source": "开源中国",
+      "published": "2026-04-16",
+      "summary": "2026 年 4 月 14 日，Anthropic 在 Claude Support 帮助页面悄然上线身份验证说明文档 —— 这是主流 AI 应用中首家大规模实施 KYC 的案例。",
+      "link": "https://my.oschina.net/u/4487475/blog/19577856",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
       "source": "36氪",
       "published": "2026-04-16",
-      "summary": "今日热点导览京东宣布推出“机器人救护车”抖音集团将投入5亿专项资金扶持真人短剧永辉超市38亿追款获胜，王健林等承担连带保证责任张雪机车LOGO抄袭？设计公司发声明回应小米汽车公布降噪处理新专利TOP 3大新闻美国将退还超1万亿元关税据路透社报道，美国特朗普政府计划于当地时间4月20日正式启动一个关税退款系统，用于向进口商退还1660亿美元（约合人民币1.13万亿元）的关税，这些关税在今年2月被美国最高法院裁定为“非法”。据报道，美国海关与边境保护局14日在一份提交给国际贸易法院的法庭文件中表示，已基本完成向进口商大规模退款的报关系统第一阶段研发，将于20日启动相关关税退款工作。退款将以电子方式",
-      "link": "https://36kr.com/p/3768734631527176?f=rss",
+      "summary": "大公司：亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。京东发布机器人产业服务全景图36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 200家品牌，目标2026年销售破百亿；依托超级供应链，建全球最大具身数据采集中心、京东机器人售后维修服务3年覆盖50余城；基于JoyAI大模型加速开放JoyInsid",
+      "link": "https://36kr.com/p/3769360179298818?f=rss",
       "category": "AI News"
     },
     {
-      "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
-      "source": "量子位",
-      "published": "2026-04-15",
-      "summary": "16cm极致外扩，主动探入清洁死角",
-      "link": "https://www.qbitai.com/2026/04/401512.html",
-      "category": "AI News"
-    },
-    {
-      "title": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
-      "source": "量子位",
-      "published": "2026-04-15",
-      "summary": "一次性获取百度智能云的全栈技术图谱",
-      "link": "https://www.qbitai.com/2026/04/401507.html",
-      "category": "AI News"
-    },
-    {
-      "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
-      "source": "量子位",
-      "published": "2026-04-15",
-      "summary": "立足全球AI创新核心趋势，筑牢国芯AI发展根基",
-      "link": "https://www.qbitai.com/2026/04/401484.html",
-      "category": "AI News"
-    },
-    {
-      "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
-      "source": "量子位",
-      "published": "2026-04-15",
-      "summary": "以智算为支撑，开启校企协同新篇章",
-      "link": "https://www.qbitai.com/2026/04/401479.html",
-      "category": "AI News"
-    },
-    {
-      "title": "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
-      "source": "量子位",
-      "published": "2026-04-15",
-      "summary": "浏览器纷纷Agent化",
-      "link": "https://www.qbitai.com/2026/04/401389.html",
-      "category": "AI News"
-    },
-    {
-      "title": "苹果疯狂狙击Vibe Coding 应用的背后，是一场30%佣金保卫战",
-      "source": "InfoQ 中文",
-      "published": "2026-04-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/MHcyqXMg4xu16I2xmaeN?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
-      "source": "InfoQ 中文",
-      "published": "2026-04-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
-      "source": "InfoQ 中文",
-      "published": "2026-04-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "智元联合北大、智源实现人形机器人自主打乒乓",
-      "source": "InfoQ 中文",
-      "published": "2026-04-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 推出 Claude Mythos 预览版，强化网络安全，仅限合作方访问",
-      "source": "InfoQ 中文",
-      "published": "2026-04-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/0ERlUO96S3XjvTgekpru?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MiniMax M2.7 开源协议引争议：严禁商业用途，开发者质疑“伪开源”",
-      "source": "开源中国",
-      "published": "2026-04-15",
-      "summary": "国产AI大模型厂商MiniMax（稀宇科技）于近日开源了其最新一代模型MiniMax-M2.7，该模型在编程能力基准测试SWE-Pro中取得56.22%的成绩，几乎追平Anthropic的Claude Opus水平。 然而，这本应值得庆贺的技术突破却因开源协议的突然\"变脸\"在开发者社区引发轩然大波——MiniMax M2.7明确禁止商业用途，除非获得公司书面授权，...",
-      "link": "https://www.oschina.net/news/421258",
-      "category": "AI News"
-    },
-    {
-      "title": "合肥朋友集合！本周六线下围观模力方舟“口袋龙虾”",
-      "source": "开源中国",
-      "published": "2026-04-15",
-      "summary": "4月18日（本周六），腾讯云开发者社区「龙虾公开课」将落地合肥。 免费线下AI Agent实战课，零基础也能冲！ ✅ 1对1装机指导｜现场实操工坊 ✅ 产品演进+Agent趋势｜真实落地案例 ✅ 办公 / 设计 / 养殖 / 游戏多场景上手 📒 到场还有腾讯限定龙虾周边和龙虾实操指南 ⏰ 13:00 公益装机｜14:00 正式开始 📍 合肥·高...",
-      "link": "https://www.oschina.net/news/421238",
-      "category": "AI News"
-    },
-    {
-      "title": "Git for Windows 2.53.0(3) 发布",
-      "source": "开源中国",
-      "published": "2026-04-15",
-      "summary": "Git for Windows v2.53.0(3) 现已发布。这是一个安全修复版本，解决了 CVE-2026-32631 漏洞： CVE-2026-32631，Git for Windows：当用户克隆包含指向网络驱动器的符号链接的仓库时，Git 会在检出过程中跟随这些符号链接，导致 Windows 系统透明地执行 NTLM 身份验证，并将用户的 NTLMv2 哈希值泄露给攻击者控制的服务器。...",
-      "link": "https://www.oschina.net/news/421227",
-      "category": "AI News"
-    },
-    {
-      "title": "百度 Create 大会官宣三大核心看点，国内最大 AI 开发者嘉年华 5 月北京揭幕",
-      "source": "开源中国",
-      "published": "2026-04-15",
-      "summary": "5月13日至14日，国内最大规模的AI开发者嘉年华——Create2026百度AI开发者大会将在北京拉开帷幕。本届大会以“万物一体”为主题，首次将“Create百度AI开发者大会”与“云智大会”合二为一，集中展示百度智能云AI Infra与Agent Infra重大技术突破、“超级个体”生产力工具链、龙虾全家桶全场景智能体验三大核心看点。对于...",
-      "link": "https://www.oschina.net/news/421217",
-      "category": "AI News"
-    },
-    {
-      "title": "以 Nano-vLLM 为例，深入理解 LLM 推理引擎",
-      "source": "开源中国",
-      "published": "2026-04-15",
-      "summary": "这篇文章没有停留在理论层面，而是深入 Nano-vLLM ------ 一个由 DeepSeek 贡献者开源的、仅 1200 行代码却完整实现 vLLM 核心机制的推理引擎。从生产者 - 消费者调度器如何平衡吞吐量与延迟，到 BlockManager 如何通过哈希实现前缀缓存，再到张量并行下 Leader-Worker 的共享内存通信，文章用清晰的工程视角拆解了从提示...",
-      "link": "https://my.oschina.net/IDP/blog/19575350",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜Snap宣布将裁员约1000人；字节启动新一轮期权回购；苹果CEO库克斥资106万美元增持耐克",
+      "title": "新加坡的AI征途：孕育下一个“硅谷”",
       "source": "36氪",
-      "published": "2026-04-15",
-      "summary": "大公司：Snap宣布将裁员约1000人4月15日，社交媒体公司Snap宣布一系列调整，这些调整将影响Snap约1000名团队成员，包括16%的全职员工，此外，公司还将关闭300多个空缺职位。通过调整，公司预计到2026年下半年，年度成本将减少超过5亿美元。Snap表示，对即将离职的美国团队成员，公司将提供四个月的遣散费、医疗保险和股权激励，以及职业转型支持。在美国以外地区，公司将遵循当地流程，并努力提供符合当地规范的同等支持。英特尔据悉将在未来几周向员工披露参与马斯克Terafab项目的细节根据英特尔(CEO陈立武上周发出的一份备忘录，该公司计划在“未来几周”向员工披露其参与埃隆·马斯克雄心勃",
-      "link": "https://36kr.com/p/3767970803221251?f=rss",
+      "published": "2026-04-16",
+      "summary": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是一片蛮荒之地，即使现在，新加坡本地人告诉我，“有人在丛林中看到过狮子”。不过，如今的榜鹅，有的不仅是密林与野兽的传说，设在此地的榜鹅数码园区(Punggol Digital District, PDD) 是新加坡新晋的科技创新聚集地。就在4月初，中国自动驾驶科技公司文远知行与Grab宣布，在新加坡榜鹅地区启动自",
+      "link": "https://36kr.com/p/3768997634130434?f=rss",
       "category": "AI News"
     },
     {
-      "title": "粗门完成数千万A+轮融资，在AI时代让更多人“出门”｜36氪首发",
+      "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
       "source": "36氪",
-      "published": "2026-04-15",
-      "summary": "36氪获悉，线下兴趣活动社区“粗门”已完成新一轮融资，投资方为一家长期关注消费与生活方式领域的香港家族基金。 本轮资金将主要用于扩大品牌影响力、提升优质主理人供给，并加速社区生态与玩法体系建设。这也是粗门继2023年获得Keep战略投资后的又一次融资。粗门正在试图重构一件逐渐被忽视的事情——人们“如何在现实世界一起玩”。当线上娱乐极度丰富，线下体验反而变稀缺过去二十年，互联网解决的是“链接”和“内容”。但今天，一个新的问题正在出现：线上娱乐越丰富，线下真实体验反而越稀缺。短视频、游戏、社交平台占据了大量时间，但人与人之间面对面的真实互动却在减少。粗门创始人湘翁曾负责闲鱼产品与支付宝B端产品，他",
-      "link": "https://36kr.com/p/3766710136570368?f=rss",
+      "published": "2026-04-16",
+      "summary": "出品｜36氪创投研究院文｜罗婧、杜梦当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色，2026年的一级市场，已然迈入真实价值主导的全新创投时代。又一波浪潮袭来，谁在被看见，谁在被押注？市场逻辑已然彻底迭代：从盲目追逐风口，转向审慎布局长期；从为资本故事买单，转向为技术壁垒、商业增长、成熟商业化路径下注。行业用最直白的规则印证：能赢得市场认可、能穿越经济周期的，从来不是虚无的资本泡沫，而是扎实的核心技术、清晰的商业闭环、可验证的稳健成长。从技术趋势看，AI早已跳出实验室范畴，深度融入产业底座，大模型、智能体、具身智能、机器人全面迈向规",
+      "link": "https://36kr.com/p/3768967684096521?f=rss",
       "category": "AI News"
     },
     {
-      "title": "最前线｜追觅生态企业娲宝科技发布宠物智能项圈，布局“项圈+宠粮”数据闭环",
+      "title": "王子杰逝世：创办丝芭、久游网，引进《劲舞团》",
       "source": "36氪",
-      "published": "2026-04-15",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来4月13日，娲宝科技正式推出新一代宠物智能项圈，并同步披露其技术架构及后续产品布局。图源企业近年来，宠物相关消费持续增长，行业正由基础饲养逐步向精细化健康管理延伸。在宠物智能硬件领域，现有产品多集中于定位、围栏及运动记录等功能，部分产品开始引入心率、体温等基础生理指标监测，但整体仍以单点数据为主，数据维度与应用场景相对有限，尚未形成完整的健康管理闭环。在此背景下，娲宝科技将产品定位为长期健康数据采集终端，尝试通过硬件、数据、宠粮与后续服务结合的方式，拓展应用场景。此次发布的智能项圈，采用声、光、力多模态传感方案，结合骨传导、光谱与柔性传感技术，对宠物生理与行为数",
-      "link": "https://36kr.com/p/3767424500171271?f=rss",
+      "published": "2026-04-16",
+      "summary": "文丨刘士武4月16日，丝芭传媒发布讣告，确认其创始人、董事长王子杰于4月14日在上海因病离世，享年63岁。这位横跨网络游戏与偶像产业两代浪潮的创业者，其职业生涯的起落，折射了中国互动娱乐产业从代理引进、到本土化探索、直至原创内容竞争的关键转型。图源：丝芭传媒微博王子杰出生于1963年，祖籍浙江宁波。从美国游戏行业工作到日本留学，他早期在 日本留学后加入了 科乐美（KONAMI），这段经历为其积累了丰富的行业资源与视野，其本人也加入了日本国籍。王子杰（图源网络）2003年，王子杰在上海创立久游网，其后成功代理了韩国网络游戏《劲舞团》。《劲舞团》是定义了一个时代的产品。鼎盛时期，这款游戏成为常年霸",
+      "link": "https://36kr.com/p/3768979949027840?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨许家印一审当庭认罪悔罪；交管部门回应新能源车牌绿色变白色；生成内容涉黄，哩布哩布AI回应",
+      "title": "一线城市房地产率先出现企稳迹象",
       "source": "36氪",
-      "published": "2026-04-15",
-      "summary": "今日热点导览可能含有“永久性化学物”，Lululemon在美被调查近一周“一口价”黄金产品最高下跌17%中国将健全药品价格形成机制离境退税2.0版措施预计4月底前推出苹果加码iPhone FoldTOP3大新闻恒大集团、恒大地产及许家印案一审开庭2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息、单位行贿，被告单位恒大地产集团有限公司欺诈发行证券，被告人许家印非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿一案",
-      "link": "https://36kr.com/p/3767326268392199?f=rss",
+      "published": "2026-04-16",
+      "summary": "本轮楼市“小阳春”成色如何？国家统计局4月16日发布的数据显示，3月份，一线城市新建商品住宅销售价格环比由上月持平转为上涨0.2%。其中，除北京环比持平之外，上海、广州和深圳的新房价格全部出现环比上涨。2026年3月70个大中城市新建商品住宅销售价格指数，来源：国家统计局二手房方面，3月份，一线城市二手住宅销售价格环比由上月下降0.1%转为上涨0.4%。北上广深四城二手房价格全部环比上涨，涨幅分别为0.6%、0.4%、0.2%和0.4%。这意味着，一线城市在本轮楼市“小阳春”中率先稳住了。2026年3月70个大中城市二手住宅销售价格指数，来源：国家统计局二、三线城市房地产市场仍处于下降趋势中，",
+      "link": "https://36kr.com/p/3768928312001028?f=rss",
       "category": "AI News"
     }
   ]
