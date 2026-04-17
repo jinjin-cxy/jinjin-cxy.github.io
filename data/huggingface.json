@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T13:00:18.557922+00:00",
+  "updated": "2026-04-17T01:19:57.324825+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
@@ -22,7 +22,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 13849161,
-      "likes": 3199,
+      "likes": 3208,
       "tags": [
         "transformers",
         "pytorch",
@@ -118,7 +118,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 8582115,
-      "likes": 1042,
+      "likes": 1044,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 6191914,
-      "likes": 4539,
+      "likes": 4549,
       "tags": [
         "transformers",
         "safetensors",
