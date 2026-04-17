@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-17T01:20:11.106088+00:00",
+  "updated": "2026-04-17T12:52:13.692304+00:00",
   "articles": [
     {
-      "title": "最前线｜大疆发布 Pocket 4 并预告双摄版本，起售价下调500元",
+      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+      "source": "量子位",
+      "published": "2026-04-17",
+      "summary": "算力只需200TOPS",
+      "link": "https://www.qbitai.com/2026/04/402440.html",
+      "category": "AI News"
+    },
+    {
+      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+      "source": "量子位",
+      "published": "2026-04-17",
+      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手",
+      "link": "https://www.qbitai.com/2026/04/402388.html",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
+      "source": "量子位",
+      "published": "2026-04-17",
+      "summary": "Gemini Robotics主打空间推理的第三代模型。",
+      "link": "https://www.qbitai.com/2026/04/402329.html",
+      "category": "AI News"
+    },
+    {
+      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+      "source": "量子位",
+      "published": "2026-04-17",
+      "summary": "π0.7：具有涌现能力的可控模型",
+      "link": "https://www.qbitai.com/2026/04/402189.html",
+      "category": "AI News"
+    },
+    {
+      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
+      "source": "量子位",
+      "published": "2026-04-17",
+      "summary": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻",
+      "link": "https://www.qbitai.com/2026/04/402186.html",
+      "category": "AI News"
+    },
+    {
+      "title": "借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-04-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-04-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-04-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 驱动的数据库心脏：如何让云原生「自我进化」",
+      "source": "InfoQ 中文",
+      "published": "2026-04-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/U4zazqfjWb11OTq7OeP6?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Karpathy 亲手终结了 RAG 的草莽时代",
+      "source": "InfoQ 中文",
+      "published": "2026-04-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Ant Design 6.3.6 发布，企业级 UI 设计语言和 React 实现",
+      "source": "开源中国",
+      "published": "2026-04-17",
+      "summary": "Ant Design 是阿里巴巴开源的一套企业级 UI 设计语言和 React 组件库。Ant Design 6.3.6 现已发布，主要更新内容如下： 修复 InputNumber 禁用步进按钮仍显示悬浮样式的问题。 #57592 修复 Space.Addon 在紧凑布局中展示中文等 CJK 内容时会换行的问题。 #57622 修复 Cascader 菜单项长选项文本的省略样式问题。 #57540...",
+      "link": "https://www.oschina.net/news/430752/ant-design-6-3-6-released",
+      "category": "AI News"
+    },
+    {
+      "title": "Grafana 13.0.1 发布，系统指标监控与分析平台",
+      "source": "开源中国",
+      "published": "2026-04-17",
+      "summary": "Grafana 是一个用于监控和可观察性的开源平台，可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志等。 Grafana 13.0.1 现已正式发布，主要更新内容如下： Features and enhancements Dashboard：在 V1 → V2 转换时保留用户时区偏好设置 #122673 Provisioning：在拉取请求评论中包...",
+      "link": "https://www.oschina.net/news/430739/grafana-13-0-1-released",
+      "category": "AI News"
+    },
+    {
+      "title": "SQLAlchemy 2.1.0b2 发布",
+      "source": "开源中国",
+      "published": "2026-04-17",
+      "summary": "SQLAlchemy 2.1 系列的第二个测试版现已发布。 2.1.0b2 版本新增了对 mssql-python DBAPI 的支持，这是由微软直接开发的 Microsoft SQL Server 驱动程序。此外还引入了其他一些功能和错误修复。 SQLAlchemy 是一个 Python 的 SQL 工具包以及数据库对象映射 (ORM) 框架。它包含整套企业级持久化模式，专门用于高效和高性能...",
+      "link": "https://www.oschina.net/news/430721/sqlalchemy-2-1-0b2-released",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: Solon AI v3.13 发布（智能体开发框架，支持 Java8 到 Java26）",
+      "source": "开源中国",
+      "published": "2026-04-17",
+      "summary": "Solon AI Solon AI 是一款面向 Java 开发者 的全栈智能体（Agent）应用开发框架。它秉承 Solon 家族一贯的“克制、高效、开放”理念，向上抽象统一接口屏蔽模型差异，向下深度集成向量库、MCP 协议与复杂流控制。 核心理念： 一份代码，跨模型运行；极致轻量，从 Java 8 纵跳至 Java 26。 核心架构图谱： 维度 核心能力 ...",
+      "link": "https://www.oschina.net/news/430715/solon-ai-3-13-released",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里开源 Qwen3.6-35B-A3B",
+      "source": "开源中国",
+      "published": "2026-04-17",
+      "summary": "阿里通义实验室宣布开源 Qwen3.6-35B-A3B，一款采用稀疏混合专家（MoE）架构的高效模型：总参数 350 亿，每次推理仅激活 30 亿参数。 公告称，相比前代 Qwen3.5-35B-A3B，Qwen3.6-35B-A3 在 SWE-bench、Terminal-Bench 等基准上显著提升，并可与 Qwen3.5-27B、Gemma-31B 等体量更大的稠密模型一较高下。 Qwen3.6-35B-A3...",
+      "link": "https://www.oschina.net/news/430710",
+      "category": "AI News"
+    },
+    {
+      "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
       "source": "36氪",
       "published": "2026-04-17",
-      "summary": "文｜张子怡编辑｜袁斯来4月16日，大疆正式发布全新一英寸口袋云台相机Osmo Pocket 4。作为大疆影像产品线中的现象级单品，本代产品在维持便携形态的基础上，通过提升影像规格并降低售价，以应对日益激烈的短视频硬件市场竞争。影像性能是此次升级的核心。Pocket 4搭载了全新一英寸CMOS，动态范围提升至14级，并支持10-bit D-Log专业色彩模式。最显著的性能跨越体现在高帧率拍摄上，设备支持4K/240fps慢动作录制，这一指标已媲美万元级专业影像设备。针对人像拍摄这一核心场景，Pocket 4优化了肤色调校算法，并新增内置美肤滤镜以及支持三级色温调节的外置补光灯配件。此外，针对前代",
-      "link": "https://36kr.com/p/3769604011885316?f=rss",
+      "summary": "36 氪从多个独立信源获悉，4月17日，小米集团通过内部邮件宣布：胡峥楠出任小米集团副总裁、汽车部 CTO；宋钢出任小米集团汽车部副总裁、参谋长。这是小米汽车自 2021 年宣布成立以来首次设立 CTO 岗位。据 36 氪了解，两位新任高管在汽车行业均有超过二十年的从业积累，履历横跨传统车企与新能源赛道。截至目前，小米汽车研发人员接近万人。一大批各有所长的汽车行业专家的加入，小米汽车正加快形成覆盖研发、设计、制造、安全、供应链等全链条人才体系。顶尖人才也渴望更大舞台胡峥楠加入小米，是一个经过长期观察与验证的双向选择。胡峥楠 1997 年进入汽车行业，至今已有近三十年从业积累，是中国汽车工业自主",
+      "link": "https://36kr.com/p/3770688595214857?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
       "source": "36氪",
       "published": "2026-04-17",
-      "summary": "今日热点导览丝芭传媒：创始人王子杰去世，享年63岁国家统计局：日均词元调用量突破140万亿，较上年末增长40%京东发布机器人产业服务全景图为加速重塑Siri，苹果安排近200名工程师培训AI编程特朗普签发多项输油管道许可，以促进美加之间的石油运输TOP3大新闻全季大连某酒店账号公开多名客人特殊订单备注，华住集团客服回应近日，一则题为“全季客人备注大赏”的帖文在社交平台引发争议。涉事账号“全季大连xx酒店”将多名客人的特殊订单备注公开发布，配文称“每天被客人备注笑到捶桌”“前台已笑晕在系统里”。有网友发帖表示：“一个酒店官方账号，私自将客人订单备注发到网上，评论区引起网友无谓的猜测，有些甚至偏恶",
-      "link": "https://36kr.com/p/3770155029398018?f=rss",
+      "summary": "文｜邱晓芬编辑｜苏建勋2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。而此前在2025年，在全球AI浪潮下，荣耀已发起了一场转型，从一家智能手机制",
+      "link": "https://36kr.com/p/3770819743728131?f=rss",
       "category": "AI News"
     },
     {
-      "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
-      "source": "量子位",
-      "published": "2026-04-16",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/402085.html",
-      "category": "AI News"
-    },
-    {
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
-      "source": "量子位",
-      "published": "2026-04-16",
-      "summary": "发布一站式物理AI数据服务平台",
-      "link": "https://www.qbitai.com/2026/04/401741.html",
-      "category": "AI News"
-    },
-    {
-      "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
-      "source": "量子位",
-      "published": "2026-04-16",
-      "summary": "推动具身智能从实验室研发迈向规模化商业落地，打造“具身智能超级供应链”。",
-      "link": "https://www.qbitai.com/2026/04/402063.html",
-      "category": "AI News"
-    },
-    {
-      "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
-      "source": "量子位",
-      "published": "2026-04-16",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/401994.html",
-      "category": "AI News"
-    },
-    {
-      "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
-      "source": "量子位",
-      "published": "2026-04-16",
-      "summary": "具身圈开源了个SOTA",
-      "link": "https://www.qbitai.com/2026/04/401743.html",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里“快乐马”团队再出手！世界模型 HappyOyster 来了，正面叫板谷歌 Genie 3",
-      "source": "InfoQ 中文",
-      "published": "2026-04-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/XhNNKN6qY4YNml04B0fF?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md",
-      "source": "InfoQ 中文",
-      "published": "2026-04-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元",
-      "source": "InfoQ 中文",
-      "published": "2026-04-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/aabRtNR5WreQuo4Kt4h9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
-      "source": "InfoQ 中文",
-      "published": "2026-04-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude 推行强制化实名认证：部分功能需提交证件和自拍",
-      "source": "InfoQ 中文",
-      "published": "2026-04-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/dDG9KpwHWj9ufYENNgVP?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "COPU 名誉主席陆首群与 Linux 基金会执行董事 Jim Zemlin 会晤",
-      "source": "开源中国",
-      "published": "2026-04-16",
-      "summary": "Linux基金会执行董事Jim Zemlin一行于4月16日在北京与中国开源软件推进联盟(COPU)名誉主席陆首群一行友情会晤。双方讨论国内和全球开源、深度信息技术和人工智能发展问题。 Jim介绍由Linux基金会宣布在美国成立的智能体人工智能基金会(Agentic AI Foundation，AAIF)的情况； 陆主席介绍拟于6月25~26日召开《第21届开源中...",
-      "link": "https://www.oschina.net/news/423128",
-      "category": "AI News"
-    },
-    {
-      "title": "Guava 33.6.0 发布，Google 的 Java 核心工具库",
-      "source": "开源中国",
-      "published": "2026-04-16",
-      "summary": "Guava 33.6.0 现已发布。Guava 是 Google 的一套核心 Java 库，包括新的集合类型（如 multimap 和 multiset）、图库，以及用于并发、I/O、散列、缓存、基元、字符串等实用工具。它被广泛用于 Google 内部的 Java 项目，同时也被许多其他公司广泛使用。 Maven \n<dependency>\n  <groupId>com.google.guava</groupId>\n ...",
-      "link": "https://www.oschina.net/news/423096/guava-33-6-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "TinyVue 3.30 正式发布",
-      "source": "开源中国",
-      "published": "2026-04-16",
-      "summary": "近期，OpenTiny 社区正式发布 TinyVue v3.30.0！这个版本不仅是一次常规的功能迭代，更是 TinyVue 在 “跨端响应式” 上的里程碑式飞跃。",
-      "link": "https://my.oschina.net/u/6769809/blog/19577885",
-      "category": "AI News"
-    },
-    {
-      "title": "LinkedIn 数据显示：AI 并非影响就业的罪魁祸首",
-      "source": "开源中国",
-      "published": "2026-04-16",
-      "summary": "微软旗下职业社交网站领英（LinkedIn）的全球事务与法律事务主管 Blake Lawit 在接受采访时证实，该公司数据显示自 2022 年以来，招聘人数下降了约 20%。 但他反驳了将责任归咎于 AI 的说法。“我们对此进行了研究——因为大家都想知道这个问题的答案：AI 目前是否正在影响就业？我们进行了研究，老实说，我们尚未观察到...",
-      "link": "https://www.oschina.net/news/423061",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude 背刺用户，国产大模型谁能顶上？",
-      "source": "开源中国",
-      "published": "2026-04-16",
-      "summary": "2026 年 4 月 14 日，Anthropic 在 Claude Support 帮助页面悄然上线身份验证说明文档 —— 这是主流 AI 应用中首家大规模实施 KYC 的案例。",
-      "link": "https://my.oschina.net/u/4487475/blog/19577856",
-      "category": "AI News"
-    },
-    {
-      "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
+      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
       "source": "36氪",
-      "published": "2026-04-16",
-      "summary": "2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。“GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只有5",
-      "link": "https://36kr.com/p/3769501816439555?f=rss",
+      "published": "2026-04-17",
+      "summary": "文｜王欣逸编辑｜苏建勋龙虾热还在继续。4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研龙虾YOYO CLAW，荣耀MagicBook 14 | 16 2026款售价5949.15元起。作为一家终端厂商，荣耀一直在AI PC有所布局。2026年初，OpenCl",
+      "link": "https://36kr.com/p/3770787623404293?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
+      "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
       "source": "36氪",
-      "published": "2026-04-16",
-      "summary": "大公司：亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。京东发布机器人产业服务全景图36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 200家品牌，目标2026年销售破百亿；依托超级供应链，建全球最大具身数据采集中心、京东机器人售后维修服务3年覆盖50余城；基于JoyAI大模型加速开放JoyInsid",
-      "link": "https://36kr.com/p/3769360179298818?f=rss",
+      "published": "2026-04-17",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第182期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购长征火箭老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿人民币交易方式：直接老股交易，可以接受进入结构联系方式：zcjy@36kr.com2、求购乐聚机器人",
+      "link": "https://36kr.com/p/3770718127964928?f=rss",
       "category": "AI News"
     },
     {
-      "title": "新加坡的AI征途：孕育下一个“硅谷”",
+      "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
       "source": "36氪",
-      "published": "2026-04-16",
-      "summary": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是一片蛮荒之地，即使现在，新加坡本地人告诉我，“有人在丛林中看到过狮子”。不过，如今的榜鹅，有的不仅是密林与野兽的传说，设在此地的榜鹅数码园区(Punggol Digital District, PDD) 是新加坡新晋的科技创新聚集地。就在4月初，中国自动驾驶科技公司文远知行与Grab宣布，在新加坡榜鹅地区启动自",
-      "link": "https://36kr.com/p/3768997634130434?f=rss",
+      "published": "2026-04-17",
+      "summary": "零售业的风向，正在从线上狂奔转向线下深耕。从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。聚焦到生鲜行业，这种转变尤为显著。一度被视为颠覆者的纯线上生鲜电商，在经历高速扩张后，不少正陷入高昂履约成本与盈利艰难的现实泥潭。反观扎根社区的线下生鲜店，凭借无可替代的临场体验与健康的盈利模型，重获青睐。而在这条价值回归之路上，早已深耕社区多年的钱大妈，无疑走在了",
+      "link": "https://36kr.com/p/3770699297800707?f=rss",
       "category": "AI News"
     }
   ]
