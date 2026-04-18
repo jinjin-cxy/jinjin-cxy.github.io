@@ -1,6 +1,54 @@
 {
-  "updated": "2026-04-18T01:13:56.616165+00:00",
+  "updated": "2026-04-18T12:34:12.910122+00:00",
   "articles": [
+    {
+      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+      "source": "量子位",
+      "published": "2026-04-18",
+      "summary": "不以尺寸定义汽车平台",
+      "link": "https://www.qbitai.com/2026/04/402636.html",
+      "category": "AI News"
+    },
+    {
+      "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
+      "source": "InfoQ 中文",
+      "published": "2026-04-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
+      "source": "InfoQ 中文",
+      "published": "2026-04-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire:Java 最好用的基于 mybatis 的 ORM 框架，1.10.0 正式发布，绝对不能错过！！！",
+      "source": "开源中国",
+      "published": "2026-04-18",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写1/3甚至2/3的持久层代码；API 简单 快捷 优雅 简洁 构建SQL非常强！用过的 没用过的都来体验，虽然有AI了，但是真正好用的ORM的还不能忽略的，除非你以后不维护。 1.10.0 - 2026-04-18 1：修复主动调用了fetchFilter/fetchEnable时，可能出现报错的问题（未使...",
+      "link": "https://www.oschina.net/news/431533",
+      "category": "AI News"
+    },
+    {
+      "title": "技术日报｜superpowers 突破 15.7 万星重夺榜首，Google AI 文件检测工具magika强势入榜",
+      "source": "开源中国",
+      "published": "2026-04-18",
+      "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 15 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 obra/superpowers 项目简介: Claude Code 超级能力：核心技能库 今日新增: 1713 * 总星数: 157744 * 语言: Shell https://github.com/obra/super...",
+      "link": "https://www.oschina.net/news/431421",
+      "category": "AI News"
+    },
+    {
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "source": "36氪",
+      "published": "2026-04-18",
+      "summary": "文｜王毓婵编辑｜杨轩当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。所谓“一体三智”，“一体”指的是机器人本体；\"三智\"则包括：运动智能（基础智能，承担物理载体的执行器",
+      "link": "https://36kr.com/p/3770721219035649?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "9点1氪丨霍尔木兹海峡完全开放；雷军称未来几年不会做十万元以内车型；四大一线城市房价全涨",
       "source": "36氪",
@@ -42,14 +90,6 @@
       "category": "AI News"
     },
     {
-      "title": "18家具身顶尖势力集结，RoboChallenge 打造全球最大具身模型竞技场",
-      "source": "量子位",
-      "published": "2026-04-17",
-      "summary": "RoboChallenge 正式完成第二批生态扩容，星动纪元、极佳视界、地平线、光轮智能、生数科技、中移杭研、长虹、算力自由8 家顶尖企业重磅入驻",
-      "link": "https://www.qbitai.com/2026/04/402186.html",
-      "category": "AI News"
-    },
-    {
       "title": "借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势",
       "source": "InfoQ 中文",
       "published": "2026-04-17",
@@ -71,22 +111,6 @@
       "published": "2026-04-17",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 驱动的数据库心脏：如何让云原生「自我进化」",
-      "source": "InfoQ 中文",
-      "published": "2026-04-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/U4zazqfjWb11OTq7OeP6?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Karpathy 亲手终结了 RAG 的草莽时代",
-      "source": "InfoQ 中文",
-      "published": "2026-04-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -114,22 +138,6 @@
       "category": "AI News"
     },
     {
-      "title": ":fire: Solon AI v3.13 发布（智能体开发框架，支持 Java8 到 Java26）",
-      "source": "开源中国",
-      "published": "2026-04-17",
-      "summary": "Solon AI Solon AI 是一款面向 Java 开发者 的全栈智能体（Agent）应用开发框架。它秉承 Solon 家族一贯的“克制、高效、开放”理念，向上抽象统一接口屏蔽模型差异，向下深度集成向量库、MCP 协议与复杂流控制。 核心理念： 一份代码，跨模型运行；极致轻量，从 Java 8 纵跳至 Java 26。 核心架构图谱： 维度 核心能力 ...",
-      "link": "https://www.oschina.net/news/430715/solon-ai-3-13-released",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里开源 Qwen3.6-35B-A3B",
-      "source": "开源中国",
-      "published": "2026-04-17",
-      "summary": "阿里通义实验室宣布开源 Qwen3.6-35B-A3B，一款采用稀疏混合专家（MoE）架构的高效模型：总参数 350 亿，每次推理仅激活 30 亿参数。 公告称，相比前代 Qwen3.5-35B-A3B，Qwen3.6-35B-A3 在 SWE-bench、Terminal-Bench 等基准上显著提升，并可与 Qwen3.5-27B、Gemma-31B 等体量更大的稠密模型一较高下。 Qwen3.6-35B-A3...",
-      "link": "https://www.oschina.net/news/430710",
-      "category": "AI News"
-    },
-    {
       "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
       "source": "36氪",
       "published": "2026-04-17",
@@ -151,14 +159,6 @@
       "published": "2026-04-17",
       "summary": "文｜王欣逸编辑｜苏建勋龙虾热还在继续。4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研龙虾YOYO CLAW，荣耀MagicBook 14 | 16 2026款售价5949.15元起。作为一家终端厂商，荣耀一直在AI PC有所布局。2026年初，OpenCl",
       "link": "https://36kr.com/p/3770787623404293?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
-      "source": "36氪",
-      "published": "2026-04-17",
-      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。本文是这个栏目的第182期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）一、本月新增1、求购长征火箭老股份额（预期估值面议）交易价格：预期估值面议资产规模：约5000万-1亿人民币交易方式：直接老股交易，可以接受进入结构联系方式：zcjy@36kr.com2、求购乐聚机器人",
-      "link": "https://36kr.com/p/3770718127964928?f=rss",
       "category": "AI News"
     }
   ]
