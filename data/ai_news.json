@@ -1,6 +1,62 @@
 {
-  "updated": "2026-04-19T01:22:35.108888+00:00",
+  "updated": "2026-04-19T12:33:42.340492+00:00",
   "articles": [
+    {
+      "title": "Kimi新论文：把KVCache玩成新商业模式了",
+      "source": "量子位",
+      "published": "2026-04-19",
+      "summary": "超长上下文福音",
+      "link": "https://www.qbitai.com/2026/04/403528.html",
+      "category": "AI News"
+    },
+    {
+      "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+      "source": "量子位",
+      "published": "2026-04-19",
+      "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛",
+      "link": "https://www.qbitai.com/2026/04/403226.html",
+      "category": "AI News"
+    },
+    {
+      "title": "大模型架构的下半场",
+      "source": "量子位",
+      "published": "2026-04-19",
+      "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力",
+      "link": "https://www.qbitai.com/2026/04/403515.html",
+      "category": "AI News"
+    },
+    {
+      "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+      "source": "量子位",
+      "published": "2026-04-19",
+      "summary": "打造出全球首个面向AGI的全栈具身技术体系。",
+      "link": "https://www.qbitai.com/2026/04/403505.html",
+      "category": "AI News"
+    },
+    {
+      "title": "马斯克来抖音卖老干妈了？？",
+      "source": "量子位",
+      "published": "2026-04-19",
+      "summary": "这将是一个虚拟与现实，彻底融合的世界",
+      "link": "https://www.qbitai.com/2026/04/403308.html",
+      "category": "AI News"
+    },
+    {
+      "title": "2050大会召集令 | 我们为科技年青人准备了N多玩法，保姆级指南在此",
+      "source": "InfoQ 中文",
+      "published": "2026-04-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/M7UiLINVJHX6jboGsfgk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
+      "source": "InfoQ 中文",
+      "published": "2026-04-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
       "source": "InfoQ 中文",
@@ -18,27 +74,19 @@
       "category": "AI News"
     },
     {
-      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
-      "source": "量子位",
-      "published": "2026-04-18",
-      "summary": "自然语言控制设备，零编程编排流程",
-      "link": "https://www.qbitai.com/2026/04/402988.html",
+      "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场",
+      "source": "36氪",
+      "published": "2026-04-19",
+      "summary": "4月19日，2026北京亦庄人形机器人半程马拉松比赛成功举办。荣耀齐天大圣队参赛选手机器人“闪电”以50分26秒（净用时）的成绩斩获赛事冠军，另一款参赛机器人“元气仔”以优美的跑姿同步完成赛事，展现了荣耀在人形机器人领域的深厚技术积淀与领先实力。现场图片据了解，本次赛道全长21.0975公里，涵盖多种复杂路况，对机器人的运动稳定性、续航能力及散热性能提出了极高要求，是对人形机器人技术实力的全面检验。荣耀参赛的两款机器人中，“闪电”身高169cm，外观采用潮酷机甲风设计；“元气仔”身高136.9cm，采用银色亲和化设计，两款机器人外观简约大气，贴合赛事运动属性。此次参赛是荣耀人形机器人技术从实验",
+      "link": "https://36kr.com/p/3773492357169920?f=rss",
       "category": "AI News"
     },
     {
-      "title": "OpenClaw的风，已经吹进了奶茶圈",
-      "source": "量子位",
-      "published": "2026-04-18",
-      "summary": "企业如何安全落地龙虾？",
-      "link": "https://www.qbitai.com/2026/04/402965.html",
-      "category": "AI News"
-    },
-    {
-      "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-      "source": "量子位",
-      "published": "2026-04-18",
-      "summary": "不以尺寸定义汽车平台",
-      "link": "https://www.qbitai.com/2026/04/402636.html",
+      "title": "36氪首发 | 前华为工程师创业，实现临时键合载板存量循环，龙头客户已验证",
+      "source": "36氪",
+      "published": "2026-04-19",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，环晶芯科技已于近期完成数千万元天使轮融资。本轮由啟赋资本领投，盛世投资、海益资本及湖南省大学生创业投资基金跟投。资金将主要用于公司在无锡的首条量产线建设、研发投入及补充流动资金。环晶芯科技成立于2025年5月，是国内首家提出临时键合载板无损回收复用方案的公司。公司创始人张介元拥有中科院、中科大、哈工大的研究背景及华为从业经历，师从国内打破临时键合胶垄断的第一人，对该类材料特性有深刻理解。硬氪了解到，在先进封装中，为加工超薄晶圆或器件，需通过临时键合胶将其固定在坚硬的载板上。加工完成后，再将晶圆与载板分离。然而，用于粘合的临时键合胶具有极强的耐酸、耐碱、耐高温特性",
+      "link": "https://36kr.com/p/3773090942321155?f=rss",
       "category": "AI News"
     },
     {
@@ -47,14 +95,6 @@
       "published": "2026-04-18",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
-      "source": "InfoQ 中文",
-      "published": "2026-04-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -90,30 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-      "source": "量子位",
-      "published": "2026-04-17",
-      "summary": "算力只需200TOPS",
-      "link": "https://www.qbitai.com/2026/04/402440.html",
-      "category": "AI News"
-    },
-    {
-      "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
-      "source": "量子位",
-      "published": "2026-04-17",
-      "summary": "全栈大脑会成为具身智能下一阶段竞赛的胜负手",
-      "link": "https://www.qbitai.com/2026/04/402388.html",
-      "category": "AI News"
-    },
-    {
-      "title": "借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势",
-      "source": "InfoQ 中文",
-      "published": "2026-04-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "Ant Design 6.3.6 发布，企业级 UI 设计语言和 React 实现",
       "source": "开源中国",
       "published": "2026-04-17",
@@ -143,22 +159,6 @@
       "published": "2026-04-17",
       "summary": "36 氪从多个独立信源获悉，4月17日，小米集团通过内部邮件宣布：胡峥楠出任小米集团副总裁、汽车部 CTO；宋钢出任小米集团汽车部副总裁、参谋长。这是小米汽车自 2021 年宣布成立以来首次设立 CTO 岗位。据 36 氪了解，两位新任高管在汽车行业均有超过二十年的从业积累，履历横跨传统车企与新能源赛道。截至目前，小米汽车研发人员接近万人。一大批各有所长的汽车行业专家的加入，小米汽车正加快形成覆盖研发、设计、制造、安全、供应链等全链条人才体系。顶尖人才也渴望更大舞台胡峥楠加入小米，是一个经过长期观察与验证的双向选择。胡峥楠 1997 年进入汽车行业，至今已有近三十年从业积累，是中国汽车工业自主",
       "link": "https://36kr.com/p/3770688595214857?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
-      "source": "36氪",
-      "published": "2026-04-17",
-      "summary": "文｜邱晓芬编辑｜苏建勋2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。而此前在2025年，在全球AI��潮下，荣耀已发起了一场转型，从一家智能手机",
-      "link": "https://36kr.com/p/3770819743728131?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
-      "source": "36氪",
-      "published": "2026-04-17",
-      "summary": "文｜王欣逸编辑｜苏建勋龙虾热还在继续。4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研龙虾YOYO CLAW，荣耀MagicBook 14 | 16 2026款售价5949.15元起。作为一家终端厂商，荣耀一直在AI PC有所布局。2026年初，OpenCl",
-      "link": "https://36kr.com/p/3770787623404293?f=rss",
       "category": "AI News"
     }
   ]
