@@ -1,6 +1,38 @@
 {
-  "updated": "2026-04-18T12:34:12.910122+00:00",
+  "updated": "2026-04-19T01:22:35.108888+00:00",
   "articles": [
+    {
+      "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+      "source": "InfoQ 中文",
+      "published": "2026-04-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
+      "source": "InfoQ 中文",
+      "published": "2026-04-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+      "source": "量子位",
+      "published": "2026-04-18",
+      "summary": "自然语言控制设备，零编程编排流程",
+      "link": "https://www.qbitai.com/2026/04/402988.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenClaw的风，已经吹进了奶茶圈",
+      "source": "量子位",
+      "published": "2026-04-18",
+      "summary": "企业如何安全落地龙虾？",
+      "link": "https://www.qbitai.com/2026/04/402965.html",
+      "category": "AI News"
+    },
     {
       "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
       "source": "量子位",
@@ -74,43 +106,11 @@
       "category": "AI News"
     },
     {
-      "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
-      "source": "量子位",
-      "published": "2026-04-17",
-      "summary": "Gemini Robotics主打空间推理的第三代模型。",
-      "link": "https://www.qbitai.com/2026/04/402329.html",
-      "category": "AI News"
-    },
-    {
-      "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
-      "source": "量子位",
-      "published": "2026-04-17",
-      "summary": "π0.7：具有涌现能力的可控模型",
-      "link": "https://www.qbitai.com/2026/04/402189.html",
-      "category": "AI News"
-    },
-    {
       "title": "借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势",
       "source": "InfoQ 中文",
       "published": "2026-04-17",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势",
-      "source": "InfoQ 中文",
-      "published": "2026-04-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
-      "source": "InfoQ 中文",
-      "published": "2026-04-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -149,7 +149,7 @@
       "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
       "source": "36氪",
       "published": "2026-04-17",
-      "summary": "文｜邱晓芬编辑｜苏建勋2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。而此前在2025年，在全球AI浪潮下，荣耀已发起了一场转型，从一家智能手机制",
+      "summary": "文｜邱晓芬编辑｜苏建勋2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力——3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。而此前在2025年，在全球AI��潮下，荣耀已发起了一场转型，从一家智能手机",
       "link": "https://36kr.com/p/3770819743728131?f=rss",
       "category": "AI News"
     },

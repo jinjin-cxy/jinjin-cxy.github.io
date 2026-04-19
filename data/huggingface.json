@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T12:33:55.744031+00:00",
+  "updated": "2026-04-19T01:22:22.351853+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
@@ -22,7 +22,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 13903620,
-      "likes": 3209,
+      "likes": 3210,
       "tags": [
         "transformers",
         "pytorch",
@@ -70,7 +70,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 10319909,
-      "likes": 444,
+      "likes": 445,
       "tags": [
         "transformers",
         "safetensors",
@@ -118,7 +118,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 9365524,
-      "likes": 5724,
+      "likes": 5728,
       "tags": [
         "transformers",
         "safetensors",
@@ -134,7 +134,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 8635414,
-      "likes": 1048,
+      "likes": 1049,
       "tags": [
         "transformers",
         "safetensors",
@@ -150,7 +150,7 @@
       "name": "Qwen3-4B",
       "author": "Qwen",
       "downloads": 7564027,
-      "likes": 599,
+      "likes": 600,
       "tags": [
         "transformers",
         "safetensors",
@@ -230,7 +230,7 @@
       "name": "Qwen3-Embedding-0.6B",
       "author": "Qwen",
       "downloads": 6069115,
-      "likes": 982,
+      "likes": 985,
       "tags": [
         "sentence-transformers",
         "safetensors",
