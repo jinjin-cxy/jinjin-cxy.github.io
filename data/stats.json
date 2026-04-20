@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T01:23:09.837062+00:00",
+  "updated": "2026-04-20T13:02:17.768160+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -60,15 +60,15 @@
       "count": 2
     },
     {
-      "language": "HTML",
-      "count": 1
-    },
-    {
       "language": "Rust",
       "count": 1
     },
     {
-      "language": "JavaScript",
+      "language": "HTML",
+      "count": 1
+    },
+    {
+      "language": "Cuda",
       "count": 1
     }
   ]
