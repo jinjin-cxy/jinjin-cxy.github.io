@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T12:33:24.917253+00:00",
+  "updated": "2026-04-20T01:22:55.583713+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
@@ -22,7 +22,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 13939545,
-      "likes": 3210,
+      "likes": 3211,
       "tags": [
         "transformers",
         "pytorch",
@@ -38,7 +38,7 @@
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
       "downloads": 12478456,
-      "likes": 1216,
+      "likes": 1217,
       "tags": [
         "transformers",
         "safetensors",
@@ -54,7 +54,7 @@
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
       "downloads": 10575525,
-      "likes": 669,
+      "likes": 670,
       "tags": [
         "transformers",
         "safetensors",
@@ -70,7 +70,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 10327414,
-      "likes": 445,
+      "likes": 446,
       "tags": [
         "transformers",
         "safetensors",
@@ -86,7 +86,7 @@
       "name": "DeepSeek-V3.2",
       "author": "deepseek-ai",
       "downloads": 10281288,
-      "likes": 1411,
+      "likes": 1413,
       "tags": [
         "transformers",
         "safetensors",
@@ -118,7 +118,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 9258938,
-      "likes": 5729,
+      "likes": 5730,
       "tags": [
         "transformers",
         "safetensors",
