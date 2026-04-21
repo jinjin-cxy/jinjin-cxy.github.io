@@ -1,85 +1,69 @@
 {
-  "updated": "2026-04-21T01:19:53.402880+00:00",
+  "updated": "2026-04-21T12:56:08.799158+00:00",
   "repositories": [
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 9584,
-      "stars_today": 3109,
+      "stars": 10883,
+      "stars_today": 2595,
       "language": "Python",
       "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 48216,
-      "stars_today": 713,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
       "name": "thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": 2829,
-      "stars_today": 675,
+      "stars": 3167,
+      "stars_today": 591,
       "language": "TypeScript",
       "link": "https://github.com/thunderbird/thunderbolt"
     },
     {
-      "name": "paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": 39431,
-      "stars_today": 606,
-      "language": "Python",
-      "link": "https://github.com/paperless-ngx/paperless-ngx"
-    },
-    {
-      "name": "tractorjuice/arc-kit",
-      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "stars": 1348,
-      "stars_today": 329,
-      "language": "HTML",
-      "link": "https://github.com/tractorjuice/arc-kit"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 50119,
-      "stars_today": 316,
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars": 6244,
+      "stars_today": 74,
       "language": "TypeScript",
-      "link": "https://github.com/koala73/worldmonitor"
+      "link": "https://github.com/zilliztech/claude-context"
     },
     {
-      "name": "openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
-      "stars": 23947,
-      "stars_today": 905,
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 48655,
+      "stars_today": 828,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 57260,
+      "stars_today": 131,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    {
+      "name": "dayanch96/YTLite",
+      "description": "A flexible enhancer for YouTube on iOS",
+      "stars": 4713,
+      "stars_today": 43,
+      "language": "Logos",
+      "link": "https://github.com/dayanch96/YTLite"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 16542,
+      "stars_today": 245,
       "language": "Python",
-      "link": "https://github.com/openai/openai-agents-python"
+      "link": "https://github.com/HKUDS/RAG-Anything"
     },
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "stars": 6830,
-      "stars_today": 109,
-      "language": "Cuda",
-      "link": "https://github.com/deepseek-ai/DeepGEMM"
-    },
-    {
-      "name": "pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "stars": 57183,
-      "stars_today": 196,
-      "language": "Shell",
-      "link": "https://github.com/pi-hole/pi-hole"
-    },
-    {
-      "name": "XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "stars": 37456,
-      "stars_today": 78,
-      "language": "Go",
-      "link": "https://github.com/XTLS/Xray-core"
+      "name": "sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
+      "stars": 53295,
+      "stars_today": 604,
+      "language": "Python",
+      "link": "https://github.com/sansan0/TrendRadar"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-21T01:20:03.773592+00:00",
+  "updated": "2026-04-21T12:56:23.998747+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 10,
+    "github_trending": 8,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -64,11 +64,11 @@
       "count": 1
     },
     {
-      "language": "HTML",
+      "language": "Jupyter Notebook",
       "count": 1
     },
     {
-      "language": "Cuda",
+      "language": "Logos",
       "count": 1
     }
   ]
