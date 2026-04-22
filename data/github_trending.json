@@ -1,67 +1,67 @@
 {
-  "updated": "2026-04-21T12:56:08.799158+00:00",
+  "updated": "2026-04-22T01:18:41.065498+00:00",
   "repositories": [
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 10883,
-      "stars_today": 2595,
+      "stars": 11635,
+      "stars_today": 2548,
       "language": "Python",
       "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
       "name": "thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": 3167,
-      "stars_today": 591,
+      "stars": 3479,
+      "stars_today": 596,
       "language": "TypeScript",
       "link": "https://github.com/thunderbird/thunderbolt"
     },
     {
       "name": "zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": 6244,
-      "stars_today": 74,
+      "stars": 6622,
+      "stars_today": 169,
       "language": "TypeScript",
       "link": "https://github.com/zilliztech/claude-context"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 48655,
-      "stars_today": 828,
+      "stars": 48898,
+      "stars_today": 824,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
-      "stars": 57260,
-      "stars_today": 131,
+      "stars": 57695,
+      "stars_today": 200,
       "language": "Jupyter Notebook",
       "link": "https://github.com/microsoft/ai-agents-for-beginners"
     },
     {
       "name": "dayanch96/YTLite",
       "description": "A flexible enhancer for YouTube on iOS",
-      "stars": 4713,
-      "stars_today": 43,
+      "stars": 4838,
+      "stars_today": 55,
       "language": "Logos",
       "link": "https://github.com/dayanch96/YTLite"
     },
     {
       "name": "HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 16542,
-      "stars_today": 245,
+      "stars": 16897,
+      "stars_today": 162,
       "language": "Python",
       "link": "https://github.com/HKUDS/RAG-Anything"
     },
     {
       "name": "sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
-      "stars": 53295,
-      "stars_today": 604,
+      "stars": 53661,
+      "stars_today": 534,
       "language": "Python",
       "link": "https://github.com/sansan0/TrendRadar"
     }
