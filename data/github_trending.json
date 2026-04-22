@@ -1,69 +1,101 @@
 {
-  "updated": "2026-04-22T01:18:41.065498+00:00",
+  "updated": "2026-04-22T12:56:29.510826+00:00",
   "repositories": [
-    {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 11635,
-      "stars_today": 2548,
-      "language": "Python",
-      "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
-    },
-    {
-      "name": "thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "stars": 3479,
-      "stars_today": 596,
-      "language": "TypeScript",
-      "link": "https://github.com/thunderbird/thunderbolt"
-    },
     {
       "name": "zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": 6622,
-      "stars_today": 169,
+      "stars": 7111,
+      "stars_today": 873,
       "language": "TypeScript",
       "link": "https://github.com/zilliztech/claude-context"
     },
     {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars": 12597,
+      "stars_today": 1737,
+      "language": "Python",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 51124,
+      "stars_today": 1187,
+      "language": "TypeScript",
+      "link": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "name": "langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "stars": 25392,
+      "stars_today": 67,
+      "language": "TypeScript",
+      "link": "https://github.com/langfuse/langfuse"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
+      "stars": 39261,
+      "stars_today": 346,
+      "language": "TypeScript",
+      "link": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
+      "stars": 11903,
+      "stars_today": 609,
+      "language": "TypeScript",
+      "link": "https://github.com/open-metadata/OpenMetadata"
+    },
+    {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 48898,
-      "stars_today": 824,
+      "stars": 49200,
+      "stars_today": 551,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "stars": 57695,
-      "stars_today": 200,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/microsoft/ai-agents-for-beginners"
-    },
-    {
-      "name": "dayanch96/YTLite",
-      "description": "A flexible enhancer for YouTube on iOS",
-      "stars": 4838,
-      "stars_today": 55,
-      "language": "Logos",
-      "link": "https://github.com/dayanch96/YTLite"
-    },
-    {
       "name": "HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 16897,
-      "stars_today": 162,
+      "stars": 17301,
+      "stars_today": 770,
       "language": "Python",
       "link": "https://github.com/HKUDS/RAG-Anything"
     },
     {
       "name": "sansan0/TrendRadar",
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
-      "stars": 53661,
-      "stars_today": 534,
+      "stars": 54195,
+      "stars_today": 932,
       "language": "Python",
       "link": "https://github.com/sansan0/TrendRadar"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 5206,
+      "stars_today": 237,
+      "language": "Python",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "stars": 59079,
+      "stars_today": 509,
+      "language": "Python",
+      "link": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": 15203,
+      "stars_today": 317,
+      "language": "TypeScript",
+      "link": "https://github.com/vercel-labs/skills"
     }
   ]
 }
