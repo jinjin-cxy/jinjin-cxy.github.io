@@ -1,101 +1,125 @@
 {
-  "updated": "2026-04-23T01:23:50.995083+00:00",
+  "updated": "2026-04-23T12:56:02.385998+00:00",
   "repositories": [
+    {
+      "name": "huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "stars": 1805,
+      "stars_today": 530,
+      "language": "Python",
+      "link": "https://github.com/huggingface/ml-intern"
+    },
     {
       "name": "zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": 7549,
-      "stars_today": 871,
+      "stars": 8089,
+      "stars_today": 1023,
       "language": "TypeScript",
       "link": "https://github.com/zilliztech/claude-context"
     },
     {
-      "name": "Fincept-Corporation/FinceptTerminal",
-      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 13126,
-      "stars_today": 1772,
-      "language": "Python",
-      "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 51600,
-      "stars_today": 424,
-      "language": "TypeScript",
-      "link": "https://github.com/koala73/worldmonitor"
-    },
-    {
-      "name": "langfuse/langfuse",
-      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
-      "stars": 25627,
-      "stars_today": 149,
-      "language": "TypeScript",
-      "link": "https://github.com/langfuse/langfuse"
-    },
-    {
-      "name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
-      "stars": 39596,
-      "stars_today": 372,
-      "language": "TypeScript",
-      "link": "https://github.com/KeygraphHQ/shannon"
-    },
-    {
-      "name": "open-metadata/OpenMetadata",
-      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
-      "stars": 12195,
-      "stars_today": 521,
-      "language": "TypeScript",
-      "link": "https://github.com/open-metadata/OpenMetadata"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 49382,
-      "stars_today": 565,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
       "name": "HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 17556,
-      "stars_today": 786,
+      "stars": 17891,
+      "stars_today": 574,
       "language": "Python",
       "link": "https://github.com/HKUDS/RAG-Anything"
     },
     {
-      "name": "sansan0/TrendRadar",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
-      "stars": 54453,
-      "stars_today": 969,
-      "language": "Python",
-      "link": "https://github.com/sansan0/TrendRadar"
-    },
-    {
-      "name": "AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": 5592,
-      "stars_today": 308,
-      "language": "Python",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video"
-    },
-    {
       "name": "Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": 59698,
+      "stars": 60424,
       "stars_today": 518,
       "language": "Python",
       "link": "https://github.com/Z4nzu/hackingtool"
     },
     {
-      "name": "vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
-      "stars": 15497,
-      "stars_today": 333,
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 49596,
+      "stars_today": 427,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": 4157,
+      "stars_today": 181,
+      "language": "Python",
+      "link": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
+      "stars": 12663,
+      "stars_today": 521,
       "language": "TypeScript",
-      "link": "https://github.com/vercel-labs/skills"
+      "link": "https://github.com/open-metadata/OpenMetadata"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 58512,
+      "stars_today": 177,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    {
+      "name": "PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "stars": 52663,
+      "stars_today": 70,
+      "language": "C#",
+      "link": "https://github.com/PowerShell/PowerShell"
+    },
+    {
+      "name": "cline/cline",
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+      "stars": 60678,
+      "stars_today": 103,
+      "language": "TypeScript",
+      "link": "https://github.com/cline/cline"
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "stars": 19999,
+      "stars_today": 21,
+      "language": "C++",
+      "link": "https://github.com/microsoft/onnxruntime"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
+      "stars": 9110,
+      "stars_today": 302,
+      "language": "TypeScript",
+      "link": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 23273,
+      "stars_today": 312,
+      "language": "JavaScript",
+      "link": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "name": "chiphuyen/aie-book",
+      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+      "stars": 15040,
+      "stars_today": 214,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/chiphuyen/aie-book"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": 17631,
+      "stars_today": 176,
+      "language": "",
+      "link": "https://github.com/VoltAgent/awesome-agent-skills"
     }
   ]
 }
