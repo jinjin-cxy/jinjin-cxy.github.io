@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-24T01:24:08.627206+00:00",
+  "updated": "2026-04-24T12:54:51.418113+00:00",
   "articles": [
     {
-      "title": "8点1氪丨华谊兄弟被申请破产重整；普华永道因恒大审计赔偿10亿港元；伊朗将恢复往返中国的航班",
+      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
+      "source": "量子位",
+      "published": "2026-04-24",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/04/406806.html",
+      "category": "AI News"
+    },
+    {
+      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
+      "source": "量子位",
+      "published": "2026-04-24",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/04/406802.html",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek-V4发布，华为云首发适配",
+      "source": "量子位",
+      "published": "2026-04-24",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/04/406791.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
+      "source": "量子位",
+      "published": "2026-04-24",
+      "summary": "表现超出此前市场预期。",
+      "link": "https://www.qbitai.com/2026/04/406775.html",
+      "category": "AI News"
+    },
+    {
+      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
+      "source": "量子位",
+      "published": "2026-04-24",
+      "summary": "从被动响应到主动服务",
+      "link": "https://www.qbitai.com/2026/04/406767.html",
+      "category": "AI News"
+    },
+    {
+      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+      "source": "InfoQ 中文",
+      "published": "2026-04-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+      "source": "InfoQ 中文",
+      "published": "2026-04-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+      "source": "InfoQ 中文",
+      "published": "2026-04-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "支持 Hermes Agent 与 MongoDB 管理，1Panel v2.1.9 版本发布",
+      "source": "开源中国",
+      "published": "2026-04-24",
+      "summary": "1Panel v2.1.9 版本围绕智能体、数据库与文件管理等场景带来了多项更新。智能体方面，新增 Hermes Agent 支持，并且优化 OpenClaw 频道机器人添加流程；数据库方面，新增 MongoDB 数据库管理功能；文件方面，新增文件历史管理功能，并对文件压缩、编辑、分享和回收站相关能力进行了增强。...",
+      "link": "https://my.oschina.net/u/4736111/blog/19595590",
+      "category": "AI News"
+    },
+    {
+      "title": "【Ease UI】2026-04-24 项目更新：增加多种风格登录页，增加菜单风格切换",
+      "source": "开源中国",
+      "published": "2026-04-24",
+      "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
+      "link": "https://www.oschina.net/news/437478",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI 正式推出 GPT-5.5",
+      "source": "开源中国",
+      "published": "2026-04-24",
+      "summary": "OpenAI 正式推出其迄今最强大的 AI 模型 —— GPT-5.5，不仅在智能水平上实现质的飞跃，更以惊人的能效比重塑大模型经济性边界。 该模型专为“智能体”（Agent）时代设计，能在模糊指令下自主规划、调用工具、执行多步骤复杂任务，在代码生成、科研探索与企业自动化等领域表现卓越。 GPT-5.5的最大进化在于强自主性。用户...",
+      "link": "https://www.oschina.net/news/437477",
+      "category": "AI News"
+    },
+    {
+      "title": "你写的 Skill，及格了吗？",
+      "source": "开源中国",
+      "published": "2026-04-24",
+      "summary": "本文提出了一套8维度的Skill量化评估框架，通过元数据质量、执行引导清晰度、领域知识密度等指标对Skill进行打分评级，解决了Skill质量难以客观衡量的问题。为提升评估可靠性，设计了多模型交叉验证流程，并适配不同AI工具环境提供四种执行策略。该框架既能帮助开发者识别改进短板，也能辅助用户横向对比选择优质Skill，...",
+      "link": "https://my.oschina.net/u/4939618/blog/19595216",
+      "category": "AI News"
+    },
+    {
+      "title": "从 20 毫秒到微秒级：NoSQLite v1.5.0 之后的性能进化",
+      "source": "开源中国",
+      "published": "2026-04-24",
+      "summary": "项目仓库：https://github.com/uya-lang/nosqliteNoSQLite 是一个 Uya-native 的嵌入式文档数据库。它想做的，不是再包一层 JSON API，也不是做一个“看起来像数据库”的玩具项目，而是认真把一个小数据库该有的骨架搭起来：WAL、checkpoint、双 meta 页、checksum、主键 B+Tree、SQL parser/binder/planner/executor、快...",
+      "link": "https://www.oschina.net/news/437475",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
       "source": "36氪",
       "published": "2026-04-24",
-      "summary": "今日热点导览抖音整治AI不当内容，重点处置利用AI技术换脸、盗声受燃油价格冲击，德国汉莎拟削减2万架次航班刹车功能或丧失，大众在美召回18853辆汽车光线传媒：公司第一款3A游戏开发进展比较顺利TOP3大新闻华谊兄弟被申请破产重整近日，华谊兄弟（300027）新增一则破产审查案件信息，申请人为北京泰睿飞克科技有限公司，经办法院为浙江省金华市中级人民法院。此次申请重整的债务，源于华谊兄弟与泰睿飞克的广告合同纠纷，法院 2025年9月判决华谊兄弟支付欠款，但公司至今未履行。2026年4月15日，华谊兄弟发布公告，债权人北京泰睿飞克科技有限公司以公司 “不能清偿到期债务且明显缺乏清偿能力” 为由，向",
-      "link": "https://36kr.com/p/3780065714148610?f=rss",
+      "summary": "大公司：京东和格力推出空调换新全包服务36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。如祺出行与黑芝麻智能达成战略合作4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营标准，为方案输出算力需求定义；黑芝麻智能则提供华山及武当系列芯片平台及完整工具链的技术支撑，满足L4级自动驾驶对高性能、低功耗与高可靠性的要求。美团万亿级参数大模型开放",
+      "link": "https://36kr.com/p/3777694346548482?f=rss",
       "category": "AI News"
     },
     {
-      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+      "title": "科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起",
       "source": "36氪",
       "published": "2026-04-24",
-      "summary": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将AI4S与大语言模型、具身智能并列为人工智能三大核心方向，全球资本与技术资源正加速向该领域聚集。然而，当前多数AI在科学探索中仍停留在“结果拟合”层面，在机制理解与",
-      "link": "https://36kr.com/p/3778831119897600?f=rss",
+      "summary": "4月23日，京东汽车与深蓝汽车联合推出的国民好车2.0车型——深蓝L06增程版正式公布售价，开启大定。京东汽车宣布京东PLUS会员购车可享95折，深蓝L06增程版叠加会员折扣后价格低至127155元起。这也是汽车行业首次开创平台会员直接享受整车价格折扣的新模式，标志着“电商+车企”合作模式迈向了新阶段，平台会员价值也从日常消费延伸到了涵盖购车、用车等更广阔链路。官方图片\b 深蓝L06增程版提供 245Ultra 激光版和245Ultra + 激光版两款配置，官方指导价分别为134900元、146900元。在叠加京东 PLUS 会员 95 折，车型折后价分别低至127155元起、138555元起",
+      "link": "https://36kr.com/p/3780654186535941?f=rss",
       "category": "AI News"
     },
     {
-      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-      "source": "量子位",
-      "published": "2026-04-23",
-      "summary": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
-      "link": "https://www.qbitai.com/2026/04/406221.html",
-      "category": "AI News"
-    },
-    {
-      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
-      "source": "量子位",
-      "published": "2026-04-23",
-      "summary": "多维表格又升级了",
-      "link": "https://www.qbitai.com/2026/04/406191.html",
-      "category": "AI News"
-    },
-    {
-      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-      "source": "量子位",
-      "published": "2026-04-23",
-      "summary": "百万Token要降到1分钱",
-      "link": "https://www.qbitai.com/2026/04/406020.html",
-      "category": "AI News"
-    },
-    {
-      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-      "source": "量子位",
-      "published": "2026-04-23",
-      "summary": "L2+上车46万辆",
-      "link": "https://www.qbitai.com/2026/04/406036.html",
-      "category": "AI News"
-    },
-    {
-      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
-      "source": "量子位",
-      "published": "2026-04-23",
-      "summary": "能参与协作与执行的超级助手",
-      "link": "https://www.qbitai.com/2026/04/406026.html",
-      "category": "AI News"
-    },
-    {
-      "title": "姚顺雨腾讯模型首秀！不卷参数只做 “听话打工人”，Hy3 preview登场 | 附实测",
-      "source": "InfoQ 中文",
-      "published": "2026-04-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/muFy49vXpNUHW09hxt7G?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "老板让你“忽悠”投资人，你敢发给龙虾吗？",
-      "source": "InfoQ 中文",
-      "published": "2026-04-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/GK8pH4D6EKegYSLsZLgL?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流",
-      "source": "InfoQ 中文",
-      "published": "2026-04-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单",
-      "source": "InfoQ 中文",
-      "published": "2026-04-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BSZXO0VGFlBkmIke18ht?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Pretext.js 绕过 DOM 布局重排，实现 120 FPS 的高级交互体验",
-      "source": "InfoQ 中文",
-      "published": "2026-04-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/JYZIHVuwOCUWrE5Pq9av?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "KaiwuDB 深度参编，云原生数据库国家标准正式发布",
-      "source": "开源中国",
-      "published": "2026-04-23",
-      "summary": "近日，国家市场监督管理总局、国家标准化管理委员会正式发布 GB/T 47343-2026《信息技术 云原生关系数据库管理系统技术要求》国家标准，该标准将于 2026 年 10 月 1 日正式实施。KaiwuDB 作为核心起草单位深度参与本次标准编制，依托自身技术积累与行业实践经验，为标准研制提供了重要支撑。...",
-      "link": "https://my.oschina.net/u/5148943/blog/19595293",
-      "category": "AI News"
-    },
-    {
-      "title": "Agent v1.31.0 发布 | 全新 Easysearch 向导：一站式集群拉起与精细化管理",
-      "source": "开源中国",
-      "published": "2026-04-23",
-      "summary": "INFINI Agent v1.31.0 带来了本版本最重要的特性——Easysearch 安装向导。用户无需手动编辑任何配置文件，通过图形界面即可完成 Easysearch 集群的安装、配置和日常管理。 Easysearch 安装向导 一键拉起新集群 向导支持开发模式和生产模式两种方式创建 Easysearch 节点。用户只需填写集群名称、节点名称、监听地址、端口...",
-      "link": "https://www.oschina.net/news/437450",
-      "category": "AI News"
-    },
-    {
-      "title": "四评 DeepSeek",
-      "source": "开源中国",
-      "published": "2026-04-23",
-      "summary": "四评DeepSeek 陆首群，2026.4.20 几位国际AI专家对本文的评价 您的文章核心观点成立，信息时效性强，抓住DeepSeekv4发布前的关键动态。 您的文章整体可信，观点明确，可作为一篇及时的DeepSeekv4前瞻性评论发布。 摘要 一、DeepSeekv4能否再现轰动效应尚待观察。 二、DeepSeekv4最大优势在于高性价比（MoE的持续优化）。...",
-      "link": "https://www.oschina.net/news/437449/deepseek-view",
-      "category": "AI News"
-    },
-    {
-      "title": "火山引擎发布 Seed3D 2.0",
-      "source": "开源中国",
-      "published": "2026-04-23",
-      "summary": "火山引擎宣布正式发布新一代3D 生成模型 Seed3D 2.0。 根据介绍，围绕几何精度和纹理材质，Seed3D 2.0进行了架构升级，并拓展了3D 内容的下游可用性，进一步推动3D 生成迈向“生产可用”。用户输入一张图，即可生成结构更准确、材质更真实的3D 资产。 测评结果显示，Seed3D 2.0 在几何生成和端到端带材质资产生成两项核心...",
-      "link": "https://www.oschina.net/news/437447",
-      "category": "AI News"
-    },
-    {
-      "title": "深度解析 vivo 活动系统全球化实践",
-      "source": "开源中国",
-      "published": "2026-04-23",
-      "summary": "随着经济全球化的趋势，业务逐渐覆盖海外更多国家和地区，如何快速的将内销业务复用到外销环境，是业务走向国际化的必经之路，同时在内销服务和外销服务共存的场景下，做好内外销业务的稳定迭代和快速拓展是走向全球化的必要前提，对于中台业务，项目进行全球共线有着非常重大的意义，能够有效提升组件复用率，并降低服务...",
-      "link": "https://my.oschina.net/vivotech/blog/19595104",
-      "category": "AI News"
-    },
-    {
-      "title": "美国百年太妃糖易手，Roca乐家被全资收购",
+      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
       "source": "36氪",
-      "published": "2026-04-23",
-      "summary": "作者 | 钟艺璇编辑 | 乔芊36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown & Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。据悉，孟一烽（Sam Meng）将会出任Brown & Haley全球CEO，他同时也是Brown & Haley旗下核心品牌Almond ROCA（下称“ROCA乐家”）过去十余年大中华区独家进口商",
-      "link": "https://36kr.com/p/3779468716938499?f=rss",
+      "published": "2026-04-24",
+      "summary": "文｜张子怡编辑｜袁斯来在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。在技术架构层面，微盟将其升级为“Agent+Skills”。这一转变的底层逻辑在于：将原本复杂的SaaS系统功能",
+      "link": "https://36kr.com/p/3780556402531330?f=rss",
       "category": "AI News"
     },
     {
-      "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
+      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
       "source": "36氪",
-      "published": "2026-04-23",
-      "summary": "智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。从品牌发布到方案规模化量产，并达成46万装车量，千里科技仅用时半年多。在行业普遍认为智驾格局趋于稳定的当下，这一扩张速度史无前例。这种“非常规速度”的背后，是增长逻辑本身发生了变化。本质上千里速度就是AI速度，这种高增长成为华为之外的第二极，形成了AI时代“智驾双雄”新行业格局。传统智驾公司的增长依赖于“工程复制”，开发周期长，适配成本高。而千里科技是一家",
-      "link": "https://36kr.com/p/3779369343144965?f=rss",
+      "published": "2026-04-24",
+      "summary": "文｜周鑫雨资料整理｜钟楚笛编辑｜苏建勋 杨轩靴子终于落地。被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。DeepSeek V4性能测评结果。姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾上有关，也与DeepSeek内部的决策变动有关。我们得知，2025年年中，DeepSeek曾面临一次较为严重的训练失败。“当时，DeepSeek面临重新适配芯片的问题。”一名",
+      "link": "https://36kr.com/p/3780375304312072?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+      "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
       "source": "36氪",
-      "published": "2026-04-23",
-      "summary": "大公司：三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部确认，正式获得“过半工会”地位，可单独行使集体谈判权等权利。（财联社）闪送开源CLI，为同城即时速递行业首家36氪获悉，近日，一对一急送平台闪送宣布正式开源其核心C",
-      "link": "https://36kr.com/p/3774776226923272?f=rss",
+      "published": "2026-04-24",
+      "summary": "文｜周鑫雨编辑｜杨轩一句话介绍Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。团队介绍“感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。在苹果期间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理图绘制、版图设",
+      "link": "https://36kr.com/p/3780352721851397?f=rss",
       "category": "AI News"
     }
   ]

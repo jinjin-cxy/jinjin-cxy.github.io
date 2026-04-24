@@ -1,125 +1,93 @@
 {
-  "updated": "2026-04-24T01:23:57.820057+00:00",
+  "updated": "2026-04-24T12:54:39.650231+00:00",
   "repositories": [
-    {
-      "name": "huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "stars": 3359,
-      "stars_today": 720,
-      "language": "Python",
-      "link": "https://github.com/huggingface/ml-intern"
-    },
-    {
-      "name": "zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "stars": 8436,
-      "stars_today": 1011,
-      "language": "TypeScript",
-      "link": "https://github.com/zilliztech/claude-context"
-    },
-    {
-      "name": "HKUDS/RAG-Anything",
-      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-      "stars": 18172,
-      "stars_today": 590,
-      "language": "Python",
-      "link": "https://github.com/HKUDS/RAG-Anything"
-    },
-    {
-      "name": "Z4nzu/hackingtool",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": 61078,
-      "stars_today": 1383,
-      "language": "Python",
-      "link": "https://github.com/Z4nzu/hackingtool"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 49839,
-      "stars_today": 429,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No conten",
-      "stars": 6965,
-      "stars_today": 316,
-      "language": "JavaScript",
-      "link": "https://github.com/Anil-matcha/Open-Generative-AI"
-    },
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": 5613,
-      "stars_today": 1962,
+      "stars": 6792,
+      "stars_today": 2640,
       "language": "Python",
       "link": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
+      "name": "huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "stars": 4685,
+      "stars_today": 2981,
+      "language": "Python",
+      "link": "https://github.com/huggingface/ml-intern"
+    },
+    {
+      "name": "google/osv-scanner",
+      "description": "Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev",
+      "stars": 9257,
+      "stars_today": 147,
+      "language": "Go",
+      "link": "https://github.com/google/osv-scanner"
+    },
+    {
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "stars": 61779,
+      "stars_today": 1377,
+      "language": "Python",
+      "link": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars": 8780,
+      "stars_today": 706,
+      "language": "TypeScript",
+      "link": "https://github.com/zilliztech/claude-context"
+    },
+    {
       "name": "open-metadata/OpenMetadata",
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla",
-      "stars": 12945,
-      "stars_today": 776,
+      "stars": 13174,
+      "stars_today": 530,
       "language": "TypeScript",
       "link": "https://github.com/open-metadata/OpenMetadata"
     },
     {
-      "name": "microsoft/ai-agents-for-beginners",
-      "description": "12 Lessons to Get Started Building AI Agents",
-      "stars": 58807,
-      "stars_today": 208,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/microsoft/ai-agents-for-beginners"
+      "name": "PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
+      "stars": 32875,
+      "stars_today": 90,
+      "language": "Python",
+      "link": "https://github.com/PostHog/posthog"
     },
     {
-      "name": "PowerShell/PowerShell",
-      "description": "PowerShell for every system!",
-      "stars": 52789,
-      "stars_today": 67,
-      "language": "C#",
-      "link": "https://github.com/PowerShell/PowerShell"
+      "name": "dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": 59045,
+      "stars_today": 252,
+      "language": "Rust",
+      "link": "https://github.com/dani-garcia/vaultwarden"
     },
     {
-      "name": "cline/cline",
-      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-      "stars": 60823,
-      "stars_today": 123,
-      "language": "TypeScript",
-      "link": "https://github.com/cline/cline"
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 494104,
+      "stars_today": 817,
+      "language": "Markdown",
+      "link": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
-      "name": "microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "stars": 20186,
-      "stars_today": 49,
-      "language": "C++",
-      "link": "https://github.com/microsoft/onnxruntime"
+      "name": "deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "stars": 9236,
+      "stars_today": 29,
+      "language": "Cuda",
+      "link": "https://github.com/deepseek-ai/DeepEP"
     },
     {
-      "name": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
-      "stars": 9448,
-      "stars_today": 238,
-      "language": "TypeScript",
-      "link": "https://github.com/mksglu/context-mode"
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 23853,
-      "stars_today": 285,
-      "language": "JavaScript",
-      "link": "https://github.com/coreyhaines31/marketingskills"
-    },
-    {
-      "name": "chiphuyen/aie-book",
-      "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
-      "stars": 15185,
-      "stars_today": 215,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/chiphuyen/aie-book"
+      "name": "microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "stars": 24930,
+      "stars_today": 22,
+      "language": "Go",
+      "link": "https://github.com/microsoft/typescript-go"
     }
   ]
 }
