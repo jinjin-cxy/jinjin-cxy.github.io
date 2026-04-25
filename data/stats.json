@@ -1,9 +1,9 @@
 {
-  "updated": "2026-04-24T12:54:51.419544+00:00",
+  "updated": "2026-04-25T01:17:38.849097+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 11,
+    "github_trending": 12,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -68,7 +68,7 @@
       "count": 1
     },
     {
-      "language": "Markdown",
+      "language": "JavaScript",
       "count": 1
     }
   ]
