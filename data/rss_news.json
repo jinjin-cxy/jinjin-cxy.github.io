@@ -1,6 +1,78 @@
 {
-  "updated": "2026-04-25T01:17:38.847538+00:00",
+  "updated": "2026-04-25T12:35:35.489585+00:00",
   "articles": [
+    {
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "source": "量子位",
+      "published": "2026-04-25",
+      "summary": "500TOPS上车世界模型",
+      "link": "https://www.qbitai.com/2026/04/407026.html",
+      "category": "AI News"
+    },
+    {
+      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+      "source": "量子位",
+      "published": "2026-04-25",
+      "summary": "一家低调的视觉大模型公司，浮出水面",
+      "link": "https://www.qbitai.com/2026/04/406994.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+      "source": "量子位",
+      "published": "2026-04-25",
+      "summary": "首次公开三大AI应用生态",
+      "link": "https://www.qbitai.com/2026/04/406973.html",
+      "category": "AI News"
+    },
+    {
+      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+      "source": "量子位",
+      "published": "2026-04-25",
+      "summary": "六年磨一剑",
+      "link": "https://www.qbitai.com/2026/04/406960.html",
+      "category": "AI News"
+    },
+    {
+      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+      "source": "量子位",
+      "published": "2026-04-25",
+      "summary": "三作者如今齐聚Mira初创",
+      "link": "https://www.qbitai.com/2026/04/406892.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
+      "source": "InfoQ 中文",
+      "published": "2026-04-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "source": "36氪",
+      "published": "2026-04-25",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。2026年4月22日至24日，「海康机器人·智造大会2",
+      "link": "https://36kr.com/p/3782137908403457?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
       "source": "36氪",
@@ -10,51 +82,11 @@
       "category": "AI News"
     },
     {
-      "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
       "source": "36氪",
       "published": "2026-04-25",
-      "summary": "整理｜孟孟今日热点导览铁路部门将实行老年旅客购票优惠哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元网友称用豆包提前查到事业编成绩，官方回应耐克将裁减1400个公司职位，主要集中在技术部门中国再发现两种月球新矿物，嫦娥五号样品研究获新突破TOP3大新闻Kimi被曝泄露用户真实简历，用户翻译时收到陌生人完整个人信息4月20日，用户张呈在使用Kimi翻译英文PPT时，系统竟返回一份陌生人的完整简历，包含姓名、电话、邮箱、工作经历等真实信息。张呈通过简历上的电话联系到当事人钟先生，所有信息均能对应。张呈称，自称Kimi工作人员的解释是“AI出现幻觉所致”。但浙江大学“百人计划”研究员韩蒙指出",
+      "summary": "整理｜孟孟今日热点导览铁路部门将实行老年旅客购票优惠哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元网友称用豆包提前查到事业编成绩，官方回应耐克将裁减1400个公司职位，主要集中在技术部门中国再发现两种月球新矿物，嫦娥五号样品研究获新突破TOP3大新闻马斯克花4000多亿买下00后公司，SpaceX锁定Cursor补齐AI编程短板近日，SpaceX与AI编程初创公司Cursor达成一项收购协议：SpaceX获得以600亿美元（约合人民币4000多亿元）收购Cursor的选择权。Cursor由四名麻省理工学院辍学的“00后”学生于四年前创立，估值从2024年初的25亿美元飙升至2025年",
       "link": "https://36kr.com/p/3781532841581576?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "优必选发布Thinker cosmos：加码开发者生态，推动人形机器人走向规模化",
-      "source": "量子位",
-      "published": "2026-04-24",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/406806.html",
-      "category": "AI News"
-    },
-    {
-      "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
-      "source": "量子位",
-      "published": "2026-04-24",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/406802.html",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek-V4发布，华为云首发适配",
-      "source": "量子位",
-      "published": "2026-04-24",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/406791.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Mobileye 2026财年一季度营收增长27%，自动驾驶商业化进程持续推进",
-      "source": "量子位",
-      "published": "2026-04-24",
-      "summary": "表现超出此前市场预期。",
-      "link": "https://www.qbitai.com/2026/04/406775.html",
-      "category": "AI News"
-    },
-    {
-      "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
-      "source": "量子位",
-      "published": "2026-04-24",
-      "summary": "从被动响应到主动服务",
-      "link": "https://www.qbitai.com/2026/04/406767.html",
       "category": "AI News"
     },
     {
@@ -74,27 +106,19 @@
       "category": "AI News"
     },
     {
-      "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
-      "source": "InfoQ 中文",
+      "title": "Claude Code + DeepSeek V4-Pro 真实评测：除了贵，没别的毛病",
+      "source": "开源中国",
       "published": "2026-04-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+      "summary": "JeecgBoot AI 专题研究 | 把 Claude Code 接入 DeepSeek V4-Pro，跑完 Skills —— OA 审批、大屏、报表、部署 5 大实战场景后的真实体验 一句话结论 花了一整天，拿 JeecgBoot 的 Skills 生态做了一轮完整实战 ——OA 审批流程自动搭建、积木 BI 大屏生成、钻取报表、自动化部署、文档修改 —— 全部跑通。唯一的毛病：...",
+      "link": "https://www.oschina.net/news/437483",
       "category": "AI News"
     },
     {
-      "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-      "source": "InfoQ 中文",
+      "title": "HeteroFlow 异构算力调度平台再获突破 成功适配八大国产 GPU 品牌",
+      "source": "开源中国",
       "published": "2026-04-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
-      "source": "InfoQ 中文",
-      "published": "2026-04-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+      "summary": "北京，2026年4月24日 - 国内领先的异构算力调度平台HeteroFlow今日宣布，已成功完成对主流国产GPU品牌的全面适配与测试，标志着我国自主可控算力生态建设迈出重要一步。 此次适配通过测试的国产GPU品牌包括：沐曦-曦云、燧原S60、天数智芯-天垓-智铠、壁砺106M、海光、摩尔线程、华为昇腾以及英伟达。HeteroFlow平台通过...",
+      "link": "https://www.oschina.net/news/437482",
       "category": "AI News"
     },
     {
@@ -122,22 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "你写的 Skill，及格了吗？",
-      "source": "开源中国",
-      "published": "2026-04-24",
-      "summary": "本文提出了一套8维度的Skill量化评估框架，通过元数据质量、执行引导清晰度、领域知识密度等指标对Skill进行打分评级，解决了Skill质量难以客观衡量的问题。为提升评估可靠性，设计了多模型交叉验证流程，并适配不同AI工具环境提供四种执行策略。该框架既能帮助开发者识别改进短板，也能辅助用户横向对比选择优质Skill，...",
-      "link": "https://my.oschina.net/u/4939618/blog/19595216",
-      "category": "AI News"
-    },
-    {
-      "title": "从 20 毫秒到微秒级：NoSQLite v1.5.0 之后的性能进化",
-      "source": "开源中国",
-      "published": "2026-04-24",
-      "summary": "项目仓库：https://github.com/uya-lang/nosqliteNoSQLite 是一个 Uya-native 的嵌入式文档数据库。它想做的，不是再包一层 JSON API，也不是做一个“看起来像数据库”的玩具项目，而是认真把一个小数据库该有的骨架搭起来：WAL、checkpoint、双 meta 页、checksum、主键 B+Tree、SQL parser/binder/planner/executor、快...",
-      "link": "https://www.oschina.net/news/437475",
-      "category": "AI News"
-    },
-    {
       "title": "低头是日常，抬头是阅读",
       "source": "36氪",
       "published": "2026-04-24",
@@ -151,14 +159,6 @@
       "published": "2026-04-24",
       "summary": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。中科天塔副总经理景振龙在",
       "link": "https://36kr.com/p/3780910411193602?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "source": "36氪",
-      "published": "2026-04-24",
-      "summary": "大公司：京东和格力推出空调换新全包服务36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。如祺出行与黑芝麻智能达成战略合作4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营标准，为方案输出算力需求定义；黑芝麻智能则提供华山及武当系列芯片平台及完整工具链的技术支撑，满足L4级自动驾驶对高性能、低功耗与高可靠性的要求。美团万亿级参数大模型开放",
-      "link": "https://36kr.com/p/3777694346548482?f=rss",
       "category": "AI News"
     }
   ]
