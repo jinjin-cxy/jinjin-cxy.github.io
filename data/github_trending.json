@@ -1,26 +1,26 @@
 {
-  "updated": "2026-04-25T12:35:23.259465+00:00",
+  "updated": "2026-04-26T01:25:24.082719+00:00",
   "repositories": [
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "stars": 10625,
-      "stars_today": 3975,
+      "stars": 11509,
+      "stars_today": 4007,
       "language": "Python",
       "link": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "mattpocock/skills",
       "description": "My personal directory of skills, straight from my .claude directory.",
-      "stars": 18841,
-      "stars_today": 857,
+      "stars": 20085,
+      "stars_today": 1139,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
       "name": "Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
-      "stars": 62955,
+      "stars": 63904,
       "stars_today": 1200,
       "language": "Python",
       "link": "https://github.com/Z4nzu/hackingtool"
@@ -28,23 +28,23 @@
     {
       "name": "PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data",
-      "stars": 33322,
-      "stars_today": 469,
+      "stars": 33503,
+      "stars_today": 471,
       "language": "Python",
       "link": "https://github.com/PostHog/posthog"
     },
     {
       "name": "davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 25181,
-      "stars_today": 78,
+      "stars": 25354,
+      "stars_today": 87,
       "language": "Python",
       "link": "https://github.com/davila7/claude-code-templates"
     },
     {
       "name": "deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
-      "stars": 9416,
+      "stars": 9495,
       "stars_today": 189,
       "language": "Cuda",
       "link": "https://github.com/deepseek-ai/DeepEP"
@@ -52,56 +52,56 @@
     {
       "name": "PowerShell/PowerShell",
       "description": "PowerShell for every system!",
-      "stars": 52936,
-      "stars_today": 217,
+      "stars": 53075,
+      "stars_today": 48,
       "language": "C#",
       "link": "https://github.com/PowerShell/PowerShell"
     },
     {
       "name": "RooCodeInc/Roo-Code",
       "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-      "stars": 23394,
-      "stars_today": 55,
+      "stars": 23510,
+      "stars_today": 57,
       "language": "TypeScript",
       "link": "https://github.com/RooCodeInc/Roo-Code"
     },
     {
       "name": "huggingface/ml-intern",
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "stars": 5888,
-      "stars_today": 1236,
+      "stars": 6249,
+      "stars_today": 1240,
       "language": "Python",
       "link": "https://github.com/huggingface/ml-intern"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 495437,
-      "stars_today": 1431,
+      "stars": 495996,
+      "stars_today": 1432,
       "language": "Markdown",
       "link": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "CJackHwang/ds2api",
-      "description": "Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容",
-      "stars": 1296,
-      "stars_today": 37,
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker.",
+      "stars": 1415,
+      "stars_today": 44,
       "language": "Go",
       "link": "https://github.com/CJackHwang/ds2api"
     },
     {
       "name": "Universal-Commerce-Protocol/ucp",
       "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
-      "stars": 2683,
-      "stars_today": 16,
+      "stars": 2791,
+      "stars_today": 26,
       "language": "Python",
       "link": "https://github.com/Universal-Commerce-Protocol/ucp"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "stars": 1226,
-      "stars_today": 174,
+      "stars": 1493,
+      "stars_today": 188,
       "language": "Python",
       "link": "https://github.com/ComposioHQ/awesome-codex-skills"
     }
