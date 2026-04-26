@@ -1,6 +1,54 @@
 {
-  "updated": "2026-04-26T01:25:33.097761+00:00",
+  "updated": "2026-04-26T12:37:42.790105+00:00",
   "articles": [
+    {
+      "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+      "source": "量子位",
+      "published": "2026-04-26",
+      "summary": "模型降智属实，所有使用额度均已重置。",
+      "link": "https://www.qbitai.com/2026/04/407502.html",
+      "category": "AI News"
+    },
+    {
+      "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+      "source": "量子位",
+      "published": "2026-04-26",
+      "summary": "开源，是最好的探针",
+      "link": "https://www.qbitai.com/2026/04/407486.html",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "source": "量子位",
+      "published": "2026-04-26",
+      "summary": "V4作者之一",
+      "link": "https://www.qbitai.com/2026/04/407465.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic推出面向Claude Code的基于智能体的代码审查功能",
+      "source": "InfoQ 中文",
+      "published": "2026-04-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/QyeZg05iakideMTGCQKi?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "免费可商用 PHP 管理后台 CatchAdmin V5.3.0 发布 支持 AI Agent 开发",
+      "source": "开源中国",
+      "published": "2026-04-26",
+      "summary": "Laravel + Vue 免费可商用 PHP 管理后台 CatchAdmin V5.3.0 发布：支持 AI Agent 开发 介绍 CatchAdmin 是一款基于 Laravel 13.x 和 Vue3 二次开发的 PHP 开源后台管理系统，采用前后端分离架构，面向企业级后台场景，提供了一套开箱即用、可持续扩展的后台基础框架。 它内置了后台系统常用的一整套能力，包括 Token 鉴权...",
+      "link": "https://www.oschina.net/news/437492",
+      "category": "AI News"
+    },
+    {
+      "title": "欧莱雅BRANDSTORM 2026中国总决赛落幕，AI成美妆创新核心议题｜最前线",
+      "source": "36氪",
+      "published": "2026-04-26",
+      "summary": "欧莱雅全球青年创新策划大赛BRANDSTORM 2026中国总决赛于4月24日在上海收官。本届赛事聚焦奢华香氛领域，中国赛区吸引超72000人报名，经多轮选拔后六支队伍进入总决赛。最终，UNIBLOCK、SOS和Move with Scent三支队伍分获冠亚季军，将代表中国赛区赴巴黎参加全球总决赛。BRANDSTORM大赛已举办34年，覆盖全球40多个国家和地区，累计参与人数超37万。中国赛区自2003年启动以来，累计参与人数已超过7万。今年赛事与欧莱雅高档化妆品部合作，赛程持续六个多月，参赛者可获取欧莱雅业务专家提供的市场数据和品牌案例。欧莱雅北亚总裁及中国首席执行官博万尚在活动中表示，青年",
+      "link": "https://36kr.com/p/3783249100397570?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
       "source": "36氪",
@@ -31,30 +79,6 @@
       "published": "2026-04-25",
       "summary": "500TOPS上车世界模型",
       "link": "https://www.qbitai.com/2026/04/407026.html",
-      "category": "AI News"
-    },
-    {
-      "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
-      "source": "量子位",
-      "published": "2026-04-25",
-      "summary": "一家低调的视觉大模型公司，浮出水面",
-      "link": "https://www.qbitai.com/2026/04/406994.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
-      "source": "量子位",
-      "published": "2026-04-25",
-      "summary": "首次公开三大AI应用生态",
-      "link": "https://www.qbitai.com/2026/04/406973.html",
-      "category": "AI News"
-    },
-    {
-      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
-      "source": "量子位",
-      "published": "2026-04-25",
-      "summary": "六年磨一剑",
-      "link": "https://www.qbitai.com/2026/04/406960.html",
       "category": "AI News"
     },
     {
@@ -106,22 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "source": "36氪",
-      "published": "2026-04-25",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。2026年4月22日至24日，「海康机器人·智造大会2",
-      "link": "https://36kr.com/p/3782137908403457?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
-      "source": "InfoQ 中文",
-      "published": "2026-04-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "Claude Code + DeepSeek V4-Pro 真实评测：除了贵，没别的毛病",
       "source": "开源中国",
       "published": "2026-04-24",
@@ -151,14 +159,6 @@
       "published": "2026-04-24",
       "summary": "🚀 即插即用的 Vue 3 业务组件库，让中后台开发回归简单 Ease UI 是一套为「快速复制」而生的 Vue 3 业务组件库。每个组件都是独立的 .vue 单文件，不依赖任何外部样式或工具函数，直接复制到你的项目即可使用。它仅依赖 Element Plus，却解决了中后台开发中表格选择混乱、搜索表单代码臃肿、日期范围绑定繁琐等真实痛...",
       "link": "https://www.oschina.net/news/437478",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI 正式推出 GPT-5.5",
-      "source": "开源中国",
-      "published": "2026-04-24",
-      "summary": "OpenAI 正式推出其迄今最强大的 AI 模型 —— GPT-5.5，不仅在智能水平上实现质的飞跃，更以惊人的能效比重塑大模型经济性边界。 该模型专为“智能体”（Agent）时代设计，能在模糊指令下自主规划、调用工具、执行多步骤复杂任务，在代码生成、科研探索与企业自动化等领域表现卓越。 GPT-5.5的最大进化在于强自主性。用户...",
-      "link": "https://www.oschina.net/news/437477",
       "category": "AI News"
     }
   ]
