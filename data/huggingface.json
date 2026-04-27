@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T12:37:28.631649+00:00",
+  "updated": "2026-04-27T01:27:21.556455+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
@@ -70,7 +70,7 @@
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
       "downloads": 9877186,
-      "likes": 678,
+      "likes": 679,
       "tags": [
         "transformers",
         "safetensors",
@@ -102,7 +102,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 9217205,
-      "likes": 5756,
+      "likes": 5758,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "Qwen3-1.7B",
       "author": "Qwen",
       "downloads": 6357420,
-      "likes": 452,
+      "likes": 453,
       "tags": [
         "transformers",
         "safetensors",
