@@ -1,12 +1,148 @@
 {
-  "updated": "2026-04-28T01:45:34.383043+00:00",
+  "updated": "2026-04-28T13:23:47.407721+00:00",
   "articles": [
     {
-      "title": "Agent 的“记忆断片”困局，该怎么破？",
+      "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+      "source": "量子位",
+      "published": "2026-04-28",
+      "summary": "《近似算法》作者都来了",
+      "link": "https://www.qbitai.com/2026/04/410463.html",
+      "category": "AI News"
+    },
+    {
+      "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+      "source": "量子位",
+      "published": "2026-04-28",
+      "summary": "助力更多企业与个人低门槛迈入AI时代",
+      "link": "https://www.qbitai.com/2026/04/410450.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
+      "source": "量子位",
+      "published": "2026-04-28",
+      "summary": "Cursor也是流年不利了",
+      "link": "https://www.qbitai.com/2026/04/410317.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
+      "source": "量子位",
+      "published": "2026-04-28",
+      "summary": "面向企业用户定向启动客户共创",
+      "link": "https://www.qbitai.com/2026/04/410314.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
+      "source": "量子位",
+      "published": "2026-04-28",
+      "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱。",
+      "link": "https://www.qbitai.com/2026/04/410294.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cortex Code 入门指南：面向数据工程师的实践路径 ｜ 技术实践",
       "source": "InfoQ 中文",
       "published": "2026-04-28",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/j5GzrA50oPkKBXLvcjBp?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "openJiuwen社区首发Team Skills，定义Coordination Engineering新范式",
+      "source": "InfoQ 中文",
+      "published": "2026-04-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
+      "source": "InfoQ 中文",
+      "published": "2026-04-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理",
+      "source": "InfoQ 中文",
+      "published": "2026-04-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "ClickHouse重构全文索引：对象存储上跑出高性能 Full-Text Search",
+      "source": "InfoQ 中文",
+      "published": "2026-04-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/mqNPcozMxSSf0PHt2eoW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开发者用 Rust 基于 RISC-V 芯片打造掌上游戏机：从 1 FPS 到 30 FPS 的极致优化之路",
+      "source": "开源中国",
+      "published": "2026-04-28",
+      "summary": "近日，开发者 Chris Dell 分享了一个令人惊艳的嵌入式项目 —— 在仅售 0.09 美元（批量购买的单价，约合人民币 0.65 元）的 CH32V003 微控制器上，使用 Rust 语言成功运行了一款横版卷轴冒险游戏。这款基于 RISC-V 架构的 32 位芯片仅有 2KB RAM 和 16KB 闪存，却在开发者的巧妙优化下实现了流畅的游戏体验。 CH32V003...",
+      "link": "https://www.oschina.net/news/437566",
+      "category": "AI News"
+    },
+    {
+      "title": "智算筑基 开源致远：开源中国亮相成都教装展，AI赋能一体化人才培养",
+      "source": "开源中国",
+      "published": "2026-04-28",
+      "summary": "4月24日至26日，第87届中国教育装备展示会在成都•中国西部国际博览城举办。开源中国作为支持单位深度参与本届展会，旗下北京奥思研工智能科技有限公司承担“科创育人—AI赋能中小学科技创新人才贯通培养研讨会”的承办工作。以此为发展契机，开源中国清晰释放教育板块战略升级信号—从原有的工具服务和社区运营方，转型...",
+      "link": "https://www.oschina.net/news/437565",
+      "category": "AI News"
+    },
+    {
+      "title": "【视频】GLM-5.1 对战 DeepSeek-v4-flash（调查并生成 PPT）",
+      "source": "开源中国",
+      "published": "2026-04-28",
+      "summary": "",
+      "link": "https://www.oschina.net/news/437564",
+      "category": "AI News"
+    },
+    {
+      "title": "剪映 App 等因生成合成内容标识违法问题被查处",
+      "source": "开源中国",
+      "published": "2026-04-28",
+      "summary": "网信中国消息称，近期网信部门工作中发现，“剪映”“猫箱”App及“即梦AI”网站存在未有效落实人工智能生成合成内容标识规定要求等问题，违反《网络安全法》《生成式人工智能服务管理暂行办法》《人工智能生成合成内容标识办法》等法律规定。 国家互联网信息办公室指导属地互联网信息办公室，依法对上述网站平台采取约谈...",
+      "link": "https://www.oschina.net/news/437563",
+      "category": "AI News"
+    },
+    {
+      "title": "Linux 内核“二把手”揭秘 AI 漏洞挖掘神器：Framework Desktop + AMD Ryzen AI Max本地运行",
+      "source": "开源中国",
+      "published": "2026-04-28",
+      "summary": "Linux 内核稳定版维护者、被誉为\"二号人物\"的 Greg Kroah-Hartman 近日在 Mastodon 上分享了其 AI 辅助漏洞挖掘工具\"gkh_clanker_t1000\"的设备照片 —— 一台搭载 AMD Ryzen AI Max+ 处理器的 Framework Desktop 迷你主机。 Framework Desktop 是 Framework 公司推出的模块化迷你主机，以其可升级性和开源友好性著称。配...",
+      "link": "https://www.oschina.net/news/437562",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
+      "source": "36氪",
+      "published": "2026-04-28",
+      "summary": "大公司：拒买新闻就交税，澳洲拟向科技巨头征约2%营收税澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台36氪获悉，据网信中国，近期网信部门工作中发现，“剪映”“猫箱”App及“即梦AI”网站存在未有效落实人工智能生成合成内容标识规",
+      "link": "https://36kr.com/p/3786324189027332?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
+      "source": "36氪",
+      "published": "2026-04-28",
+      "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi）今年三月，《职场Bonus》报道了前百川智能商业化合伙人邓江加入北电数智的消息。没想到不到半年后，他出来创业了。如今，他是AI医疗大模型新晋创业者邓江，是「缘启智慧」公司的创始人兼CEO邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己在风口上跨越、历险、不断前进的职业故事，以及，他这次创业要做什么事儿。● 欢迎观看+关注《职场Bonus》旗下原创视频号翻阅他的履历，我们的第一印象是：“挺能熬的。”相较于我过往接触的多数创业者常有的风险偏好，他的风格更为稳健，每一步决策和行动都力求扎实可靠。相比",
+      "link": "https://36kr.com/p/3786252394945795?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+      "source": "36氪",
+      "published": "2026-04-28",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈工现代位",
+      "link": "https://36kr.com/p/3785955616152839?f=rss",
       "category": "AI News"
     },
     {
@@ -23,142 +159,6 @@
       "published": "2026-04-28",
       "summary": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是批量生",
       "link": "https://36kr.com/p/3784697499786503?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
-      "source": "36氪",
-      "published": "2026-04-28",
-      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。去年底，寻明生科就曾获得一笔数千万美元的A轮融资。截至目前，公司A轮次融资的累计金额已接近1亿美元。寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研发平台、推动智",
-      "link": "https://36kr.com/p/3784480103455748?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "source": "Hugging Face Blog",
-      "published": "2026-04-28",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "category": "AI News"
-    },
-    {
-      "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
-      "source": "量子位",
-      "published": "2026-04-27",
-      "summary": "假期不想被@工作了",
-      "link": "https://www.qbitai.com/2026/04/408649.html",
-      "category": "AI News"
-    },
-    {
-      "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
-      "source": "量子位",
-      "published": "2026-04-27",
-      "summary": "未来人该怎么和AI共存",
-      "link": "https://www.qbitai.com/2026/04/408578.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude第一款AI桌宠硬件，深圳制造",
-      "source": "量子位",
-      "published": "2026-04-27",
-      "summary": "深圳供应链又赢了",
-      "link": "https://www.qbitai.com/2026/04/408409.html",
-      "category": "AI News"
-    },
-    {
-      "title": "麒麟云中现，境启新人生！全新坦克700正式上市，售价42.8万起",
-      "source": "量子位",
-      "published": "2026-04-27",
-      "summary": "全域豪华SUV新旗舰",
-      "link": "https://www.qbitai.com/2026/04/408393.html",
-      "category": "AI News"
-    },
-    {
-      "title": "让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”",
-      "source": "量子位",
-      "published": "2026-04-27",
-      "summary": "依托京东JoyInside，这些充满科幻感的AI新物种正走进现实。",
-      "link": "https://www.qbitai.com/2026/04/408394.html",
-      "category": "AI News"
-    },
-    {
-      "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
-      "source": "InfoQ 中文",
-      "published": "2026-04-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地",
-      "source": "InfoQ 中文",
-      "published": "2026-04-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast",
-      "source": "InfoQ 中文",
-      "published": "2026-04-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "一位开发者的反思：放弃副业项目并不可耻",
-      "source": "开源中国",
-      "published": "2026-04-27",
-      "summary": "在开发者圈子里，\"副业项目\"（side-project）几乎成了一种文化符号。从 GitHub 上星标数万的开源工具，到偶然间成长为独角兽公司的周末实验，成功的故事被反复传颂。然而，英国创意开发者 Robb Owen 最近在一篇文章中提出了一个截然不同的视角：放弃副业项目，其实并不可耻。 Owen 坦言，他自己也有过不少半途而废的项目...",
-      "link": "https://www.oschina.net/news/437534/abandoned-side-projects",
-      "category": "AI News"
-    },
-    {
-      "title": "SpaceX 转型“AI-First”公司冲刺 1.75 万亿美元 IPO，AI 烧钱速度超过 Starlink 盈利能力",
-      "source": "开源中国",
-      "published": "2026-04-27",
-      "summary": "SpaceX将于2026年6月底启动史上最大规模IPO，目标估值1.75万亿美元，融资750亿美元。这家以火箭和卫星闻名的公司正在全面转型为\"AI-First\"企业，但其AI部门2025年消耗了61%的资本支出并产生64亿美元运营亏损，投资者需为一场高风险的技术豪赌做好准备。 2026年4月1日，埃隆·马斯克旗下SpaceX向美国证券交易委员会秘密提...",
-      "link": "https://www.oschina.net/news/437533",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek 为什么主动 “认怂”？",
-      "source": "开源中国",
-      "published": "2026-04-27",
-      "summary": "时隔 145 天的 DeepSeek 新版本 V4 终于发布。技术报告的开头，没有 “全球最强”，没有 “打破垄断”，只有一句非常实诚的话：“V4 的能力水平仍落后于 GPT-5.4 和 Gemini-3.1-Pro，发展轨迹大约滞后前沿闭源模型 3 至 6 个月。”",
-      "link": "https://my.oschina.net/u/4487475/blog/19604746",
-      "category": "AI News"
-    },
-    {
-      "title": ":fire:Java 最好用的基于 mybatis 的 ORM 框架，1.10.1 正式发布 绝对不能错过！！！",
-      "source": "开源中国",
-      "published": "2026-04-27",
-      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.1 - 2026-04-27 1: 优化@Fetch功能代码 2：实现@Fetch更多合并的功能场景（从...",
-      "link": "https://www.oschina.net/news/437530/xbatis-1-10-1-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Elide 7.1.17 发布",
-      "source": "开源中国",
-      "published": "2026-04-27",
-      "summary": "Elide 是一个互联网和移动端应用数据 API 搭建平台，只需要一个简单的 JPA 注释模型就能帮你轻松搭建 GraphQL 和 JSON API web 服务。具有标准完善的数据安全保障、移动端性能优化 API、任何数据写入都可以保证原子性（Atomicity）、支持自定义数据持久化机制、数据模型一览无余和配置轻松自由等特性。 Elide 7.1.17 已正...",
-      "link": "https://www.oschina.net/news/437529/elide-7-1-17-released",
-      "category": "AI News"
-    },
-    {
-      "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
-      "source": "36氪",
-      "published": "2026-04-27",
-      "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我们意",
-      "link": "https://36kr.com/p/3784806758243587?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
-      "source": "36氪",
-      "published": "2026-04-27",
-      "summary": "作者｜黄楠编辑｜袁斯来近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。未岚大陆第100万台智能割草机器人下线曲线增长背后是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，2025年1-7月",
-      "link": "https://36kr.com/p/3784879395134465?f=rss",
       "category": "AI News"
     }
   ]
