@@ -1,123 +1,123 @@
 {
-  "updated": "2026-04-29T13:18:38.235433+00:00",
+  "updated": "2026-04-30T01:47:21.708178+00:00",
   "repositories": [
     {
       "name": "warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
-      "stars": 39726,
-      "stars_today": 11955,
+      "stars": 44263,
+      "stars_today": 12822,
       "language": "Rust",
       "link": "https://github.com/warpdotdev/warp"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 41618,
-      "stars_today": 7356,
+      "stars": 44900,
+      "stars_today": 7280,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
       "name": "HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
-      "stars": 11181,
-      "stars_today": 1036,
+      "stars": 11603,
+      "stars_today": 1033,
       "language": "Python",
       "link": "https://github.com/HunxByts/GhostTrack"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "stars": 4518,
-      "stars_today": 1180,
+      "stars": 4825,
+      "stars_today": 1177,
       "language": "Python",
       "link": "https://github.com/ComposioHQ/awesome-codex-skills"
     },
     {
       "name": "1jehuang/jcode",
       "description": "Coding Agent Harness",
-      "stars": 1055,
-      "stars_today": 386,
+      "stars": 1388,
+      "stars_today": 411,
       "language": "Rust",
       "link": "https://github.com/1jehuang/jcode"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno",
-      "stars": 33080,
-      "stars_today": 777,
+      "stars": 33360,
+      "stars_today": 774,
       "language": "TypeScript",
       "link": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": 45427,
-      "stars_today": 1688,
+      "stars": 45713,
+      "stars_today": 1690,
       "language": "Python",
       "link": "https://github.com/microsoft/VibeVoice"
     },
     {
       "name": "CJackHwang/ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker.",
-      "stars": 2588,
-      "stars_today": 461,
+      "stars": 2735,
+      "stars_today": 465,
       "language": "Go",
       "link": "https://github.com/CJackHwang/ds2api"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 172523,
-      "stars_today": 1683,
+      "stars": 173176,
+      "stars_today": 1653,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 32451,
-      "stars_today": 278,
+      "stars": 32803,
+      "stars_today": 294,
       "language": "Python",
       "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
       "name": "lukilabs/craft-agents-oss",
       "description": "",
-      "stars": 5191,
-      "stars_today": 432,
+      "stars": 5359,
+      "stars_today": 393,
       "language": "TypeScript",
       "link": "https://github.com/lukilabs/craft-agents-oss"
     },
     {
       "name": "EbookFoundation/free-programming-books",
       "description": "📚 Freely available programming books",
-      "stars": 386962,
-      "stars_today": 609,
+      "stars": 387203,
+      "stars_today": 604,
       "language": "Python",
       "link": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 19884,
-      "stars_today": 31,
+      "stars": 20274,
+      "stars_today": 79,
       "language": "Python",
       "link": "https://github.com/soxoj/maigret"
     },
     {
       "name": "iv-org/invidious",
       "description": "Invidious is an alternative front-end to YouTube",
-      "stars": 19297,
-      "stars_today": 143,
+      "stars": 19434,
+      "stars_today": 269,
       "language": "Crystal",
       "link": "https://github.com/iv-org/invidious"
     },
     {
       "name": "gorhill/uBlock",
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "stars": 63897,
-      "stars_today": 569,
+      "stars": 64048,
+      "stars_today": 391,
       "language": "JavaScript",
       "link": "https://github.com/gorhill/uBlock"
     }
