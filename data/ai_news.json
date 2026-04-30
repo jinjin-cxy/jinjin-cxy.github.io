@@ -1,164 +1,164 @@
 {
-  "updated": "2026-04-30T01:47:31.472685+00:00",
+  "updated": "2026-04-30T13:16:17.804030+00:00",
   "articles": [
     {
-      "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+      "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
       "source": "量子位",
       "published": "2026-04-30",
-      "summary": "做视频，顺便把具身智能的活也干了。",
-      "link": "https://www.qbitai.com/2026/04/411336.html",
+      "summary": "牵引中国汽车“走出去”、“走上去”",
+      "link": "https://www.qbitai.com/2026/04/412041.html",
       "category": "AI News"
     },
     {
-      "title": "Karpathy 给了世界一个 Gist。我们给了它一个家。MateClaw v1.1.137 正式发布",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "一 四月初的某个晚上，Andrej Karpathy 在 GitHub Gists 上发了一份文档。 没有发布会。没有官网。没有 Twitter 推广。他只是把它传上去，标题写了两个字：LLM Wiki。 四十八小时之内，转推过万。一个礼拜之内，GitHub 上多出了至少 9 个项目，名字全都叫 llm-wiki 或者 llmwiki，每一个都在抢着实现他描述的那个东西。 ...",
-      "link": "https://www.oschina.net/news/437605",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥FlyFlow 工作流新版发布：子流程多实例、Excel导入等重磅功能来袭！",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "本次更新内容如下 新增：支持微信小程序登录认证 新增：子流程支持明细表单和子表单作为多实例来源，并支持变量传递 新增：明细表单和子表单支持excel导入数据 新增：审批节点支持配置跳过审批人功能 新增：发起人节点支持代理人设置 优化：管理员转交任务添加参数验证 修复：如果审批人配置了发起人节点选择审批人，并且...",
-      "link": "https://www.oschina.net/news/437604",
-      "category": "AI News"
-    },
-    {
-      "title": "Zed 编辑器正式发布 1.0：性能优先的编辑器走到了新起点",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "2026年4月29日，代码编辑器 Zed 正式宣布发布 1.0 版本。这一消息随即登上 Hacker News 首页，引发了开发者社区的广泛讨论。距离 Zed 团队「推倒重来」的那个决定，已经过去了整整五年。 从 Atom 的废墟上重建 Zed 的故事要从一次彻底的放弃说起。创始人 Nathan Sobo 和团队的核心成员，正是当年打造 Atom 编辑器的工程师...",
-      "link": "https://www.oschina.net/news/437603/zed-1-0",
-      "category": "AI News"
-    },
-    {
-      "title": "Bug频出，官方致歉：《异环》能跳出《幻塔》的剧本吗？",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "文丨贝果树编辑丨果脯、刘士武4月28日，距离游戏公测仅过5天，《异环》官方就不得不发布一篇正式的道歉信，以回应游戏在玩家群体间面临的诸多质疑与争议。信中，官方公布了后续针对叙事、玩法、游戏Bug等功能的后续优化计划，并向全体玩家发放自选S级常驻角色作为补偿。《异环》官方发布道歉信没办法，尽管现如今大家都说“开服没有争议的二游不是好二游”，但公测后的《异环》，暴露出的问题与痛点确实有点……太多了，如数值体系设计不合理、剧情评价毁誉参半、数不清又修不完的各类游戏Bug等等。大到游戏抽卡系统，小到都市游戏的各类设计，都或多或少存在缺陷。作为国内首个跑出来的“都市题材二游”，在公测之前，《异环》就持续",
-      "link": "https://36kr.com/p/3787956437179395?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "今日热点导览四大主播集体离职，东方甄选奖励300名员工超4亿元股份，人均超140万元马斯克天价薪酬方案曝光，薪酬目标包括火星殖民以及太空数据中心建设5月1日起北京禁飞禁售无人机，大疆在京门店4月29日将下架相关产品朋友圈改版，腾讯客服表示会持续优化8天预计发送旅客1.58亿人次，铁路 “五一”假期运输今天启动TOP 3大新闻官方通报“安徽一女子称在霸王茶姬中喝出水银”：异物系购买人投放4月28日，针对网民反映“砀山万达霸王茶姬奶茶中喝出水银”问题，砀山县立即成立由县市场监管局、县公安局等部门组成的联合调查组展开调查。经调查，涉事“霸王茶姬”门店的原材料、生产流程未发现异常。奶茶中异物系购买人投",
-      "link": "https://36kr.com/p/3788573115735299?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，微滔生物近日接连完成A轮及A+轮融资，累计募资金额超5000万美元。两轮融资分别由正心谷资本和德诚资本领投，OrbiMed（奥博资本）、汉康资本、卫材创新风投基金（Eisai Innovation Inc.）、建发新兴投资，以及老股东启明创投、顺禧基金、杏泽资本等跟投。据了解，微滔生物的A轮次募集资金将主要用于推进核心药物管线GT801的临床进程和注册申报，以及研发团队扩充与平台建设。微滔生物由沙砾生物于2025年拆分成立，后者主要从事肿瘤浸润淋巴细胞（TIL）疗法开发，核心产品已进入临床二期。沙砾生物/微滔生物创始人、CEO刘雅容博士毕业于美国南加州大学，在",
-      "link": "https://36kr.com/p/3787339522432256?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+      "title": "坦克铁汉柔情燃动北京车展，全新坦克700领衔定义全域豪华新标杆",
       "source": "量子位",
-      "published": "2026-04-29",
-      "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
-      "link": "https://www.qbitai.com/2026/04/411205.html",
+      "published": "2026-04-30",
+      "summary": "42.8万元起售",
+      "link": "https://www.qbitai.com/2026/04/412021.html",
       "category": "AI News"
     },
     {
-      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
       "source": "量子位",
-      "published": "2026-04-29",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/04/411184.html",
+      "published": "2026-04-30",
+      "summary": "Stripe推出由 Link 驱动的智能体钱包",
+      "link": "https://www.qbitai.com/2026/04/412018.html",
       "category": "AI News"
     },
     {
-      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
       "source": "量子位",
-      "published": "2026-04-29",
-      "summary": "无需联网，下载即可直接在手机本地运行",
-      "link": "https://www.qbitai.com/2026/04/411186.html",
+      "published": "2026-04-30",
+      "summary": "从算力时代到智能时代，三大结构性变化",
+      "link": "https://www.qbitai.com/2026/04/412015.html",
       "category": "AI News"
     },
     {
-      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
       "source": "量子位",
-      "published": "2026-04-29",
-      "summary": "“全球最强开源”的含金量还在上升",
-      "link": "https://www.qbitai.com/2026/04/411133.html",
+      "published": "2026-04-30",
+      "summary": "三大技术尖点+五大全面引领",
+      "link": "https://www.qbitai.com/2026/04/411963.html",
       "category": "AI News"
     },
     {
-      "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+      "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
       "source": "InfoQ 中文",
-      "published": "2026-04-29",
+      "published": "2026-04-30",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "日均数百亿入库背后：从“人肉调度”到K8s弹性架构，度小满金融基于OceanBase重构入库架构实践",
+      "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
       "source": "InfoQ 中文",
-      "published": "2026-04-29",
+      "published": "2026-04-30",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
+      "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
       "source": "InfoQ 中文",
-      "published": "2026-04-29",
+      "published": "2026-04-30",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
+      "title": "Meta 收购 Manus 这事儿泡汤了",
       "source": "InfoQ 中文",
-      "published": "2026-04-29",
+      "published": "2026-04-30",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "哪些客户需要拒, 敢让龙虾决定吗?",
+      "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
       "source": "InfoQ 中文",
-      "published": "2026-04-29",
+      "published": "2026-04-30",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/mUm29FAa6NSm2xNUGUjc?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "🔊重磅升级 AI 能力！NocoBase 2.1.0-beta 发布：开源无代码 / 低代码平台 NocoBase",
+      "title": "「Why MoonBit 」第一期——Singularity Note AI 学习助手",
       "source": "开源中国",
-      "published": "2026-04-29",
-      "summary": "本文内容适用于 NocoBase 2.1.0-beta.24 及以上版本。 这是一次围绕 AI 能力的重要升级。这个版本能够让你把 AI Agent 接入 NocoBase。从 CLI 接入、AI 搭建，到 AI 员工能力增强，AI 开发插件等，覆盖了环境接入、系统搭建和业务协作的完整流程。同时我们也继续补齐了 V2 页面与核心能力的适配。 ## 新特性 ### NocoBa...",
-      "link": "https://www.oschina.net/news/437602",
+      "published": "2026-04-30",
+      "summary": "「Why MoonBit」 是 MoonBit 推出的应用案例栏目，聚焦真实开发者、团队和项目在实际场景中使用 MoonBit 的经验与实践。 在这里，我们希望记录的不只是“MoonBit 能做什么”，更是开发者为什么选择 MoonBit：他们遇到了怎样的工程问题，为什么需要更轻量、更高效、更可靠的技术方案，以及 MoonBit 如何在真实项目中发挥价...",
+      "link": "https://www.oschina.net/news/437670",
       "category": "AI News"
     },
     {
-      "title": "GitHub CTO 谈平台可用性：AI 驱动开发使流量暴增，基础设施从 10 倍扩容至 30 倍",
+      "title": "筑基大国供应链安全，开源中国以可信之基铸全链守护",
       "source": "开源中国",
-      "published": "2026-04-29",
-      "summary": "GitHub 首席技术官 Kyle Daigle 日前发布了一篇关于平台可用性的深度更新，坦承自 2025 年 12 月以来，AI 驱动的开发浪潮使平台流量出现了前所未有的激增，给基础设施带来了巨大压力，并导致近期发生了两起影响范围较广的故障事件。 Daigle 在文中披露了一组令人瞩目的增长数据：GitHub 平台目前每月新增超过 2000 万个仓...",
-      "link": "https://www.oschina.net/news/437601",
+      "published": "2026-04-30",
+      "summary": "2026 年 3 月 31 日，国务院公布《关于产业链供应链安全的规定》（以下简称《规定》），以国家行政法规筑牢产业安全防线，为关键领域自主可控、供应链韧性提升提供刚性保障。 在数字经济时代，开源生态已成为供应链安全的核心底座。开源中国以国家战略为指引，深耕可信开源基础设施建设，从开源供应支撑迈向全链路安全守...",
+      "link": "https://www.oschina.net/news/437669",
       "category": "AI News"
     },
     {
-      "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
-      "source": "36氪",
-      "published": "2026-04-29",
-      "summary": "文｜周鑫雨 王毓婵编辑｜杨轩解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”：它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构：注意力机制（让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样）MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”）后训练（模型初步练成后再针对性地补课强化）推理系",
-      "link": "https://36kr.com/p/3788151000751364?f=rss",
+      "title": "OpenAI 揭秘 GPT 模型频繁提及“哥布林”的幕后原因",
+      "source": "开源中国",
+      "published": "2026-04-30",
+      "summary": "OpenAI 日前发布了一篇技术博客，深入剖析了其大语言模型从 GPT-5.1 起频繁在回答中使用 \"哥布林\" \"小妖精\" 等奇幻生物隐喻的成因。这一现象看似无害，甚至略显俏皮，但随着模型迭代，相关词汇的出现频率持续攀升，最终引起了研究团队的高度重视。 问题的根源指向了 ChatGPT 的 \"Nerdy（极客）\" 个性化功能。该个性使用了...",
+      "link": "https://www.oschina.net/news/437668",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+      "title": "荷兰政府推出开源代码平台 code.overheid.nl，底层采用 Forgej",
+      "source": "开源中国",
+      "published": "2026-04-30",
+      "summary": "荷兰政府于 2026 年 4 月 27 日正式上线 code.overheid.nl 平台，这是一个面向政府机构的全国性开源代码托管与协作开发平台，标志着荷兰在数字主权领域迈出了重要一步。 该平台完全自主托管，旨在让政府组织能够独立地开发、共享和发布开源软件，避免对国外商业平台的过度依赖。目前平台处于试点阶段，底层采用 Forgejo—...",
+      "link": "https://www.oschina.net/news/437667",
+      "category": "AI News"
+    },
+    {
+      "title": "开源编译器项目 GCC 17 已支持海光 C86-4G CPU",
+      "source": "开源中国",
+      "published": "2026-04-30",
+      "summary": "Phoronix 消息，GCC 编译器代码库于 2026 年 4 月 29 日正式合并了对海光 C86-4G 系列 x86_64 处理器的支持，该补丁将随 GCC 17 版本发布，而不会进入即将推出的 GCC 16.1 稳定版。 海光是中国本土芯片企业，早年通过 AMD 中国合资项目获得了 x86 处理器技术授权，并在此基础上持续迭代。去年，海光与服务器制造商曙光完...",
+      "link": "https://www.oschina.net/news/437666",
+      "category": "AI News"
+    },
+    {
+      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
       "source": "36氪",
-      "published": "2026-04-29",
-      "summary": "大公司：魔法原子：目标到2036年营收达140亿美元36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31%36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%。受益于",
-      "link": "https://36kr.com/p/3787748082293766?f=rss",
+      "published": "2026-04-30",
+      "summary": "文 | 张冰冰编辑 | 阿至36氪获悉，武汉天石科丰新能源科技有限公司（以下简称「天石科丰」）近期宣布完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，启辰资本担任长期财务顾问，本轮融资将主要用于产品研发及百吨级产线落地。「天石科丰」成立于2022年12月，聚焦于硫化物固态电解质粉体材料研发和生产，技术孵化于武汉理工大学和德国吉森大学，开发出空气稳定性良好且室温离子电导率达12 mS/cm的硫化物电解质粉体，室温离子电导率达3mS/cm、厚度20μm的LPSCB基复合电解质膜。作为硫化物固态电池上游粉体材料供应商，「天石科丰」已触达头部电芯客户和国内外40多所顶尖高校，建成吨级产线，",
+      "link": "https://36kr.com/p/3789235646094339?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道",
+      "source": "36氪",
+      "published": "2026-04-30",
+      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。索诺克枭龙系列纯三色激光投影机“不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，只是这个路走得有点长。”近两年索诺克加快新品与技术落地节奏，源于行业格局的变化：国内多家头部品牌凭借资本加持，在新技术迭代上快步领跑，部分领域甚至实现了反超。“正因如此，我们更要抢抓窗口期，把核心技术快速转化为落地产品。”在",
+      "link": "https://36kr.com/p/3785172264197384?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
+      "source": "36氪",
+      "published": "2026-04-30",
+      "summary": "作者：FBIF媒体部FBIF2026食品饮料创新论坛及FBIF食品创新展（f展）于2026年4月27-29日在杭州国际博览中心举办。3天的FBIF2026将包含160+位演讲嘉宾，650+展商参展，6000+渠道观众观展，累计将吸引53000+观众观展。FBIF2026以“大势可为”为主题。答案藏于变局，我们将与业内共同探讨，决定产业未来走向的关键变量。本次论坛将从乳品、零食、烘焙、饮料等品类，以及行业战略、功能性配料、营销、零售、包装、产品开发等不同角度讨论行业趋势及创新案例。与此同时，FBIF Wow食品创新奖 2026颁奖仪式及FBIF食品创新展，将带来更多创新灵感。身处高速变化的时代，",
+      "link": "https://36kr.com/p/3789175930232065?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
+      "source": "36氪",
+      "published": "2026-04-30",
+      "summary": "作者 | 邓咏仪编辑 | 杨轩如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。Nebula NEXT 01在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦德施然从会场走",
+      "link": "https://36kr.com/p/3789057332043016?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "HappyHorse没有惊喜",
+      "source": "36氪",
+      "published": "2026-04-30",
+      "summary": "作者 | 兰杰编辑 | 乔芊4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。该视频模型饱受关注的原因有二。一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算实力排名的数字",
+      "link": "https://36kr.com/p/3789098887077123?f=rss",
       "category": "AI News"
     }
   ]
