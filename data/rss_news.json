@@ -1,6 +1,38 @@
 {
-  "updated": "2026-04-30T13:16:17.804030+00:00",
+  "updated": "2026-05-01T01:51:10.060283+00:00",
   "articles": [
+    {
+      "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "source": "InfoQ 中文",
+      "published": "2026-05-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "source": "InfoQ 中文",
+      "published": "2026-05-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "source": "InfoQ 中文",
+      "published": "2026-05-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线",
+      "source": "36氪",
+      "published": "2026-05-01",
+      "summary": "在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国空间站建设以及太空生活等多个维度，并通过模型展示、VR体验等形式强化互动性。从形式上看，这类跨界活动近年来在美妆行业并不罕见，但其背后所指向的“科技背书”，正在成为品牌竞争的重要组成部分——国际美妆巨头近年来持续",
+      "link": "https://36kr.com/p/3787830454787330?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展",
       "source": "量子位",
@@ -58,30 +90,6 @@
       "category": "AI News"
     },
     {
-      "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
-      "source": "InfoQ 中文",
-      "published": "2026-04-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Meta 收购 Manus 这事儿泡汤了",
-      "source": "InfoQ 中文",
-      "published": "2026-04-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
-      "source": "InfoQ 中文",
-      "published": "2026-04-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "「Why MoonBit 」第一期——Singularity Note AI 学习助手",
       "source": "开源中国",
       "published": "2026-04-30",
@@ -133,7 +141,7 @@
       "title": "错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道",
       "source": "36氪",
       "published": "2026-04-30",
-      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。索诺克枭龙系列纯三色激光投影机“不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，只是这个路走得有点长。”近两年索诺克加快新品与技术落地节奏，源于行业格局的变化：国内多家头部品牌凭借资本加持，在新技术迭代上快步领跑，部分领域甚至实现了反超。“正因如此，我们更要抢抓窗口期，把核心技术快速转化为落地产品。”在",
+      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。索诺克枭龙系列纯三色激光投影机“不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，只是这个路走得有点长。”近两年索诺克加快新品与技术落地节奏，源于行业格局的变化：国内多家头部品牌凭借资��加持，在新技术迭代上快步领跑，部分领域甚至实现了反超。“正因如此，我们更要抢抓窗口期，把核心技术快速转化为落地产品。”",
       "link": "https://36kr.com/p/3785172264197384?f=rss",
       "category": "AI News"
     },
@@ -151,14 +159,6 @@
       "published": "2026-04-30",
       "summary": "作者 | 邓咏仪编辑 | 杨轩如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。Nebula NEXT 01在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦德施然从会场走",
       "link": "https://36kr.com/p/3789057332043016?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "HappyHorse没有惊喜",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "作者 | 兰杰编辑 | 乔芊4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。该视频模型饱受关注的原因有二。一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算实力排名的数字",
-      "link": "https://36kr.com/p/3789098887077123?f=rss",
       "category": "AI News"
     }
   ]
