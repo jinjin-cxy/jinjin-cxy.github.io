@@ -1,6 +1,46 @@
 {
-  "updated": "2026-05-01T01:51:10.060283+00:00",
+  "updated": "2026-05-01T12:50:59.031267+00:00",
   "articles": [
+    {
+      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "source": "量子位",
+      "published": "2026-05-01",
+      "summary": "都是Prefill的锅",
+      "link": "https://www.qbitai.com/2026/05/412585.html",
+      "category": "AI News"
+    },
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "source": "量子位",
+      "published": "2026-05-01",
+      "summary": "真机部署“零微调”",
+      "link": "https://www.qbitai.com/2026/05/412577.html",
+      "category": "AI News"
+    },
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "source": "量子位",
+      "published": "2026-05-01",
+      "summary": "瓜多到吃不完",
+      "link": "https://www.qbitai.com/2026/05/412447.html",
+      "category": "AI News"
+    },
+    {
+      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+      "source": "InfoQ 中文",
+      "published": "2026-05-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "source": "InfoQ 中文",
+      "published": "2026-05-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "布隆过滤器：理论、工程权衡与Go语言实现",
       "source": "InfoQ 中文",
@@ -23,6 +63,30 @@
       "published": "2026-05-01",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "技术日报｜Warp 终端连冠再揽 8399 星突破 4.9 万，mattpocock 技能库五连榜前二逼近 5 万星",
+      "source": "开源中国",
+      "published": "2026-05-01",
+      "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 13 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 warpdotdev/warp 项目简介: Warp 是一个源自终端的智能体开发环境。 今日新增: 8399 * 总星数: 49151 * 语言: Rust 项目截图: warpdotdev/warp h...",
+      "link": "https://www.oschina.net/news/437672",
+      "category": "AI News"
+    },
+    {
+      "title": "追觅造车，从“火箭”开始",
+      "source": "36氪",
+      "published": "2026-05-01",
+      "summary": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9秒。同时亮相的还有旗舰级激光雷达DHX1、首款可量产全固态电池、全线控智能底盘等一系列“星空十二全",
+      "link": "https://36kr.com/p/3790587098832137?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
+      "source": "36氪",
+      "published": "2026-05-01",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。本轮资金将主要用于加速大航跃迁核心产品，国内首款塔架回收运载火箭“跃迁一号”的研制与首飞，百吨级液氧甲烷发动机研发与测试。大航跃迁成立于2024年2月，是国内首家落地“筷子夹”塔架式回收技术的二代民营火箭企业。创始人陈曙光长期深耕航天领域，早期曾任职于中国运载火箭技",
+      "link": "https://36kr.com/p/3790141500366085?f=rss",
       "category": "AI News"
     },
     {
@@ -50,43 +114,11 @@
       "category": "AI News"
     },
     {
-      "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-      "source": "量子位",
+      "title": "献礼劳动节｜qData 数据中台开源版 v1.3.0 正式发布：智能问数（ChatBI）来了！",
+      "source": "开源中国",
       "published": "2026-04-30",
-      "summary": "Stripe推出由 Link 驱动的智能体钱包",
-      "link": "https://www.qbitai.com/2026/04/412018.html",
-      "category": "AI News"
-    },
-    {
-      "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-      "source": "量子位",
-      "published": "2026-04-30",
-      "summary": "从算力时代到智能时代，三大结构性变化",
-      "link": "https://www.qbitai.com/2026/04/412015.html",
-      "category": "AI News"
-    },
-    {
-      "title": "10.98万元起！主流精品电混SUV首选，吉利银河M7远航家正式上市",
-      "source": "量子位",
-      "published": "2026-04-30",
-      "summary": "三大技术尖点+五大全面引领",
-      "link": "https://www.qbitai.com/2026/04/411963.html",
-      "category": "AI News"
-    },
-    {
-      "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
-      "source": "InfoQ 中文",
-      "published": "2026-04-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
-      "source": "InfoQ 中文",
-      "published": "2026-04-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
+      "summary": "让数据查询像聊天一样简单，业务分析不再被 SQL 束缚。 我们很高兴地宣布，qData 数据中台开源版 v1.3.0 正式发布！本次版本的核心是全新推出的 qData 智能问数（ChatBI） 独立模块。 通过引入 Text2SQL 技术，我们大幅降低了业务端的数据查询门槛，实现“所问即所得”；同时为技术端提供透明、可校验的 SQL 生成链路，双...",
+      "link": "https://www.oschina.net/news/437671/qdata-1-3-0-released",
       "category": "AI News"
     },
     {
@@ -114,22 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "荷兰政府推出开源代码平台 code.overheid.nl，底层采用 Forgej",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "荷兰政府于 2026 年 4 月 27 日正式上线 code.overheid.nl 平台，这是一个面向政府机构的全国性开源代码托管与协作开发平台，标志着荷兰在数字主权领域迈出了重要一步。 该平台完全自主托管，旨在让政府组织能够独立地开发、共享和发布开源软件，避免对国外商业平台的过度依赖。目前平台处于试点阶段，底层采用 Forgejo—...",
-      "link": "https://www.oschina.net/news/437667",
-      "category": "AI News"
-    },
-    {
-      "title": "开源编译器项目 GCC 17 已支持海光 C86-4G CPU",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "Phoronix 消息，GCC 编译器代码库于 2026 年 4 月 29 日正式合并了对海光 C86-4G 系列 x86_64 处理器的支持，该补丁将随 GCC 17 版本发布，而不会进入即将推出的 GCC 16.1 稳定版。 海光是中国本土芯片企业，早年通过 AMD 中国合资项目获得了 x86 处理器技术授权，并在此基础上持续迭代。去年，海光与服务器制造商曙光完...",
-      "link": "https://www.oschina.net/news/437666",
-      "category": "AI News"
-    },
-    {
       "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
       "source": "36氪",
       "published": "2026-04-30",
@@ -141,24 +157,8 @@
       "title": "错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道",
       "source": "36氪",
       "published": "2026-04-30",
-      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。索诺克枭龙系列纯三色激光投影机“不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，只是这个路走得有点长。”近两年索诺克加快新品与技术落地节奏，源于行业格局的变化：国内多家头部品牌凭借资��加持，在新技术迭代上快步领跑，部分领域甚至实现了反超。“正因如此，我们更要抢抓窗口期，把核心技术快速转化为落地产品。”",
+      "summary": "在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。索诺克枭龙系列纯三色激光投影机“不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何商用，只是这个路走得有点长。”近两年索诺克加快新品与技术落地节奏，源于行业格局的变化：国内多家头部品牌凭借资本加持，在新技术迭代上快步领跑，部分领域甚至实现了反超。“正因如此，我们更要抢抓窗口期，把核心技术快速转化为落地产品。”在",
       "link": "https://36kr.com/p/3785172264197384?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "作者：FBIF媒体部FBIF2026食品饮料创新论坛及FBIF食品创新展（f展）于2026年4月27-29日在杭州国际博览中心举办。3天的FBIF2026将包含160+位演讲嘉宾，650+展商参展，6000+渠道观众观展，累计将吸引53000+观众观展。FBIF2026以“大势可为”为主题。答案藏于变局，我们将与业内共同探讨，决定产业未来走向的关键变量。本次论坛将从乳品、零食、烘焙、饮料等品类，以及行业战略、功能性配料、营销、零售、包装、产品开发等不同角度讨论行业趋势及创新案例。与此同时，FBIF Wow食品创新奖 2026颁奖仪式及FBIF食品创新展，将带来更多创新灵感。身处高速变化的时代，",
-      "link": "https://36kr.com/p/3789175930232065?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”",
-      "source": "36氪",
-      "published": "2026-04-30",
-      "summary": "作者 | 邓咏仪编辑 | 杨轩如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。Nebula NEXT 01在舞台台上，图灵奖得主 David Patterson、7-Eleven 前 CEO James Keyes、Meta 前 VP来谈论AI如何重塑物理世界；而苹果联合创始人沃兹尼亚克（Steve Wozniak）以及NBA传奇球星德怀恩·韦德施然从会场走",
-      "link": "https://36kr.com/p/3789057332043016?f=rss",
       "category": "AI News"
     }
   ]
