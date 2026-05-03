@@ -1,69 +1,77 @@
 {
-  "updated": "2026-05-03T01:43:04.196166+00:00",
+  "updated": "2026-05-03T12:40:56.446270+00:00",
   "repositories": [
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 62770,
-      "stars_today": 2225,
-      "language": "Python",
-      "link": "https://github.com/TauricResearch/TradingAgents"
-    },
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 36853,
-      "stars_today": 1299,
+      "stars": 37633,
+      "stars_today": 1834,
       "language": "TypeScript",
       "link": "https://github.com/ruvnet/ruflo"
     },
     {
-      "name": "browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "stars": 1524,
-      "stars_today": 346,
-      "language": "JavaScript",
-      "link": "https://github.com/browserbase/skills"
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 64161,
+      "stars_today": 3315,
+      "language": "Python",
+      "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 22741,
-      "stars_today": 1064,
+      "stars": 23273,
+      "stars_today": 1117,
       "language": "Python",
       "link": "https://github.com/soxoj/maigret"
     },
     {
-      "name": "Flowseal/zapret-discord-youtube",
-      "description": "",
-      "stars": 27121,
-      "stars_today": 181,
-      "language": "Batchfile",
-      "link": "https://github.com/Flowseal/zapret-discord-youtube"
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 1821,
+      "stars_today": 564,
+      "language": "Rust",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 9444,
+      "stars_today": 478,
+      "language": "Python",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars": 1662,
+      "stars_today": 322,
+      "language": "JavaScript",
+      "link": "https://github.com/browserbase/skills"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": 19257,
+      "stars_today": 264,
+      "language": "TypeScript",
+      "link": "https://github.com/czlonkowski/n8n-mcp"
     },
     {
       "name": "1jehuang/jcode",
       "description": "Coding Agent Harness",
-      "stars": 2859,
-      "stars_today": 482,
+      "stars": 3156,
+      "stars_today": 587,
       "language": "Rust",
       "link": "https://github.com/1jehuang/jcode"
     },
     {
-      "name": "ShareX/ShareX",
-      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t",
-      "stars": 36828,
-      "stars_today": 152,
-      "language": "C#",
-      "link": "https://github.com/ShareX/ShareX"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 344593,
-      "stars_today": 694,
-      "language": "",
-      "link": "https://github.com/jwasham/coding-interview-university"
+      "name": "openwrt/openwrt",
+      "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged vi",
+      "stars": 26504,
+      "stars_today": 14,
+      "language": "C",
+      "link": "https://github.com/openwrt/openwrt"
     }
   ]
 }

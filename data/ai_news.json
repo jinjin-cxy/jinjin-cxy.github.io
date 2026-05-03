@@ -1,6 +1,86 @@
 {
-  "updated": "2026-05-03T01:43:13.336656+00:00",
+  "updated": "2026-05-03T12:41:13.587175+00:00",
   "articles": [
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "source": "量子位",
+      "published": "2026-05-03",
+      "summary": "瓜多到吃不完",
+      "link": "https://www.qbitai.com/2026/05/412080.html",
+      "category": "AI News"
+    },
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "source": "量子位",
+      "published": "2026-05-03",
+      "summary": "完全无需互联网数据",
+      "link": "https://www.qbitai.com/2026/05/412896.html",
+      "category": "AI News"
+    },
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "source": "量子位",
+      "published": "2026-05-03",
+      "summary": "与全球社区共同推动具身智能创新",
+      "link": "https://www.qbitai.com/2026/05/412870.html",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek V4最大的遗憾",
+      "source": "量子位",
+      "published": "2026-05-03",
+      "summary": "Engram去哪了？",
+      "link": "https://www.qbitai.com/2026/05/412737.html",
+      "category": "AI News"
+    },
+    {
+      "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+      "source": "InfoQ 中文",
+      "published": "2026-05-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+      "source": "InfoQ 中文",
+      "published": "2026-05-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "使用AWS Lambda Extensions在响应后执行遥测刷写",
+      "source": "InfoQ 中文",
+      "published": "2026-05-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
+      "source": "InfoQ 中文",
+      "published": "2026-05-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": ".NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了",
+      "source": "InfoQ 中文",
+      "published": "2026-05-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "技术日报｜多智能体金融交易框架 TradingAgents 夺冠突破 6.2 万星，Claude 智能体编排平台 ruflo 强势入榜",
+      "source": "开源中国",
+      "published": "2026-05-03",
+      "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 8 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 TauricResearch/TradingAgents 项目简介: TradingAgents：多智能体大语言模型金融交易框架 今日新增: 2225 * 总星数: 62560 * 语言: Python 项目截...",
+      "link": "https://www.oschina.net/news/437676",
+      "category": "AI News"
+    },
     {
       "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
       "source": "量子位",
@@ -58,78 +138,6 @@
       "category": "AI News"
     },
     {
-      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-      "source": "量子位",
-      "published": "2026-05-01",
-      "summary": "基于全栈国产化软硬件生态打造",
-      "link": "https://www.qbitai.com/2026/05/412696.html",
-      "category": "AI News"
-    },
-    {
-      "title": "他用AI办了个音乐节，主题：别读博",
-      "source": "量子位",
-      "published": "2026-05-01",
-      "summary": "一代科研人的赛博苦中作乐",
-      "link": "https://www.qbitai.com/2026/05/412597.html",
-      "category": "AI News"
-    },
-    {
-      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
-      "source": "量子位",
-      "published": "2026-05-01",
-      "summary": "都是Prefill的锅",
-      "link": "https://www.qbitai.com/2026/05/412585.html",
-      "category": "AI News"
-    },
-    {
-      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-      "source": "量子位",
-      "published": "2026-05-01",
-      "summary": "真机部署“零微调”",
-      "link": "https://www.qbitai.com/2026/05/412577.html",
-      "category": "AI News"
-    },
-    {
-      "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-      "source": "InfoQ 中文",
-      "published": "2026-05-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
-      "source": "InfoQ 中文",
-      "published": "2026-05-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "布隆过滤器：理论、工程权衡与Go语言实现",
-      "source": "InfoQ 中文",
-      "published": "2026-05-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
-      "source": "InfoQ 中文",
-      "published": "2026-05-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
-      "source": "InfoQ 中文",
-      "published": "2026-05-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "技术日报｜Warp 终端连冠再揽 8399 星突破 4.9 万，mattpocock 技能库五连榜前二逼近 5 万星",
       "source": "开源中国",
       "published": "2026-05-01",
@@ -151,14 +159,6 @@
       "published": "2026-04-30",
       "summary": "「Why MoonBit」 是 MoonBit 推出的应用案例栏目，聚焦真实开发者、团队和项目在实际场景中使用 MoonBit 的经验与实践。 在这里，我们希望记录的不只是“MoonBit 能做什么”，更是开发者为什么选择 MoonBit：他们遇到了怎样的工程问题，为什么需要更轻量、更高效、更可靠的技术方案，以及 MoonBit 如何在真实项目中发挥价...",
       "link": "https://www.oschina.net/news/437670",
-      "category": "AI News"
-    },
-    {
-      "title": "筑基大国供应链安全，开源中国以可信之基铸全链守护",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "2026 年 3 月 31 日，国务院公布《关于产业链供应链安全的规定》（以下简称《规定》），以国家行政法规筑牢产业安全防线，为关键领域自主可控、供应链韧性提升提供刚性保障。 在数字经济时代，开源生态已成为供应链安全的核心底座。开源中国以国家战略为指引，深耕可信开源基础设施建设，从开源供应支撑迈向全链路安全守...",
-      "link": "https://www.oschina.net/news/437669",
       "category": "AI News"
     }
   ]
