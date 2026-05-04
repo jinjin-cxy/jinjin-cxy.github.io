@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-03T12:41:13.587175+00:00",
+  "updated": "2026-05-04T01:31:12.779537+00:00",
   "articles": [
+    {
+      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
       "source": "量子位",
@@ -55,22 +71,6 @@
       "published": "2026-05-03",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
-      "source": "InfoQ 中文",
-      "published": "2026-05-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": ".NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了",
-      "source": "InfoQ 中文",
-      "published": "2026-05-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
