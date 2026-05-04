@@ -1,20 +1,84 @@
 {
-  "updated": "2026-05-04T01:31:12.779537+00:00",
+  "updated": "2026-05-04T13:19:28.908951+00:00",
   "articles": [
     {
-      "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
-      "source": "InfoQ 中文",
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "source": "量子位",
       "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+      "summary": "专门针对DeepSeek优化",
+      "link": "https://www.qbitai.com/2026/05/412914.html",
       "category": "AI News"
     },
     {
-      "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
       "source": "InfoQ 中文",
       "published": "2026-05-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构",
+      "source": "InfoQ 中文",
+      "published": "2026-05-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "技术日报｜TradingAgents 连冠再揽 3313 星总量突破 6.5 万，Claude 编排平台 ruflo 两日入榜前二",
+      "source": "开源中国",
+      "published": "2026-05-04",
+      "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 9 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 TauricResearch/TradingAgents 项目简介: TradingAgents：多智能体大语言模型金融交易框架 今日新增: 3313 * 总星数: 65221 * 语言: Python 项目截...",
+      "link": "https://www.oschina.net/news/437680",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire:强强强 ，单表？连表？不想连表？Xbatis 1.10.2 正式发布，你错过最好用的ORM框架！",
+      "source": "开源中国",
+      "published": "2026-05-04",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.2 - 2026-04-29 1：实现@Fetch,支持生效条件 2：in/notIn 单条时，变成eq/ne...",
+      "link": "https://www.oschina.net/news/437679",
+      "category": "AI News"
+    },
+    {
+      "title": "五月，适合想清楚一件事｜幕启",
+      "source": "36氪",
+      "published": "2026-05-04",
+      "summary": "图源：公众号「有三思  U  Sense」5月4日，一个被默认为“青年专属”的日期。但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。[1]敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。”许多年前，我还是一个初入职场的新人，在猎头行业学习如何阅读简历、判断人、理解组织。那时候，我的老板总时不时夸团队里的同学“有Sense”。“有Sense”是咨询行业爱用的职场黑话，也是一句高度浓缩的赞美。努力是苦劳，聪明是天赋，而Sense，是前辈不必手把手教你，你也能和他们同频思",
+      "link": "https://36kr.com/p/3794961189821698?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+      "source": "36氪",
+      "published": "2026-05-04",
+      "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。豆包目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”据接近豆包的人士透露，付费功能将主要专注",
+      "link": "https://36kr.com/p/3794799114476809?f=rss",
       "category": "AI News"
     },
     {
@@ -50,43 +114,11 @@
       "category": "AI News"
     },
     {
-      "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
-      "source": "InfoQ 中文",
-      "published": "2026-05-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
-      "source": "InfoQ 中文",
-      "published": "2026-05-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "使用AWS Lambda Extensions在响应后执行遥测刷写",
-      "source": "InfoQ 中文",
-      "published": "2026-05-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/fxBMtQmN3Dd29JCTOdEQ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "技术日报｜多智能体金融交易框架 TradingAgents 夺冠突破 6.2 万星，Claude 智能体编排平台 ruflo 强势入榜",
       "source": "开源中国",
       "published": "2026-05-03",
       "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 8 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 TauricResearch/TradingAgents 项目简介: TradingAgents：多智能体大语言模型金融交易框架 今日新增: 2225 * 总星数: 62560 * 语言: Python 项目截...",
       "link": "https://www.oschina.net/news/437676",
-      "category": "AI News"
-    },
-    {
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-      "source": "量子位",
-      "published": "2026-05-02",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/05/412713.html",
       "category": "AI News"
     },
     {
@@ -122,43 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "周杰伦伙伴，要被卖了",
-      "source": "36氪",
-      "published": "2026-05-02",
-      "summary": "图片来源：视觉中国作者/吴琼报道/投资界PEdaily音乐顶流也迎来了卖身结局。近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……这些顶流艺人的音乐作品，均由环球音乐发行或持有版权。每当你打开音乐软件，也许就有一笔钱进了环球音乐的口袋。如今面对天价邀约，这家音乐帝国正面临着抉择时刻。估值4000亿，环球音乐要被卖了此番买家，堪称华尔街的传奇人物。比尔·阿克曼（Bi",
-      "link": "https://36kr.com/p/3791838183234816?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "茶颜悦色 , 装不下去了",
-      "source": "36氪",
-      "published": "2026-05-02",
-      "summary": "以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。图源：二手交易平台截图黄牛们也闻风而动，据二手交易平台数据，原价十几元一杯的茶颜悦色奶茶，代购价格均被炒至30—100元。然而，从开业第二天开始，排队人数明显骤减，等候时间缩至1小时。甚至比起想要排队打卡，许多网友的态度是纳闷：“都2026年了，怎么还在排茶颜悦色啊？”进入“湖南第二省会”布局深圳，对其他现制茶饮品牌来说也许算不得什么，但对过于谨慎的茶",
-      "link": "https://36kr.com/p/3791800373664772?f=rss",
-      "category": "AI News"
-    },
-    {
       "title": "技术日报｜Warp 终端连冠再揽 8399 星突破 4.9 万，mattpocock 技能库五连榜前二逼近 5 万星",
       "source": "开源中国",
       "published": "2026-05-01",
       "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 13 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 warpdotdev/warp 项目简介: Warp 是一个源自终端的智能体开发环境。 今日新增: 8399 * 总星数: 49151 * 语言: Rust 项目截图: warpdotdev/warp h...",
       "link": "https://www.oschina.net/news/437672",
-      "category": "AI News"
-    },
-    {
-      "title": "献礼劳动节｜qData 数据中台开源版 v1.3.0 正式发布：智能问数（ChatBI）来了！",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "让数据查询像聊天一样简单，业务分析不再被 SQL 束缚。 我们很高兴地宣布，qData 数据中台开源版 v1.3.0 正式发布！本次版本的核心是全新推出的 qData 智能问数（ChatBI） 独立模块。 通过引入 Text2SQL 技术，我们大幅降低了业务端的数据查询门槛，实现“所问即所得”；同时为技术端提供透明、可校验的 SQL 生成链路，双...",
-      "link": "https://www.oschina.net/news/437671/qdata-1-3-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "「Why MoonBit 」第一期——Singularity Note AI 学习助手",
-      "source": "开源中国",
-      "published": "2026-04-30",
-      "summary": "「Why MoonBit」 是 MoonBit 推出的应用案例栏目，聚焦真实开发者、团队和项目在实际场景中使用 MoonBit 的经验与实践。 在这里，我们希望记录的不只是“MoonBit 能做什么”，更是开发者为什么选择 MoonBit：他们遇到了怎样的工程问题，为什么需要更轻量、更高效、更可靠的技术方案，以及 MoonBit 如何在真实项目中发挥价...",
-      "link": "https://www.oschina.net/news/437670",
       "category": "AI News"
     }
   ]

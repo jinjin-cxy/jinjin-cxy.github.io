@@ -1,77 +1,125 @@
 {
-  "updated": "2026-05-04T01:30:58.749046+00:00",
+  "updated": "2026-05-04T13:19:19.168137+00:00",
   "repositories": [
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 39044,
-      "stars_today": 1840,
+      "stars": 40270,
+      "stars_today": 2594,
       "language": "TypeScript",
       "link": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 65335,
-      "stars_today": 3313,
+      "stars": 66393,
+      "stars_today": 2181,
       "language": "Python",
       "link": "https://github.com/TauricResearch/TradingAgents"
     },
     {
-      "name": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 23838,
-      "stars_today": 1119,
-      "language": "Python",
-      "link": "https://github.com/soxoj/maigret"
-    },
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 2192,
-      "stars_today": 343,
-      "language": "Rust",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI"
-    },
-    {
-      "name": "AIDC-AI/Pixelle-Video",
-      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": 9998,
-      "stars_today": 497,
-      "language": "Python",
-      "link": "https://github.com/AIDC-AI/Pixelle-Video"
-    },
-    {
       "name": "browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
-      "stars": 1834,
-      "stars_today": 322,
+      "stars": 1985,
+      "stars_today": 320,
       "language": "JavaScript",
       "link": "https://github.com/browserbase/skills"
     },
     {
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 3197,
+      "stars_today": 1277,
+      "language": "Rust",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI"
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": 24403,
+      "stars_today": 1116,
+      "language": "Python",
+      "link": "https://github.com/soxoj/maigret"
+    },
+    {
+      "name": "qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "stars": 36923,
+      "stars_today": 68,
+      "language": "C++",
+      "link": "https://github.com/qbittorrent/qBittorrent"
+    },
+    {
       "name": "czlonkowski/n8n-mcp",
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "stars": 19533,
-      "stars_today": 282,
+      "stars": 19763,
+      "stars_today": 497,
       "language": "TypeScript",
       "link": "https://github.com/czlonkowski/n8n-mcp"
     },
     {
       "name": "1jehuang/jcode",
       "description": "Coding Agent Harness",
-      "stars": 3443,
-      "stars_today": 591,
+      "stars": 3699,
+      "stars_today": 545,
       "language": "Rust",
       "link": "https://github.com/1jehuang/jcode"
     },
     {
-      "name": "openwrt/openwrt",
-      "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged vi",
-      "stars": 26622,
-      "stars_today": 26,
-      "language": "C",
-      "link": "https://github.com/openwrt/openwrt"
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 92057,
+      "stars_today": 828,
+      "language": "Shell",
+      "link": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "stars": 22857,
+      "stars_today": 418,
+      "language": "TypeScript",
+      "link": "https://github.com/virattt/dexter"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "",
+      "stars": 27251,
+      "stars_today": 106,
+      "language": "Batchfile",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube"
+    },
+    {
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 2575,
+      "stars_today": 222,
+      "language": "JavaScript",
+      "link": "https://github.com/fspecii/ace-step-ui"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "stars": 51017,
+      "stars_today": 35,
+      "language": "C#",
+      "link": "https://github.com/jellyfin/jellyfin"
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "stars": 7779,
+      "stars_today": 163,
+      "language": "Python",
+      "link": "https://github.com/cocoindex-io/cocoindex"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": 12772,
+      "stars_today": 316,
+      "language": "Ruby",
+      "link": "https://github.com/docusealco/docuseal"
     }
   ]
 }
