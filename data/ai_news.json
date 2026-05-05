@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-04T13:19:28.908951+00:00",
+  "updated": "2026-05-05T01:30:34.142173+00:00",
   "articles": [
+    {
+      "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
+      "source": "InfoQ 中文",
+      "published": "2026-05-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
+      "source": "InfoQ 中文",
+      "published": "2026-05-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
       "source": "量子位",
@@ -34,22 +50,6 @@
       "category": "AI News"
     },
     {
-      "title": "亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力",
-      "source": "InfoQ 中文",
-      "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构",
-      "source": "InfoQ 中文",
-      "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "技术日报｜TradingAgents 连冠再揽 3313 星总量突破 6.5 万，Claude 编排平台 ruflo 两日入榜前二",
       "source": "开源中国",
       "published": "2026-05-04",
@@ -79,6 +79,14 @@
       "published": "2026-05-04",
       "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。豆包目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”据接近豆包的人士透露，付费功能将主要专注",
       "link": "https://36kr.com/p/3794799114476809?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] How OpenAI delivers low-latency voice AI at scale",
+      "source": "OpenAI Blog",
+      "published": "2026-05-04",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-05-02",
       "summary": "文｜周鑫雨编辑｜杨轩规模化落地，今年的具身公司都在谈这个。数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营收规模。在",
       "link": "https://36kr.com/p/3792155815304450?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "技术日报｜Warp 终端连冠再揽 8399 星突破 4.9 万，mattpocock 技能库五连榜前二逼近 5 万星",
-      "source": "开源中国",
-      "published": "2026-05-01",
-      "summary": "🌟 TrendForge 每日精选 - 发现最具潜力的开源项目 📊 今日共收录 13 个热门项目 🌐 智能中文翻译版 - 项目描述已自动翻译，便于理解 🏆 今日最热项目 Top 10 🥇 warpdotdev/warp 项目简介: Warp 是一个源自终端的智能体开发环境。 今日新增: 8399 * 总星数: 49151 * 语言: Rust 项目截图: warpdotdev/warp h...",
-      "link": "https://www.oschina.net/news/437672",
       "category": "AI News"
     }
   ]
