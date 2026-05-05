@@ -1,125 +1,125 @@
 {
-  "updated": "2026-05-05T01:30:24.439148+00:00",
+  "updated": "2026-05-05T13:06:08.960677+00:00",
   "repositories": [
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 41470,
-      "stars_today": 2598,
-      "language": "TypeScript",
-      "link": "https://github.com/ruvnet/ruflo"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 67532,
-      "stars_today": 2182,
-      "language": "Python",
-      "link": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "browserbase/skills",
-      "description": "Claude Agent SDK with a web browsing tool",
-      "stars": 2125,
-      "stars_today": 320,
-      "language": "JavaScript",
-      "link": "https://github.com/browserbase/skills"
-    },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 4002,
-      "stars_today": 1274,
+      "stars": 5681,
+      "stars_today": 2389,
       "language": "Rust",
       "link": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
-      "name": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 24861,
-      "stars_today": 1119,
-      "language": "Python",
-      "link": "https://github.com/soxoj/maigret"
-    },
-    {
-      "name": "qbittorrent/qBittorrent",
-      "description": "qBittorrent BitTorrent client",
-      "stars": 37054,
-      "stars_today": 82,
-      "language": "C++",
-      "link": "https://github.com/qbittorrent/qBittorrent"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "stars": 19924,
-      "stars_today": 496,
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+      "stars": 42620,
+      "stars_today": 2441,
       "language": "TypeScript",
-      "link": "https://github.com/czlonkowski/n8n-mcp"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "stars": 3922,
-      "stars_today": 548,
-      "language": "Rust",
-      "link": "https://github.com/1jehuang/jcode"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 92677,
-      "stars_today": 1189,
-      "language": "Shell",
-      "link": "https://github.com/msitarzewski/agency-agents"
+      "link": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "virattt/dexter",
       "description": "An autonomous agent for deep financial research",
-      "stars": 23217,
-      "stars_today": 409,
+      "stars": 23502,
+      "stars_today": 660,
       "language": "TypeScript",
       "link": "https://github.com/virattt/dexter"
     },
     {
-      "name": "Flowseal/zapret-discord-youtube",
-      "description": "",
-      "stars": 27315,
-      "stars_today": 67,
-      "language": "Batchfile",
-      "link": "https://github.com/Flowseal/zapret-discord-youtube"
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": 13658,
+      "stars_today": 929,
+      "language": "Ruby",
+      "link": "https://github.com/docusealco/docuseal"
     },
     {
-      "name": "fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "stars": 2852,
-      "stars_today": 237,
-      "language": "JavaScript",
-      "link": "https://github.com/fspecii/ace-step-ui"
+      "name": "bwya77/vscode-dark-islands",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "stars": 7603,
+      "stars_today": 665,
+      "language": "PowerShell",
+      "link": "https://github.com/bwya77/vscode-dark-islands"
     },
     {
-      "name": "jellyfin/jellyfin",
-      "description": "The Free Software Media System - Server Backend & API",
-      "stars": 51161,
-      "stars_today": 41,
-      "language": "C#",
-      "link": "https://github.com/jellyfin/jellyfin"
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+      "stars": 12736,
+      "stars_today": 306,
+      "language": "TypeScript",
+      "link": "https://github.com/mksglu/context-mode"
     },
     {
       "name": "cocoindex-io/cocoindex",
       "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "stars": 8012,
-      "stars_today": 166,
+      "stars": 8207,
+      "stars_today": 434,
       "language": "Python",
       "link": "https://github.com/cocoindex-io/cocoindex"
     },
     {
-      "name": "docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": 13281,
-      "stars_today": 535,
-      "language": "Ruby",
-      "link": "https://github.com/docusealco/docuseal"
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 93205,
+      "stars_today": 1228,
+      "language": "Shell",
+      "link": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 345522,
+      "stars_today": 497,
+      "language": "",
+      "link": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+      "name": "Arindam200/awesome-ai-apps",
+      "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+      "stars": 10921,
+      "stars_today": 170,
+      "language": "Python",
+      "link": "https://github.com/Arindam200/awesome-ai-apps"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 11307,
+      "stars_today": 1153,
+      "language": "Python",
+      "link": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
+      "stars": 4916,
+      "stars_today": 171,
+      "language": "Python",
+      "link": "https://github.com/LearningCircuit/local-deep-research"
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars": 2279,
+      "stars_today": 313,
+      "language": "JavaScript",
+      "link": "https://github.com/browserbase/skills"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 112873,
+      "stars_today": 2829,
+      "language": "",
+      "link": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+      "name": "PriorLabs/TabPFN",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "stars": 6271,
+      "stars_today": 41,
+      "language": "Python",
+      "link": "https://github.com/PriorLabs/TabPFN"
     }
   ]
 }

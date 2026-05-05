@@ -1,20 +1,44 @@
 {
-  "updated": "2026-05-05T01:30:34.142173+00:00",
+  "updated": "2026-05-05T13:06:19.236057+00:00",
   "articles": [
     {
-      "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
+      "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
       "source": "InfoQ 中文",
       "published": "2026-05-05",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
+      "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
       "source": "InfoQ 中文",
       "published": "2026-05-05",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Uber 利用自动化代码转换，将 75000 多个测试类从 JUnit 4 迁移至 JUnit 5",
+      "source": "InfoQ 中文",
+      "published": "2026-05-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/CVYo9mibdLfO0jmk8Swf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
+      "source": "InfoQ 中文",
+      "published": "2026-05-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
+      "source": "InfoQ 中文",
+      "published": "2026-05-05",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -23,30 +47,6 @@
       "published": "2026-05-04",
       "summary": "专门针对DeepSeek优化",
       "link": "https://www.qbitai.com/2026/05/412914.html",
-      "category": "AI News"
-    },
-    {
-      "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
-      "source": "InfoQ 中文",
-      "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
-      "source": "InfoQ 中文",
-      "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
-      "source": "InfoQ 中文",
-      "published": "2026-05-04",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -79,6 +79,14 @@
       "published": "2026-05-04",
       "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。豆包目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。”据接近豆包的人士透露，付费功能将主要专注",
       "link": "https://36kr.com/p/3794799114476809?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "source": "OpenAI Blog",
+      "published": "2026-05-04",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-05-02",
       "summary": "文｜肖漫编辑｜李勤当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。“如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。基于移动基座模型，卓驭已经开",
       "link": "https://36kr.com/p/3789475357400068?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
-      "source": "36氪",
-      "published": "2026-05-02",
-      "summary": "文｜周鑫雨编辑｜杨轩规模化落地，今年的具身公司都在谈这个。数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营收规模。在",
-      "link": "https://36kr.com/p/3792155815304450?f=rss",
       "category": "AI News"
     }
   ]
