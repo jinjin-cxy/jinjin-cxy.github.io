@@ -1,123 +1,123 @@
 {
-  "updated": "2026-05-05T13:06:08.960677+00:00",
+  "updated": "2026-05-06T01:28:56.940891+00:00",
   "repositories": [
     {
       "name": "Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 5681,
-      "stars_today": 2389,
+      "stars": 7621,
+      "stars_today": 2434,
       "language": "Rust",
       "link": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 42620,
-      "stars_today": 2441,
+      "stars": 43688,
+      "stars_today": 2432,
       "language": "TypeScript",
       "link": "https://github.com/ruvnet/ruflo"
     },
     {
       "name": "virattt/dexter",
       "description": "An autonomous agent for deep financial research",
-      "stars": 23502,
-      "stars_today": 660,
+      "stars": 23791,
+      "stars_today": 659,
       "language": "TypeScript",
       "link": "https://github.com/virattt/dexter"
     },
     {
       "name": "docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": 13658,
-      "stars_today": 929,
+      "stars": 14025,
+      "stars_today": 927,
       "language": "Ruby",
       "link": "https://github.com/docusealco/docuseal"
     },
     {
       "name": "bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 7603,
-      "stars_today": 665,
+      "stars": 7878,
+      "stars_today": 321,
       "language": "PowerShell",
       "link": "https://github.com/bwya77/vscode-dark-islands"
     },
     {
       "name": "mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-      "stars": 12736,
-      "stars_today": 306,
+      "stars": 13051,
+      "stars_today": 276,
       "language": "TypeScript",
       "link": "https://github.com/mksglu/context-mode"
     },
     {
       "name": "cocoindex-io/cocoindex",
       "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "stars": 8207,
-      "stars_today": 434,
+      "stars": 8399,
+      "stars_today": 438,
       "language": "Python",
       "link": "https://github.com/cocoindex-io/cocoindex"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 93205,
-      "stars_today": 1228,
+      "stars": 93647,
+      "stars_today": 1218,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 345522,
-      "stars_today": 497,
+      "stars": 345826,
+      "stars_today": 366,
       "language": "",
       "link": "https://github.com/jwasham/coding-interview-university"
     },
     {
       "name": "Arindam200/awesome-ai-apps",
       "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-      "stars": 10921,
-      "stars_today": 170,
+      "stars": 11324,
+      "stars_today": 211,
       "language": "Python",
       "link": "https://github.com/Arindam200/awesome-ai-apps"
     },
     {
       "name": "AIDC-AI/Pixelle-Video",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-      "stars": 11307,
-      "stars_today": 1153,
+      "stars": 11722,
+      "stars_today": 691,
       "language": "Python",
       "link": "https://github.com/AIDC-AI/Pixelle-Video"
     },
     {
       "name": "LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
-      "stars": 4916,
-      "stars_today": 171,
+      "stars": 5172,
+      "stars_today": 197,
       "language": "Python",
       "link": "https://github.com/LearningCircuit/local-deep-research"
     },
     {
       "name": "browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
-      "stars": 2279,
-      "stars_today": 313,
+      "stars": 2383,
+      "stars_today": 311,
       "language": "JavaScript",
       "link": "https://github.com/browserbase/skills"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 112873,
-      "stars_today": 2829,
+      "stars": 114011,
+      "stars_today": 2409,
       "language": "",
       "link": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
       "name": "PriorLabs/TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "stars": 6271,
-      "stars_today": 41,
+      "stars": 6369,
+      "stars_today": 57,
       "language": "Python",
       "link": "https://github.com/PriorLabs/TabPFN"
     }
