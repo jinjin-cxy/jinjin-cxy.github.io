@@ -1,12 +1,148 @@
 {
-  "updated": "2026-05-07T01:47:10.126642+00:00",
+  "updated": "2026-05-07T13:24:25.075917+00:00",
   "articles": [
     {
-      "title": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
+      "source": "量子位",
+      "published": "2026-05-07",
+      "summary": "低提示词，挑战主流模型的交互逻辑",
+      "link": "https://www.qbitai.com/2026/05/413612.html",
+      "category": "AI News"
+    },
+    {
+      "title": "一年磨一剑，今年最炸机器人Demo来了！",
+      "source": "量子位",
+      "published": "2026-05-07",
+      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴",
+      "link": "https://www.qbitai.com/2026/05/413830.html",
+      "category": "AI News"
+    },
+    {
+      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+      "source": "量子位",
+      "published": "2026-05-07",
+      "summary": "推动医疗保障体系迈入数智化新阶段",
+      "link": "https://www.qbitai.com/2026/05/413782.html",
+      "category": "AI News"
+    },
+    {
+      "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
+      "source": "量子位",
+      "published": "2026-05-07",
+      "summary": "IPO前夕，高管集体出走",
+      "link": "https://www.qbitai.com/2026/05/413613.html",
+      "category": "AI News"
+    },
+    {
+      "title": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要的指标",
+      "source": "量子位",
+      "published": "2026-05-07",
+      "summary": "随着 AI 推理成为其核心工作负载，它们的主要产出已转变为以 Token 形式制造的智能",
+      "link": "https://www.qbitai.com/2026/05/413604.html",
+      "category": "AI News"
+    },
+    {
+      "title": "像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent",
       "source": "InfoQ 中文",
       "published": "2026-05-07",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标",
+      "source": "InfoQ 中文",
+      "published": "2026-05-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯AI协同办公前沿实践白皮书",
+      "source": "InfoQ 中文",
+      "published": "2026-05-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/minibook/aljF0UJmdDAzrVEcBXwx?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Vitest 4.1：测试标签、原生 Node.js 执行和 AI 代理报告器",
+      "source": "InfoQ 中文",
+      "published": "2026-05-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qE1NsAwbZbmUEalctUC4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
+      "source": "InfoQ 中文",
+      "published": "2026-05-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "像对待开发者一样对待你的编程 Agent",
+      "source": "开源中国",
+      "published": "2026-05-07",
+      "summary": "yolobox作者Finbarr Taylor近日发文指出，当前主流的「一个终端监督一个Agent」模式只是入门教程，真正的挑战在于如何让多个AI编程Agent像人类开发者一样并行协作。 Taylor最初开发yolobox是因为不信任Claude Code直接操作自己的主目录——Agent在获得免确认执行权限时，极有可能误读提示词并执行rm -rf。于是他将Agent...",
+      "link": "https://www.oschina.net/news/437745/treat-your-coding-agents-like-developers",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 编程 Agent 让写代码变便宜了，但真正的瓶颈从来都不是代码",
+      "source": "开源中国",
+      "published": "2026-05-07",
+      "summary": "AI编程助手正在让写代码的成本趋近于零，但一位从业者指出，真正的瓶颈从来不是代码本身，而是组织协作与需求沟通。这一观点与《人月神话》作者Fred Brooks和《程序开发心理学》作者Gerald Weinberg数十年前的警告遥相呼应。 文章作者来自人工智能初创公司.txt团队。该团队认为，当AI Agent能够毫秒级生成代码时，工程团...",
+      "link": "https://www.oschina.net/news/437744",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenCyvis Phone 亮相：一个开源 AI 手机的野心实验",
+      "source": "开源中国",
+      "published": "2026-05-07",
+      "summary": "一位中国开发者近日在GitHub发布了OpenCyvis Phone项目，全称\"Open Cyber Jarvis\"，试图打造商业AI手机的开源透明替代品。 与Rabbit R1、AI Pin等封闭硬件不同，OpenCyvis Phone直接基于Android AOSP系统运行，无需额外购买设备。其核心思路是将手机变成能听懂自然语言、自主操作应用的AI Agent——AI可以实时截屏、解析...",
+      "link": "https://www.oschina.net/news/437743",
+      "category": "AI News"
+    },
+    {
+      "title": "openKylin 社区 2026 年 4 月运营报告",
+      "source": "开源中国",
+      "published": "2026-05-07",
+      "summary": "一、社区治理 openKylin常务委员会4月会议召开 4月30日，2026年OpenAtom openKylin（简称“openKylin”）常务委员会4月会议在线上召开，来自麒麟软件、联想开天、海光信息、国防科大、国家工信安全中心常委单位代表参会。会议汇报了当月工作进展，常委们也对openKylin的发展提出了宝贵建议。 openKylin生态委员会第五次会...",
+      "link": "https://www.oschina.net/news/437742",
+      "category": "AI News"
+    },
+    {
+      "title": "Apache Tomcat 11.0.22 发布",
+      "source": "开源中国",
+      "published": "2026-05-07",
+      "summary": "Apache Tomcat 11.0.22 现已发布，此版本实现了 Jakarta EE 11 平台的部分规范。 公告提醒称：Tomcat 10 及以后版本的用户应注意，作为 Java EE 向 Eclipse 基金会转移的一部分，Java EE 已从 Java EE 迁移到 Jakarta EE，因此所有已实施 API 的主包已从javax.* 变为 jakarta.*。这几乎肯定需要修改代码才能使应用程序从...",
+      "link": "https://www.oschina.net/news/437741/tomcat-11-0-22-released",
+      "category": "AI News"
+    },
+    {
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "source": "36氪",
+      "published": "2026-05-07",
+      "summary": "文｜王毓婵 周鑫雨编辑｜杨轩“看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个奇观。由此，在AI视频模型外“套一层壳”，使其更",
+      "link": "https://36kr.com/p/3786528811572481?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
+      "source": "36氪",
+      "published": "2026-05-07",
+      "summary": "大公司：腾讯等入股机器人灵巧手研发商临界点36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司由智元机器人将其灵巧手业务拆分而成立，是一家专注于机器人末端执行器，特别是灵巧手研发与生产的",
+      "link": "https://36kr.com/p/3799089350712324?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
+      "source": "36氪",
+      "published": "2026-05-07",
+      "summary": "文｜张子怡编辑｜袁斯来36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。xTool M2试图通过硬件层面的深度整合，将喷墨打印、激光雕刻与激光切割三项功能集成在单一设备内，让用户在同一套桌面流程中完成从设计到成品的闭环。在具体的硬件定义上，xTool M2采用了模块化的设计思路。为了适配不同层级的创作需求",
+      "link": "https://36kr.com/p/3798845086882820?f=rss",
       "category": "AI News"
     },
     {
@@ -23,142 +159,6 @@
       "published": "2026-05-07",
       "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。途见科技成立于2020年1月，聚焦可拉伸多模态柔性电子皮肤和具身触觉感知系统的研发与制造，以及触觉数据采集工具链的开发和模型建立，推动技术在具身智能、智能座舱、健康生活及情感陪伴等场景落地。公司分设北京和深圳两大总部，在美国硅谷成立前沿技术探索中心，已完成2000平米研发中",
       "link": "https://36kr.com/p/3797155747748867?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
-      "source": "36氪",
-      "published": "2026-05-07",
-      "summary": "作者｜梁键强△图片来源：像素绽放PixelBloomAI办公正在进入下一个阶段。随着AI进入办公场景，写文档、做设计、生成PPT等原本耗时耗力的工作，开始被AI快速接手。但到目前为止，大多数AI办公产品仍停留在“生成内容”和“提升效率”的阶段。相比一个只会辅助完成任务的工具，市场更需要的，是一个能够直接理解需求、输出完整方案、交付结果的AI助手。近日，像素绽放PixelBloom（旗下核心产品AiPPT.com，以下简称像素绽放)宣布完成C轮融资，本轮融资由国科投资与商汤国香资本联合领投，基石创投、大米创投跟投。新一轮资金将主要投向AI办公解决方案Agent的研发迭代、商业化落地以及全球化人才",
-      "link": "https://36kr.com/p/3797787228151048?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "AI PPT，这次是真不用返工了",
-      "source": "量子位",
-      "published": "2026-05-06",
-      "summary": "实测讯飞智文Vision Agent",
-      "link": "https://www.qbitai.com/2026/05/413296.html",
-      "category": "AI News"
-    },
-    {
-      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
-      "source": "量子位",
-      "published": "2026-05-06",
-      "summary": "40小时干完广告公司一年的活",
-      "link": "https://www.qbitai.com/2026/05/413264.html",
-      "category": "AI News"
-    },
-    {
-      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
-      "source": "量子位",
-      "published": "2026-05-06",
-      "summary": "还反向挑出审稿人的毛病",
-      "link": "https://www.qbitai.com/2026/05/413265.html",
-      "category": "AI News"
-    },
-    {
-      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
-      "source": "量子位",
-      "published": "2026-05-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/05/413164.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能",
-      "source": "量子位",
-      "published": "2026-05-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/05/413154.html",
-      "category": "AI News"
-    },
-    {
-      "title": "npmx 进入 Alpha 阶段：一个由社区驱动的 npm 注册表浏览器替代品",
-      "source": "InfoQ 中文",
-      "published": "2026-05-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/H3UBOv3iPlJMAgtWFEMk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
-      "source": "InfoQ 中文",
-      "published": "2026-05-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
-      "source": "InfoQ 中文",
-      "published": "2026-05-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek 估值逼近 450 亿美元，国家大基金领投首轮外部融资",
-      "source": "开源中国",
-      "published": "2026-05-06",
-      "summary": "据《金融时报》5 月 6 日报道，中国 AI 初创公司 DeepSeek 正在进行其成立以来的首轮融资谈判，估值已逼近 450 亿美元（约合人民币3067亿元）。本轮融资由国家集成电路产业投资基金（俗称 \"大基金\"）领投，标志着这家以开源大模型闻名的企业首次引入外部资本。 DeepSeek 此前主要依靠母公司幻方量化（High-Flyer Capita...",
-      "link": "https://www.oschina.net/news/437707",
-      "category": "AI News"
-    },
-    {
-      "title": "月之暗面将完成 20 亿美元新融资，估值破 200 亿美元",
-      "source": "开源中国",
-      "published": "2026-05-06",
-      "summary": "《晚点 LatePost》报道称，Kimi （月之暗面）即将完成新一轮 20 亿美元融资，投后估值突破 200 亿美元。本轮融资由美团龙珠领投，中国移动、CPE（中信产业基金）等参投，其中仅龙珠就出手超 2 亿美元。 今年 1 月和 2 月，Kimi 刚密集完成 3 轮融资 ，分别融了 5 亿美元、 7 亿美元和 7 亿美元。算上这笔最新融资，不到半...",
-      "link": "https://www.oschina.net/news/437706",
-      "category": "AI News"
-    },
-    {
-      "title": "Visual Studio Code 1.119 发布",
-      "source": "开源中国",
-      "published": "2026-05-06",
-      "summary": "Visual Studio Code 1.119 现已发布。此版本着重于更流畅的代理交互、增强的可观测性以及更高效的信任和安全控制。 以下是本次更新的部分亮点： Agent-browser 交互：允许 agents 发现并请求集成浏览器访问权限。 优化 token 使用：使用轻量级模型来管理代理待办事项列表。 OpenTelemetry 跟踪：使用 OpenTelemetry 监控...",
-      "link": "https://www.oschina.net/news/437705/vs-code-1-119-released",
-      "category": "AI News"
-    },
-    {
-      "title": "“鲸鱼哥”Hunter Bown：从乐队指挥到 GitHub 榜一的 DeepSeek-TUI 作者",
-      "source": "开源中国",
-      "published": "2026-05-06",
-      "summary": "GitHub 热榜近期被一款名为 DeepSeek-TUI 的开源项目引爆，其开发者 Hunter Bown 因自称 DeepSeek 的狂热粉丝而被中文社区亲切地称为“鲸鱼哥”或“鲸鱼兄弟”。这位非科班出身的独立开发者在短短数日内将项目星标从两千余颗推至八千七百颗以上，成为五一假期科技圈最出圈的话题之一。 Hunter Bown 的经历堪称跨界传奇。...",
-      "link": "https://www.oschina.net/news/437704",
-      "category": "AI News"
-    },
-    {
-      "title": "Firefox 质疑谷歌 LLM Prompt API 获开发者强烈支持的声明",
-      "source": "开源中国",
-      "published": "2026-05-06",
-      "summary": "Mozilla 旗下 Firefox for Web Developers 官方账号日前在 Mastodon 上公开质疑 Google 关于某 LLM Prompt 相关 Web API 的“开发者强烈支持”论断，同时再次将 Firefox 自身在 AI 功能上的争议推向公众视野。 争议的起点是 Google 在 blink-dev 邮件列表中发布的一则\"intent to ship\"声明，其中将 Web 开发者的反应描述...",
-      "link": "https://www.oschina.net/news/437703",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-      "source": "36氪",
-      "published": "2026-05-06",
-      "summary": "今日热点导览小米汽车：新一代SU7上市仅48天，锁单已超过80000台胖东来19名管理人员被降级，1名管理人员被免职追觅俞浩：建议年轻人别炒股五一档票房7.58亿元三星电子借AI热潮市值突破1万亿美元TOP3大新闻三星宣布停止在中国大陆市场销售所有家电产品5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中国大陆市场停止销售含电视、显示器在内的所有家电产品。 针对已购买三星家电产品的用户，公司仍将严格按照《消费者权益保护法》、国家三包规定等相关法律法规，继续为用户提供规范的售后服务，保障用户合法权益不受影响。对于三星手机业务是否也会退出中国的疑问，三星方面",
-      "link": "https://36kr.com/p/3798462137637892?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
-      "source": "36氪",
-      "published": "2026-05-06",
-      "summary": "大公司：SpaceX提议投入550亿美元在得州启动Terafab项目埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至1190亿美元。（财联社）三星电子借AI热潮市值突破1万亿美元在人工智能相关股票需求蓬勃发展的推动下，三星电子市值突破1万亿美元，成为继台积电之后第二家跻身这一精英俱乐部的东亚企业。（新浪财经）Mike Xu旗下食品科技公司GrubMarket入选《时代》TIME100行业领袖榜单美国《时代》周刊（TIME）日前正式揭晓202",
-      "link": "https://36kr.com/p/3797482256325888?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Introducing ChatGPT Futures: Class of 2026",
-      "source": "OpenAI Blog",
-      "published": "2026-05-06",
-      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "category": "AI News"
     }
   ]

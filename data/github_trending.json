@@ -1,125 +1,109 @@
 {
-  "updated": "2026-05-07T01:46:57.751467+00:00",
+  "updated": "2026-05-07T13:24:11.109685+00:00",
   "repositories": [
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 14224,
-      "stars_today": 6175,
-      "language": "Rust",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 30630,
-      "stars_today": 800,
-      "language": "Shell",
-      "link": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "PriorLabs/TabPFN",
-      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "stars": 6590,
-      "stars_today": 218,
-      "language": "Python",
-      "link": "https://github.com/PriorLabs/TabPFN"
-    },
-    {
-      "name": "docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": 14919,
-      "stars_today": 774,
-      "language": "Ruby",
-      "link": "https://github.com/docusealco/docuseal"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
-      "stars": 5675,
-      "stars_today": 532,
-      "language": "Python",
-      "link": "https://github.com/LearningCircuit/local-deep-research"
-    },
-    {
-      "name": "LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "stars": 62992,
-      "stars_today": 113,
-      "language": "C++",
-      "link": "https://github.com/LadybirdBrowser/ladybird"
-    },
-    {
-      "name": "InsForge/InsForge",
-      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-      "stars": 8474,
-      "stars_today": 230,
-      "language": "TypeScript",
-      "link": "https://github.com/InsForge/InsForge"
-    },
-    {
-      "name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
-      "stars": 24379,
-      "stars_today": 666,
-      "language": "TypeScript",
-      "link": "https://github.com/virattt/dexter"
-    },
     {
       "name": "anthropics/financial-services",
       "description": "",
-      "stars": 9187,
-      "stars_today": 641,
+      "stars": 10076,
+      "stars_today": 1367,
       "language": "Python",
       "link": "https://github.com/anthropics/financial-services"
     },
     {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
-      "stars": 45307,
-      "stars_today": 2192,
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 17545,
+      "stars_today": 5787,
+      "language": "Rust",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI"
+    },
+    {
+      "name": "z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 3287,
+      "stars_today": 654,
+      "language": "Python",
+      "link": "https://github.com/z-lab/dflash"
+    },
+    {
+      "name": "InsForge/InsForge",
+      "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "stars": 8697,
+      "stars_today": 459,
       "language": "TypeScript",
-      "link": "https://github.com/ruvnet/ruflo"
+      "link": "https://github.com/InsForge/InsForge"
     },
     {
-      "name": "cheahjs/free-llm-api-resources",
-      "description": "A list of free LLM inference resources accessible via API.",
-      "stars": 20522,
-      "stars_today": 198,
+      "name": "LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
+      "stars": 6012,
+      "stars_today": 564,
       "language": "Python",
-      "link": "https://github.com/cheahjs/free-llm-api-resources"
+      "link": "https://github.com/LearningCircuit/local-deep-research"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 23211,
-      "stars_today": 234,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 32276,
+      "stars_today": 3058,
+      "language": "Shell",
+      "link": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 29245,
+      "stars_today": 953,
       "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
+      "link": "https://github.com/VectifyAI/PageIndex"
     },
     {
-      "name": "bwya77/vscode-dark-islands",
-      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-      "stars": 8220,
-      "stars_today": 503,
-      "language": "PowerShell",
-      "link": "https://github.com/bwya77/vscode-dark-islands"
+      "name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "stars": 4907,
+      "stars_today": 406,
+      "language": "TypeScript",
+      "link": "https://github.com/vercel-labs/open-agents"
     },
     {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-      "stars": 65552,
-      "stars_today": 337,
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars": 15318,
+      "stars_today": 899,
+      "language": "Ruby",
+      "link": "https://github.com/docusealco/docuseal"
+    },
+    {
+      "name": "decolua/9router",
+      "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 4160,
+      "stars_today": 130,
+      "language": "JavaScript",
+      "link": "https://github.com/decolua/9router"
+    },
+    {
+      "name": "PriorLabs/TabPFN",
+      "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "stars": 6712,
+      "stars_today": 233,
       "language": "Python",
-      "link": "https://github.com/bytedance/deer-flow"
+      "link": "https://github.com/PriorLabs/TabPFN"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 46333,
-      "stars_today": 1125,
-      "language": "Python",
-      "link": "https://github.com/D4Vinci/Scrapling"
+      "name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 44296,
+      "stars_today": 111,
+      "language": "Rust",
+      "link": "https://github.com/aaif-goose/goose"
+    },
+    {
+      "name": "Augani/openreel-video",
+      "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+      "stars": 1190,
+      "stars_today": 208,
+      "language": "TypeScript",
+      "link": "https://github.com/Augani/openreel-video"
     }
   ]
 }
