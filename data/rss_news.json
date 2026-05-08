@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-08T01:50:35.899243+00:00",
+  "updated": "2026-05-08T13:04:45.112840+00:00",
   "articles": [
+    {
+      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+      "source": "量子位",
+      "published": "2026-05-08",
+      "summary": "位列第二",
+      "link": "https://www.qbitai.com/2026/05/414428.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+      "source": "量子位",
+      "published": "2026-05-08",
+      "summary": "Mac上就能本地跑deepseek",
+      "link": "https://www.qbitai.com/2026/05/414316.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic出手！AI的内心独白，曝光了",
+      "source": "量子位",
+      "published": "2026-05-08",
+      "summary": "原来Claude早就识破了人类的套路（doge）",
+      "link": "https://www.qbitai.com/2026/05/414213.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+      "source": "量子位",
+      "published": "2026-05-08",
+      "summary": "OpenAI上新三款实时语音模型",
+      "link": "https://www.qbitai.com/2026/05/414194.html",
+      "category": "AI News"
+    },
+    {
+      "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
+      "source": "量子位",
+      "published": "2026-05-08",
+      "summary": "服务FSD和Optimus",
+      "link": "https://www.qbitai.com/2026/05/414156.html",
+      "category": "AI News"
+    },
+    {
+      "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
+      "source": "InfoQ 中文",
+      "published": "2026-05-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+      "source": "InfoQ 中文",
+      "published": "2026-05-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Confluent将模式ID移至Kafka头部，以简化模式治理",
+      "source": "InfoQ 中文",
+      "published": "2026-05-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/dKD2lUNaMQggrCcQjxw2?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
+      "source": "InfoQ 中文",
+      "published": "2026-05-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
+      "source": "InfoQ 中文",
+      "published": "2026-05-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "三部门：开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
+      "source": "开源中国",
+      "published": "2026-05-08",
+      "summary": "近日，国家网信办、国家发展改革委、工业和信息化部联合印发《智能体规范应用与创新发展实施意见》（以下简称《实施意见》）。《实施意见》旨在落实国务院《关于深入实施“人工智能+”行动的意见》，促进智能体规范应用与创新发展。 《实施意见》提出，智能体是具备自主感知、记忆、决策、交互与执行能力的智能系统，是人...",
+      "link": "https://www.oschina.net/news/437897",
+      "category": "AI News"
+    },
+    {
+      "title": "AI “泔水”正在扼杀在线社区：Redis 前开发者呼吁「把蜡笔画留在厨房冰箱上」",
+      "source": "开源中国",
+      "published": "2026-05-08",
+      "summary": "知名技术布道者、前 Redis 开发者 Robin Moffatt（rmoff）近日发表长文，以一个 AI 爱好者的身份向同行发出警告：低质量的 AI 生成内容（AI Slop）—— 正在像旋花一样慢慢扼杀在线社区的生命力。 Moffatt 毫不掩饰自己对 AI 的热爱，甚至曾在三月发文断言「不拥抱 AI 的人会被历史抛下」。但这恰恰让他的批评更具分量。...",
+      "link": "https://www.oschina.net/news/437894",
+      "category": "AI News"
+    },
+    {
+      "title": "Inkscape 1.4.4 发布",
+      "source": "开源中国",
+      "published": "2026-05-08",
+      "summary": "Inkscape 是一个免费的开源矢量图形编辑器，适用于 Linux、Windows 和 macOS。它提供了丰富的功能，广泛用于艺术和技术插图。它使用矢量图形允许以无限分辨率进行清晰的输出和渲染。Inkscape 使用标准化的 SVG 文件格式作为其主要格式。它可以导入和导出各种文件格式，包括 SVG、AI、EPS、PDF、PS 和 PNG。 Inkscape 1.4...",
+      "link": "https://www.oschina.net/news/437813/inkscape-1-4-4-released",
+      "category": "AI News"
+    },
+    {
+      "title": "Web 标准专家炮轰 Google Prompt API：标准流程的公然破坏与隐私风险",
+      "source": "开源中国",
+      "published": "2026-05-08",
+      "summary": "Web 标准专家 Mat Marquis 近日发表长文，猛烈抨击 Google 推出的 Prompt API，称其为 \"我所见过的最明目张胆的网络标准霸凌尝试\"，严重程度甚至超越了此前备受争议的 AMP 和 Manifest V3。 Prompt API 是 Google 在 Chrome 中内置的一项功能，允许网页通过 JavaScript 直接调用本地大语言模型。表面上看，这是为开发者提...",
+      "link": "https://www.oschina.net/news/437812/googles-prompt-api",
+      "category": "AI News"
+    },
+    {
+      "title": "看完这场直播就可以参加 “AIGC For Future 全球挑战赛” 了",
+      "source": "开源中国",
+      "published": "2026-05-08",
+      "summary": "5 月 9 日周六晚 19:00，我们邀请到 阿里云解决方案架构师姚旭东做客开源中国直播间，以 “聂小倩” 与 “少年航天局” 两个 IP 为例，现场演示如何用阿里云百炼平台 一站式完成视频作品从创意构思到成品输出的全流程。",
+      "link": "https://my.oschina.net/u/4487475/blog/19659099",
+      "category": "AI News"
+    },
+    {
+      "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
+      "source": "36氪",
+      "published": "2026-05-08",
+      "summary": "文 | 阿至36氪获悉，低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。现阶段，维新宇航的主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航",
+      "link": "https://36kr.com/p/3800495686163721?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
+      "source": "36氪",
+      "published": "2026-05-08",
+      "summary": "2026年的中国新能源SUV市场正经历着前所未有的内卷。问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。卡位黄金价格带，向下争夺年轻群体从产品命名逻辑看，M6位于M5与M7之间，车身���寸为4960×1985×1736mm，轴距2950mm，属于标准的中大型五座SUV。官方定位为“新锐智慧SUV”，目标用户从问界以往的主力“30岁以上家庭用户和商务人群”向下延伸至25-35岁城市年轻群体。25-30万元是目前中国新能源SUV市场竞争最激烈的价格带—",
+      "link": "https://36kr.com/p/3800183520091398?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+      "source": "36氪",
+      "published": "2026-05-08",
+      "summary": "作者 | 肖思佳编辑 | 乔芊 杨轩所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控制AI对社区生态的介入。但2026年，随着Agent叙事的升温，小红书开始显露出某种急迫。4月30日，小红书发送全员内部信，宣布成立AI一级部门Dots，“建立从模型研发、基础设施、工程到产品的完整技术体系，整合顶尖",
+      "link": "https://36kr.com/p/3799028783439111?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "source": "36氪",
+      "published": "2026-05-08",
+      "summary": "文 | 张冰冰编辑 | 阿至36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难题。2023年4月在北京亦庄建成小试线，量产10Ah全固态电芯；2023年5月在河南兰考县国电投新能源产业园启动建设500MWh规模量产线；2024年10月实现50Ah全固态电芯量产。「纯锂新能源」于2025年推出第一代固态电池，全固态产品平均失重率0.023%，",
+      "link": "https://36kr.com/p/3800022823951363?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
       "source": "36氪",
       "published": "2026-05-08",
       "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。AI浪潮下，算力需求激增，传统以CPU为中心的架构瓶颈愈发凸显：CPU成为数据调度与交互的核心限制，GPU之间通信效率不足，内存无法实现统一地址空间共享，整体算力利用率较低。容芯致远创始人石旭毕业于清华大学电子工程系，在芯片设计与AI领域从业多年，接受硬氪采访时，石旭表示，“在实际",
       "link": "https://36kr.com/p/3799984046333186?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
-      "source": "36氪",
-      "published": "2026-05-08",
-      "summary": "作者｜黄楠 周鑫雨编辑｜袁斯来 杨轩硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率达到20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。但Plaud出货量谈不上高，有一位行业人士告诉硬氪，其销量在",
-      "link": "https://36kr.com/p/3799129165863937?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
-      "source": "36氪",
-      "published": "2026-05-08",
-      "summary": "今日热点导览30年前捐赠书画部分去向不明？天津美院回应张雪怒斥门店给用户备注磨叽并补偿车主1万茅台集团总经理王莉已回归港交所计划未来数月推出黄金期货马斯克：xAI作为独立公司将解散并入SpaceXTOP3大新闻“很久没有这种兴奋感了”，段永平再加仓泡泡玛特5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段永平此前已经多次表达了对泡泡玛特的看好，并直言“很久没有这种兴奋感了”，此次是首次明确已实际建仓泡泡玛特。此前通过卖出看跌期权的方式布局。段永平还表示：“我理解王宁（泡泡玛特创始人）不是因为我的投资，而是因为我曾经是个‘企业家’，我能看懂他有多厉害。他还",
-      "link": "https://36kr.com/p/3799881836633093?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
-      "source": "量子位",
-      "published": "2026-05-07",
-      "summary": "背靠国内最大ComfyUI生态",
-      "link": "https://www.qbitai.com/2026/05/413912.html",
-      "category": "AI News"
-    },
-    {
-      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
-      "source": "量子位",
-      "published": "2026-05-07",
-      "summary": "让广告创意不再卡在预算里",
-      "link": "https://www.qbitai.com/2026/05/414006.html",
-      "category": "AI News"
-    },
-    {
-      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-      "source": "量子位",
-      "published": "2026-05-07",
-      "summary": "低提示词，挑战主流模型的交互逻辑",
-      "link": "https://www.qbitai.com/2026/05/413612.html",
-      "category": "AI News"
-    },
-    {
-      "title": "一年磨一剑，今年最炸机器人Demo来了！",
-      "source": "量子位",
-      "published": "2026-05-07",
-      "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴",
-      "link": "https://www.qbitai.com/2026/05/413830.html",
-      "category": "AI News"
-    },
-    {
-      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-      "source": "量子位",
-      "published": "2026-05-07",
-      "summary": "推动医疗保障体系迈入数智化新阶段",
-      "link": "https://www.qbitai.com/2026/05/413782.html",
-      "category": "AI News"
-    },
-    {
-      "title": "像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent",
-      "source": "InfoQ 中文",
-      "published": "2026-05-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标",
-      "source": "InfoQ 中文",
-      "published": "2026-05-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯AI协同办公前沿实践白皮书",
-      "source": "InfoQ 中文",
-      "published": "2026-05-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/minibook/aljF0UJmdDAzrVEcBXwx?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Vitest 4.1：测试标签、原生 Node.js 执行和 AI 代理报告器",
-      "source": "InfoQ 中文",
-      "published": "2026-05-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qE1NsAwbZbmUEalctUC4?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
-      "source": "InfoQ 中文",
-      "published": "2026-05-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥ionet 25.5，纳秒级延迟的 java 分布式轻量级通信框架",
-      "source": "开源中国",
-      "published": "2026-05-07",
-      "summary": "Ionet 25.5 版本重点改进了 发布者（Publisher）可靠性、路由与并发加固、外部会话安全，以及 文档与源码解析 能力。 1. 发布者可靠性与背压（Backpressure） 新增了 Aeron 发送（offer）失败时可配置的重试次数限制。 增加了针对瞬态发布失败的重试处理机制。 引入了发布者空闲策略（Idle Strategy）支持，提升发布效率...",
-      "link": "https://www.oschina.net/news/437746/ionet-25-5-released",
-      "category": "AI News"
-    },
-    {
-      "title": "像对待开发者一样对待你的编程 Agent",
-      "source": "开源中国",
-      "published": "2026-05-07",
-      "summary": "yolobox作者Finbarr Taylor近日发文指出，当前主流的「一个终端监督一个Agent」模式只是入门教程，真正的挑战在于如何让多个AI编程Agent像人类开发者一样并行协作。 Taylor最初开发yolobox是因为不信任Claude Code直接操作自己的主目录——Agent在获得免确认执行权限时，极有可能误读提示词并执行rm -rf。于是他将Agent...",
-      "link": "https://www.oschina.net/news/437745/treat-your-coding-agents-like-developers",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 编程 Agent 让写代码变便宜了，但真正的瓶颈从来都不是代码",
-      "source": "开源中国",
-      "published": "2026-05-07",
-      "summary": "AI编程助手正在让写代码的成本趋近于零，但一位从业者指出，真正的瓶颈从来不是代码本身，而是组织协作与需求沟通。这一观点与《人月神话》作者Fred Brooks和《程序开发心理学》作者Gerald Weinberg数十年前的警告遥相呼应。 文章作者来自人工智能初创公司.txt团队。该团队认为，当AI Agent能够毫秒级生成代码时，工程团...",
-      "link": "https://www.oschina.net/news/437744",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenCyvis Phone 亮相：一个开源 AI 手机的野心实验",
-      "source": "开源中国",
-      "published": "2026-05-07",
-      "summary": "一位中国开发者近日在GitHub发布了OpenCyvis Phone项目，全称\"Open Cyber Jarvis\"，试图打造商业AI手机的开源透明替代品。 与Rabbit R1、AI Pin等封闭硬件不同，OpenCyvis Phone直接基于Android AOSP系统运行，无需额外购买设备。其核心思路是将手机变成能听懂自然语言、自主操作应用的AI Agent——AI可以实时截屏、解析...",
-      "link": "https://www.oschina.net/news/437743",
-      "category": "AI News"
-    },
-    {
-      "title": "openKylin 社区 2026 年 4 月运营报告",
-      "source": "开源中国",
-      "published": "2026-05-07",
-      "summary": "一、社区治理 openKylin常务委员会4月会议召开 4月30日，2026年OpenAtom openKylin（简称“openKylin”）常务委员会4月会议在线上召开，来自麒麟软件、联想开天、海光信息、国防科大、国家工信安全中心常委单位代表参会。会议汇报了当月工作进展，常委们也对openKylin的发展提出了宝贵建议。 openKylin生态委员会第五次会...",
-      "link": "https://www.oschina.net/news/437742",
-      "category": "AI News"
-    },
-    {
-      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
-      "source": "36氪",
-      "published": "2026-05-07",
-      "summary": "文｜王毓婵 周鑫雨编辑｜杨轩“看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个奇观。由此，在AI视频模型外“套一层壳”，使其更",
-      "link": "https://36kr.com/p/3786528811572481?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-      "source": "36氪",
-      "published": "2026-05-07",
-      "summary": "大公司：腾讯等入股机器人灵巧手研发商临界点36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司由智元机器人将其灵巧手业务拆分而成立，是一家专注于机器人末端执行器，特别是灵巧手研发与生产的",
-      "link": "https://36kr.com/p/3799089350712324?f=rss",
       "category": "AI News"
     }
   ]
