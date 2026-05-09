@@ -1,101 +1,109 @@
 {
-  "updated": "2026-05-09T01:46:05.810293+00:00",
+  "updated": "2026-05-09T12:48:45.085982+00:00",
   "repositories": [
     {
       "name": "anthropics/financial-services",
       "description": "",
-      "stars": 15263,
+      "stars": 16677,
       "stars_today": 3660,
       "language": "Python",
       "link": "https://github.com/anthropics/financial-services"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 35485,
-      "stars_today": 1893,
-      "language": "Shell",
-      "link": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "Hmbown/DeepSeek-TUI",
-      "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 21864,
-      "stars_today": 3731,
-      "language": "Rust",
-      "link": "https://github.com/Hmbown/DeepSeek-TUI"
-    },
-    {
-      "name": "z-lab/dflash",
-      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": 3856,
-      "stars_today": 379,
-      "language": "Python",
-      "link": "https://github.com/z-lab/dflash"
-    },
-    {
-      "name": "decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 5621,
-      "stars_today": 1052,
-      "language": "JavaScript",
-      "link": "https://github.com/decolua/9router"
-    },
-    {
-      "name": "CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 3066,
-      "stars_today": 526,
-      "language": "Python",
-      "link": "https://github.com/CloakHQ/CloakBrowser"
-    },
-    {
-      "name": "awslabs/aidlc-workflows",
-      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "stars": 1769,
-      "stars_today": 58,
-      "language": "Python",
-      "link": "https://github.com/awslabs/aidlc-workflows"
-    },
-    {
-      "name": "HKUDS/AI-Trader",
-      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 14661,
-      "stars_today": 202,
-      "language": "Python",
-      "link": "https://github.com/HKUDS/AI-Trader"
-    },
-    {
-      "name": "LearningCircuit/local-deep-research",
-      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
-      "stars": 6749,
-      "stars_today": 559,
-      "language": "Python",
-      "link": "https://github.com/LearningCircuit/local-deep-research"
-    },
-    {
-      "name": "lobehub/lobehub",
-      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
-      "stars": 76514,
-      "stars_today": 125,
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 31105,
+      "stars_today": 850,
       "language": "TypeScript",
-      "link": "https://github.com/lobehub/lobehub"
+      "link": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars": 3079,
+      "stars_today": 400,
+      "language": "TypeScript",
+      "link": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 44644,
+      "stars": 45395,
       "stars_today": 667,
       "language": "Python",
       "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
-      "name": "flutter/skills",
-      "description": "",
-      "stars": 1683,
-      "stars_today": 118,
-      "language": "Dart",
-      "link": "https://github.com/flutter/skills"
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "stars": 8216,
+      "stars_today": 294,
+      "language": "JavaScript",
+      "link": "https://github.com/datawhalechina/easy-vibe"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 13559,
+      "stars_today": 144,
+      "language": "TypeScript",
+      "link": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 38628,
+      "stars_today": 145,
+      "language": "TypeScript",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars": 2130,
+      "stars_today": 595,
+      "language": "Go",
+      "link": "https://github.com/masterking32/MasterDnsVPN"
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "stars": 5996,
+      "stars_today": 513,
+      "language": "TypeScript",
+      "link": "https://github.com/playcanvas/supersplat"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": 36391,
+      "stars_today": 189,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 36869,
+      "stars_today": 1893,
+      "language": "Shell",
+      "link": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 6143,
+      "stars_today": 1052,
+      "language": "JavaScript",
+      "link": "https://github.com/decolua/9router"
+    },
+    {
+      "name": "oracle-devrel/oracle-ai-developer-hub",
+      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "stars": 657,
+      "stars_today": 142,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/oracle-devrel/oracle-ai-developer-hub"
     }
   ]
 }

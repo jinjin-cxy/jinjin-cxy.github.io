@@ -1,6 +1,134 @@
 {
-  "updated": "2026-05-09T01:46:17.318368+00:00",
+  "updated": "2026-05-09T12:48:57.878466+00:00",
   "articles": [
+    {
+      "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
+      "source": "量子位",
+      "published": "2026-05-09",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/05/415023.html",
+      "category": "AI News"
+    },
+    {
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "source": "量子位",
+      "published": "2026-05-09",
+      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
+      "link": "https://www.qbitai.com/2026/05/415019.html",
+      "category": "AI News"
+    },
+    {
+      "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+      "source": "量子位",
+      "published": "2026-05-09",
+      "summary": "以0.829的总成绩荣登榜首",
+      "link": "https://www.qbitai.com/2026/05/414826.html",
+      "category": "AI News"
+    },
+    {
+      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+      "source": "量子位",
+      "published": "2026-05-09",
+      "summary": "打造“赛博乙方天团”",
+      "link": "https://www.qbitai.com/2026/05/415010.html",
+      "category": "AI News"
+    },
+    {
+      "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
+      "source": "量子位",
+      "published": "2026-05-09",
+      "summary": "实现过程开源可复现",
+      "link": "https://www.qbitai.com/2026/05/414827.html",
+      "category": "AI News"
+    },
+    {
+      "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
+      "source": "InfoQ 中文",
+      "published": "2026-05-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+      "source": "InfoQ 中文",
+      "published": "2026-05-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！",
+      "source": "InfoQ 中文",
+      "published": "2026-05-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开源项目的信任危机，也许是那群“以为自己会写代码”的资本大佬造成的",
+      "source": "InfoQ 中文",
+      "published": "2026-05-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TUsD1lkUSAbDfHsZcoYc?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "拓扑变更时担心丢数据？其实有个优雅解法",
+      "source": "InfoQ 中文",
+      "published": "2026-05-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/02CDXSPj0dQxJ0DMuW9C?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Win32 三十年不倒：微软承认 Windows 仍依赖 1990 年代技术根基",
+      "source": "开源中国",
+      "published": "2026-05-09",
+      "summary": "微软长期以来一直将 Windows 11 宣传为其迄今为止最先进的桌面操作系统，但该公司的一位高管现在证实，Windows 的一个核心部分仍然依赖于 20 世纪 90 年代构建的技术。 Win32 API —— 一个在 Windows 95 时代引入的核心软件层，至今开发者仍然依赖它来开发传统的桌面应用程序。微软 Azure 首席技术官 Mark Russinovich...",
+      "link": "https://www.oschina.net/news/438369",
+      "category": "AI News"
+    },
+    {
+      "title": "RWKV 社区四月动态：RWKV-7 G1f 模型发布，11 篇论文",
+      "source": "开源中国",
+      "published": "2026-05-09",
+      "summary": "欢迎大家收看《RWKV 社区最新动态》，本期内容收录了 RWKV 社区 2026 年 4 月的最新动态。 4 月动态省流版（TL;DR） RWKV 模型新闻动态 RWKV-7 G1f 模型发布 RWKV 学术研究动态 A novel TV-FEM-RWKV-TS hybrid framework for aging prediction of PEMFCs under static and quasi-dynamic conditions（时序预测模型，发表...",
+      "link": "https://www.oschina.net/news/438336",
+      "category": "AI News"
+    },
+    {
+      "title": "Mojo 编程语言发布 1.0.0b1：像 Python 一样写，像 C++ 一样跑",
+      "source": "开源中国",
+      "published": "2026-05-09",
+      "summary": "5月7日，由 Chris Lattner 创立的 Modular 公司正式发布了 Mojo 编程语言的 v1.0.0b1 稳定版本。相比此前偏向概念介绍的发布，这一版本带来了大量触及语言核心与系统编程层面的实质性变更——从关键字统一到指针非空设计，再到全平台 GPU 硬件支持的扩展，标志着 Mojo 正在从「实验性语言」向「生产可用」快速演进。 语言...",
+      "link": "https://www.oschina.net/news/438329",
+      "category": "AI News"
+    },
+    {
+      "title": "Mesa 26.1.0 发布",
+      "source": "开源中国",
+      "published": "2026-05-09",
+      "summary": "Mesa 26.1.0 现已发布，这是一个新的开发版本。官方建议注重稳定性和可靠性的用户继续使用之前的版本，或者等待 Mesa 26.1.1 的发布。 Mesa 26.1.0 实现了 OpenGL 4.6 API，但 glGetString(GL_VERSION) 或 glGetIntegerv(GL_MAJOR_VERSION) / glGetIntegerv(GL_MINOR_VERSION) 报告的版本取决于所使用的驱动程序。某些驱...",
+      "link": "https://www.oschina.net/news/438306/mesa-26-1-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "Linux 基金会年度预算曝光：仅 2.95% 用于 Linux，超 97% 流向别处",
+      "source": "开源中国",
+      "published": "2026-05-09",
+      "summary": "5月8日，科技评论网站Techrights曝光了一份令人惊讶的数据：根据Linux Foundation（LF）最新发布的2025年度报告，该组织用于Linux本身的预算仅占其总预算的2.95%——也就是说，超过97%的资金流向了与Linux无直接关联的项目。 3.1亿美元收入，Linux只分到零头 Linux Foundation在报告中预测，2025年其总收入将超过3.1亿美...",
+      "link": "https://www.oschina.net/news/438303",
+      "category": "AI News"
+    },
+    {
+      "title": "AI开始接管年轻人的「精神自留地」",
+      "source": "36氪",
+      "published": "2026-05-09",
+      "summary": "撰文｜锅包柚封面来源｜Unsplash（AI辅助扩图）五一假期已经结束，但打工人的“节后综合症”并未消退。面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。“老板被我fire了”这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。这届年轻人，连发泄情绪都要精打细算。因为情绪价值，正",
+      "link": "https://36kr.com/p/3801461350702855?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
       "source": "36氪",
@@ -21,128 +149,8 @@
       "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
       "source": "36氪",
       "published": "2026-05-09",
-      "summary": "整理｜Kris今日热点导览香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局油价上调，加满一箱92号汽油将多花12.5元钱江摩托否认“围剿张雪机车”30条中日航线4月取消全部航班SpaceX冲刺上市，资本开支飙升数百亿TOP3大新闻DeepSeek拟募资最高500亿元据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(���联社)“全国销冠”任晓敏被刑拘，泰康人寿回应5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代理人任某某被青岛市公安机关立案侦查，引发社会广泛关注。对此，公司高度重视，第一时间组织专项工作组派驻青岛，全力配合公安机关的",
+      "summary": "整理｜Kris今日热点导览香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局油价上调，加满一箱92号汽油将多花12.5元钱江摩托否认“围剿张雪机车”30条中日航线4月取消全部航班SpaceX冲刺上市，资本开支飙升数百亿TOP3大新闻DeepSeek拟募资最高500亿元据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社)“全国销冠”任晓敏被刑拘，泰康人寿回应5月7日，泰康人寿方面对记者表示，近日，泰康人寿青岛分公司个人代理人任某某被青岛市公安机关立案侦查，引发社会广泛关注。对此，公司高度重视，第一时间组织专项工作组派驻青岛，全力配合公安机关的工作",
       "link": "https://36kr.com/p/3801348046151428?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
-      "source": "量子位",
-      "published": "2026-05-08",
-      "summary": "位列第二",
-      "link": "https://www.qbitai.com/2026/05/414428.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
-      "source": "量子位",
-      "published": "2026-05-08",
-      "summary": "Mac上就能本地跑deepseek",
-      "link": "https://www.qbitai.com/2026/05/414316.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic出手！AI的内心独白，曝光了",
-      "source": "量子位",
-      "published": "2026-05-08",
-      "summary": "原来Claude早就识破了人类的套路（doge）",
-      "link": "https://www.qbitai.com/2026/05/414213.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
-      "source": "量子位",
-      "published": "2026-05-08",
-      "summary": "OpenAI上新三款实时语音模型",
-      "link": "https://www.qbitai.com/2026/05/414194.html",
-      "category": "AI News"
-    },
-    {
-      "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
-      "source": "量子位",
-      "published": "2026-05-08",
-      "summary": "服务FSD和Optimus",
-      "link": "https://www.qbitai.com/2026/05/414156.html",
-      "category": "AI News"
-    },
-    {
-      "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
-      "source": "InfoQ 中文",
-      "published": "2026-05-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
-      "source": "InfoQ 中文",
-      "published": "2026-05-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Confluent将模式ID移至Kafka头部，以简化模式治理",
-      "source": "InfoQ 中文",
-      "published": "2026-05-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/dKD2lUNaMQggrCcQjxw2?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
-      "source": "InfoQ 中文",
-      "published": "2026-05-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
-      "source": "InfoQ 中文",
-      "published": "2026-05-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "三部门：开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
-      "source": "开源中国",
-      "published": "2026-05-08",
-      "summary": "近日，国家网信办、国家发展改革委、工业和信息化部联合印发《智能体规范应用与创新发展实施意见》（以下简称《实施意见》）。《实施意见》旨在落实国务院《关于深入实施“人工智能+”行动的意见》，促进智能体规范应用与创新发展。 《实施意见》提出，智能体是具备自主感知、记忆、决策、交互与执行能力的智能系统，是人...",
-      "link": "https://www.oschina.net/news/437897",
-      "category": "AI News"
-    },
-    {
-      "title": "AI “泔水”正在扼杀在线社区：Redis 前开发者呼吁「把蜡笔画留在厨房冰箱上」",
-      "source": "开源中国",
-      "published": "2026-05-08",
-      "summary": "知名技术布道者、前 Redis 开发者 Robin Moffatt（rmoff）近日发表长文，以一个 AI 爱好者的身份向同行发出警告：低质量的 AI 生成内容（AI Slop）—— 正在像旋花一样慢慢扼杀在线社区的生命力。 Moffatt 毫不掩饰自己对 AI 的热爱，甚至曾在三月发文断言「不拥抱 AI 的人会被历史抛下」。但这恰恰让他的批评更具分量。...",
-      "link": "https://www.oschina.net/news/437894",
-      "category": "AI News"
-    },
-    {
-      "title": "Inkscape 1.4.4 发布",
-      "source": "开源中国",
-      "published": "2026-05-08",
-      "summary": "Inkscape 是一个免费的开源矢量图形编辑器，适用于 Linux、Windows 和 macOS。它提供了丰富的功能，广泛用于艺术和技术插图。它使用矢量图形允许以无限分辨率进行清晰的输出和渲染。Inkscape 使用标准化的 SVG 文件格式作为其主要格式。它可以导入和导出各种文件格式，包括 SVG、AI、EPS、PDF、PS 和 PNG。 Inkscape 1.4...",
-      "link": "https://www.oschina.net/news/437813/inkscape-1-4-4-released",
-      "category": "AI News"
-    },
-    {
-      "title": "Web 标准专家炮轰 Google Prompt API：标准流程的公然破坏与隐私风险",
-      "source": "开源中国",
-      "published": "2026-05-08",
-      "summary": "Web 标准专家 Mat Marquis 近日发表长文，猛烈抨击 Google 推出的 Prompt API，称其为 \"我所见过的最明目张胆的网络标准霸凌尝试\"，严重程度甚至超越了此前备受争议的 AMP 和 Manifest V3。 Prompt API 是 Google 在 Chrome 中内置的一项功能，允许网页通过 JavaScript 直接调用本地大语言模型。表面上看，这是为开发者提...",
-      "link": "https://www.oschina.net/news/437812/googles-prompt-api",
-      "category": "AI News"
-    },
-    {
-      "title": "看完这场直播就可以参加 “AIGC For Future 全球挑战赛” 了",
-      "source": "开源中国",
-      "published": "2026-05-08",
-      "summary": "5 月 9 日周六晚 19:00，我们邀请到 阿里云解决方案架构师姚旭东做客开源中国直播间，以 “聂小倩” 与 “少年航天局” 两个 IP 为例，现场演示如何用阿里云百炼平台 一站式完成视频作品从创意构思到成品输出的全流程。",
-      "link": "https://my.oschina.net/u/4487475/blog/19659099",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-05-08",
       "summary": "文 | 阿至36氪获悉，低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。现阶段，维新宇航的主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为3180kg、最大载荷为680kg，最大航",
       "link": "https://36kr.com/p/3800495686163721?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
-      "source": "36氪",
-      "published": "2026-05-08",
-      "summary": "2026年的中国新能源SUV市场正经历着前所未有的内卷。问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。卡位黄金价格带，向下争夺年轻群体从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2950mm，属于标准的中大型五座SUV。官方定位为“新锐智慧SUV”，目标用户从问界以往的主力“30岁以上家庭用户和商务人群”向下延伸至25-35岁城市年轻群体。25-30万元是目前中国新能源SUV市场竞争最激烈的价格带——特",
-      "link": "https://36kr.com/p/3800183520091398?f=rss",
       "category": "AI News"
     }
   ]
