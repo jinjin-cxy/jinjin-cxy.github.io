@@ -1,109 +1,101 @@
 {
-  "updated": "2026-05-08T13:04:32.715526+00:00",
+  "updated": "2026-05-09T01:46:05.810293+00:00",
   "repositories": [
     {
       "name": "anthropics/financial-services",
       "description": "",
-      "stars": 13650,
-      "stars_today": 3662,
+      "stars": 15263,
+      "stars_today": 3660,
       "language": "Python",
       "link": "https://github.com/anthropics/financial-services"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 34109,
-      "stars_today": 1794,
+      "stars": 35485,
+      "stars_today": 1893,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
-      "stars": 21170,
-      "stars_today": 3827,
+      "stars": 21864,
+      "stars_today": 3731,
       "language": "Rust",
       "link": "https://github.com/Hmbown/DeepSeek-TUI"
     },
     {
       "name": "z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "stars": 3657,
-      "stars_today": 388,
+      "stars": 3856,
+      "stars_today": 379,
       "language": "Python",
       "link": "https://github.com/z-lab/dflash"
     },
     {
       "name": "decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 5185,
-      "stars_today": 1028,
+      "stars": 5621,
+      "stars_today": 1052,
       "language": "JavaScript",
       "link": "https://github.com/decolua/9router"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 2487,
-      "stars_today": 482,
+      "stars": 3066,
+      "stars_today": 526,
       "language": "Python",
       "link": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
       "name": "awslabs/aidlc-workflows",
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-      "stars": 1623,
-      "stars_today": 31,
+      "stars": 1769,
+      "stars_today": 58,
       "language": "Python",
       "link": "https://github.com/awslabs/aidlc-workflows"
     },
     {
       "name": "HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 14341,
-      "stars_today": 189,
+      "stars": 14661,
+      "stars_today": 202,
       "language": "Python",
       "link": "https://github.com/HKUDS/AI-Trader"
     },
     {
       "name": "LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encryp",
-      "stars": 6559,
-      "stars_today": 572,
+      "stars": 6749,
+      "stars_today": 559,
       "language": "Python",
       "link": "https://github.com/LearningCircuit/local-deep-research"
     },
     {
       "name": "lobehub/lobehub",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo",
-      "stars": 76272,
-      "stars_today": 74,
+      "stars": 76514,
+      "stars_today": 125,
       "language": "TypeScript",
       "link": "https://github.com/lobehub/lobehub"
     },
     {
       "name": "datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 44266,
-      "stars_today": 645,
+      "stars": 44644,
+      "stars_today": 667,
       "language": "Python",
       "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
       "name": "flutter/skills",
       "description": "",
-      "stars": 1519,
-      "stars_today": 68,
+      "stars": 1683,
+      "stars_today": 118,
       "language": "Dart",
       "link": "https://github.com/flutter/skills"
-    },
-    {
-      "name": "Augani/openreel-video",
-      "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
-      "stars": 1971,
-      "stars_today": 820,
-      "language": "TypeScript",
-      "link": "https://github.com/Augani/openreel-video"
     }
   ]
 }
