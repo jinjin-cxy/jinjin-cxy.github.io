@@ -1,42 +1,42 @@
 {
-  "updated": "2026-05-09T12:48:45.085982+00:00",
+  "updated": "2026-05-10T01:47:06.040922+00:00",
   "repositories": [
     {
       "name": "anthropics/financial-services",
       "description": "",
-      "stars": 16677,
-      "stars_today": 3660,
+      "stars": 17435,
+      "stars_today": 3281,
       "language": "Python",
       "link": "https://github.com/anthropics/financial-services"
     },
     {
       "name": "bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "stars": 31105,
-      "stars_today": 850,
+      "stars": 31424,
+      "stars_today": 552,
       "language": "TypeScript",
       "link": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 3079,
-      "stars_today": 400,
+      "stars": 3459,
+      "stars_today": 533,
       "language": "TypeScript",
       "link": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 45395,
-      "stars_today": 667,
+      "stars": 45706,
+      "stars_today": 1197,
       "language": "Python",
       "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
       "name": "datawhalechina/easy-vibe",
       "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-      "stars": 8216,
+      "stars": 8541,
       "stars_today": 294,
       "language": "JavaScript",
       "link": "https://github.com/datawhalechina/easy-vibe"
@@ -44,7 +44,7 @@
     {
       "name": "rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
-      "stars": 13559,
+      "stars": 13798,
       "stars_today": 144,
       "language": "TypeScript",
       "link": "https://github.com/rowboatlabs/rowboat"
@@ -52,56 +52,56 @@
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
-      "stars": 38628,
-      "stars_today": 145,
+      "stars": 38836,
+      "stars_today": 107,
       "language": "TypeScript",
       "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
       "name": "masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": 2130,
-      "stars_today": 595,
+      "stars": 2551,
+      "stars_today": 597,
       "language": "Go",
       "link": "https://github.com/masterking32/MasterDnsVPN"
     },
     {
       "name": "playcanvas/supersplat",
       "description": "3D Gaussian Splat Editor",
-      "stars": 5996,
-      "stars_today": 513,
+      "stars": 6326,
+      "stars_today": 514,
       "language": "TypeScript",
       "link": "https://github.com/playcanvas/supersplat"
     },
     {
       "name": "Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": 36391,
-      "stars_today": 189,
+      "stars": 36488,
+      "stars_today": 160,
       "language": "Jupyter Notebook",
       "link": "https://github.com/Lordog/dive-into-llms"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 36869,
-      "stars_today": 1893,
+      "stars": 37408,
+      "stars_today": 3009,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 6143,
-      "stars_today": 1052,
+      "stars": 6525,
+      "stars_today": 1031,
       "language": "JavaScript",
       "link": "https://github.com/decolua/9router"
     },
     {
       "name": "oracle-devrel/oracle-ai-developer-hub",
       "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
-      "stars": 657,
-      "stars_today": 142,
+      "stars": 806,
+      "stars_today": 90,
       "language": "Jupyter Notebook",
       "link": "https://github.com/oracle-devrel/oracle-ai-developer-hub"
     }
