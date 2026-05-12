@@ -1,109 +1,93 @@
 {
-  "updated": "2026-05-12T01:49:51.918250+00:00",
+  "updated": "2026-05-12T13:49:17.591534+00:00",
   "repositories": [
-    {
-      "name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "stars": 33036,
-      "stars_today": 956,
-      "language": "TypeScript",
-      "link": "https://github.com/bytedance/UI-TARS-desktop"
-    },
-    {
-      "name": "CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 6232,
-      "stars_today": 1320,
-      "language": "Python",
-      "link": "https://github.com/CloakHQ/CloakBrowser"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "stars": 10835,
-      "stars_today": 427,
-      "language": "TypeScript",
-      "link": "https://github.com/yikart/AiToEarn"
-    },
-    {
-      "name": "playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
-      "stars": 7369,
-      "stars_today": 531,
-      "language": "TypeScript",
-      "link": "https://github.com/playcanvas/supersplat"
-    },
-    {
-      "name": "datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "stars": 9951,
-      "stars_today": 812,
-      "language": "JavaScript",
-      "link": "https://github.com/datawhalechina/easy-vibe"
-    },
-    {
-      "name": "decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "stars": 8382,
-      "stars_today": 941,
-      "language": "JavaScript",
-      "link": "https://github.com/decolua/9router"
-    },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 1516,
-      "stars_today": 366,
+      "stars": 2102,
+      "stars_today": 1042,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars": 5374,
+      "stars_today": 1067,
+      "language": "TypeScript",
+      "link": "https://github.com/rohitg00/agentmemory"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars": 7157,
+      "stars_today": 1589,
+      "language": "Python",
+      "link": "https://github.com/CloakHQ/CloakBrowser"
+    },
+    {
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "stars": 20028,
+      "stars_today": 28,
+      "language": "Go",
+      "link": "https://github.com/apernet/hysteria"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 74816,
+      "stars_today": 3886,
+      "language": "Shell",
+      "link": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "anonfaded/FadCam",
+      "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
+      "stars": 2075,
+      "stars_today": 111,
+      "language": "Java",
+      "link": "https://github.com/anonfaded/FadCam"
+    },
+    {
       "name": "millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
-      "stars": 8092,
-      "stars_today": 212,
+      "stars": 8494,
+      "stars_today": 804,
       "language": "TypeScript",
       "link": "https://github.com/millionco/react-doctor"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "stars": 37333,
-      "stars_today": 422,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/Lordog/dive-into-llms"
-    },
-    {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
-      "stars": 162906,
-      "stars_today": 39,
-      "language": "Python",
-      "link": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
-    },
-    {
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": 93033,
-      "stars_today": 337,
+      "stars": 93434,
+      "stars_today": 776,
       "language": "Jupyter Notebook",
       "link": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 144915,
-      "stars_today": 2065,
+      "name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 47993,
+      "stars_today": 1248,
       "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
+      "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 4787,
-      "stars_today": 430,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars": 11554,
+      "stars_today": 1264,
       "language": "TypeScript",
-      "link": "https://github.com/rohitg00/agentmemory"
+      "link": "https://github.com/yikart/AiToEarn"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 16291,
+      "stars_today": 801,
+      "language": "Python",
+      "link": "https://github.com/HKUDS/AI-Trader"
     }
   ]
 }

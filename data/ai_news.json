@@ -1,12 +1,156 @@
 {
-  "updated": "2026-05-12T01:50:02.007003+00:00",
+  "updated": "2026-05-12T13:49:31.348203+00:00",
   "articles": [
     {
-      "title": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
+      "source": "量子位",
+      "published": "2026-05-12",
+      "summary": "打造“一人多面”的具身智能便利店",
+      "link": "https://www.qbitai.com/2026/05/416590.html",
+      "category": "AI News"
+    },
+    {
+      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "source": "量子位",
+      "published": "2026-05-12",
+      "summary": "累计发现23个独立安全漏洞",
+      "link": "https://www.qbitai.com/2026/05/416582.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI第一金主黄仁勋：日均花掉20亿",
+      "source": "量子位",
+      "published": "2026-05-12",
+      "summary": "“AI御三家”都投了",
+      "link": "https://www.qbitai.com/2026/05/416540.html",
+      "category": "AI News"
+    },
+    {
+      "title": "龙虾退烧后，荣耀给它造了一个宇宙",
+      "source": "量子位",
+      "published": "2026-05-12",
+      "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。",
+      "link": "https://www.qbitai.com/2026/05/416081.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Markdown要凉…卡帕西也站HTML了",
+      "source": "量子位",
+      "published": "2026-05-12",
+      "summary": "去质疑一切吧",
+      "link": "https://www.qbitai.com/2026/05/416339.html",
+      "category": "AI News"
+    },
+    {
+      "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
       "source": "InfoQ 中文",
       "published": "2026-05-12",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "知名开源作者呼吁对软件供应链进行验证，而非盲目信任",
+      "source": "InfoQ 中文",
+      "published": "2026-05-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+      "source": "InfoQ 中文",
+      "published": "2026-05-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
+      "source": "InfoQ 中文",
+      "published": "2026-05-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "梁文锋出资200亿元，DeepSeek阿里谈崩？宇树机器人在韩国佛门受戒，法号“迦悲”；员工人均奖金达610万人民币，被婚恋市场追捧？官方回应｜AI周报",
+      "source": "InfoQ 中文",
+      "published": "2026-05-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/xqLfi9FVBo6qINKSuyeb?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "TypedMemory 开源发布：用 Java Record 重塑堆外内存操作体验",
+      "source": "开源中国",
+      "published": "2026-05-12",
+      "summary": "在 Java 高性能编程领域，堆外内存（off-heap memory）操作一直是把双刃剑。它绕过了 JVM 堆的垃圾回收机制，为大规模数据结构、图形计算和原生互操作提供了关键支撑；但与此同时，开发者不得不与 MemoryLayout、字节偏移和裸指针打交道，代码冗长且极易出错。随着 Java Foreign Function & Memory（FFM）API 在近年逐步...",
+      "link": "https://www.oschina.net/news/439713",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 的十二宗罪：一名软件工程师眼中的 AI 产业困境",
+      "source": "开源中国",
+      "published": "2026-05-12",
+      "summary": "一位刚入职软件公司的开发者近日发表长文，系统梳理了当前AI产业面临的十二大核心问题，从能源消耗到版权争议，从军事应用到教育影响，引发业界对AI技术\"野蛮生长\"的反思。 能源与水资源的双重危机 AI的能源消耗问题触目惊心。向ChatGPT提问一次的能耗约是传统搜索引擎的10倍，这还不包括AI概览类搜索（传统搜索+AI摘要的...",
+      "link": "https://www.oschina.net/news/439693/whats-wrong-with-ai",
+      "category": "AI News"
+    },
+    {
+      "title": "Syncthing 2.1.0 正式发布，连续文件同步工具",
+      "source": "开源中国",
+      "published": "2026-05-12",
+      "summary": "Syncthing 是一个免费开源的工具，它能在你的各个网络计算机间同步文件 / 文件夹，它的同步数据是直接从一个系统中直接传输到另一个系统的，并且它是安全且私密的。 Syncthing 2.1.0 现已发布，主要更新内容包括： 现在可以通过设置新group属性在图形用户界面中对设备和文件夹进行分组。 除了现有的对 SOCKS 代理的支持（...",
+      "link": "https://www.oschina.net/news/439667/syncthing-2-1-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "在 GitHub 之前，开发者如何分享代码？——追忆 Planet Source Code 的黄金年代",
+      "source": "开源中国",
+      "published": "2026-05-12",
+      "summary": "一位资深开发者近日在GitHub上发现了自己20多年前在Planet Source Code网站提交的代码存档，这段\"时光胶囊\"引发了关于GitHub时代之前开发者如何共享知识的怀旧之旅。 一个意外的时光胶囊 Chris Pietschmann在浏览GitHub时偶然发现了一个特殊的存档页面——Planet Source Code网站的代码索引。页面上列出了他在2002至200...",
+      "link": "https://www.oschina.net/news/439656",
+      "category": "AI News"
+    },
+    {
+      "title": "李开复：开源是实现主权 AI 的第三条路",
+      "source": "开源中国",
+      "published": "2026-05-12",
+      "summary": "零一万物（01.AI）公众号发文称，近日该公司创始人兼 CEO、创新工场董事长李开复接受 Capgemini 凯捷咨询研究院专访，围绕“AI 主权”展开深度分享，系统讨论了开源与闭源模型的竞争格局、AI 时代的数据与控制权问题，以及中国在开源生态、工程效率与 AI 硬件上的独特机会。 在他看来，并不是每个国家都需要重造 OpenAI...",
+      "link": "https://www.oschina.net/news/439632",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+      "source": "36氪",
+      "published": "2026-05-12",
+      "summary": "大公司：京东：第一季度营收3157亿元，同比增长4.9%36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。华硕第一季度营收2083.7亿元台币华硕第一季度营收2083.7亿元台币，预估2001.3亿元台币；营业利润119.0亿元台币。（财联社）宇树科技发布载人机甲，投资人回应5月12日，宇树发布GD01载人变形机甲",
+      "link": "https://36kr.com/p/3806196073242112?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "source": "36氪",
+      "published": "2026-05-12",
+      "summary": "5月19日至20日，带上你的需求，带上你的方案，我们在亦庄，不见不散。如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。在这样的关键时刻，北京经开区充分发挥产业高地与政策策源地的引领作用，为AI落地提供了前瞻性的亦庄路径：以全域开放的产业图景为底座，用丰富的落地场景牵引技术创新，推动“人工智能+”在垂直行业深度延伸，让前沿技",
+      "link": "https://36kr.com/p/3806179759496711?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "Walulu：用六个月撕开一条新赛道",
+      "source": "36氪",
+      "published": "2026-05-12",
+      "summary": "文丨果脯近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他们希望将Walulu打造成“AI时代的宝可梦”。这并非雨之灵动最早的想法。2023年，",
+      "link": "https://36kr.com/p/3805761383751427?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "source": "36氪",
+      "published": "2026-05-12",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。目前，熵约科技的首款产品针对家庭空间设计，为全球首款家庭飞行机器人Flyer O1。（图源/企业）曾武介绍称：“家庭环境中，地面环境其实是多障碍的，设备活动受限；而空中空间相对开阔，因此我们选择从飞行形态切入。”Fly",
+      "link": "https://36kr.com/p/3805672617959173?f=rss",
       "category": "AI News"
     },
     {
@@ -15,150 +159,6 @@
       "published": "2026-05-12",
       "summary": "今日热点导览天舟十号货运飞船与空间站组合体完成交会对接国家广播电视总局：4月经备案国产电视动画片51部、9659分钟任天堂股价因Switch 2游戏前景不佳大幅下跌千问与淘宝打通，正式上线AI购物TOP3大新闻美国总统特朗普：非常期待中国之行外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(央视新闻)OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级5月11日，界面新闻独家获悉，就OPPO因母",
       "link": "https://36kr.com/p/3805557782486785?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例",
-      "source": "36氪",
-      "published": "2026-05-12",
-      "summary": "文｜胡香赟编辑｜海若镜在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计算赛道中的企业已超过90家，TOP 10企业的总估值逼近500亿元。其中，那些拥有海外顶尖学术背景和成熟产业经历的市场化团队，在这一轮资本竞逐中更受青睐，估值水平也相",
-      "link": "https://36kr.com/p/3804356346879495?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
-      "source": "量子位",
-      "published": "2026-05-11",
-      "summary": "5月20日，马上AI起来！",
-      "link": "https://www.qbitai.com/2026/05/415263.html",
-      "category": "AI News"
-    },
-    {
-      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
-      "source": "量子位",
-      "published": "2026-05-11",
-      "summary": "AI时代最贵的东西，已经不是模型了",
-      "link": "https://www.qbitai.com/2026/05/415842.html",
-      "category": "AI News"
-    },
-    {
-      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
-      "source": "量子位",
-      "published": "2026-05-11",
-      "summary": "办公软件的终局是交方案",
-      "link": "https://www.qbitai.com/2026/05/415810.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
-      "source": "量子位",
-      "published": "2026-05-11",
-      "summary": "Cerebras预计本周公布定价",
-      "link": "https://www.qbitai.com/2026/05/415714.html",
-      "category": "AI News"
-    },
-    {
-      "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
-      "source": "量子位",
-      "published": "2026-05-11",
-      "summary": "自曝创业至暗时刻，飞日本求世嘉CEO救命",
-      "link": "https://www.qbitai.com/2026/05/415403.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Figma自研了Redis代理，实现六个9可用性",
-      "source": "InfoQ 中文",
-      "published": "2026-05-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/8Q9hEDB6cqe9qpW6mJh6?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "黄仁勋被授予 CMU 荣誉博士！陈立武亲自为其授袍，不用英特尔为其代工的英伟达，改策略了？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VcwHpVl26WTsTtOrK6YL?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Mistral为Le Chat新增远程智能体与Work模式",
-      "source": "InfoQ 中文",
-      "published": "2026-05-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/14UTzo6myptzQ1GqBdOG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub升级CodeQL：以声明式安全建模实现更快且更灵活的分析",
-      "source": "InfoQ 中文",
-      "published": "2026-05-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UZhARgaRAyQl6ysULrY3?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "开发者用 Codex GPT-5.5 辅助开发的 AMD Linux 驱动程序被合并",
-      "source": "开源中国",
-      "published": "2026-05-11",
-      "summary": "Linux内核邮件列表上最近进入审查阶段的一个新开源AMD Linux驱动是 prom21-xhci，它用于暴露AMD Promontory 21芯片组xHCI控制器上的温度传感器。 Promontory 21架构被用于AMD的600系列和800系列AM5芯片组。虽然所有近期AMD处理器都已有CPU温度监控功能，桌面主板的传感器监控也因具体主板而异，且AMD系统还有其他Linux温...",
-      "link": "https://www.oschina.net/news/439190",
-      "category": "AI News"
-    },
-    {
-      "title": "美国 IT 行业失业率升至 3.8%，AI 驱动的裁员潮持续蔓",
-      "source": "开源中国",
-      "published": "2026-05-11",
-      "summary": "2026年5月10日，据《华尔街日报》报道，美国IT行业失业率从3月的3.6%上升至4月的3.8%。 这一增长反映了科技行业持续的不确定性，因为AI继续对招聘造成冲击。这是咨询机构Janco Associates基于美国劳工部数据分析得出的结论。 数据显示，4月份整体经济增加了11.5万个就业岗位，零售、运输仓储和医疗保健等行业表现强劲，全...",
-      "link": "https://www.oschina.net/news/439184",
-      "category": "AI News"
-    },
-    {
-      "title": "影视飓风 Tim 预测：AGI 问世后或导致全员失业",
-      "source": "开源中国",
-      "published": "2026-05-11",
-      "summary": "影视飓风 Tim 近日在与著名作家余华进行直播对谈时，发表了关于 AI 未来发展的大胆预测。他认为，当通用人工智能（AGI）问世时，将可能导致所有人面临失业的局面。 Tim 提到，许多人在思考未来五年或十年后是否会出现大规模失业的问题。他表示，虽然人们对于自动驾驶技术的普及感到担忧，但他认为在未来五年内，自动驾驶...",
-      "link": "https://www.oschina.net/news/439182",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌 Aluminium OS 专属桌面壁纸暗示跨平台视觉统一",
-      "source": "开源中国",
-      "published": "2026-05-11",
-      "summary": "近日，Android Authority 曝光了一组 Google 下一代操作系统 Aluminium OS 的专属桌面壁纸，共计 4 张，目前已在部分 Pixel 手机的壁纸选择器中出现，但均标记为 \"Desktop Exclusive\"（桌面平台专属）。 推荐阅读：谷歌开发统一桌面平台“Aluminium OS”：以 AI 为核心、整合 Android 和 ChromeOS 这批壁纸由两位艺术家创...",
-      "link": "https://www.oschina.net/news/439170",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯跟投阶跃星辰 25 亿美金融资",
-      "source": "开源中国",
-      "published": "2026-05-11",
-      "summary": "《科创板日报》消息称，老股东腾讯已跟投阶跃星辰新一轮融资。 上周有消息透露，阶跃即将完成25亿美金融资，并已拆除红筹架构，加速赴港IPO准备。据了解，早在阶跃B轮融资，腾讯就已进入其股东名单，并连续跟投。不久前，双方合作关系进一步深化。 腾讯云与阶跃签署战略合作，双方将整合阶跃基础大模型和腾讯系内容及应用...",
-      "link": "https://www.oschina.net/news/439165",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-      "source": "36氪",
-      "published": "2026-05-11",
-      "summary": "大公司：百济神州：第一季度净利润为16.08亿元，同比扭亏为盈36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。营收确认规则是否存在调整可能？贵州茅台回应5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要求，在客",
-      "link": "https://36kr.com/p/3804795647729411?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "理想整车研发负责人刘立国：说理想不重视技术，是大大的误解",
-      "source": "36氪",
-      "published": "2026-05-11",
-      "summary": "理想汽车整车电动研发高级副总裁 刘立国文｜肖漫编辑｜李勤走过10年造车历程后，新势力阵营已经普遍从“轻盈”走向“厚重”。尤其是理想汽车，这家公司高呼成为“ 具身智能企业”，但也同时在垒高每一块整车技术能力。尤其是过去4年，理想汽车几乎重构了底盘系统，联合供应商深度共创了底盘三大项：EMB刹车+800V主动悬架+线控转向。理想在电池上也在进行自制布局，同时，在自身起���的增程技术上，理想也走到了自研自制阶段——其最新一代增程器，也即发动机，已经是理想汽车“自己生产”。上述技术能力成果几乎都将集中体现在最新的旗舰车理想L9 Livis上。这意味着，新一代理想L9，也将是理想新一代技术能力的起点。",
-      "link": "https://36kr.com/p/3804380633554696?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
-      "source": "36氪",
-      "published": "2026-05-11",
-      "summary": "作者 | 邱晓芬编辑 | 袁斯来余轶南似乎是那种总能提前踩中风口的冒险家。他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，并于2024年在港交所上市，成为当年港股最大的IPO。2024年底，他离开地平线，创立「维他动力」，希望把过去十年在自动驾驶领域积累的能力，迁移到消费级机器人上。（图源/企业）余轶南有种知识分子身上并不多见的江湖",
-      "link": "https://36kr.com/p/3804282431659779?f=rss",
       "category": "AI News"
     }
   ]
