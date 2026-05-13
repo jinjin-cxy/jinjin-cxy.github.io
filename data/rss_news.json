@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-13T01:55:04.074966+00:00",
+  "updated": "2026-05-13T14:00:59.750798+00:00",
   "articles": [
     {
-      "title": "平台工程三大支柱的良性循环",
-      "source": "InfoQ 中文",
+      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+      "source": "量子位",
       "published": "2026-05-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/oBhN72Iw4LwZLfvHpKjy?utm_source=rss&utm_medium=article",
+      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
+      "link": "https://www.qbitai.com/2026/05/416963.html",
       "category": "AI News"
     },
     {
-      "title": "36氪专访 | 安克创新eufy Make负责人：众筹超4000万美金后，还在红海寻找缝隙",
+      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+      "source": "量子位",
+      "published": "2026-05-13",
+      "summary": "谷歌把Gemini塞进了Android",
+      "link": "https://www.qbitai.com/2026/05/416870.html",
+      "category": "AI News"
+    },
+    {
+      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+      "source": "量子位",
+      "published": "2026-05-13",
+      "summary": "无需为不同平台分别写UI代码",
+      "link": "https://www.qbitai.com/2026/05/416864.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+      "source": "量子位",
+      "published": "2026-05-13",
+      "summary": "Anthropic新研究实锤了",
+      "link": "https://www.qbitai.com/2026/05/416831.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+      "source": "量子位",
+      "published": "2026-05-13",
+      "summary": "李彦宏提出“AI时代进化论”",
+      "link": "https://www.qbitai.com/2026/05/416762.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从「自我进化」到「DAA」，百度给出 Agent 时代系统答案",
+      "source": "InfoQ 中文",
+      "published": "2026-05-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版",
+      "source": "InfoQ 中文",
+      "published": "2026-05-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义",
+      "source": "InfoQ 中文",
+      "published": "2026-05-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "GitHub 如何保障现代CI/CD系统中智能体工作流的安全",
+      "source": "InfoQ 中文",
+      "published": "2026-05-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Manus 交易失败后，创始人仍在谈论 Agent 时代的成功经验",
+      "source": "InfoQ 中文",
+      "published": "2026-05-13",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Discord 借“Linux 桌面之年”发力，其 Linux 客户端迎来多项改进",
+      "source": "开源中国",
+      "published": "2026-05-13",
+      "summary": "Discord近日发布视频，通过借用\"Year of the Linux Desktop\"口号宣布对其Linux客户端进行多项重要改进。这个以游戏玩家为中心的通讯平台，正在加大对Linux桌面生态的投入。 \"Linux桌面元年\"：一个持续数十年的社区梗 \"Year of the Linux Desktop\"（Linux桌面元年）是开源社区流传了二十多年的一个经典梗。自1990年代以来...",
+      "link": "https://www.oschina.net/news/440209",
+      "category": "AI News"
+    },
+    {
+      "title": "CrateDB 6.2.8 发布，分布式 SQL 数据库",
+      "source": "开源中国",
+      "published": "2026-05-13",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.8 现已正式发布，该版本更新内容如下： 修复了一...",
+      "link": "https://www.oschina.net/news/440184/cratedb-6-2-8-released",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: SolonCode v2026.5.13 发布：开启“数字员工”新时代",
+      "source": "开源中国",
+      "published": "2026-05-13",
+      "summary": "1、关于 SolonCode（终端编码智能体） SolonCode 是由杭州无耳科技有限公司研发的企业级 终端编码智能体。它不仅是一个命令行工具，更是深度集成的“数字员工”，旨在通过全中文指令集，实现开发与运维任务的自动化与智能化。 核心差异化：SolonCode vs Claude Code 维度 SolonCode Claude Code 语言环境 全中文原生支持...",
+      "link": "https://www.oschina.net/news/440166/soloncode-2026-5-13",
+      "category": "AI News"
+    },
+    {
+      "title": "编程即理论构建：Peter Naur 的经典论文为何值得一读",
+      "source": "开源中国",
+      "published": "2026-05-13",
+      "summary": "最近读到一篇来自 CodeUtopia 的博客推荐，观点颇为深刻：编程本质上是一种\"理论构建\"活动，而非单纯的代码编写。这篇推荐指向了 Peter Naur 的经典论文《Programming as Theory Building》。 什么是\"理论构建\" Naur 在论文中提出了一个核心概念：程序员的真正工作不是在写代码，而是在头脑中构建关于程序的\"理论\"。这个...",
+      "link": "https://www.oschina.net/news/440163",
+      "category": "AI News"
+    },
+    {
+      "title": "Visual Studio Code 1.120 发布",
+      "source": "开源中国",
+      "published": "2026-05-13",
+      "summary": "Visual Studio Code 1.120 版本现已发布。此版本将“Agents”窗口升级至稳定版，改进了 BYOK 模型的可见性和可空性，并新增了 Markdown 使用体验优化和 agent 安全功能。以下是此版本的亮点： Agents window in Stable：使用新的 Agents 窗口，在所有项目中以 agents-first 的方式进行工作。 BYOK 改进：跟踪和优化 toke...",
+      "link": "https://www.oschina.net/news/440141/vs-code-1-120-released",
+      "category": "AI News"
+    },
+    {
+      "title": "2026 AI最佳场景渗透案例重磅揭晓",
       "source": "36氪",
       "published": "2026-05-13",
-      "summary": "作者 | 张子怡编辑 | 袁斯来那是一个价值5000万美元成功故事诞生的夜晚。eufy Make的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。首个100万美元的记录用时不过一分钟。“感觉像爆金币一样，金额哗啦啦涨上去。”当夜无人入眠。直到凌晨四五点，组内的同学还在不停更新着众筹金额的实时截图。时至今日，eufy Make E1仍以4670万美元的众筹金额，维持着Kickstarter历史上融资额最高的项目记录。eufy Make E1走过了近一年，产品在海外已接近完全交付。eufy Make E1在国内市场",
+      "summary": "如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。“渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企业在至少一个职能中实现了常态化使用，这一比例显著领跑全球。更关键的是，45%的受访企业表示已实现AI的规模化或全面部署，远超全球38%的平均线。趋势和数据的背后，是行业正在形成的共识：AI的叙事主线已从“技术竞赛”切换到“场景为王”。评价的标尺也随之回归",
+      "link": "https://36kr.com/p/3807623172235011?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行",
+      "source": "36氪",
+      "published": "2026-05-13",
+      "summary": "大公司：腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。腾讯刘炽平：腾讯没有大裁员计划在腾讯股东大会上，对于腾讯是否会大裁员的问题，腾讯总裁刘炽平回应表示，肯定没有大裁员",
+      "link": "https://36kr.com/p/3807540422942214?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "source": "36氪",
+      "published": "2026-05-13",
+      "summary": "文｜周鑫雨 邓咏仪编辑｜杨轩林俊旸以创业者的身份，重新加入AI模型的战场。《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。截至发稿前，有关上述信息，林俊旸尚未回复。时间距离3月初的那场“闪电”诀别，已经过去了两个月。2026年3月4日凌晨，林俊旸在X上宣布离开千问：“me stepping down. bye my beloved qwen（我卸任了。再见了，我深爱的千问）。”更早前，3月3日下午，他在Qwen成员的钉钉群",
+      "link": "https://36kr.com/p/3807382930251523?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "6月上海，这场论坛聊透出海真问题",
+      "source": "36氪",
+      "published": "2026-05-13",
+      "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行出海这件事，已经变了。如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是：· 下一阶段最值得重仓的区域市场在哪里？· AI应该优先进入哪些关键环节，才能形成真正差异化？· 在资本趋于理性、增长更重质量的背景下，什么样的公司还具备穿越周期的可能性？· 对于具身智能、自动驾驶、AI硬件等新技术企业而言，如何跨越从技术验证到场景落地、从产品展示到规模商业化的关键门槛？这些问题，没有标准答案",
+      "link": "https://36kr.com/p/3807234971131656?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙",
+      "source": "36氪",
+      "published": "2026-05-13",
+      "summary": "作者 | 张子怡编辑 | 袁斯来那是一个价值5000万美元成功故事诞生的夜晚。eufyMake的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。首个100万美元的记录用时不过一分钟。“感觉像爆金币一样，金额哗啦啦涨上去。”当夜无人入眠。直到凌晨四五点，组内的同学还在不停更新着众筹金额的实时截图。时至今日，eufyMake E1仍以4670万美元的众筹金额，维持着Kickstarter历史上融资额最高的项目记录。eufyMake E1走过了近一年，产品在海外已接近完全交付。eufyMake E1在国内市场也正式开",
       "link": "https://36kr.com/p/3806507139390984?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
-      "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉背景，核心团队亦主要来自清华大学，成员覆盖光学、算法、半导体及产业资源等方向。当前，光计算正被视为突破电子芯片“功耗墙”“存储墙”的重要方向之一，行业也逐渐进入产业化前夜。光子芯力的核心产品聚焦于光电异构计算芯片及配套软件工具链。硬件层面，光子芯力创新性地采用了“",
-      "link": "https://36kr.com/p/3807043342475009?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
-      "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。方石机器人产品矩阵方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。目前，公司已深度服务中国建筑、中国铁建等100余家头部建筑企业，落地超500个标杆工程，累计施工面积突破1500万平方米。2023年以来，方石机器人产品逐步进入中东、东南亚",
-      "link": "https://36kr.com/p/3807039782116865?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调",
-      "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "今日热点导览中央网信办：平台发布短视频必选6类标签抖音集团短剧版权中心：2026年真人短剧的保底扶持预算超15亿元快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段网易云音乐全面接入DeepSeek-V4阿里发布AI店小蜜，平均询单转化提升超10%TOP3大新闻宇树科技发布GD01载人变形机甲，投资人回应5月12日，宇树发布GD01载人变形机甲GD01，定价390万元起。宇树创始人王兴兴亲自登上机甲驾驶舱，并演示了一段真人操作。根据官方介绍，该产品为全球首款量产版载人机甲，可以变形，民用交通工具，体重约500kg（载人后）。宇树早期投资人赵楠表示：宇树一直在围绕它的科",
-      "link": "https://36kr.com/p/3806970999955201?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "原来Ilya还有70亿美元OpenAI股权",
-      "source": "量子位",
-      "published": "2026-05-12",
-      "summary": "世纪庭审实锤OpenAI「造富神话」",
-      "link": "https://www.qbitai.com/2026/05/416597.html",
-      "category": "AI News"
-    },
-    {
-      "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
-      "source": "量子位",
-      "published": "2026-05-12",
-      "summary": "打造“一人多面”的具身智能便利店",
-      "link": "https://www.qbitai.com/2026/05/416590.html",
-      "category": "AI News"
-    },
-    {
-      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-      "source": "量子位",
-      "published": "2026-05-12",
-      "summary": "累计发现23个独立安全漏洞",
-      "link": "https://www.qbitai.com/2026/05/416582.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI第一金主黄仁勋：日均花掉20亿",
-      "source": "量子位",
-      "published": "2026-05-12",
-      "summary": "“AI御三家”都投了",
-      "link": "https://www.qbitai.com/2026/05/416540.html",
-      "category": "AI News"
-    },
-    {
-      "title": "龙虾退烧后，荣耀给它造了一个宇宙",
-      "source": "量子位",
-      "published": "2026-05-12",
-      "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态。",
-      "link": "https://www.qbitai.com/2026/05/416081.html",
-      "category": "AI News"
-    },
-    {
-      "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
-      "source": "InfoQ 中文",
-      "published": "2026-05-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "知名开源作者呼吁对软件供应链进行验证，而非盲目信任",
-      "source": "InfoQ 中文",
-      "published": "2026-05-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
-      "source": "InfoQ 中文",
-      "published": "2026-05-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "TypedMemory 开源发布：用 Java Record 重塑堆外内存操作体验",
-      "source": "开源中国",
-      "published": "2026-05-12",
-      "summary": "在 Java 高性能编程领域，堆外内存（off-heap memory）操作一直是把双刃剑。它绕过了 JVM 堆的垃圾回收机制，为大规模数据结构、图形计算和原生互操作提供了关键支撑；但与此同时，开发者不得不与 MemoryLayout、字节偏移和裸指针打交道，代码冗长且极易出错。随着 Java Foreign Function & Memory（FFM）API 在近年逐步...",
-      "link": "https://www.oschina.net/news/439713",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 的十二宗罪：一名软件工程师眼中的 AI 产业困境",
-      "source": "开源中国",
-      "published": "2026-05-12",
-      "summary": "一位刚入职软件公司的开发者近日发表长文，系统梳理了当前AI产业面临的十二大核心问题，从能源消耗到版权争议，从军事应用到教育影响，引发业界对AI技术\"野蛮生长\"的反思。 能源与水资源的双重危机 AI的能源消耗问题触目惊心。向ChatGPT提问一次的能耗约是传统搜索引擎的10倍，这还不包括AI概览类搜索（传统搜索+AI摘要的...",
-      "link": "https://www.oschina.net/news/439693/whats-wrong-with-ai",
-      "category": "AI News"
-    },
-    {
-      "title": "Syncthing 2.1.0 正式发布，连续文件同步工具",
-      "source": "开源中国",
-      "published": "2026-05-12",
-      "summary": "Syncthing 是一个免费开源的工具，它能在你的各个网络计算机间同步文件 / 文件夹，它的同步数据是直接从一个系统中直接传输到另一个系统的，并且它是安全且私密的。 Syncthing 2.1.0 现已发布，主要更新内容包括： 现在可以通过设置新group属性在图形用户界面中对设备和文件夹进行分组。 除了现有的对 SOCKS 代理的支持（...",
-      "link": "https://www.oschina.net/news/439667/syncthing-2-1-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "在 GitHub 之前，开发者如何分享代码？——追忆 Planet Source Code 的黄金年代",
-      "source": "开源中国",
-      "published": "2026-05-12",
-      "summary": "一位资深开发者近日在GitHub上发现了自己20多年前在Planet Source Code网站提交的代码存档，这段\"时光胶囊\"引发了关于GitHub时代之前开发者如何共享知识的怀旧之旅。 一个意外的时光胶囊 Chris Pietschmann在浏览GitHub时偶然发现了一个特殊的存档页面——Planet Source Code网站的代码索引。页面上列出了他在2002至200...",
-      "link": "https://www.oschina.net/news/439656",
-      "category": "AI News"
-    },
-    {
-      "title": "李开复：开源是实现主权 AI 的第三条路",
-      "source": "开源中国",
-      "published": "2026-05-12",
-      "summary": "零一万物（01.AI）公众号发文称，近日该公司创始人兼 CEO、创新工场董事长李开复接受 Capgemini 凯捷咨询研究院专访，围绕“AI 主权”展开深度分享，系统讨论了开源与闭源模型的竞争格局、AI 时代的数据与控制权问题，以及中国在开源生态、工程效率与 AI 硬件上的独特机会。 在他看来，并不是每个国家都需要重造 OpenAI...",
-      "link": "https://www.oschina.net/news/439632",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
-      "source": "36氪",
-      "published": "2026-05-12",
-      "summary": "大公司：京东：第一季度营收3157亿元，同比增长4.9%36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润��提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。华硕第一季度营收2083.7亿元台币华硕第一季度营收2083.7亿元台币，预估2001.3亿元台币；营业利润119.0亿元台币。（财联社）宇树科技发布载人机甲，投资人回应5月12日，宇树发布GD01载人变形机",
-      "link": "https://36kr.com/p/3806196073242112?f=rss",
       "category": "AI News"
     }
   ]

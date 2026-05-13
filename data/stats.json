@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-13T01:55:04.077653+00:00",
+  "updated": "2026-05-13T14:00:59.753681+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 11,
+    "github_trending": 15,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -22,7 +22,7 @@
       "count": 13
     },
     {
-      "tag": "conversational",
+      "tag": "qwen3",
       "count": 5
     },
     {
@@ -30,7 +30,7 @@
       "count": 5
     },
     {
-      "tag": "qwen3",
+      "tag": "conversational",
       "count": 4
     },
     {
@@ -53,23 +53,23 @@
   "top_languages": [
     {
       "language": "TypeScript",
-      "count": 3
-    },
-    {
-      "language": "Python",
-      "count": 3
+      "count": 4
     },
     {
       "language": "Rust",
-      "count": 1
-    },
-    {
-      "language": "Go",
-      "count": 1
+      "count": 2
     },
     {
       "language": "Shell",
-      "count": 1
+      "count": 2
+    },
+    {
+      "language": "Go",
+      "count": 2
+    },
+    {
+      "language": "Python",
+      "count": 2
     }
   ]
 }
