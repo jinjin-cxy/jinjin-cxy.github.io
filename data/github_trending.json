@@ -1,91 +1,91 @@
 {
-  "updated": "2026-05-12T13:49:17.591534+00:00",
+  "updated": "2026-05-13T01:54:52.349991+00:00",
   "repositories": [
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 2102,
-      "stars_today": 1042,
+      "stars": 2807,
+      "stars_today": 1014,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 5374,
-      "stars_today": 1067,
+      "stars": 5938,
+      "stars_today": 1048,
       "language": "TypeScript",
       "link": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 7157,
-      "stars_today": 1589,
+      "stars": 7951,
+      "stars_today": 1606,
       "language": "Python",
       "link": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
       "name": "apernet/hysteria",
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-      "stars": 20028,
-      "stars_today": 28,
+      "stars": 20252,
+      "stars_today": 51,
       "language": "Go",
       "link": "https://github.com/apernet/hysteria"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 74816,
-      "stars_today": 3886,
+      "stars": 76224,
+      "stars_today": 3867,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
       "name": "anonfaded/FadCam",
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
-      "stars": 2075,
-      "stars_today": 111,
+      "stars": 2226,
+      "stars_today": 116,
       "language": "Java",
       "link": "https://github.com/anonfaded/FadCam"
     },
     {
       "name": "millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
-      "stars": 8494,
-      "stars_today": 804,
+      "stars": 8789,
+      "stars_today": 788,
       "language": "TypeScript",
       "link": "https://github.com/millionco/react-doctor"
     },
     {
       "name": "rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": 93434,
-      "stars_today": 776,
+      "stars": 93831,
+      "stars_today": 772,
       "language": "Jupyter Notebook",
       "link": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
       "name": "datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-      "stars": 47993,
-      "stars_today": 1248,
+      "stars": 48297,
+      "stars_today": 599,
       "language": "Python",
       "link": "https://github.com/datawhalechina/hello-agents"
     },
     {
       "name": "yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
-      "stars": 11554,
-      "stars_today": 1264,
+      "stars": 11927,
+      "stars_today": 1282,
       "language": "TypeScript",
       "link": "https://github.com/yikart/AiToEarn"
     },
     {
       "name": "HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-      "stars": 16291,
-      "stars_today": 801,
+      "stars": 16644,
+      "stars_today": 229,
       "language": "Python",
       "link": "https://github.com/HKUDS/AI-Trader"
     }
