@@ -1,125 +1,125 @@
 {
-  "updated": "2026-05-14T01:57:06.878907+00:00",
+  "updated": "2026-05-14T13:24:26.910450+00:00",
   "repositories": [
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 55149,
+      "stars_today": 1757,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 5654,
-      "stars_today": 1696,
+      "stars": 7213,
+      "stars_today": 3476,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 7736,
-      "stars_today": 1379,
+      "stars": 8635,
+      "stars_today": 1978,
       "language": "TypeScript",
       "link": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 189607,
-      "stars_today": 1401,
+      "stars": 190652,
+      "stars_today": 1801,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
-      "name": "yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "stars": 12980,
-      "stars_today": 981,
-      "language": "TypeScript",
-      "link": "https://github.com/yikart/AiToEarn"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "stars": 17017,
-      "stars_today": 13,
-      "language": "Go",
-      "link": "https://github.com/influxdata/telegraf"
-    },
-    {
-      "name": "millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "stars": 9303,
-      "stars_today": 604,
-      "language": "TypeScript",
-      "link": "https://github.com/millionco/react-doctor"
-    },
-    {
       "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 21162,
-      "stars_today": 99,
+      "stars": 21523,
+      "stars_today": 637,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 13394,
-      "stars_today": 435,
-      "language": "TypeScript",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 24611,
+      "stars_today": 359,
+      "language": "Python",
+      "link": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": 38733,
+      "stars_today": 59,
+      "language": "Python",
+      "link": "https://github.com/roboflow/supervision"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars": 17113,
+      "stars_today": 211,
+      "language": "Go",
+      "link": "https://github.com/influxdata/telegraf"
     },
     {
       "name": "supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": 4395,
-      "stars_today": 859,
+      "stars": 4993,
+      "stars_today": 1163,
       "language": "Swift",
       "link": "https://github.com/supertone-inc/supertonic"
     },
     {
+      "name": "Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "stars": 141048,
+      "stars_today": 589,
+      "language": "C",
+      "link": "https://github.com/Genymobile/scrcpy"
+    },
+    {
+      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+      "stars": 704,
+      "stars_today": 28,
+      "language": "Python",
+      "link": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
+    },
+    {
       "name": "CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 9571,
-      "stars_today": 1835,
+      "stars": 10309,
+      "stars_today": 1369,
       "language": "Python",
       "link": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
-      "name": "Greedeks/GTweak",
-      "description": "Portable Tool for an Ideal Windows Setup",
-      "stars": 935,
-      "stars_today": 75,
-      "language": "C#",
-      "link": "https://github.com/Greedeks/GTweak"
-    },
-    {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 79126,
-      "stars_today": 3392,
+      "stars": 80956,
+      "stars_today": 2971,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
-      "name": "ArthurBrussee/brush",
-      "description": "3D Reconstruction for all",
-      "stars": 4377,
-      "stars_today": 81,
-      "language": "Rust",
-      "link": "https://github.com/ArthurBrussee/brush"
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 99041,
+      "stars_today": 1240,
+      "language": "Python",
+      "link": "https://github.com/github/spec-kit"
     },
     {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "stars": 27115,
-      "stars_today": 234,
-      "language": "",
-      "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
-    },
-    {
-      "name": "apernet/hysteria",
-      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-      "stars": 20626,
-      "stars_today": 485,
-      "language": "Go",
-      "link": "https://github.com/apernet/hysteria"
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 96258,
+      "stars_today": 1083,
+      "language": "TypeScript",
+      "link": "https://github.com/garrytan/gstack"
     }
   ]
 }

@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-14T01:57:20.441343+00:00",
+  "updated": "2026-05-14T13:24:37.821035+00:00",
   "articles": [
     {
-      "title": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "source": "量子位",
+      "published": "2026-05-14",
+      "summary": "Team，从来不是默认选项",
+      "link": "https://www.qbitai.com/2026/05/417816.html",
+      "category": "AI News"
+    },
+    {
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "source": "量子位",
+      "published": "2026-05-14",
+      "summary": "国产GPU开启生态坐标之争",
+      "link": "https://www.qbitai.com/2026/05/417791.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Robotaxi第一股又涨疯了",
+      "source": "量子位",
+      "published": "2026-05-14",
+      "summary": "卖车收入暴涨116%",
+      "link": "https://www.qbitai.com/2026/05/417754.html",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+      "source": "量子位",
+      "published": "2026-05-14",
+      "summary": "任务成功率最高提升 51%。",
+      "link": "https://www.qbitai.com/2026/05/417753.html",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+      "source": "量子位",
+      "published": "2026-05-14",
+      "summary": "阿里 AI 在模型、云基础设施和应用各层实现加速突破",
+      "link": "https://www.qbitai.com/2026/05/417748.html",
+      "category": "AI News"
+    },
+    {
+      "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
       "source": "InfoQ 中文",
       "published": "2026-05-14",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+      "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+      "source": "InfoQ 中文",
+      "published": "2026-05-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "龙虾犯错，员工背锅？Agent 需要安全、稳定与持续进化的底座",
+      "source": "InfoQ 中文",
+      "published": "2026-05-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/vXakeUv27yAlLgVdCHND?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投",
+      "source": "InfoQ 中文",
+      "published": "2026-05-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践",
+      "source": "InfoQ 中文",
+      "published": "2026-05-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ybKCXkQgfxf4J9GCUuJl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "双胞胎兄弟被裁后删除 96 个政府数据库",
+      "source": "开源中国",
+      "published": "2026-05-14",
+      "summary": "在美国科技行业，被裁员或解雇时，员工的数字凭证往往在其知晓丢工作之前就已经被注销——无法登录公司系统往往是一个人得知自己被裁的第一信号。虽然这不是一种慷慨或人性化的裁员方式，但背后有一个简单的事实支撑：被解雇但仍能访问公司系统的员工是一个严重的安全风险。这一点，正在经历裁员的双胞胎兄弟阿赫特尔（A...",
+      "link": "https://www.oschina.net/news/440699",
+      "category": "AI News"
+    },
+    {
+      "title": "2026 年春招报告：AI 岗位量同比增长 8.7 倍",
+      "source": "开源中国",
+      "published": "2026-05-14",
+      "summary": "脉脉高聘人才智库发布《脉脉2026春招职场洞察报告》显示，2026年1月至4⽉，新经济⾏业新发岗位量同⽐增⻓约22.60%，⼈才供需⽐从2.45降⾄2.09，即从“约2.5个⼈争1个岗位”降⾄“约2个⼈争1个岗位”。此外，2026年1月至4⽉，新发岗位平均⽉薪升⾄49608元，同比增长约12.13%。 在今年春招中，字节跳动依然是招聘大户，其招...",
+      "link": "https://www.oschina.net/news/440668",
+      "category": "AI News"
+    },
+    {
+      "title": "开发者耗时五年耗资五百万美元后，发现创建新编程语言是个错误。",
+      "source": "开源中国",
+      "published": "2026-05-14",
+      "summary": "技术创业者在选择技术路线时往往面临一个根本问题：是站在现有生态的肩膀上渐进演进，还是另起炉灶创造一个全新的系统？后者听起来更有颠覆性，也更容易获得媒体关注。但 Wasp 联合创始人兼 CEO Matija Sosic 近日在一篇博客文章中坦承，团队历时五年、花费超过五百万美元之后，终于得出一个痛苦的结论：创建新的 Web 开...",
+      "link": "https://www.oschina.net/news/440662",
+      "category": "AI News"
+    },
+    {
+      "title": "🔥 AI 员工支持多个会话并行处理：开源无代码 / 低代码平台 NocoBase",
+      "source": "开源中国",
+      "published": "2026-05-14",
+      "summary": "原文链接：https://www.nocobase.com/cn/blog/weekly-updates-20260514 汇总一周产品更新日志，最新发布可以前往我们的博客查看。 NocoBase 目前更新包括的版本更新包括三个分支：main ，next和 develop。 main ：截止目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，可能存在部分...",
+      "link": "https://www.oschina.net/news/440658",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 推出 Claude for Small Business",
+      "source": "开源中国",
+      "published": "2026-05-14",
+      "summary": "小企业长期面临一个结构性问题：资源有限但需求与大型企业并无本质差异——同样需要处理工资规划、月末结算、发票催收、客户跟进、营销策划等工作，却没有足够的专职人员和工具来高效完成这些任务。AI 本应成为解决这个问题的新基础设施，但大多数 AI 工具要么面向大型企业设计，复杂度高、部署成本高；要么功能单一，难...",
+      "link": "https://www.oschina.net/news/440652/claude-for-small-business",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
       "source": "36氪",
       "published": "2026-05-14",
-      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。然而，一个长期困扰家长的痛点是：在赛场上的手动拍摄，不仅让家长无法沉浸式享受比赛的“即时情绪价值”，更由于距离远、目标小、场面复杂，很难精准捕捉到精彩的瞬时影像和运动数据。XbotGo的创业缘起也来源于，创始",
-      "link": "https://36kr.com/p/3807831328300549?f=rss",
+      "summary": "大公司：苏州高新：董事长王平因个人原因辞职36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代表人变更工作。为保障公司经营工作正常开展，由副董事长、总经理沈明先生代行董事长、法定代表人职责。千里智驾CEO辟谣离职传闻5月14日下午，针对离职传闻，千里智驾联席CEO陈奇辟谣称：“人在公司，还在为千里智驾打拼，谢谢",
+      "link": "https://36kr.com/p/3809007831375621?f=rss",
       "category": "AI News"
     },
     {
-      "title": "独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后",
+      "title": "腾讯要懂得花钱",
       "source": "36氪",
       "published": "2026-05-14",
-      "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi）林琳有着外人眼中“光鲜”的履历：中国人民大学本科、耶鲁大学MBA，从一级市场与二级市场投研起步，深耕企业咨询培训近十年。35岁后，这位履历光鲜的女孩跨界切入财富管理赛道，成为一名保险代理人。她很少向外人提起，自己曾经历两次裸辞，一年空窗期里几度陷入迷茫。如今，她用“中年觉醒”形容自己的状态——“做成啥样都可以，允许一切发生”。我们想结合她的职业经历与深度对话，拆解一位高学历职场人在35+阶段的转型逻辑，以及她对“成长”、“价值”，与“职场选择”的思考。以下为访谈实录，部分措辞经《职场Bonus》编辑调整。图源：公众号「职场Bo",
-      "link": "https://36kr.com/p/3807535484886786?f=rss",
+      "summary": "作者 | 黄绎达编辑 | 张帆5月13日，腾讯公布了2026年一季度财报。财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）对收入、成本、开支等科目的影响，同期再调整后的Non-IFRS经营利润为844亿元，同比增长17%。图：腾讯2026Q1财报摘要；资料来源：公司公告，36氪腾讯2026Q1的业绩延续了长期以来的稳健增长态势，同时也整体符合市场预期。纵观近年来腾讯的业绩表现，业绩增长",
+      "link": "https://36kr.com/p/3808999399497221?f=rss",
       "category": "AI News"
     },
     {
-      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
-      "source": "量子位",
-      "published": "2026-05-13",
-      "summary": "5月20日，马上AI起来！",
-      "link": "https://www.qbitai.com/2026/05/417447.html",
-      "category": "AI News"
-    },
-    {
-      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
-      "source": "量子位",
-      "published": "2026-05-13",
-      "summary": "甚至可以直接在手机上做APP",
-      "link": "https://www.qbitai.com/2026/05/417366.html",
-      "category": "AI News"
-    },
-    {
-      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
-      "source": "量子位",
-      "published": "2026-05-13",
-      "summary": "相同参数量超越扩散自回归",
-      "link": "https://www.qbitai.com/2026/05/416978.html",
-      "category": "AI News"
-    },
-    {
-      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
-      "source": "量子位",
-      "published": "2026-05-13",
-      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
-      "link": "https://www.qbitai.com/2026/05/416963.html",
-      "category": "AI News"
-    },
-    {
-      "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
-      "source": "量子位",
-      "published": "2026-05-13",
-      "summary": "谷歌把Gemini塞进了Android",
-      "link": "https://www.qbitai.com/2026/05/416870.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从「自我进化」到「DAA」，百度给出 Agent 时代系统答案",
-      "source": "InfoQ 中文",
-      "published": "2026-05-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版",
-      "source": "InfoQ 中文",
-      "published": "2026-05-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义",
-      "source": "InfoQ 中文",
-      "published": "2026-05-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub 如何保障现代CI/CD系统中智能体工作流的安全",
-      "source": "InfoQ 中文",
-      "published": "2026-05-13",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Discord 借“Linux 桌面之年”发力，其 Linux 客户端迎来多项改进",
-      "source": "开源中国",
-      "published": "2026-05-13",
-      "summary": "Discord近日发布视频，通过借用\"Year of the Linux Desktop\"口号宣布对其Linux客户端进行多项重要改进。这个以游戏玩家为中心的通讯平台，正在加大对Linux桌面生态的投入。 \"Linux桌面元年\"：一个持续数十年的社区梗 \"Year of the Linux Desktop\"（Linux桌面元年）是开源社区流传了二十多年的一个经典梗。自1990年代以来...",
-      "link": "https://www.oschina.net/news/440209",
-      "category": "AI News"
-    },
-    {
-      "title": "CrateDB 6.2.8 发布，分布式 SQL 数据库",
-      "source": "开源中国",
-      "published": "2026-05-13",
-      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小的 CrateDB 集群可以轻松地每秒摄取数万条记录。这些数据可以在整个集群中实时地、临时地、并行地进行查询。 CrateDB 6.2.8 现已正式发布，该版本更新内容如下： 修复了一...",
-      "link": "https://www.oschina.net/news/440184/cratedb-6-2-8-released",
-      "category": "AI News"
-    },
-    {
-      "title": ":fire: SolonCode v2026.5.13 发布：开启“数字员工”新时代",
-      "source": "开源中国",
-      "published": "2026-05-13",
-      "summary": "1、关于 SolonCode（终端编码智能体） SolonCode 是由杭州无耳科技有限公司研发的企业级 终端编码智能体。它不仅是一个命令行工具，更是深度集成的“数字员工”，旨在通过全中文指令集，实现开发与运维任务的自动化与智能化。 核心差异化：SolonCode vs Claude Code 维度 SolonCode Claude Code 语言环境 全中文原生支持...",
-      "link": "https://www.oschina.net/news/440166/soloncode-2026-5-13",
-      "category": "AI News"
-    },
-    {
-      "title": "编程即理论构建：Peter Naur 的经典论文为何值得一读",
-      "source": "开源中国",
-      "published": "2026-05-13",
-      "summary": "最近读到一篇来自 CodeUtopia 的博客推荐，观点颇为深刻：编程本质上是一种\"理论构建\"活动，而非单纯的代码编写。这篇推荐指向了 Peter Naur 的经典论文《Programming as Theory Building》。 什么是\"理论构建\" Naur 在论文中提出了一个核心概念：程序员的真正工作不是在写代码，而是在头脑中构建关于程序的\"理论\"。这个...",
-      "link": "https://www.oschina.net/news/440163",
-      "category": "AI News"
-    },
-    {
-      "title": "Visual Studio Code 1.120 发布",
-      "source": "开源中国",
-      "published": "2026-05-13",
-      "summary": "Visual Studio Code 1.120 版本现已发布。此版本将“Agents”窗口升级至稳定版，改进了 BYOK 模型的可见性和可空性，并新增了 Markdown 使用体验优化和 agent 安全功能。以下是此版本的亮点： Agents window in Stable：使用新的 Agents 窗口，在所有项目中以 agents-first 的方式进行工作。 BYOK 改进：跟踪和优化 toke...",
-      "link": "https://www.oschina.net/news/440141/vs-code-1-120-released",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
+      "title": "腾讯，把AI塞入一切",
       "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "今日热点导览腾讯刘炽平：腾讯没有大裁员计划韩国政府称将支持三星与工会对话解决纠纷，以避免罢工中美经贸磋商在韩国开始举行宇树科技已注册多款机器人商标TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GOTOP 3 大新闻林俊旸创业，新公司估值约20亿美金36氪独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。贾跃亭造车12年未果，宣布转战机器人日前，法拉第未来创始人贾跃亭在社交平台发布的视频中表示：“我要宣布一个公司重大的战",
-      "link": "https://36kr.com/p/3808362853834502?f=rss",
+      "published": "2026-05-14",
+      "summary": "文｜王毓婵2026年Q1，腾讯的一切都与AI相关。一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。财报显示，若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）的收入、成本及开支影响，Non-IFRS经营利润本该有17%的同比增长。为支持模型迭代和AI基础设施建设，腾讯本季研发投入225.4亿元，同比增长19%；资本开支319.4亿元，同比增长16%。而且，接下来在AI上的投入还会稳步扩张。“此前我们已经指引过，今年资",
+      "link": "https://36kr.com/p/3808710182034944?f=rss",
       "category": "AI News"
     },
     {
-      "title": "2026 AI最佳场景渗透案例重磅揭晓",
+      "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
       "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。“渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企业在至少一个职能中实现了常态化使用，这一比例显著领跑全球。更关键的是，45%的受访企业表示已实现AI的规模化或全面部署，远超全球38%的平均线。趋势和数据的背后，是行业正在形成的共识：AI的叙事主线已从“技术竞赛”切换到“场景为王”。评价的标尺也随之回归",
-      "link": "https://36kr.com/p/3807623172235011?f=rss",
+      "published": "2026-05-14",
+      "summary": "文 | 阿至当低空经济从政策概念走向产业化落地，一场关于“动力心脏”的落地卡位战也在悄然展开。36氪获悉，航空电推进系统研制商羽嘉动力科技（常州）有限公司（以下简称“羽嘉动力”）近日宣布连续完成天使+、天使++两轮融资，累计金额数千万元，投资方包括益华投资、元禾控股、常高新、常金控，所筹资金将主要用于技术研发、人才队伍补充和产线扩建。加上去年7月完成的天使轮，羽嘉动力在不到一年的时间内完成了近亿元融资。羽嘉动力成立于2024年2月，致力于为中大型电动航空器和特种装备提供轻量化、高可靠、性能卓越的“中国心”。公司创始人刘业本硕博均就读于南京航空航天大学电气工程专业，公司核心创始团队成员多来自国内",
+      "link": "https://36kr.com/p/3808772503199489?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行",
+      "title": "03年创始人造火箭，40万做出原型发动机，选了一条没人走过的路｜产业专访",
       "source": "36氪",
-      "published": "2026-05-13",
-      "summary": "大公司：腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。腾讯刘炽平：腾讯没有大裁员计划在腾讯股东大会上，对于腾讯是否会大裁员的问题，腾讯总裁刘炽平回应表示，肯定没有大裁员",
-      "link": "https://36kr.com/p/3807540422942214?f=rss",
+      "published": "2026-05-14",
+      "summary": "文 | 阿至执宇航天创始人张子瀚看起来不像一个还在读大学的本科生。他说话语速略快，不苟言笑，气质有些老练，习惯用三段式推演的方式来回答问题：先给结论，再拆解前提和路线，最后补充例外或风险。用张子瀚自己的话说，他是一个“几乎百分百理性的人，没有任何感性因素去参与我的任何决策”。这种气质和航天领域有着天然的契合，极度理性、高度自省、目标驱动。但作为闯入这个赛道的异类创业者，他身上又有着天然的矛盾点——过于年轻、没有“背景”、不拘传统。小学二年级参加航模国赛获一等奖、初一在自己的实验室用化学药剂合成固体燃料、高二通过自学自考拿到5门全A提前完成学业，大二在深圳的一间共享办公室里写完执宇航天的创业计划",
+      "link": "https://36kr.com/p/3808769298767369?f=rss",
       "category": "AI News"
     }
   ]
