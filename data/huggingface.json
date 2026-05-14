@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-13T14:00:41.913615+00:00",
+  "updated": "2026-05-14T01:57:02.506805+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
       "downloads": 18775733,
-      "likes": 1240,
+      "likes": 1241,
       "tags": [
         "transformers",
         "safetensors",
@@ -86,7 +86,7 @@
       "name": "Qwen3-4B-Instruct-2507",
       "author": "Qwen",
       "downloads": 10935899,
-      "likes": 840,
+      "likes": 841,
       "tags": [
         "transformers",
         "safetensors",
