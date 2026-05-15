@@ -1,34 +1,18 @@
 {
-  "updated": "2026-05-15T00:20:11.593226+00:00",
+  "updated": "2026-05-15T12:31:15.519437+00:00",
   "repositories": [
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 55960,
-      "stars_today": 1715,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 7736,
+      "stars": 8428,
       "stars_today": 3329,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 8957,
-      "stars_today": 1879,
-      "language": "TypeScript",
-      "link": "https://github.com/rohitg00/agentmemory"
-    },
-    {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 191158,
+      "stars": 192194,
       "stars_today": 1780,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
@@ -36,90 +20,82 @@
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 21770,
+      "stars": 22132,
       "stars_today": 654,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 24806,
-      "stars_today": 363,
-      "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "name": "roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "stars": 38872,
-      "stars_today": 83,
-      "language": "Python",
-      "link": "https://github.com/roboflow/supervision"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "stars": 17216,
-      "stars_today": 215,
-      "language": "Go",
-      "link": "https://github.com/influxdata/telegraf"
-    },
-    {
       "name": "supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": 5313,
+      "stars": 5665,
       "stars_today": 1128,
       "language": "Swift",
       "link": "https://github.com/supertone-inc/supertonic"
     },
     {
-      "name": "Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "stars": 141325,
-      "stars_today": 851,
-      "language": "C",
-      "link": "https://github.com/Genymobile/scrcpy"
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 56917,
+      "stars_today": 1715,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars": 17313,
+      "stars_today": 215,
+      "language": "Go",
+      "link": "https://github.com/influxdata/telegraf"
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 134670,
+      "stars_today": 625,
+      "language": "Python",
+      "link": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": 20751,
+      "stars_today": 68,
+      "language": "TypeScript",
+      "link": "https://github.com/czlonkowski/n8n-mcp"
     },
     {
       "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
       "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "stars": 828,
+      "stars": 1000,
       "stars_today": 62,
       "language": "Python",
       "link": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
     },
     {
-      "name": "CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 10851,
-      "stars_today": 1354,
-      "language": "Python",
-      "link": "https://github.com/CloakHQ/CloakBrowser"
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": 90444,
+      "stars_today": 289,
+      "language": "Rust",
+      "link": "https://github.com/oven-sh/bun"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 82223,
+      "stars": 83943,
       "stars_today": 2987,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
-      "name": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 99469,
-      "stars_today": 1232,
+      "name": "joeseesun/qiaomu-anything-to-notebooklm",
+      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "stars": 2407,
+      "stars_today": 465,
       "language": "Python",
-      "link": "https://github.com/github/spec-kit"
-    },
-    {
-      "name": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 96728,
-      "stars_today": 915,
-      "language": "TypeScript",
-      "link": "https://github.com/garrytan/gstack"
+      "link": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
     }
   ]
 }
