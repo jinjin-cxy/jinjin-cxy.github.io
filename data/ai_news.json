@@ -1,44 +1,92 @@
 {
-  "updated": "2026-05-16T00:18:48.238738+00:00",
+  "updated": "2026-05-16T12:15:06.062280+00:00",
   "articles": [
     {
-      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+      "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
       "source": "量子位",
-      "published": "2026-05-15",
+      "published": "2026-05-16",
+      "summary": "奥特曼的20亿持股版图也曝光了",
+      "link": "https://www.qbitai.com/2026/05/418594.html",
+      "category": "AI News"
+    },
+    {
+      "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+      "source": "量子位",
+      "published": "2026-05-16",
+      "summary": "懂我的还得是Human",
+      "link": "https://www.qbitai.com/2026/05/418571.html",
+      "category": "AI News"
+    },
+    {
+      "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+      "source": "量子位",
+      "published": "2026-05-16",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/05/418135.html",
+      "link": "https://www.qbitai.com/2026/05/418518.html",
       "category": "AI News"
     },
     {
-      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
       "source": "量子位",
-      "published": "2026-05-15",
-      "summary": "说明需求，Qoder就能帮你实现",
-      "link": "https://www.qbitai.com/2026/05/418035.html",
+      "published": "2026-05-16",
+      "summary": "阿里健康发布「氢离子」",
+      "link": "https://www.qbitai.com/2026/05/418491.html",
       "category": "AI News"
     },
     {
-      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
       "source": "量子位",
-      "published": "2026-05-15",
-      "summary": "该平台以 AI Agent 为核心",
-      "link": "https://www.qbitai.com/2026/05/418140.html",
+      "published": "2026-05-16",
+      "summary": "共享蔚来超8800座充换电站",
+      "link": "https://www.qbitai.com/2026/05/418150.html",
       "category": "AI News"
     },
     {
-      "title": "手机的智能体AI，正在因为天玑全面跃升",
-      "source": "量子位",
-      "published": "2026-05-15",
-      "summary": "联发科正在成为智能体化体验落地的全栈赋能者",
-      "link": "https://www.qbitai.com/2026/05/417968.html",
+      "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
+      "source": "InfoQ 中文",
+      "published": "2026-05-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
-      "source": "量子位",
-      "published": "2026-05-15",
-      "summary": "Windows、macOS 和 Linux系统用户均可下载使用。",
-      "link": "https://www.qbitai.com/2026/05/418027.html",
+      "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-05-16",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "璀璨之星 xbatis，横扫 java 界的 ORM 来了",
+      "source": "开源中国",
+      "published": "2026-05-16",
+      "summary": "做Java后端的人，ORM框架选型基本逃不出这几个： MyBatis-Plus，JPA，或者干脆手写SQL。 JPA听起来很美好——全自动Mapping，实体写好就不用管了。但真到复杂查询的时候，JPQL写起来跟手写SQL差不多，还受限于ORM映射模型，调试困难，性能调优更是黑盒。MyBatis生态这么多年依然最活跃，不是没有原因的。 最近有个框架悄...",
+      "link": "https://www.oschina.net/news/441324",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "source": "36氪",
+      "published": "2026-05-16",
+      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。不过，该市场集中度较高，少数头部品牌（如韶音）占",
+      "link": "https://36kr.com/p/3810520138243593?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+      "source": "36氪",
+      "published": "2026-05-16",
+      "summary": "今日热点导览OpenAI正考虑采取法律手段起诉苹果公司三星电子开发下一代HBM封装技术，或用于智能手机等移动设备海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群世界银行首席经济学家英德米特・吉尔将于8月卸任退休“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示TOP 3大新闻央视确认获得2026年世界杯版权，费用为6000万美元5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国",
+      "link": "https://36kr.com/p/3811265856626440?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "source": "OpenAI Blog",
+      "published": "2026-05-16",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "category": "AI News"
     },
     {
@@ -66,19 +114,11 @@
       "category": "AI News"
     },
     {
-      "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
-      "source": "InfoQ 中文",
+      "title": "qData 数据中台社区开源版 v1.4.0 发布：元数据管理核心模块正式上线",
+      "source": "开源中国",
       "published": "2026-05-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
+      "summary": "近日，qData 数据中台社区开源版 v1.4.0 正式发布。 qData 数据中台是一套面向企业数据治理与数据研发场景的开源数据中台，围绕 ETL 数据集成、数据开发、数据建模、元数据管理、数据质量、数据资产、API 数据服务与 AI 智能问数 等核心能力，支持 MySQL、DM8、Oracle、SQL Server、Kingbase8、Doris 等常用数据库接入，...",
+      "link": "https://www.oschina.net/news/441265",
       "category": "AI News"
     },
     {
@@ -106,22 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "Mozilla 利用 Claude Mythos Preview 在 Firefox 150 中发现 271 个安全漏洞",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "Mozilla 安全团队近日宣布，通过使用 Claude Mythos Preview 及其他 AI 模型，他们已在 Firefox 150 中识别并修复了创纪录数量的潜在安全漏洞。 数据显示，团队共发现 271 个安全漏洞，其中 180 个被列为 sec-high 级别，80 个为 sec-moderate，11 个为 sec-low。这些漏洞包括复杂的沙箱逃逸、使用后释放（use-after-fre...",
-      "link": "https://www.oschina.net/news/441146",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 在大型代码库中的工作原理：最佳实践与入门指南",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "Claude Code 正在生产环境中运行，覆盖数百万行代码的单体仓库、数十年的遗留系统、跨越数十个仓库的分布式架构，以及拥有数千名开发者的组织。这些环境带来了小型简单代码库不会遇到的挑战——无论是每个子目录中不同的构建命令，还是分布在没有共享根目录的文件夹中的遗留代码。 Anthropic 观察到最成功的 Claude Cod...",
-      "link": "https://www.oschina.net/news/441135",
-      "category": "AI News"
-    },
-    {
       "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
       "source": "36氪",
       "published": "2026-05-15",
@@ -135,30 +159,6 @@
       "published": "2026-05-15",
       "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。官方图片锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态",
       "link": "https://36kr.com/p/3810607581634056?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
-      "source": "36氪",
-      "published": "2026-05-15",
-      "summary": "一场关于“涌现”的未来实验大会。",
-      "link": "https://36kr.com/p/3810380205989632?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-      "source": "36氪",
-      "published": "2026-05-15",
-      "summary": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。“20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前置决策参谋”。对各大品牌而言，一个全新的战场已经悄然形成。当消费者不再直接搜索品牌名称，而是向AI提出一个开放式需求时，你的品牌能否被提及？",
-      "link": "https://36kr.com/p/3810308239465986?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
-      "source": "36氪",
-      "published": "2026-05-15",
-      "summary": "36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型，还有一款轿跑猎装版。其中部分车型计划于今年发布。除长安、北汽之外，传统高端品牌奥迪、安徽地方国企奇瑞等车企，也在与千里科技商谈辅助驾驶领域的合作。千里科技与奥迪的合作较为深入。今年北京车展上，千里科技发布了与北汽合作的汽车",
-      "link": "https://36kr.com/p/3810091479293449?f=rss",
       "category": "AI News"
     }
   ]

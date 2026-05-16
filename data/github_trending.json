@@ -1,101 +1,77 @@
 {
-  "updated": "2026-05-16T00:18:37.562864+00:00",
+  "updated": "2026-05-16T12:14:55.505533+00:00",
   "repositories": [
-    {
-      "name": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 9020,
-      "stars_today": 1271,
-      "language": "Rust",
-      "link": "https://github.com/tinyhumansai/openhuman"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 192797,
-      "stars_today": 1648,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 22436,
-      "stars_today": 646,
-      "language": "Python",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
-    },
-    {
-      "name": "supertone-inc/supertonic",
-      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": 6028,
-      "stars_today": 719,
-      "language": "Swift",
-      "link": "https://github.com/supertone-inc/supertonic"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 57487,
-      "stars_today": 1859,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
-      "name": "influxdata/telegraf",
-      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-      "stars": 17403,
-      "stars_today": 212,
-      "language": "Go",
-      "link": "https://github.com/influxdata/telegraf"
-    },
-    {
-      "name": "anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "stars": 135109,
-      "stars_today": 689,
-      "language": "Python",
-      "link": "https://github.com/anthropics/skills"
-    },
-    {
-      "name": "czlonkowski/n8n-mcp",
-      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-      "stars": 20889,
-      "stars_today": 68,
-      "language": "TypeScript",
-      "link": "https://github.com/czlonkowski/n8n-mcp"
-    },
-    {
-      "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "stars": 1145,
-      "stars_today": 308,
-      "language": "Python",
-      "link": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization"
-    },
     {
       "name": "oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 90609,
+      "stars": 90785,
       "stars_today": 448,
       "language": "Rust",
       "link": "https://github.com/oven-sh/bun"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 84931,
-      "stars_today": 3132,
-      "language": "Shell",
-      "link": "https://github.com/mattpocock/skills"
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 22791,
+      "stars_today": 646,
+      "language": "Python",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "joeseesun/qiaomu-anything-to-notebooklm",
-      "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
-      "stars": 2684,
-      "stars_today": 438,
-      "language": "Python",
-      "link": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 193439,
+      "stars_today": 1648,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars": 14074,
+      "stars_today": 356,
+      "language": "JavaScript",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars": 6393,
+      "stars_today": 719,
+      "language": "Swift",
+      "link": "https://github.com/supertone-inc/supertonic"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars": 9946,
+      "stars_today": 1271,
+      "language": "Rust",
+      "link": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 57884,
+      "stars_today": 1859,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "description": "Why is this running?",
+      "stars": 16538,
+      "stars_today": 484,
+      "language": "Go",
+      "link": "https://github.com/pranshuparmar/witr"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "stars": 2108,
+      "stars_today": 397,
+      "language": "TypeScript",
+      "link": "https://github.com/colbymchenry/codegraph"
     }
   ]
 }
