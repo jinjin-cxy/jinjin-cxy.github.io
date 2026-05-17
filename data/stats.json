@@ -1,9 +1,9 @@
 {
-  "updated": "2026-05-17T00:19:12.449734+00:00",
+  "updated": "2026-05-17T12:14:37.778640+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 8,
+    "github_trending": 15,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -52,23 +52,23 @@
   ],
   "top_languages": [
     {
-      "language": "Rust",
-      "count": 3
-    },
-    {
       "language": "Python",
-      "count": 1
+      "count": 5
     },
     {
-      "language": "Shell",
-      "count": 1
+      "language": "TypeScript",
+      "count": 4
+    },
+    {
+      "language": "Rust",
+      "count": 2
     },
     {
       "language": "JavaScript",
-      "count": 1
+      "count": 2
     },
     {
-      "language": "Swift",
+      "language": "Jupyter Notebook",
       "count": 1
     }
   ]

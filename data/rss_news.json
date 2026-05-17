@@ -1,44 +1,108 @@
 {
-  "updated": "2026-05-17T00:19:12.447452+00:00",
+  "updated": "2026-05-17T12:14:37.775239+00:00",
   "articles": [
     {
-      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
       "source": "量子位",
-      "published": "2026-05-16",
-      "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。",
-      "link": "https://www.qbitai.com/2026/05/418620.html",
+      "published": "2026-05-17",
+      "summary": "全球规模最大、参与人数最多的大学生超算赛事",
+      "link": "https://www.qbitai.com/2026/05/418964.html",
       "category": "AI News"
     },
     {
-      "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
       "source": "量子位",
-      "published": "2026-05-16",
-      "summary": "奥特曼的20亿持股版图也曝光了",
-      "link": "https://www.qbitai.com/2026/05/418594.html",
-      "category": "AI News"
-    },
-    {
-      "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
-      "source": "量子位",
-      "published": "2026-05-16",
-      "summary": "懂我的还得是Human",
-      "link": "https://www.qbitai.com/2026/05/418571.html",
-      "category": "AI News"
-    },
-    {
-      "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
-      "source": "量子位",
-      "published": "2026-05-16",
+      "published": "2026-05-17",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/05/418518.html",
+      "link": "https://www.qbitai.com/2026/05/418836.html",
       "category": "AI News"
     },
     {
-      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
       "source": "量子位",
-      "published": "2026-05-16",
-      "summary": "阿里健康发布「氢离子」",
-      "link": "https://www.qbitai.com/2026/05/418491.html",
+      "published": "2026-05-17",
+      "summary": "“但复杂需求还得Claude”",
+      "link": "https://www.qbitai.com/2026/05/418822.html",
+      "category": "AI News"
+    },
+    {
+      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+      "source": "量子位",
+      "published": "2026-05-17",
+      "summary": "先把SFT挖的坑填了！",
+      "link": "https://www.qbitai.com/2026/05/418814.html",
+      "category": "AI News"
+    },
+    {
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "source": "量子位",
+      "published": "2026-05-17",
+      "summary": "费用参考也很透明",
+      "link": "https://www.qbitai.com/2026/05/418737.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-05-17",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: VTJ.PRO：不锁代码、可完全掌控的 AI 低代码引擎",
+      "source": "开源中国",
+      "published": "2026-05-17",
+      "summary": "一、我们为什么要做 VTJ.PRO？ 低代码赛道火热多年，但市面上绝大多数低代码产品，都逃不开同一个核心问题： 用「开发效率」换取「代码控制权」。 看似拖拽就能快速搭建页面，实则暗藏诸多痛点，也是无数开发者的通病： 拖拽生成的页面，代码杂乱无章、无法直接阅读 项目一旦体量变大，完全绑定平台，无法独立运行 想要二...",
+      "link": "https://www.oschina.net/news/441812",
+      "category": "AI News"
+    },
+    {
+      "title": "上海·徐汇量子黑客松大赛2026开幕",
+      "source": "开源中国",
+      "published": "2026-05-17",
+      "summary": "2026 年 5 月 16 日，「上海·徐汇 量子黑客松大赛 2026」在上海徐汇西岸正式开幕。本次大赛由徐汇区科学技术委员会、上海未来产业基金、上海徐汇资本投资有限公司联合主办，上海汇资投资有限公司、开源中国共同承办，上海科学院、中器无量、太一量生、华翊量子、仪电集团、沐曦股份、商汤科技、浦发银行上海分行协办，并...",
+      "link": "https://www.oschina.net/news/441707",
+      "category": "AI News"
+    },
+    {
+      "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
+      "source": "36氪",
+      "published": "2026-05-17",
+      "summary": "从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。过去两年，开放式耳机在中国蓝牙耳机市场的整体销售额份额已率先突破30%。这不仅是一次产品形态的更迭，更是一场由韶音引领、正在席卷全球的“品类级替代”风暴。一、 宏观战略与行业洞察：以“",
+      "link": "https://36kr.com/p/3813305543794440?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "又诞生一位千亿女富豪",
+      "source": "36氪",
+      "published": "2026-05-17",
+      "summary": "示意图自4月初以来，立讯精密股价上涨超过55%。5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，在汽车领域的又一关键资本动作。郭台铭门 徒立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只单纯地给创始人王来春贴上“打工妹”的",
+      "link": "https://36kr.com/p/3813040859258373?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+      "source": "36氪",
+      "published": "2026-05-17",
+      "summary": "Peter Steinberger编辑：所罗门【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。别人晒工资条，他晒账单——一个月130万美元！也就是将近900万人民币/每月。直接把网友们看傻了。OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。Peter Steinberger但截图上的数字，属实不淡定：30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。你没看错，是130万美元。也不是哪家大厂的季度AI预算——一个3个人的小队",
+      "link": "https://36kr.com/p/3812925591887368?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "28亿，肯德基也要被卖了？",
+      "source": "36氪",
+      "published": "2026-05-17",
+      "summary": "肯德基作者 | 王涛编辑 | 吾人来源 | 融中财经路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨品牌PHD，加起来大概有1000家门店、2.5万名员工，这笔交易的金额差不多有4亿美元（折合人民币28亿左右）；非约束性报价的截止时间就在本周，而参与竞购的买方阵容也挺有意思，有百胜中国、凯雷集团、台湾统一企业，还有好几家私募基金。怡和集团是一家19世纪就已经在中国开展业务的英资老牌洋行，业务范围特别广，从地产、零售、酒店一直到运输，几乎什么都做，2009年的时候，怡和从百胜",
+      "link": "https://36kr.com/p/3812816225459713?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "source": "36氪",
+      "published": "2026-05-17",
+      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI用Claude Code写论文的一整套流水线，有人打包开源出来了。完全戳中了学生党的痛点，github星标直达6.4k。academic-research-skills项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。只需两行命令安装，直接一条龙串起整套学术研究流水线。academic-research-skills只能说，我读研的时候怎么没碰到这种好东西呢…示意图4个skill，跑通整套科研流程ARS的核心架构由4个sk",
+      "link": "https://36kr.com/p/3812800346742274?f=rss",
       "category": "AI News"
     },
     {
@@ -58,27 +122,19 @@
       "category": "AI News"
     },
     {
+      "title": "Furion v4.9.8.72 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "source": "开源中国",
+      "published": "2026-05-16",
+      "summary": "Furion v4.9.8.72 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新特性 [新增] HTTP 远程请求支持 双重序列化 JSON 的响应内容处理 4.9.8.66 ⏱️2026.05.15 54466a9 [新增] 定时任务看板复制 JSON 和格式化 JSON 功能 4.9.8.65 ⏱️2026....",
+      "link": "https://www.oschina.net/news/441673",
+      "category": "AI News"
+    },
+    {
       "title": "璀璨之星 xbatis，横扫 java 界的 ORM 来了",
       "source": "开源中国",
       "published": "2026-05-16",
       "summary": "做Java后端的人，ORM框架选型基本逃不出这几个： MyBatis-Plus，JPA，或者干脆手写SQL。 JPA听起来很美好——全自动Mapping，实体写好就不用管了。但真到复杂查询的时候，JPQL写起来跟手写SQL差不多，还受限于ORM映射模型，调试困难，性能调优更是黑盒。MyBatis生态这么多年依然最活跃，不是没有原因的。 最近有个框架悄...",
       "link": "https://www.oschina.net/news/441324",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "source": "36氪",
-      "published": "2026-05-16",
-      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。不过，该市场集中度较高，少数头部品牌（如韶音）占",
-      "link": "https://36kr.com/p/3810520138243593?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "source": "36氪",
-      "published": "2026-05-16",
-      "summary": "今日热点导览OpenAI正考虑采取法律手段起诉苹果公司三星电子开发下一代HBM封装技术，或用于智能手机等移动设备海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群世界银行首席经济学家英德米特・吉尔将于8月卸任退休“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示TOP 3大新闻央视确认获得2026年世界杯版权，费用为6000万美元5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国",
-      "link": "https://36kr.com/p/3811265856626440?f=rss",
       "category": "AI News"
     },
     {
@@ -103,62 +159,6 @@
       "published": "2026-05-15",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "百度想明白了：旧供给到达极限了",
-      "source": "InfoQ 中文",
-      "published": "2026-05-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "qData 数据中台社区开源版 v1.4.0 发布：元数据管理核心模块正式上线",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "近日，qData 数据中台社区开源版 v1.4.0 正式发布。 qData 数据中台是一套面向企业数据治理与数据研发场景的开源数据中台，围绕 ETL 数据集成、数据开发、数据建模、元数据管理、数据质量、数据资产、API 数据服务与 AI 智能问数 等核心能力，支持 MySQL、DM8、Oracle、SQL Server、Kingbase8、Doris 等常用数据库接入，...",
-      "link": "https://www.oschina.net/news/441265",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 发布 Claude for Legal：面向法律行业的 AI 助手套件",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "Anthropic 正式发布 Claude for Legal，这是一个面向法律工作流程的 AI 助手参考实现。该项目涵盖了我们最常见的法律工作流程——企业内部法务、隐私、产品、公司、劳动法、诉讼、监管、AI 治理、知识产权，以及法学院诊所和学生等学习场景。 Claude for Legal 提供两种使用方式：作为 Claude Cowork 或 Claude Code 插件...",
-      "link": "https://www.oschina.net/news/441163",
-      "category": "AI News"
-    },
-    {
-      "title": "RTX 5090 + M4 MacBook Air：eGPU 玩游戏实测结果",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "开发者 ScottJG 近日分享了他将 NVIDIA RTX 5090 桌面显卡通过 Thunderbolt 连接到 M4 MacBook Air 的实验项目。这位工程师进行了大量底层工程工作，包括在 macOS 上实现 PCI passthrough、BAR 映射修复、为 Apple Silicon DART 限制设计自定义 DMA 解决方案，以及通过 kprobes 打补丁 NVIDIA 驱动等。 测试结果揭示了几...",
-      "link": "https://www.oschina.net/news/441159",
-      "category": "AI News"
-    },
-    {
-      "title": "恶意软件组织 TeamPCP 在 GitHub 开源 Shai-Hulud 蠕虫",
-      "source": "开源中国",
-      "published": "2026-05-15",
-      "summary": "据 The Register 当地时间 13 日报道，知名恶意软件组织 TeamPCP 似乎已在 GitHub 上开源了其 Shai-Hulud 蠕虫。安全研究机构 Ox 于周二在 GitHub 上发现了两个代码仓库，其中包含如下描述： 是氛围编码吗？是的。它有效吗？让结果说话。。自行更改密钥和 C2。致敬 - TeamPCP The Register 在发布报道前几小时查看了这两...",
-      "link": "https://www.oschina.net/news/441151",
-      "category": "AI News"
-    },
-    {
-      "title": "理想出牌：全新L9上市，45.98万元起｜最前线",
-      "source": "36氪",
-      "published": "2026-05-15",
-      "summary": "理想汽车CEO 李想能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，用换代产品拿回增程领先的位置。全新一代理想L9就是第一枪。上市前夕，我们体验了全新理想L9 livis，一个比较直观的感觉是，无论是外观和内饰的质感，车辆的性能相较于上一代产品都有了质的提升。外观方面，理想L9 livis首",
-      "link": "https://36kr.com/p/3810562142445058?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
-      "source": "36氪",
-      "published": "2026-05-15",
-      "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。官方图片锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态",
-      "link": "https://36kr.com/p/3810607581634056?f=rss",
       "category": "AI News"
     }
   ]
