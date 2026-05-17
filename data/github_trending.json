@@ -1,75 +1,67 @@
 {
-  "updated": "2026-05-16T12:14:55.505533+00:00",
+  "updated": "2026-05-17T00:19:01.645813+00:00",
   "repositories": [
     {
       "name": "oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 90785,
-      "stars_today": 448,
+      "stars": 91204,
+      "stars_today": 397,
       "language": "Rust",
       "link": "https://github.com/oven-sh/bun"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 22791,
-      "stars_today": 646,
+      "stars": 23126,
+      "stars_today": 673,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 193439,
-      "stars_today": 1648,
+      "stars": 193992,
+      "stars_today": 1305,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
       "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "stars": 14074,
-      "stars_today": 356,
+      "stars": 14419,
+      "stars_today": 317,
       "language": "JavaScript",
       "link": "https://github.com/Anil-matcha/Open-Generative-AI"
     },
     {
       "name": "supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-      "stars": 6393,
-      "stars_today": 719,
+      "stars": 6865,
+      "stars_today": 749,
       "language": "Swift",
       "link": "https://github.com/supertone-inc/supertonic"
     },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 9946,
-      "stars_today": 1271,
+      "stars": 10699,
+      "stars_today": 1549,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 57884,
-      "stars_today": 1859,
+      "stars": 58336,
+      "stars_today": 1010,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
-      "name": "pranshuparmar/witr",
-      "description": "Why is this running?",
-      "stars": 16538,
-      "stars_today": 484,
-      "language": "Go",
-      "link": "https://github.com/pranshuparmar/witr"
-    },
-    {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "stars": 2108,
-      "stars_today": 397,
+      "stars": 2511,
+      "stars_today": 416,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     }
