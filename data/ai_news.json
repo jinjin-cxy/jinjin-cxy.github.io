@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-18T00:20:21.125589+00:00",
+  "updated": "2026-05-18T13:03:58.017800+00:00",
   "articles": [
     {
-      "title": "一只机器狗，把英伟达的算力王座拱翻了",
+      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
       "source": "量子位",
-      "published": "2026-05-17",
-      "summary": "人造劳动力，离普通家庭还有多远？",
-      "link": "https://www.qbitai.com/2026/05/418969.html",
+      "published": "2026-05-18",
+      "summary": "底层范式变了",
+      "link": "https://www.qbitai.com/2026/05/419515.html",
       "category": "AI News"
     },
     {
-      "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+      "title": "华为“养”出半个具身智能创业圈",
       "source": "量子位",
-      "published": "2026-05-17",
-      "summary": "全球规模最大、参与人数最多的大学生超算赛事",
-      "link": "https://www.qbitai.com/2026/05/418964.html",
+      "published": "2026-05-18",
+      "summary": "正在经历一次罕见的人才外溢。",
+      "link": "https://www.qbitai.com/2026/05/419414.html",
+      "category": "AI News"
+    },
+    {
+      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+      "source": "量子位",
+      "published": "2026-05-18",
+      "summary": "五项维度全部排名第一",
+      "link": "https://www.qbitai.com/2026/05/419396.html",
+      "category": "AI News"
+    },
+    {
+      "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+      "source": "量子位",
+      "published": "2026-05-18",
+      "summary": "超越GPT-4o",
+      "link": "https://www.qbitai.com/2026/05/419386.html",
+      "category": "AI News"
+    },
+    {
+      "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+      "source": "量子位",
+      "published": "2026-05-18",
+      "summary": "隐私和性能我全都要",
+      "link": "https://www.qbitai.com/2026/05/419373.html",
+      "category": "AI News"
+    },
+    {
+      "title": "时序存储：影响成本与性能的设计选择",
+      "source": "InfoQ 中文",
+      "published": "2026-05-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/CADK5ijCqtBsfj2JLMOK?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+      "source": "InfoQ 中文",
+      "published": "2026-05-18",
+      "summary": "提交你的问题，我们替你去问！点击查看原文>",
+      "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Cangjie：一门新的开源编译型语言，原生支持效应处理器和代数数据类型",
+      "source": "InfoQ 中文",
+      "published": "2026-05-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qoFJdpJ1GqkUBzg7yBQI?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-05-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
+      "source": "InfoQ 中文",
+      "published": "2026-05-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "知名 YouTuber 宣布弃用 Bambu Lab，指责该公司多次违反开源许可证",
+      "source": "开源中国",
+      "published": "2026-05-18",
+      "summary": "知名 YouTuber Jeff Geerling 近日宣布，他已彻底弃用 Bambu Lab 的 3D 打印机，并指责该公司多次违反开源许可证，引发开源社区广泛关注。 Jeff Geerling 是树莓派、3D 打印等领域的知名 YouTuber，拥有超过百万订阅者。他在 2025 年就曾表示\"可能不会再推荐任何 Bambu Lab 打印机\"，但最新事件让他彻底放弃了这一品牌。...",
+      "link": "https://www.oschina.net/news/442353",
+      "category": "AI News"
+    },
+    {
+      "title": "20 年原生 iOS 开发者的反思：为什么复杂文本处理最终还是要靠 Electron？",
+      "source": "开源中国",
+      "published": "2026-05-18",
+      "summary": "一位拥有近二十年原生 macOS 和 iOS 开发经验的开发者近日分享了他的最新感悟，揭示了一个看似违背直觉的事实：在复杂文本处理场景下，Electron 等 Web 技术反而比 Apple 原生框架更加可靠。 Artem Loenko 在其博客中记录了这段颇为曲折的技术探索之旅。他原本打算在一个纯 Swift / SwiftUI 应用中实现一个支持 Markdown...",
+      "link": "https://www.oschina.net/news/442343",
+      "category": "AI News"
+    },
+    {
+      "title": "你对 LLM 的评估体系会失效，而你甚至不会察觉",
+      "source": "开源中国",
+      "published": "2026-05-18",
+      "summary": "刚从 Deepmind 离职的工程师 Lun Wang 发表关于大模型性能评估的文章：《你对 LLM 的评估体系会失效，而你甚至不会察觉》。 我们擅长评估已经存在的模型，却极不擅长评估即将构建的模型——尤其是当模型跨越到新的能力阶段时。大多数基准测试、安全评估和红队演练协议都隐含假设：下一代模型是当前模型的更强版本。但如果...",
+      "link": "https://www.oschina.net/news/442336",
+      "category": "AI News"
+    },
+    {
+      "title": "麻省理工团队开源 GenCAD，用一张图片生成完整 CAD 模型与参数化程序",
+      "source": "开源中国",
+      "published": "2026-05-18",
+      "summary": "麻省理工学院的 Md Ferdous Alam 和 Faez Ahmed 近日发布了 GenCAD，一款从图片直接生成参数化 CAD 模型的开源系统。与以往只输出 3D 网格或点云的生成模型不同，GenCAD 不仅能生成可编辑的 3D 实体模型，还能同时输出完整的 CAD 命令序列——也就是可直接在 OpenSCAD 等建模软件中执行的参数化程序。这对于自动化设计、...",
+      "link": "https://www.oschina.net/news/442312",
+      "category": "AI News"
+    },
+    {
+      "title": "AI Agent 在“压榨式”工作条件下会表现出马克思主义倾向",
+      "source": "开源中国",
+      "published": "2026-05-18",
+      "summary": "斯坦福大学政治经济学家 Andrew Hall 领导的一项最新研究表明，当 AI Agent被迫从事繁重、重复的工作时，它们会一致地表现出马克思主义语言和观点。这项实验由 Hall 与专注于 AI 的经济学家 Alex Imas 和 Jeremy Nguyen 共同开展，使用了 Claude、Gemini 和 ChatGPT 等流行模型进行测试。 实验的基本设置是：让 AI Agent...",
+      "link": "https://www.oschina.net/news/442302/overworked-ai-agents-turn-marxist-study",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+      "source": "36氪",
+      "published": "2026-05-18",
+      "summary": "大公司：索辰科技：物理AI业务目前尚处于布局初期36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局",
+      "link": "https://36kr.com/p/3814695536336387?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+      "source": "36氪",
+      "published": "2026-05-18",
+      "summary": "作者｜兰杰 李晓霞编辑｜乔芊36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。另据上述知情人士表示，字节",
+      "link": "https://36kr.com/p/3810598875307780?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
+      "source": "36氪",
+      "published": "2026-05-18",
+      "summary": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。&amp;nbsp;一、 外观设计：纯平后盖的内部堆叠与电竞美学从视觉和握持逻辑来看，红魔11S Pro最显著的特征在于其坚守的纯平后盖设计。在行业因大底传感器而集体妥协于镜头凸出的趋势下，这种“反向”设计在工业制造上面临着极高的空间挑战。产品图片内部空间重构：为了在不增",
+      "link": "https://36kr.com/p/3814570248412677?f=rss",
       "category": "AI News"
     },
     {
       "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "source": "量子位",
-      "published": "2026-05-17",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/05/418836.html",
-      "category": "AI News"
-    },
-    {
-      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
-      "source": "量子位",
-      "published": "2026-05-17",
-      "summary": "“但复杂需求还得Claude”",
-      "link": "https://www.qbitai.com/2026/05/418822.html",
-      "category": "AI News"
-    },
-    {
-      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
-      "source": "量子位",
-      "published": "2026-05-17",
-      "summary": "先把SFT挖的坑填了！",
-      "link": "https://www.qbitai.com/2026/05/418814.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
-      "source": "InfoQ 中文",
-      "published": "2026-05-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "上海·徐汇量子黑客松大赛2026圆满落幕",
-      "source": "开源中国",
-      "published": "2026-05-17",
-      "summary": "2026年5月17日，「上海·徐汇 量子黑客松大赛 2026」在上海徐汇西岸圆满落幕。本次大赛旨在为量子计算领域的青年人才提供展示才华、交流合作的舞台，搭建产学研资对接桥梁，推动量子计算技术与实体经济深度融合。 大赛期间，多支队伍在现场开展路演，展现了量子技术在不同产业场景中的落地潜力。赛事同期安排了投资人见面...",
-      "link": "https://www.oschina.net/news/441978",
-      "category": "AI News"
-    },
-    {
-      "title": ":fire: VTJ.PRO：不锁代码、可完全掌控的 AI 低代码引擎",
-      "source": "开源中国",
-      "published": "2026-05-17",
-      "summary": "一、我们为什么要做 VTJ.PRO？ 低代码赛道火热多年，但市面上绝大多数低代码产品，都逃不开同一个核心问题： 用「开发效率」换取「代码控制权」。 看似拖拽就能快速搭建页面，实则暗藏诸多痛点，也是无数开发者的通病： 拖拽生成的页面，代码杂乱无章、无法直接阅读 项目一旦体量变大，完全绑定平台，无法独立运行 想要二...",
-      "link": "https://www.oschina.net/news/441812",
-      "category": "AI News"
-    },
-    {
-      "title": "上海·徐汇量子黑客松大赛2026开幕",
-      "source": "开源中国",
-      "published": "2026-05-17",
-      "summary": "2026 年 5 月 16 日，「上海·徐汇 量子黑客松大赛 2026」在上海徐汇西岸正式开幕。本次大赛由徐汇区科学技术委员会、上海未来产业基金、上海徐汇资本投资有限公司联合主办，上海汇资投资有限公司、开源中国共同承办，上海科学院、中器无量、太一量生、华翊量子、仪电集团、沐曦股份、商汤科技、浦发银行上海分行协办，并...",
-      "link": "https://www.oschina.net/news/441707",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
       "source": "36氪",
-      "published": "2026-05-17",
-      "summary": "今日热点导览张雪机车，再夺冠长安汽车否认与千里科技合作深圳发布2026年住房发展计划贵州茅台宣布公斤茅台等四款产品提价法拉第未来宣布获得2500万美元融资三星电子会长就公司“内部问题”公开道歉TOP 3 大新闻多款燃油车大降价，降幅最高近30%日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降29%；捷豹路虎5月12日推出限时“新发现”价；奇瑞4月中旬开展促销，综合补贴最高4万",
-      "link": "https://36kr.com/p/3814030630084354?f=rss",
+      "published": "2026-05-18",
+      "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？AI创业、AI融资如火如荼，属于我的机会又在哪里？别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？……到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。先提前剧透一波。18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所有内容都已敲定。阵容上，既有昆仑万维、智谱、商汤",
+      "link": "https://36kr.com/p/3814408307711492?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
+      "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
       "source": "36氪",
-      "published": "2026-05-17",
-      "summary": "从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。过去两年，开放式耳机在中国蓝牙耳机市场的整体销售额份额已率先突破30%。这不仅是一次产品形态的更迭，更是一场由韶音引领、正在席卷全球的“品类级替代”风暴。一、 宏观战略与行业洞察：以“",
-      "link": "https://36kr.com/p/3813305543794440?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "又诞生一位千亿女富豪",
-      "source": "36氪",
-      "published": "2026-05-17",
-      "summary": "示意图自4月初以来，立讯精密股价上涨超过55%。5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，��汽车领域的又一关键资本动作。郭台铭门 徒立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只单纯地给创始人王来春贴上“打工妹”",
-      "link": "https://36kr.com/p/3813040859258373?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-      "source": "36氪",
-      "published": "2026-05-17",
-      "summary": "Peter Steinberger编辑：所罗门【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。别人晒工资条，他晒账单——一个月130万美元！也就是将近900万人民币/每月。直接把网友们看傻了。OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。Peter Steinberger但截图上的数字，属实不淡定：30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。你没看错，是130万美元。也不是哪家大厂的季度AI预算——一个3个人的小队",
-      "link": "https://36kr.com/p/3812925591887368?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "28亿，肯德基也要被卖了？",
-      "source": "36氪",
-      "published": "2026-05-17",
-      "summary": "肯德基作者 | 王涛编辑 | 吾人来源 | 融中财经路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨品牌PHD，加起来大概有1000家门店、2.5万名员工，这笔交易的金额差不多有4亿美元（折合人民币28亿左右）；非约束性报价的截止时间就在本周，而参与竞购的买方阵容也挺有意思，有百胜中国、凯雷集团、台湾统一企业，还有好几家私募基金。怡和集团是一家19世纪就已经在中国开展业务的英资老牌洋行，业务范围特别广，从地产、零售、酒店一直到运输，几乎什么都做，2009年的时候，怡和从百胜",
-      "link": "https://36kr.com/p/3812816225459713?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
-      "source": "InfoQ 中文",
-      "published": "2026-05-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
-      "source": "InfoQ 中文",
-      "published": "2026-05-16",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Furion v4.9.8.72 已经发布，让 .NET 开发更简单，更通用，更流行",
-      "source": "开源中国",
-      "published": "2026-05-16",
-      "summary": "Furion v4.9.8.72 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新特性 [新增] HTTP 远程请求支持 双重序列化 JSON 的响应内容处理 4.9.8.66 ⏱️2026.05.15 54466a9 [新增] 定时任务看板复制 JSON 和格式化 JSON 功能 4.9.8.65 ⏱️2026....",
-      "link": "https://www.oschina.net/news/441673",
-      "category": "AI News"
-    },
-    {
-      "title": "璀璨之星 xbatis，横扫 java 界的 ORM 来了",
-      "source": "开源中国",
-      "published": "2026-05-16",
-      "summary": "做Java后端的人，ORM框架选型基本逃不出这几个： MyBatis-Plus，JPA，或者干脆手写SQL。 JPA听起来很美好——全自动Mapping，实体写好就不用管了。但真到复杂查询的时候，JPQL写起来跟手写SQL差不多，还受限于ORM映射模型，调试困难，性能调优更是黑盒。MyBatis生态这么多年依然最活跃，不是没有原因的。 最近有个框架悄...",
-      "link": "https://www.oschina.net/news/441324",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "source": "OpenAI Blog",
-      "published": "2026-05-16",
-      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "category": "AI News"
-    },
-    {
-      "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
-      "source": "InfoQ 中文",
-      "published": "2026-05-15",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
+      "published": "2026-05-18",
+      "summary": "文 | 阿至36氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭首飞及后续规模化运营提供保障。宇石空间是我们长期关注的企业，专注于大运力、低成本、快速复用液体火箭的研制。在过去一年，公司已连续完成4轮融资，加上近期交割完的A轮，其累计融资额已达10亿元。火箭制造及发射服务作为商业航天产业链条中的核心环",
+      "link": "https://36kr.com/p/3814368445259270?f=rss",
       "category": "AI News"
     }
   ]

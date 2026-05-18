@@ -1,125 +1,125 @@
 {
-  "updated": "2026-05-18T00:20:12.116063+00:00",
+  "updated": "2026-05-18T13:03:47.401053+00:00",
   "repositories": [
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 13123,
-      "stars_today": 1690,
+      "stars": 15707,
+      "stars_today": 3945,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": 10455,
+      "stars_today": 1302,
+      "language": "Python",
+      "link": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
       "name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 35579,
-      "stars_today": 238,
+      "stars": 36306,
+      "stars_today": 1047,
       "language": "Python",
       "link": "https://github.com/HKUDS/CLI-Anything"
     },
     {
-      "name": "calcom/cal.diy",
-      "description": "Scheduling infrastructure for absolutely everyone.",
-      "stars": 43261,
-      "stars_today": 433,
-      "language": "TypeScript",
-      "link": "https://github.com/calcom/cal.diy"
-    },
-    {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 91708,
-      "stars_today": 910,
-      "language": "Rust",
-      "link": "https://github.com/oven-sh/bun"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "stars": 15086,
-      "stars_today": 703,
-      "language": "JavaScript",
-      "link": "https://github.com/Anil-matcha/Open-Generative-AI"
-    },
-    {
-      "name": "BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to",
-      "stars": 7065,
-      "stars_today": 333,
-      "language": "Python",
-      "link": "https://github.com/BigBodyCobain/Shadowbroker"
-    },
-    {
-      "name": "tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "stars": 3514,
-      "stars_today": 225,
-      "language": "TypeScript",
-      "link": "https://github.com/tech-leads-club/agent-skills"
-    },
-    {
-      "name": "NirDiamant/agents-towards-production",
-      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-      "stars": 19901,
-      "stars_today": 172,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/NirDiamant/agents-towards-production"
-    },
-    {
-      "name": "dograh-hq/dograh",
-      "description": "Open Source Voice Agent Platform",
-      "stars": 1653,
-      "stars_today": 223,
-      "language": "Python",
-      "link": "https://github.com/dograh-hq/dograh"
-    },
-    {
       "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "stars": 23806,
-      "stars_today": 762,
+      "stars": 24159,
+      "stars_today": 610,
       "language": "Python",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "name": "Light-Heart-Labs/DreamServer",
-      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
-      "stars": 1150,
-      "stars_today": 112,
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars": 8012,
+      "stars_today": 827,
+      "language": "Swift",
+      "link": "https://github.com/supertone-inc/supertonic"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 110770,
+      "stars_today": 179,
+      "language": "C++",
+      "link": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 59557,
+      "stars_today": 963,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars": 14591,
+      "stars_today": 1391,
       "language": "Python",
-      "link": "https://github.com/Light-Heart-Labs/DreamServer"
+      "link": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
-      "name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before",
-      "stars": 42698,
-      "stars_today": 200,
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": 3826,
+      "stars_today": 1244,
       "language": "TypeScript",
-      "link": "https://github.com/KeygraphHQ/shannon"
+      "link": "https://github.com/tech-leads-club/agent-skills"
     },
     {
-      "name": "TryGhost/Ghost",
-      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-      "stars": 53283,
-      "stars_today": 231,
-      "language": "JavaScript",
-      "link": "https://github.com/TryGhost/Ghost"
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to",
+      "stars": 7494,
+      "stars_today": 768,
+      "language": "Python",
+      "link": "https://github.com/BigBodyCobain/Shadowbroker"
     },
     {
-      "name": "medusajs/medusa",
-      "description": "The world's most flexible commerce platform.",
-      "stars": 33472,
-      "stars_today": 211,
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 20252,
+      "stars_today": 359,
       "language": "TypeScript",
-      "link": "https://github.com/medusajs/medusa"
+      "link": "https://github.com/humanlayer/12-factor-agents"
     },
     {
-      "name": "knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "stars": 20587,
-      "stars_today": 242,
-      "language": "Go",
-      "link": "https://github.com/knadh/listmonk"
+      "name": "NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "stars": 6317,
+      "stars_today": 472,
+      "language": "Python",
+      "link": "https://github.com/NVlabs/Sana"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "stars": 63126,
+      "stars_today": 1013,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 36792,
+      "stars_today": 290,
+      "language": "Python",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "name": "plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "stars": 25733,
+      "stars_today": 637,
+      "language": "Elixir",
+      "link": "https://github.com/plausible/analytics"
     }
   ]
 }
