@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-19T00:23:47.437264+00:00",
+  "updated": "2026-05-19T12:55:31.799801+00:00",
   "articles": [
     {
-      "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+      "source": "量子位",
+      "published": "2026-05-19",
+      "summary": "所谓的真实……真的重要吗？",
+      "link": "https://www.qbitai.com/2026/05/420083.html",
+      "category": "AI News"
+    },
+    {
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "source": "量子位",
+      "published": "2026-05-19",
+      "summary": "发布MT Lambda",
+      "link": "https://www.qbitai.com/2026/05/420084.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+      "source": "量子位",
+      "published": "2026-05-19",
+      "summary": "1/10成本、Opus 4.7级表现",
+      "link": "https://www.qbitai.com/2026/05/419990.html",
+      "category": "AI News"
+    },
+    {
+      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+      "source": "量子位",
+      "published": "2026-05-19",
+      "summary": "赛车有张雪，智驾有文远",
+      "link": "https://www.qbitai.com/2026/05/419913.html",
+      "category": "AI News"
+    },
+    {
+      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+      "source": "量子位",
+      "published": "2026-05-19",
+      "summary": "提前查好路况，定好闹钟，明天线下见！",
+      "link": "https://www.qbitai.com/2026/05/419901.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Moonrepo发布moon v2.0：引入WASM插件工具链并重构CLI",
+      "source": "InfoQ 中文",
+      "published": "2026-05-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式",
+      "source": "InfoQ 中文",
+      "published": "2026-05-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Pinterest 工程师消除 CPU 僵尸进程，解决生产环境瓶颈",
+      "source": "InfoQ 中文",
+      "published": "2026-05-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lbvCd6Ba01X8hgxwS1G3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场",
+      "source": "InfoQ 中文",
+      "published": "2026-05-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "8大岗位AI技能图谱",
+      "source": "InfoQ 中文",
+      "published": "2026-05-19",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/minibook/TiDmbxOjtLAqgX12x5Ip?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 时代的“虚假生产力”——工具把人变成纯粹的输出管道",
+      "source": "开源中国",
+      "published": "2026-05-19",
+      "summary": "帕金森定律说，工作会膨胀到填满所有可用时间。在AI时代，员工现在有了一个工具，可以扩展到填充任何大语言模型被说服生成的内容——换句话说，无上限。 这正是问题所在。一篇来自\"No One's Happy\"的观察文章（作者拥有超过二十年工程经验）描述了过去两年在职业环境中观察到的一种令人不安的现象：AI生成的内容正在系统...",
+      "link": "https://www.oschina.net/news/442835",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek：输入&lt;think&gt;等字符触发返回异常内容属于特殊字符引发的模型幻觉",
+      "source": "开源中国",
+      "published": "2026-05-19",
+      "summary": "DeepSeek刚刚发布了关于字符触发模型异常回复的说明。其称近期关注到有用户反馈，在与DeepSeek模型的对话中输入这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。 针对这一问题，技术团队经全面排查后发现：输入等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或...",
+      "link": "https://www.oschina.net/news/442831",
+      "category": "AI News"
+    },
+    {
+      "title": "软件工程可能不再是终身职业",
+      "source": "开源中国",
+      "published": "2026-05-19",
+      "summary": "Sean Goedecke 在其博客发表文章，提出一个引人深思的观点：软件工程可能不再像过去那样是一个可以终身从事的职业。 AI 让学习减少了吗？ Goedecke 并不认为使用 AI 会让人整体变笨。但他指出，使用 AI 完成任务意味着你从这项任务中学到的东西会变少。 有人因此反对在工作中使用 AI，他们的逻辑是： 使用 AI 意味着从工...",
+      "link": "https://www.oschina.net/news/442827",
+      "category": "AI News"
+    },
+    {
+      "title": "Solon Flow 实战：用 50 行 YAML 实现一个请假审批流",
+      "source": "开源中国",
+      "published": "2026-05-19",
+      "summary": "一、为什么需要流程编排？ 做后台开发的同学一定遇到过这类需求： 请假审批：员工提交 -> 主管审批 -> 部门经理审批 -> 副总审批，但不同天数的审批链路还不一样 合同审批：金额超过 10 万需要额外部门会签，超过 50 万需要财务参与 数据抓取：多线程并行爬取多个数据源，再汇总处理 这类需求本质上都是一个 有向图 的流...",
+      "link": "https://www.oschina.net/news/442822",
+      "category": "AI News"
+    },
+    {
+      "title": "重磅！Erupt 1.14.3 发布：多个 AI 智能体在你的后台开始\"组团打工\"了",
+      "source": "开源中国",
+      "published": "2026-05-19",
+      "summary": "A2A 协作、跨会话记忆、浏览器直连服务器终端……这次更新，把企业级 AI Agent 该有的样子全做齐了。 一、Java 圈的\"卷王\"又更新了 上周才聊过 Erupt 把 Claude 缝进 Spring Boot 后台的骚操作，没想到才隔了一周，1.14.3 版本 就带着一堆\"过分\"的新特性发布了。 打开更新日志一看，我直接坐直了—— 这次更新，可能是 ...",
+      "link": "https://www.oschina.net/news/442811/erupt-1-14-3-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
       "source": "36氪",
       "published": "2026-05-19",
-      "summary": "今日热点导览瑞幸咖啡正式上线两款含酒精的特调饮品京张高铁试点推出“自行车随身行”服务马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术韩国法院要求三星电子罢工行动不得影响产量多家理财公司集中提前终止理财产品TOP 3 大新闻贾跃亭又拿到7000万美元投资贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场景部署量前三的机器人公司",
-      "link": "https://36kr.com/p/3815459487587847?f=rss",
+      "summary": "大公司：圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财务报告。 财报显示，B站一季度总营收为74.7亿元人民币。日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。毛利率连续15个季度环比提升至37.1%，调整后净利润5.9亿元，同比增长62%。金",
+      "link": "https://36kr.com/p/3816109626138119?f=rss",
       "category": "AI News"
     },
     {
-      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
-      "source": "量子位",
-      "published": "2026-05-18",
-      "summary": "芯片与系统级双重创新",
-      "link": "https://www.qbitai.com/2026/05/419585.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
-      "source": "量子位",
-      "published": "2026-05-18",
-      "summary": "生成论文远比消化容易",
-      "link": "https://www.qbitai.com/2026/05/419528.html",
-      "category": "AI News"
-    },
-    {
-      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-      "source": "量子位",
-      "published": "2026-05-18",
-      "summary": "底层范式变了",
-      "link": "https://www.qbitai.com/2026/05/419515.html",
-      "category": "AI News"
-    },
-    {
-      "title": "华为“养”出半个具身智能创业圈",
-      "source": "量子位",
-      "published": "2026-05-18",
-      "summary": "正在经历一次罕见的人才外溢。",
-      "link": "https://www.qbitai.com/2026/05/419414.html",
-      "category": "AI News"
-    },
-    {
-      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
-      "source": "量子位",
-      "published": "2026-05-18",
-      "summary": "五项维度全部排名第一",
-      "link": "https://www.qbitai.com/2026/05/419396.html",
-      "category": "AI News"
-    },
-    {
-      "title": "时序存储：影响成本与性能的设计选择",
-      "source": "InfoQ 中文",
-      "published": "2026-05-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/CADK5ijCqtBsfj2JLMOK?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
-      "source": "InfoQ 中文",
-      "published": "2026-05-18",
-      "summary": "提交你的问题，我们替你去问！点击查看原文>",
-      "link": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cangjie：一门新的开源编译型语言，原生支持效应处理器和代数数据类型",
-      "source": "InfoQ 中文",
-      "published": "2026-05-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/qoFJdpJ1GqkUBzg7yBQI?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
-      "source": "InfoQ 中文",
-      "published": "2026-05-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
-      "source": "InfoQ 中文",
-      "published": "2026-05-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "知名 YouTuber 宣布弃用 Bambu Lab，指责该公司多次违反开源许可证",
-      "source": "开源中国",
-      "published": "2026-05-18",
-      "summary": "知名 YouTuber Jeff Geerling 近日宣布，他已彻底弃用 Bambu Lab 的 3D 打印机，并指责该公司多次违反开源许可证，引发开源社区广泛关注。 Jeff Geerling 是树莓派、3D 打印等领域的知名 YouTuber，拥有超过百万订阅者。他在 2025 年就曾表示\"可能不会再推荐任何 Bambu Lab 打印机\"，但最新事件让他彻底放弃了这一品牌。...",
-      "link": "https://www.oschina.net/news/442353",
-      "category": "AI News"
-    },
-    {
-      "title": "20 年原生 iOS 开发者的反思：为什么复杂文本处理最终还是要靠 Electron？",
-      "source": "开源中国",
-      "published": "2026-05-18",
-      "summary": "一位拥有近二十年原生 macOS 和 iOS 开发经验的开发者近日分享了他的最新感悟，揭示了一个看似违背直觉的事实：在复杂文本处理场景下，Electron 等 Web 技术反而比 Apple 原生框架更加可靠。 Artem Loenko 在其博客中记录了这段颇为曲折的技术探索之旅。他原本打算在一个纯 Swift / SwiftUI 应用中实现一个支持 Markdown...",
-      "link": "https://www.oschina.net/news/442343",
-      "category": "AI News"
-    },
-    {
-      "title": "你对 LLM 的评估体系会失效，而你甚至不会察觉",
-      "source": "开源中国",
-      "published": "2026-05-18",
-      "summary": "刚从 Deepmind 离职的工程师 Lun Wang 发表关于大模型性能评估的文章：《你对 LLM 的评估体系会失效，而你甚至不会察觉》。 我们擅长评估已经存在的模型，却极不擅长评估即将构建的模型——尤其是当模型跨越到新的能力阶段时。大多数基准测试、安全评估和红队演练协议都隐含假设：下一代模型是当前模型的更强版本。但如果...",
-      "link": "https://www.oschina.net/news/442336",
-      "category": "AI News"
-    },
-    {
-      "title": "麻省理工团队开源 GenCAD，用一张图片生成完整 CAD 模型与参数化程序",
-      "source": "开源中国",
-      "published": "2026-05-18",
-      "summary": "麻省理工学院的 Md Ferdous Alam 和 Faez Ahmed 近日发布了 GenCAD，一款从图片直接生成参数化 CAD 模型的开源系统。与以往只输出 3D 网格或点云的生成模型不同，GenCAD 不仅能生成可编辑的 3D 实体模型，还能同时输出完整的 CAD 命令序列——也就是可直接在 OpenSCAD 等建模软件中执行的参数化程序。这对于自动化设计、...",
-      "link": "https://www.oschina.net/news/442312",
-      "category": "AI News"
-    },
-    {
-      "title": "AI Agent 在“压榨式”工作条件下会表现出马克思主义倾向",
-      "source": "开源中国",
-      "published": "2026-05-18",
-      "summary": "斯坦福大学政治经济学家 Andrew Hall 领导的一项最新研究表明，当 AI Agent被迫从事繁重、重复的工作时，它们会一致地表现出马克思主义语言和观点。这项实验由 Hall 与专注于 AI 的经济学家 Alex Imas 和 Jeremy Nguyen 共同开展，使用了 Claude、Gemini 和 ChatGPT 等流行模型进行测试。 实验的基本设置是：让 AI Agent...",
-      "link": "https://www.oschina.net/news/442302/overworked-ai-agents-turn-marxist-study",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+      "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
       "source": "36氪",
-      "published": "2026-05-18",
-      "summary": "大公司：索辰科技：物理AI业务目前尚处于布局初期36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局",
-      "link": "https://36kr.com/p/3814695536336387?f=rss",
+      "published": "2026-05-19",
+      "summary": "图源：公众号「有三思 U Sense」）2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他在那个冬天起跑，完成了一场长达18年的迁徙：从连“VI”是什么意思都要查百度的广告新人，到亚奥理事会特聘专家；从地产广告公司年薪两万的驻场专员，到网络安全企业百万年薪的市场高管；从乙方执行到甲方操盘；从职业经理人再到国际赛事组委会成员……“懂得切换”是于成龙的逆袭之道。他在广告业黄金期的尾声中入行，在航司市场化改革时转场，在网络安全上升期登顶，在国际赛事复苏期再出发。一",
+      "link": "https://36kr.com/p/3816036564147718?f=rss",
       "category": "AI News"
     },
     {
-      "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+      "title": "影石：重新定义性价比",
       "source": "36氪",
-      "published": "2026-05-18",
-      "summary": "作者｜兰杰 李晓霞编辑｜乔芊36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。另据上述知情人士表示，字节",
-      "link": "https://36kr.com/p/3810598875307780?f=rss",
+      "published": "2026-05-19",
+      "summary": "作者 | 张帆坚持做后来者近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。根据2025年年报显示，报告期内，公司影像业务营收增长了78%，主要得益于销量的大幅提升——2025年实现销量393万台，同比增长76%。另一方面，产品均价相对平稳，约为2169元，同比增长1%。从ASP趋势来看，公司产品整体呈现下降态势，",
+      "link": "https://36kr.com/p/3815841756028425?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
+      "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
       "source": "36氪",
-      "published": "2026-05-18",
-      "summary": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。&amp;nbsp;一、 外观设计：纯平后盖的内部堆叠与电竞美学从视觉和握持逻辑来看，红魔11S Pro最显著的特征在于其坚守的纯平后盖设计。在行业因大底传感器而集体妥协于镜头凸出的趋势下，这种“反向”设计在工业制造上面临着极高的空间挑战。产品图片内部空间重构：为了在不增",
-      "link": "https://36kr.com/p/3814570248412677?f=rss",
+      "published": "2026-05-19",
+      "summary": "文｜王欣逸编辑｜邱晓芬一句话介绍鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。融资进展近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末端执行’的系统能力。鲸跃动力锚定数据主线，",
+      "link": "https://36kr.com/p/3814860909600261?f=rss",
       "category": "AI News"
     },
     {
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
       "source": "36氪",
-      "published": "2026-05-18",
-      "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？AI创业、AI融资如火如荼，属于我的机会又在哪里？别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？……到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。先提前剧透一波。18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所有内容都已敲定。阵容上，既有昆仑万维、智谱、商汤",
-      "link": "https://36kr.com/p/3814408307711492?f=rss",
+      "published": "2026-05-19",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化",
+      "link": "https://36kr.com/p/3805660478184966?f=rss",
       "category": "AI News"
     }
   ]
