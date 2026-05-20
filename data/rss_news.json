@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-20T00:25:08.401562+00:00",
+  "updated": "2026-05-20T12:44:44.346073+00:00",
   "articles": [
     {
-      "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+      "source": "量子位",
+      "published": "2026-05-20",
+      "summary": "让你的经验24小时自动接单",
+      "link": "https://www.qbitai.com/2026/05/420703.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AIDC建设正从“通用标准”走向“适用高效”",
+      "source": "量子位",
+      "published": "2026-05-20",
+      "summary": "商汤大装置林海谈AIDC",
+      "link": "https://www.qbitai.com/2026/05/420698.html",
+      "category": "AI News"
+    },
+    {
+      "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
+      "source": "量子位",
+      "published": "2026-05-20",
+      "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
+      "link": "https://www.qbitai.com/2026/05/420681.html",
+      "category": "AI News"
+    },
+    {
+      "title": "海信激光电视探索X1 Pro发布：中国家庭，正式进入客厅影院时代",
+      "source": "量子位",
+      "published": "2026-05-20",
+      "summary": "光路传播效率提升20%",
+      "link": "https://www.qbitai.com/2026/05/420723.html",
+      "category": "AI News"
+    },
+    {
+      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+      "source": "量子位",
+      "published": "2026-05-20",
+      "summary": "看谁真正会游泳",
+      "link": "https://www.qbitai.com/2026/05/420656.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Cloudflare 推出支持确定性执行和 5 万个并发工作流的 Workflows V2",
+      "source": "InfoQ 中文",
+      "published": "2026-05-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
+      "source": "InfoQ 中文",
+      "published": "2026-05-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露",
+      "source": "InfoQ 中文",
+      "published": "2026-05-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 推出 Routines for Claude Code",
+      "source": "InfoQ 中文",
+      "published": "2026-05-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake Intelligence 合作伙伴生态：把 AI 能力带入千行百业 ｜技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-05-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "大规模 npm 供应链攻击持续，黑客 20 分钟内发布 630 个恶意版本",
+      "source": "开源中国",
+      "published": "2026-05-20",
+      "summary": "开源生态正在经历一场持续升级的供应链攻击。5月19日，安全公司StepSecurity和SafeDep警告称，一场针对npm生态的大规模攻击活动正在进行中——攻击者入侵了热门开源项目开发者账户，在约20分钟内发布了超过630个恶意版本，涉及317个npm包。 这轮攻击被安全研究人员命名为\"Mini Shai-Hulud\"，是此前更大规模Shai-Hulud攻击...",
+      "link": "https://www.oschina.net/news/443374",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenResty 1.29.2.4 正式发布",
+      "source": "开源中国",
+      "published": "2026-05-20",
+      "summary": "基于 NGINX 和 LuaJIT 的 OpenResty Web 平台 1.29.2.4 版本现已正式发布。 点击此处下载。此下载页面提供了可移植的源代码分发包以及为 Ubuntu、Debian、Fedora、CentOS、RHEL、OpenSUSE、Amazon Linux 等系统预编译的二进制软件包。 版本亮点 移植 nginx 的漏洞补丁 CVE-2026-42945: ngx_http_rewrite_module 中的缓冲...",
+      "link": "https://www.oschina.net/news/443364/openresty-1-29-2-4-released",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI 拥抱 C2PA 标准，引入 Google SynthID 图像水印",
+      "source": "开源中国",
+      "published": "2026-05-20",
+      "summary": "随着AI图像生成工具大规模普及，判断一张照片是真实拍摄还是AI生成，正变得前所未有的困难。5月19日，OpenAI宣布了两项重要措施，试图在这个问题上建立行业标杆：公司正式加入C2PA开放标准，并与Google合作部署SynthID隐形水印技术，同时推出一款公开验证工具供用户检测AI生成图像。 C2PA（内容来源和真实性联盟）成立于...",
+      "link": "https://www.oschina.net/news/443362",
+      "category": "AI News"
+    },
+    {
+      "title": "27B 数理 SOTA 与 3 秒情感克隆，有道全面开源“子曰 4”多模态与 TTS 引擎",
+      "source": "开源中国",
+      "published": "2026-05-20",
+      "summary": "近日，网易有道宣布“子曰”大模型迎来 4.0 版本的全方位升级。“子曰4\" 正式迈入全模态时代，不仅全面支持文本、图片、音频的融合交互，有道更宣布将核心的“多模态模型”与“语音合成（TTS）模型”正式开源。与此同时，翻译模型也迎来了深度的技术重构，翻译质量与效率实现双重提升。 多模态模型视觉与数理斩获SOTA，纯...",
+      "link": "https://www.oschina.net/news/443352",
+      "category": "AI News"
+    },
+    {
+      "title": "Electron 42.2.0 发布",
+      "source": "开源中国",
+      "published": "2026-05-20",
+      "summary": "Electron 是一个使用 JavaScript、HTML 和 CSS 构建跨平台的桌面应用程序。它基于 Node.js 和 Chromium，被 Atom 编辑器和许多其他应用程序使用。Electron 兼容 Mac、Windows 和 Linux，可以构建出三个平台的应用程序。 Electron v 42.2.0 现已发布，一些更新内容如下： Features 允许通过 Electron 传递 --experimental...",
+      "link": "https://www.oschina.net/news/443350/electron-42-2-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
       "source": "36氪",
       "published": "2026-05-20",
-      "summary": "今日热点导览谷歌推出Gemini 3.5系列模型洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元巨力索具连续第二日跌停前三星芯片负责人：明年内存将降价自费流感疫苗也可使用医保报销谷歌搜索宣布大改版，AI模式与代理助手全面嵌入TOP 3 大新闻DeepSeek回应用户“对话泄露”疑虑5月19日，DeepSeek发布关于< think >字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入< think >这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面排查后发现：输入< think >等字符触",
-      "link": "https://36kr.com/p/3816885092910212?f=rss",
+      "summary": "大公司：新加坡加码人工智能布局，英伟达将落地本地研发中心全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服务行业客",
+      "link": "https://36kr.com/p/3816942423000196?f=rss",
       "category": "AI News"
     },
     {
-      "title": "当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②",
+      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
       "source": "36氪",
       "published": "2026-05-20",
-      "summary": "图源：公众号「有三思 U Sense」）2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把奥德赛时期定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“成年人类的未成年”。这条视频获得10万+点赞，8.6万收藏。“奥德赛时期”这个词并非中文原生。2007年，《纽约时报》专栏作家大卫·布鲁克斯发表了同名评论文章，借用荷马史诗中奥德修斯战后漂泊十年才返回家乡的意象，描述青春期与成年期之间一段被拉长的过渡期。这个概念在西方世界沉寂了近二十年，却在2020年代的中国年轻人中间获得了第二次生命。这个词在中文互联网的流行与古希腊史诗关系不大。它胜在提供了一",
-      "link": "https://36kr.com/p/3816045694098952?f=rss",
+      "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。嘉宾阵容堪称豪华：既有昆仑万维、商汤、百度、蚂蚁、Mi",
+      "link": "https://36kr.com/p/3817353357968516?f=rss",
       "category": "AI News"
     },
     {
-      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
-      "source": "量子位",
-      "published": "2026-05-19",
-      "summary": "所谓的真实……真的重要吗？",
-      "link": "https://www.qbitai.com/2026/05/420083.html",
-      "category": "AI News"
-    },
-    {
-      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-      "source": "量子位",
-      "published": "2026-05-19",
-      "summary": "发布MT Lambda",
-      "link": "https://www.qbitai.com/2026/05/420084.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
-      "source": "量子位",
-      "published": "2026-05-19",
-      "summary": "1/10成本、Opus 4.7级表现",
-      "link": "https://www.qbitai.com/2026/05/419990.html",
-      "category": "AI News"
-    },
-    {
-      "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
-      "source": "量子位",
-      "published": "2026-05-19",
-      "summary": "赛车有张雪，智驾有文远",
-      "link": "https://www.qbitai.com/2026/05/419913.html",
-      "category": "AI News"
-    },
-    {
-      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
-      "source": "量子位",
-      "published": "2026-05-19",
-      "summary": "提前查好路况，定好闹钟，明天线下见！",
-      "link": "https://www.qbitai.com/2026/05/419901.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Moonrepo发布moon v2.0：引入WASM插件工具链并重构CLI",
-      "source": "InfoQ 中文",
-      "published": "2026-05-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式",
-      "source": "InfoQ 中文",
-      "published": "2026-05-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Pinterest 工程师消除 CPU 僵尸进程，解决生产环境瓶颈",
-      "source": "InfoQ 中文",
-      "published": "2026-05-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/lbvCd6Ba01X8hgxwS1G3?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AMD苏妈对话李开复：AI转型只能由CEO驱动、未来“DRI”（直接负责人）将是企业核心｜直击现场",
-      "source": "InfoQ 中文",
-      "published": "2026-05-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/jFHWeWQONCamboTNyw5l?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "8大岗位AI技能图谱",
-      "source": "InfoQ 中文",
-      "published": "2026-05-19",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/minibook/TiDmbxOjtLAqgX12x5Ip?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 时代的“虚假生产力”——工具把人变成纯粹的输出管道",
-      "source": "开源中国",
-      "published": "2026-05-19",
-      "summary": "帕金森定律说，工作会膨胀到填满所有可用时间。在AI时代，员工现在有了一个工具，可以扩展到填充任何大语言模型被说服生成的内容——换句话说，无上限。 这正是问题所在。一篇来自\"No One's Happy\"的观察文章（作者拥有超过二十年工程经验）描述了过去两年在职业环境中观察到的一种令人不安的现象：AI生成的内容正在系统...",
-      "link": "https://www.oschina.net/news/442835",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek：输入&lt;think&gt;等字符触发返回异常内容属于特殊字符引发的模型幻觉",
-      "source": "开源中国",
-      "published": "2026-05-19",
-      "summary": "DeepSeek刚刚发布了关于字符触发模型异常回复的说明。其称近期关注到有用户反馈，在与DeepSeek模型的对话中输入这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。 针对这一问题，技术团队经全面排查后发现：输入等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或...",
-      "link": "https://www.oschina.net/news/442831",
-      "category": "AI News"
-    },
-    {
-      "title": "软件工程可能不再是终身职业",
-      "source": "开源中国",
-      "published": "2026-05-19",
-      "summary": "Sean Goedecke 在其博客发表文章，提出一个引人深思的观点：软件工程可能不再像过去那样是一个可以终身从事的职业。 AI 让学习减少了吗？ Goedecke 并不认为使用 AI 会让人整体变笨。但他指出，使用 AI 完成任务意味着你从这项任务中学到的东西会变少。 有人因此反对在工作中使用 AI，他们的逻辑是： 使用 AI 意味着从工...",
-      "link": "https://www.oschina.net/news/442827",
-      "category": "AI News"
-    },
-    {
-      "title": "Solon Flow 实战：用 50 行 YAML 实现一个请假审批流",
-      "source": "开源中国",
-      "published": "2026-05-19",
-      "summary": "一、为什么需要流程编排？ 做后台开发的同学一定遇到过这类需求： 请假审批：员工提交 -> 主管审批 -> 部门经理审批 -> 副总审批，但不同天数的审批链路还不一样 合同审批：金额超过 10 万需要额外部门会签，超过 50 万需要财务参与 数据抓取：多线程并行爬取多个数据源，再汇总处理 这类需求本质上都是一个 有向图 的流...",
-      "link": "https://www.oschina.net/news/442822",
-      "category": "AI News"
-    },
-    {
-      "title": "重磅！Erupt 1.14.3 发布：多个 AI 智能体在你的后台开始\"组团打工\"了",
-      "source": "开源中国",
-      "published": "2026-05-19",
-      "summary": "A2A 协作、跨会话记忆、浏览器直连服务器终端……这次更新，把企业级 AI Agent 该有的样子全做齐了。 一、Java 圈的\"卷王\"又更新了 上周才聊过 Erupt 把 Claude 缝进 Spring Boot 后台的骚操作，没想到才隔了一周，1.14.3 版本 就带着一堆\"过分\"的新特性发布了。 打开更新日志一看，我直接坐直了—— 这次更新，可能是 ...",
-      "link": "https://www.oschina.net/news/442811/erupt-1-14-3-released",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
+      "title": "长鑫科技更新招股书，碧桂园错失300亿",
       "source": "36氪",
-      "published": "2026-05-19",
-      "summary": "大公司：圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财务报告。 财报显示，B站一季度总营收为74.7亿元人民币。日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。毛利率连续15个季度环比提升至37.1%，调整后净利润5.9亿元，同比增长62%。金",
-      "link": "https://36kr.com/p/3816109626138119?f=rss",
+      "published": "2026-05-20",
+      "summary": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。015月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利润247.62亿元，同比大增1688%，完成创历史的盈亏翻盘（2025年累计亏损366.5亿元）。可以预计，随着营收和利润的大幅增长，长鑫科技的估值将会再创新高。上市前，长鑫科技的估值已逼近3000亿元。但若",
+      "link": "https://36kr.com/p/3817039204139908?f=rss",
       "category": "AI News"
     },
     {
-      "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
+      "title": "理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈",
       "source": "36氪",
-      "published": "2026-05-19",
-      "summary": "图源：公众号「有三思 U Sense」）2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他在那个冬天起跑，完成了一场长达18年的迁徙：从连“VI”是什么意思都要查百度的广告新人，到亚奥理事会特聘专家；从地产广告公司年薪两万的驻场专员，到网络安全企业百万年薪的市场高管；从乙方执行到甲方操盘；从职业经理人再到国际赛事组委会成员……“懂得切换”是于成龙的逆袭之道。他在广告业黄金期的尾声中入行，在航司市场化改革时转场，在网络安全上升期登顶，在国际赛事复苏期再出发。一",
-      "link": "https://36kr.com/p/3816036564147718?f=rss",
+      "published": "2026-05-20",
+      "summary": "文 | 徐蔡钰 编辑 | 李勤“爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。相较此前的年度改款，本次新L9的更新幅度更加显著：全系标配72.7kWh电池，纯电续航达到420公里，综合续航突破1600公里。理想自研马赫芯片首次上车，单颗芯片算力达到1280TOPS。线控转向系统与后轮转向技术的加入，带来了底盘能力的大幅升级；Livis版本额外搭载的800V主动悬架与EMB电子机械制动系统，更是汽车底盘",
+      "link": "https://36kr.com/p/3709756082466949?f=rss",
       "category": "AI News"
     },
     {
-      "title": "影石：重新定义性价比",
+      "title": "做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访",
       "source": "36氪",
-      "published": "2026-05-19",
-      "summary": "作者 | 张帆坚持做后来者近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。根据2025年年报显示，报告期内，公司影像业务营收增长了78%，主要得益于销量的大幅提升——2025年实现销量393万台，同比增长76%。另一方面，产品均价相对平稳，约为2169元，同比增长1%。从ASP趋势来看，公司产品整体呈现下降态势，",
-      "link": "https://36kr.com/p/3815841756028425?f=rss",
+      "published": "2026-05-20",
+      "summary": "作者｜黄楠编辑｜袁斯来未岚大陆CEO任冠佼等了7年，等到了行业的爆发。他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。直到2025年，增速超出他的预期。IDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个割草机器人市场出货量的66.2%。未岚大陆自身的累计实现量产，在今年突破100万台，公司营收迈入数十亿量级。但同时，高速增长的背后，也倒逼任冠佼完成了一场至关重要的认知破局。任冠佼意识到，行业迭代速度持续加快，以往相对保守的经营方",
+      "link": "https://36kr.com/p/3814411349581316?f=rss",
       "category": "AI News"
     }
   ]
