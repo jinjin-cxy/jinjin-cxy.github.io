@@ -1,123 +1,123 @@
 {
-  "updated": "2026-05-19T12:55:22.183050+00:00",
+  "updated": "2026-05-20T00:24:58.777856+00:00",
   "repositories": [
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 19596,
-      "stars_today": 3991,
+      "stars": 21160,
+      "stars_today": 3973,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 37335,
-      "stars_today": 1027,
+      "stars": 37691,
+      "stars_today": 1038,
       "language": "Python",
       "link": "https://github.com/HKUDS/CLI-Anything"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 13542,
-      "stars_today": 3184,
+      "stars": 14099,
+      "stars_today": 3164,
       "language": "Python",
       "link": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 197756,
-      "stars_today": 1620,
+      "stars": 198352,
+      "stars_today": 1623,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 19838,
-      "stars_today": 127,
+      "stars": 20171,
+      "stars_today": 171,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 13623,
-      "stars_today": 1626,
+      "stars": 14124,
+      "stars_today": 1609,
       "language": "TypeScript",
       "link": "https://github.com/rohitg00/agentmemory"
     },
     {
       "name": "CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "stars": 16034,
-      "stars_today": 1466,
+      "stars": 16567,
+      "stars_today": 1463,
       "language": "Python",
       "link": "https://github.com/CloakHQ/CloakBrowser"
     },
     {
       "name": "rtk-ai/rtk",
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 50399,
-      "stars_today": 667,
+      "stars": 50867,
+      "stars_today": 704,
       "language": "Rust",
       "link": "https://github.com/rtk-ai/rtk"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 100721,
-      "stars_today": 983,
+      "stars": 101585,
+      "stars_today": 1120,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "stars": 5803,
-      "stars_today": 1869,
+      "stars": 6579,
+      "stars_today": 1850,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 137172,
-      "stars_today": 2014,
+      "stars": 137964,
+      "stars_today": 1955,
       "language": "",
       "link": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "humanlayer/12-factor-agents",
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
-      "stars": 20970,
-      "stars_today": 733,
+      "stars": 21173,
+      "stars_today": 736,
       "language": "TypeScript",
       "link": "https://github.com/humanlayer/12-factor-agents"
     },
     {
       "name": "Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
-      "stars": 10450,
-      "stars_today": 930,
+      "stars": 10768,
+      "stars_today": 493,
       "language": "CSS",
       "link": "https://github.com/Diolinux/PhotoGIMP"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-      "stars": 25970,
-      "stars_today": 543,
+      "stars": 26364,
+      "stars_today": 563,
       "language": "Python",
       "link": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "name": "pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
-      "stars": 15727,
-      "stars_today": 88,
+      "stars": 15873,
+      "stars_today": 110,
       "language": "TypeScript",
       "link": "https://github.com/pascalorg/editor"
     }
