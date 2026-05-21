@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-21T00:24:27.817561+00:00",
+  "updated": "2026-05-21T12:57:32.801734+00:00",
   "articles": [
     {
-      "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+      "source": "量子位",
+      "published": "2026-05-21",
+      "summary": "最大提升体现在指令遵循能力上",
+      "link": "https://www.qbitai.com/2026/05/422068.html",
+      "category": "AI News"
+    },
+    {
+      "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+      "source": "量子位",
+      "published": "2026-05-21",
+      "summary": "125页“令人恐惧”的推演",
+      "link": "https://www.qbitai.com/2026/05/422032.html",
+      "category": "AI News"
+    },
+    {
+      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+      "source": "量子位",
+      "published": "2026-05-21",
+      "summary": "AI会放大“自嗨”，解药只有交付结果",
+      "link": "https://www.qbitai.com/2026/05/422001.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
+      "source": "量子位",
+      "published": "2026-05-21",
+      "summary": "Qwen3.7-Max即将上线阿里云百炼对外提供API服务",
+      "link": "https://www.qbitai.com/2026/05/422009.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+      "source": "量子位",
+      "published": "2026-05-21",
+      "summary": "加快实现‘双碳’目标。",
+      "link": "https://www.qbitai.com/2026/05/422002.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Navigation API 达基线版本，已经可以作为 History API 的替代方案使用",
       "source": "InfoQ 中文",
       "published": "2026-05-21",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "独家对谈｜谢文博：银发，孤独，一个中日观察者的十八年",
+      "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
+      "source": "InfoQ 中文",
+      "published": "2026-05-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
+      "source": "InfoQ 中文",
+      "published": "2026-05-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？",
+      "source": "InfoQ 中文",
+      "published": "2026-05-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
+      "source": "InfoQ 中文",
+      "published": "2026-05-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Google 搜索框 25 年来最大改版，新增“信息 Agent”功能",
+      "source": "开源中国",
+      "published": "2026-05-21",
+      "summary": "在刚刚结束的Google I/O 2026大会上，Google发布了一场被其内部称为\"25年来最大变化\"的搜索框全面升级。新的智能搜索框不再只是返回链接列表，而是能够理解用户意图、构建个性化体验，并在后台持续追踪信息变化。 这场升级的核心是\"AI驱动的交互体验\"。Google搜索主管Liz Reid在主题演讲中表示：\"搜索可以为你的个人问题...",
+      "link": "https://www.oschina.net/news/443934",
+      "category": "AI News"
+    },
+    {
+      "title": "我为什么不\"Vibe Code\"：一名开发者对 AI 编程的反思",
+      "source": "开源中国",
+      "published": "2026-05-21",
+      "summary": "最近一段时间，\"Vibe Code\"（氛围编程）这个词在开发者社区引发了大量讨论。支持者们宣称，大语言模型（LLM）将彻底改变软件开发——每一次新模型的发布，都将把人类带入\"纯生产力\"的境界，以\"思考的速度\"交付软件，消除产品开发中的所有摩擦和开销。 也许吧。但我无法认同，因为我本身并不进行\"氛围编程\"。 如果这种方式...",
+      "link": "https://www.oschina.net/news/443929",
+      "category": "AI News"
+    },
+    {
+      "title": "🔥为看板插件增加 client-v2 支持：开源无代码 / 低代码平台 NocoBase",
+      "source": "开源中国",
+      "published": "2026-05-21",
+      "summary": "原文链接：https://www.nocobase.com/cn/blog/weekly-updates-20260521 汇总一周产品更新日志，最新发布可以前往我们的博客查看。 NocoBase 目前更新包括的版本更新包括三个分支：main ，next和 develop。 version.png main ：截止目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，...",
+      "link": "https://www.oschina.net/news/443901",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 冲击就业市场，《经济学人》称计算机毕业生就业率骤降",
+      "source": "开源中国",
+      "published": "2026-05-21",
+      "summary": "《经济学人》最新调查引发科技界震动。数据显示，自ChatGPT问世以来，计算机相关专业毕业生的全职就业率出现断崖式下跌——从近70%骤降至55%，AI对初级岗位的替代效应正在显现。 2026年5月13日，《经济学人》发表深度调查报道《AI是否已经在让毕业生失业？》（Is AI putting graduates out of work already?），揭示了A...",
+      "link": "https://www.oschina.net/news/443890",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯混元全新翻译模型 Hy-MT2 开源",
+      "source": "开源中国",
+      "published": "2026-05-21",
+      "summary": "混元翻译模型 Hy-MT2 宣布正式开源，包含 3 个尺寸：Hy-MT2-1.8B、Hy-MT2-7B、Hy-MT2-30B-A3B，三个模型均支持33个语种互译，5种民汉/方言。 同步还开源了一个翻译指令遵循测试集 IFMTBench。测试集中的指令主要是和翻译任务相关，例如翻译风格变换、指定术语翻译等，指令和待翻译的文本涵盖了多个语种。 以及推出基于 ...",
+      "link": "https://www.oschina.net/news/443884",
+      "category": "AI News"
+    },
+    {
+      "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
       "published": "2026-05-21",
-      "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi）“上百次往返，看透存量时代的生存法则。”谢文博，四川人，聊起他从老家到上海再到日本求学的经历，他说喜欢“把自己放在跳起来才够得着的环境里”。在上海交大材料工程读研二那年，他作为访问学者公派赴日富士施乐做研发。拿到Offer后，三年啃下五篇专利，他发现日本企业有一套\"能把普通人管理出好成果\"的门道。2008年，他回国和合伙人一起创办咫尺研学。此后十八年，往返中日上百次，从阿里、京东到万科，他领着各行业的管理者一次次赴日，像外科医生般剖解日式管理的肌理。中国地产商们曾扎堆奔赴日本养老产业，他却看透：养老的本质不是盖楼，而是运营。从",
-      "link": "https://36kr.com/p/3816060007751430?f=rss",
+      "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。以下为演讲内容，经36氪整理编辑：颉晶华丨新石器无人车联合创始人兼CPO各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。八年前新石器公司创立，到如今已经成长为全球无人配送",
+      "link": "https://36kr.com/p/3818927367046018?f=rss",
       "category": "AI News"
     },
     {
-      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
-      "source": "量子位",
-      "published": "2026-05-20",
-      "summary": "向世界模型进发。",
-      "link": "https://www.qbitai.com/2026/05/420753.html",
-      "category": "AI News"
-    },
-    {
-      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
-      "source": "量子位",
-      "published": "2026-05-20",
-      "summary": "AI产业正在进入新一轮高强度算力周期",
-      "link": "https://www.qbitai.com/2026/05/420743.html",
-      "category": "AI News"
-    },
-    {
-      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
-      "source": "量子位",
-      "published": "2026-05-20",
-      "summary": "让你的经验24小时自动接单",
-      "link": "https://www.qbitai.com/2026/05/420703.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AIDC建设正从“通用标准”走向“适用高效”",
-      "source": "量子位",
-      "published": "2026-05-20",
-      "summary": "商汤大装置林海谈AIDC",
-      "link": "https://www.qbitai.com/2026/05/420698.html",
-      "category": "AI News"
-    },
-    {
-      "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
-      "source": "量子位",
-      "published": "2026-05-20",
-      "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
-      "link": "https://www.qbitai.com/2026/05/420681.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare 推出支持确定性执行和 5 万个并发工作流的 Workflows V2",
-      "source": "InfoQ 中文",
-      "published": "2026-05-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
-      "source": "InfoQ 中文",
-      "published": "2026-05-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露",
-      "source": "InfoQ 中文",
-      "published": "2026-05-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 推出 Routines for Claude Code",
-      "source": "InfoQ 中文",
-      "published": "2026-05-20",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "大规模 npm 供应链攻击持续，黑客 20 分钟内发布 630 个恶意版本",
-      "source": "开源中国",
-      "published": "2026-05-20",
-      "summary": "开源生态正在经历一场持续升级的供应链攻击。5月19日，安全公司StepSecurity和SafeDep警告称，一场针对npm生态的大规模攻击活动正在进行中——攻击者入侵了热门开源项目开发者账户，在约20分钟内发布了超过630个恶意版本，涉及317个npm包。 这轮攻击被安全研究人员命名为\"Mini Shai-Hulud\"，是此前更大规模Shai-Hulud攻击...",
-      "link": "https://www.oschina.net/news/443374",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenResty 1.29.2.4 正式发布",
-      "source": "开源中国",
-      "published": "2026-05-20",
-      "summary": "基于 NGINX 和 LuaJIT 的 OpenResty Web 平台 1.29.2.4 版本现已正式发布。 点击此处下载。此下载页面提供了可移植的源代码分发包以及为 Ubuntu、Debian、Fedora、CentOS、RHEL、OpenSUSE、Amazon Linux 等系统预编译的二进制软件包。 版本亮点 移植 nginx 的漏洞补丁 CVE-2026-42945: ngx_http_rewrite_module 中的缓冲...",
-      "link": "https://www.oschina.net/news/443364/openresty-1-29-2-4-released",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI 拥抱 C2PA 标准，引入 Google SynthID 图像水印",
-      "source": "开源中国",
-      "published": "2026-05-20",
-      "summary": "随着AI图像生成工具大规模普及，判断一张照片是真实拍摄还是AI生成，正变得前所未有的困难。5月19日，OpenAI宣布了两项重要措施，试图在这个问题上建立行业标杆：公司正式加入C2PA开放标准，并与Google合作部署SynthID隐形水印技术，同时推出一款公开验证工具供用户检测AI生成图像。 C2PA（内容来源和真实性联盟）成立于...",
-      "link": "https://www.oschina.net/news/443362",
-      "category": "AI News"
-    },
-    {
-      "title": "27B 数理 SOTA 与 3 秒情感克隆，有道全面开源“子曰 4”多模态与 TTS 引擎",
-      "source": "开源中国",
-      "published": "2026-05-20",
-      "summary": "近日，网易有道宣布“子曰”大模型迎来 4.0 版本的全方位升级。“子曰4\" 正式迈入全模态时代，不仅全面支持文本、图片、音频的融合交互，有道更宣布将核心的“多模态模型”与“语音合成（TTS）模型”正式开源。与此同时，翻译模型也迎来了深度的技术重构，翻译质量与效率实现双重提升。 多模态模型视觉与数理斩获SOTA，纯...",
-      "link": "https://www.oschina.net/news/443352",
-      "category": "AI News"
-    },
-    {
-      "title": "Electron 42.2.0 发布",
-      "source": "开源中国",
-      "published": "2026-05-20",
-      "summary": "Electron 是一个使用 JavaScript、HTML 和 CSS 构建跨平台的桌面应用程序。它基于 Node.js 和 Chromium，被 Atom 编辑器和许多其他应用程序使用。Electron 兼容 Mac、Windows 和 Linux，可以构建出三个平台的应用程序。 Electron v 42.2.0 现已发布，一些更新内容如下： Features 允许通过 Electron 传递 --experimental...",
-      "link": "https://www.oschina.net/news/443350/electron-42-2-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
+      "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
       "source": "36氪",
-      "published": "2026-05-20",
-      "summary": "今日热点导览俄罗斯将延长对中国公民的免签制度张雪首度谈及签约德比斯原因微信再度开放520大额红包，限时1天罗欣药业回应阿奇霉素劣药事件段永平最新持仓公布TOP3大新闻英伟达：第一财季净利润583亿美元，同比增长211%36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。谷歌CEO：Gemini月活跃用户达9亿谷歌CEO皮查伊在2026年I/O开发者大会上表示，Gemini AI应用的月活跃用户在过去一年中增长了一倍多，达到9亿人次，日请求量增长超过7倍。他补充称，公司目前每月处理超过3.2千兆个",
-      "link": "https://36kr.com/p/3818280989443202?f=rss",
+      "published": "2026-05-21",
+      "summary": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，相较于行业整体节奏，唯品会在交易规模与订单量增速上保持韧性，体现出其在货品供给、用户运营上的核心竞争力。在货品供给端，一季度唯品会持续挖掘重点客群消费特点并扩充优质供给。“限时狂秒”栏目引入雅诗兰黛、珀莱雅等品牌的明星",
+      "link": "https://36kr.com/p/3818915823764610?f=rss",
       "category": "AI News"
     },
     {
-      "title": "网易520发布会：质量为先，狙击细分赛道",
+      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
-      "published": "2026-05-20",
-      "summary": "5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下：《遗忘之海》《遗忘之海》本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joker工作室，此前已经推出过两次测试，网易高层也不止一次展现过对这款产品的重视。从已有内容看，《遗忘之海》最独特的地方莫过于Joker工作室对游戏市场的一些独到理解——这点早在他们做《第五人格》时就可见一斑。如若没有意外，今年Q3《遗忘之海》正式上线后，市场将会迎",
-      "link": "https://36kr.com/p/3817849322964098?f=rss",
+      "published": "2026-05-21",
+      "summary": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑：杨超丨嘉立",
+      "link": "https://36kr.com/p/3818903062004870?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+      "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
-      "published": "2026-05-20",
-      "summary": "大公司：新加坡加码人工智能布局，英伟达将落地本地研发中心全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服务行业客",
-      "link": "https://36kr.com/p/3816942423000196?f=rss",
+      "published": "2026-05-21",
+      "summary": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱动具身智能的持续进化。以下为酷哇科技联合创始人、COO 李柯宏 演讲内容，经36氪整理编辑：李柯宏丨酷哇科技联合创始人、COO非常感谢36氪和亦庄的邀请，今天我分享的主题是：作为一家以统一世界模型驱动的具身智能企业，我",
+      "link": "https://36kr.com/p/3818889074557829?f=rss",
       "category": "AI News"
     },
     {
-      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
+      "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
-      "published": "2026-05-20",
-      "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。嘉宾阵容堪称豪华：既有昆仑万维、商汤、百度、蚂蚁、Mi",
-      "link": "https://36kr.com/p/3817353357968516?f=rss",
+      "published": "2026-05-21",
+      "summary": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成为可信的合作伙伴。PureblueAI清蓝市场副总裁李铭则用“最敏锐的商业洞察和最硬核的AI营销技术的融合”来形容此次合作，并透露该名册将分期、分行业持续发布，为品牌在AI时代提供“AI语境下的体检报告和风",
+      "link": "https://36kr.com/p/3818877539091333?f=rss",
       "category": "AI News"
     }
   ]
