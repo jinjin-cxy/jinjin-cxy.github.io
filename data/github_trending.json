@@ -1,123 +1,123 @@
 {
-  "updated": "2026-05-20T12:44:30.862521+00:00",
+  "updated": "2026-05-21T00:24:17.063201+00:00",
   "repositories": [
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "stars": 7739,
-      "stars_today": 1910,
+      "stars": 9482,
+      "stars_today": 2123,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     },
     {
       "name": "Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 15162,
-      "stars_today": 1639,
+      "stars": 16144,
+      "stars_today": 1667,
       "language": "Python",
       "link": "https://github.com/Imbad0202/academic-research-skills"
     },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "stars": 23051,
-      "stars_today": 3603,
+      "stars": 23605,
+      "stars_today": 3394,
       "language": "Rust",
       "link": "https://github.com/tinyhumansai/openhuman"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 139733,
-      "stars_today": 2620,
+      "stars": 140781,
+      "stars_today": 2679,
       "language": "",
       "link": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 8990,
-      "stars_today": 762,
+      "stars": 9535,
+      "stars_today": 765,
       "language": "Python",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 38231,
-      "stars_today": 930,
+      "stars": 38527,
+      "stars_today": 890,
       "language": "Python",
       "link": "https://github.com/HKUDS/CLI-Anything"
     },
     {
       "name": "can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 5201,
-      "stars_today": 237,
+      "stars": 5393,
+      "stars_today": 270,
       "language": "TypeScript",
       "link": "https://github.com/can1357/oh-my-pi"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 199480,
-      "stars_today": 1776,
+      "stars": 199994,
+      "stars_today": 1743,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 20527,
-      "stars_today": 706,
+      "stars": 20774,
+      "stars_today": 674,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 102364,
-      "stars_today": 1714,
+      "stars": 102819,
+      "stars_today": 1636,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "stars": 4445,
-      "stars_today": 1870,
+      "stars": 4851,
+      "stars_today": 741,
       "language": "TypeScript",
       "link": "https://github.com/rmyndharis/OpenWA"
     },
     {
       "name": "truelockmc/streambert",
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "stars": 2481,
-      "stars_today": 925,
+      "stars": 2982,
+      "stars_today": 582,
       "language": "JavaScript",
       "link": "https://github.com/truelockmc/streambert"
     },
     {
       "name": "opentoonz/opentoonz",
       "description": "OpenToonz - An open-source full-featured 2D animation creation software",
-      "stars": 6125,
-      "stars_today": 206,
+      "stars": 6330,
+      "stars_today": 236,
       "language": "C++",
       "link": "https://github.com/opentoonz/opentoonz"
     },
     {
       "name": "zakirullin/files.md",
       "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
-      "stars": 1987,
-      "stars_today": 468,
+      "stars": 2200,
+      "stars_today": 429,
       "language": "Go",
       "link": "https://github.com/zakirullin/files.md"
     },
     {
       "name": "rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "stars": 14720,
-      "stars_today": 1121,
+      "stars": 15120,
+      "stars_today": 1080,
       "language": "TypeScript",
       "link": "https://github.com/rohitg00/agentmemory"
     }
