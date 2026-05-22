@@ -1,125 +1,117 @@
 {
-  "updated": "2026-05-22T00:22:41.700791+00:00",
+  "updated": "2026-05-22T12:42:19.053575+00:00",
   "repositories": [
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 22386,
-      "stars_today": 682,
+      "stars": 23756,
+      "stars_today": 2556,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
     },
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-      "stars": 13411,
-      "stars_today": 4294,
+      "stars": 15589,
+      "stars_today": 3688,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 143131,
-      "stars_today": 2614,
-      "language": "",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "name": "dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": 2185,
-      "stars_today": 129,
-      "language": "C#",
-      "link": "https://github.com/dotnet/skills"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 201485,
-      "stars_today": 1576,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-      "stars": 39113,
-      "stars_today": 656,
-      "language": "Python",
-      "link": "https://github.com/HKUDS/CLI-Anything"
-    },
-    {
-      "name": "rmyndharis/OpenWA",
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-      "stars": 5400,
-      "stars_today": 730,
-      "language": "TypeScript",
-      "link": "https://github.com/rmyndharis/OpenWA"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "stars": 40475,
-      "stars_today": 151,
-      "language": "TypeScript",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 63510,
+      "stars_today": 1269,
+      "language": "Rust",
+      "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 10696,
-      "stars_today": 1333,
+      "stars": 11281,
+      "stars_today": 988,
       "language": "Python",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
-      "name": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl",
-      "stars": 14368,
-      "stars_today": 186,
-      "language": "Python",
-      "link": "https://github.com/teng-lin/notebooklm-py"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 5835,
-      "stars_today": 500,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 40767,
+      "stars_today": 499,
       "language": "TypeScript",
-      "link": "https://github.com/can1357/oh-my-pi"
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
-      "name": "antoinezambelli/forge",
-      "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
-      "stars": 1483,
-      "stars_today": 398,
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars": 2397,
+      "stars_today": 391,
+      "language": "C#",
+      "link": "https://github.com/dotnet/skills"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+      "stars": 17435,
+      "stars_today": 1391,
+      "language": "TypeScript",
+      "link": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "name": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars": 50927,
+      "stars_today": 48,
       "language": "Python",
-      "link": "https://github.com/antoinezambelli/forge"
+      "link": "https://github.com/odoo/odoo"
     },
     {
-      "name": "multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 30717,
-      "stars_today": 534,
-      "language": "Go",
-      "link": "https://github.com/multica-ai/multica"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "stars": 18155,
-      "stars_today": 2579,
-      "language": "Python",
-      "link": "https://github.com/Imbad0202/academic-research-skills"
+      "name": "byJoey/cfnew",
+      "description": "",
+      "stars": 13217,
+      "stars_today": 85,
+      "language": "",
+      "link": "https://github.com/byJoey/cfnew"
     },
     {
       "name": "trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "stars": 222424,
-      "stars_today": 756,
+      "stars": 222910,
+      "stars_today": 964,
       "language": "",
       "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars": 22359,
+      "stars_today": 337,
+      "language": "Python",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 6137,
+      "stars_today": 455,
+      "language": "TypeScript",
+      "link": "https://github.com/can1357/oh-my-pi"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "stars": 163968,
+      "stars_today": 335,
+      "language": "Python",
+      "link": "https://github.com/yt-dlp/yt-dlp"
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "stars": 22096,
+      "stars_today": 93,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/karpathy/nn-zero-to-hero"
     }
   ]
 }

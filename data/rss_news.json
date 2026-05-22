@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-22T00:22:53.484092+00:00",
+  "updated": "2026-05-22T12:42:34.449940+00:00",
   "articles": [
     {
-      "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
+      "title": "李飞飞再出手，空间智能的ImageNet来了",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "一个专门用来评测具身空间智能的新基准",
+      "link": "https://www.qbitai.com/2026/05/422738.html",
+      "category": "AI News"
+    },
+    {
+      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "DeepSeek Code is Coming",
+      "link": "https://www.qbitai.com/2026/05/422624.html",
+      "category": "AI News"
+    },
+    {
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "一个AI统一入口，搞定所有",
+      "link": "https://www.qbitai.com/2026/05/422615.html",
+      "category": "AI News"
+    },
+    {
+      "title": "顶流里最快！智谱，你是在「喷」代码吧",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "400 tokens/s",
+      "link": "https://www.qbitai.com/2026/05/422511.html",
+      "category": "AI News"
+    },
+    {
+      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "提效数十倍，Token消耗直降70%",
+      "link": "https://www.qbitai.com/2026/05/422455.html",
+      "category": "AI News"
+    },
+    {
+      "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
+      "source": "InfoQ 中文",
+      "published": "2026-05-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 推出 MCP 隧道，供私有代理访问内部系统",
+      "source": "InfoQ 中文",
+      "published": "2026-05-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Agoda 构建多模态内容系统，链接图片和评论",
+      "source": "InfoQ 中文",
+      "published": "2026-05-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/l48TRuhZJve9omIaa2Ih?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "别再骂 Claude 限速了，Anthropic Boris 亲口承认：最挑剔的用户，反而最离不开我们",
+      "source": "InfoQ 中文",
+      "published": "2026-05-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/SuTZe24r2UTRkR82ODl9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "为创造，再一次信仰之跃 ｜AdventureX 2026 开启招募",
+      "source": "InfoQ 中文",
+      "published": "2026-05-22",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/165EQogRaOttWJ4bFQGl?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "谷歌强塞东西再惹众怒，这次是 IDE",
+      "source": "开源中国",
+      "published": "2026-05-22",
+      "summary": "Antigravity 2.0 版本发布的第二天，大量开发者打开电脑上的 Antigravity 时，发现他们用了几个月的 IDE 界面消失了，取而代之的是一个对话式提示框 —— 事先没有任何升级提醒，也没有给用户版本回退的选项。",
+      "link": "https://my.oschina.net/u/4487475/blog/19678067",
+      "category": "AI News"
+    },
+    {
+      "title": "开发者弃用 Tailwind 之后，重新学习使用 CSS",
+      "source": "开源中国",
+      "published": "2026-05-22",
+      "summary": "八年前，Julia Evans 曾热情洋溢地写文章介绍她刚发现 Tailwind 的喜悦。当时她完全不知道如何组织 CSS 代码，在\"一团乱麻\"和\"Tailwind\"之间，她毫不犹豫地选择了后者。Tailwind 帮助她搭建了大量小型网站。 八年后，她用了大约一周时间把几个网站从 Tailwind 迁移到更语义化的 HTML + 原生 CSS，并记录下了这个过程中学...",
+      "link": "https://www.oschina.net/news/444470",
+      "category": "AI News"
+    },
+    {
+      "title": "B 站发布 2026 Q1 财报",
+      "source": "开源中国",
+      "published": "2026-05-22",
+      "summary": "B 站公布了截至 2026 年 3 月 31 日第一季度财务报告。一季度总营收为 74.7 亿元人民币，实现净利润 2. 02 亿元（去年同期亏损 1070 万元），正式实现单季扭亏为盈。 日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。千粉以上的UP主数量同比增长超30%，UP主人均收入同比增长24%。商业收入稳步...",
+      "link": "https://www.oschina.net/news/444453",
+      "category": "AI News"
+    },
+    {
+      "title": "NVIDIA 开源 NVCF 平台，揭开 GPU 函数计算平台的技术内幕",
+      "source": "开源中国",
+      "published": "2026-05-22",
+      "summary": "NVIDIA 近日以 Apache 2.0 协议开源了完整的 NVCF（NVIDIA Cloud Functions）平台。注意，这不是某个薄 SDK，也不是轻量级客户端库，而是真正的控制平面、调用平面、计算平面、CLI 工具、Helm charts 以及数据库迁移——所有代码都在 GitHub 单体仓库 github.com/nvidia/nvcf 中。NVCF 正是 build.nvidia.com 和 NVIDIA...",
+      "link": "https://www.oschina.net/news/444433",
+      "category": "AI News"
+    },
+    {
+      "title": "Wireshark 4.6.6 发布，最强开源网络数据包分析器",
+      "source": "开源中国",
+      "published": "2026-05-22",
+      "summary": "Wireshark 4.6.6 现已发布，具体更新内容如下： Bug Fixes wnpa-sec-2026-51 ROHC 协议解析器崩溃。 Issue 21243 在 Windows 系统上的 Visual Studio 中运行 Wireshark 时崩溃。Work item 24787 欢迎页面幻灯片偏好设置现已可在偏好设置窗口中找到。 vwr：在 pntoh16 中读取未初始化的内存。Issue 16460 vwr：在 find_s...",
+      "link": "https://www.oschina.net/news/444422/wireshark-4-6-6-released",
+      "category": "AI News"
+    },
+    {
+      "title": "新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线",
       "source": "36氪",
       "published": "2026-05-22",
-      "summary": "今日热点导览马斯克或成全球首位万亿美元富翁三星内存工人，奖金或达280万元东方甄选首家线下店正式营业追觅俞浩回应“花4000万请员工去迪士尼”妙鸭APP被曝团队解散多地公布520结婚登记数据TOP3大新闻Manus创始人计划融资10亿美元回购公司据彭博社报道，肖弘、季逸超和张涛正在筹划一轮约10亿美元的融资，估值不低于Meta此前收购时支付的20亿美元。如果计划推进，Manus将先以中外合资企业的形式重新落地中国，再谋求香港上市。但这笔“逆向收购”远未成形。讨论尚处早期，估值仍在波动，三位创始人最终也可能放弃。真正的难题在于技术剥离——Manus的Agentic AI技术已大量融入Meta的底",
-      "link": "https://36kr.com/p/3819709302329735?f=rss",
+      "summary": "新鲜零食品牌争相竞逐新市场。36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。金粒门华南首店位于深圳龙岗布吉万象汇负一层据悉，金粒门早期从板栗、炒货相关业态起步，后转向“现制现售、短保新鲜”的新鲜零食模型。如今，作为“新鲜零食”热潮里的代表性品牌，金粒门以“短保现制、新鲜健康”为核心定位，形成了以麻辣鲜食",
+      "link": "https://36kr.com/p/3808777731464966?f=rss",
       "category": "AI News"
     },
     {
-      "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-      "source": "量子位",
-      "published": "2026-05-21",
-      "summary": "最大提升体现在指令遵循能力上",
-      "link": "https://www.qbitai.com/2026/05/422068.html",
-      "category": "AI News"
-    },
-    {
-      "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
-      "source": "量子位",
-      "published": "2026-05-21",
-      "summary": "125页“令人恐惧”的推演",
-      "link": "https://www.qbitai.com/2026/05/422032.html",
-      "category": "AI News"
-    },
-    {
-      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-      "source": "量子位",
-      "published": "2026-05-21",
-      "summary": "AI会放大“自嗨”，解药只有交付结果",
-      "link": "https://www.qbitai.com/2026/05/422001.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
-      "source": "量子位",
-      "published": "2026-05-21",
-      "summary": "Qwen3.7-Max即将上线阿里云百炼对外提供API服务",
-      "link": "https://www.qbitai.com/2026/05/422009.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
-      "source": "量子位",
-      "published": "2026-05-21",
-      "summary": "加快实现‘双碳’目标。",
-      "link": "https://www.qbitai.com/2026/05/422002.html",
-      "category": "AI News"
-    },
-    {
-      "title": "每个企业都需要自己的 Token Factory？超聚变提出“智企”新范式",
-      "source": "InfoQ 中文",
-      "published": "2026-05-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Zo1ZBl76YWyW6Eucq7eT?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Navigation API 达基线版本，已经可以作为 History API 的替代方案使用",
-      "source": "InfoQ 中文",
-      "published": "2026-05-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Bqh3ALTNTBO78PJ8kwyR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
-      "source": "InfoQ 中文",
-      "published": "2026-05-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
-      "source": "InfoQ 中文",
-      "published": "2026-05-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-21",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Google 搜索框 25 年来最大改版，新增“信息 Agent”功能",
-      "source": "开源中国",
-      "published": "2026-05-21",
-      "summary": "在刚刚结束的Google I/O 2026大会上，Google发布了一场被其内部称为\"25年来最大变化\"的搜索框全面升级。新的智能搜索框不再只是返回链接列表，而是能够理解用户意图、构建个性化体验，并在后台持续追踪信息变化。 这场升级的核心是\"AI驱动的交互体验\"。Google搜索主管Liz Reid在主题演讲中表示：\"搜索可以为你的个人问题...",
-      "link": "https://www.oschina.net/news/443934",
-      "category": "AI News"
-    },
-    {
-      "title": "我为什么不\"Vibe Code\"：一名开发者对 AI 编程的反思",
-      "source": "开源中国",
-      "published": "2026-05-21",
-      "summary": "最近一段时间，\"Vibe Code\"（氛围编程）这个词在开发者社区引发了大量讨论。支持者们宣称，大语言模型（LLM）将彻底改变软件开发——每一次新模型的发布，都将把人类带入\"纯生产力\"的境界，以\"思考的速度\"交付软件，消除产品开发中的所有摩擦和开销。 也许吧。但我无法认同，因为我本身并不进行\"氛围编程\"。 如果这种方式...",
-      "link": "https://www.oschina.net/news/443929",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥为看板插件增加 client-v2 支持：开源无代码 / 低代码平台 NocoBase",
-      "source": "开源中国",
-      "published": "2026-05-21",
-      "summary": "原文链接：https://www.nocobase.com/cn/blog/weekly-updates-20260521 汇总一周产品更新日志，最新发布可以前往我们的博客查看。 NocoBase 目前更新包括的版本更新包括三个分支：main ，next和 develop。 version.png main ：截止目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，...",
-      "link": "https://www.oschina.net/news/443901",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 冲击就业市场，《经济学人》称计算机毕业生就业率骤降",
-      "source": "开源中国",
-      "published": "2026-05-21",
-      "summary": "《经济学人》最新调查引发科技界震动。数据显示，自ChatGPT问世以来，计算机相关专业毕业生的全职就业率出现断崖式下跌——从近70%骤降至55%，AI对初级岗位的替代效应正在显现。 2026年5月13日，《经济学人》发表深度调查报道《AI是否已经在让毕业生失业？》（Is AI putting graduates out of work already?），揭示了A...",
-      "link": "https://www.oschina.net/news/443890",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯混元全新翻译模型 Hy-MT2 开源",
-      "source": "开源中国",
-      "published": "2026-05-21",
-      "summary": "混元翻译模型 Hy-MT2 宣布正式开源，包含 3 个尺寸：Hy-MT2-1.8B、Hy-MT2-7B、Hy-MT2-30B-A3B，三个模型均支持33个语种互译，5种民汉/方言。 同步还开源了一个翻译指令遵循测试集 IFMTBench。测试集中的指令主要是和翻译任务相关，例如翻译风格变换、指定术语翻译等，指令和待翻译的文本涵盖了多个语种。 以及推出基于 ...",
-      "link": "https://www.oschina.net/news/443884",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
       "source": "36氪",
-      "published": "2026-05-21",
-      "summary": "大公司：SpaceX据悉计划五年内实现每年1万次发射据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电。（财联社）阿里股东信释放信号，即时零售已成为淘宝天猫核心战略支柱5月20日，阿里巴巴集团主席蔡崇信与首席执行官吴泳铭联合发布致股东信。信中称，即时零售已成为淘宝和天猫平台升级的核心战略支柱。“我们看到即时零售在利用A",
-      "link": "https://36kr.com/p/3816942732133510?f=rss",
+      "published": "2026-05-22",
+      "summary": "大公司：Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经）雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原",
+      "link": "https://36kr.com/p/3816943010071427?f=rss",
       "category": "AI News"
     },
     {
-      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
-      "published": "2026-05-21",
-      "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。以下为演讲内容，经36氪整理编辑：颉晶华丨新石器无人车联合创始人兼CPO各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。八年前新石器公司创立，到如今已经成长为全球无人配送",
-      "link": "https://36kr.com/p/3818927367046018?f=rss",
+      "published": "2026-05-22",
+      "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。以下为演讲内容，经36氪整理编辑：赵晓鹏丨NIQ GfK创新事业部总经理大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。我今天的主题是AI时代核心终端生态定位与用户需求洞察，主",
+      "link": "https://36kr.com/p/3820318177841541?f=rss",
       "category": "AI News"
     },
     {
-      "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
+      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
       "source": "36氪",
-      "published": "2026-05-21",
-      "summary": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，相较于行业整体节奏，唯品会在交易规模与订单量增速上保持韧性，体现出其在货品供给、用户运营上的核心竞争力。在货品供给端，一季度唯品会持续挖掘重点客群消费特点并扩充优质供给。“限时狂秒”栏目引入雅诗兰黛、珀莱雅等品牌的明星",
-      "link": "https://36kr.com/p/3818915823764610?f=rss",
+      "published": "2026-05-22",
+      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。以下为演讲内容，经36氪整理编辑：陈龙丨江行智能基模CTO各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知环境到改",
+      "link": "https://36kr.com/p/3820298219425924?f=rss",
       "category": "AI News"
     },
     {
-      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
       "source": "36氪",
-      "published": "2026-05-21",
-      "summary": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑：杨超丨嘉立",
-      "link": "https://36kr.com/p/3818903062004870?f=rss",
+      "published": "2026-05-22",
+      "summary": "5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。YU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，Model Y则为35.8万辆。从月度交付表现看，今年1月YU7交付37869辆，成为中国汽车市场全品类销量冠军。然而，随着市场竞争加剧，YU7近几个月的交付量有所回落。在小米的调研中，特斯拉Model Y的订单",
+      "link": "https://36kr.com/p/3817022407181188?f=rss",
       "category": "AI News"
     }
   ]
