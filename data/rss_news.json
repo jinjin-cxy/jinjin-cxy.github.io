@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-22T12:42:34.449940+00:00",
+  "updated": "2026-05-23T00:22:00.087597+00:00",
   "articles": [
+    {
+      "title": "[EN] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "source": "Hugging Face Blog",
+      "published": "2026-05-23",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "category": "AI News"
+    },
+    {
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "source": "量子位",
+      "published": "2026-05-22",
+      "summary": "虾的下半场才刚开始",
+      "link": "https://www.qbitai.com/2026/05/422811.html",
+      "category": "AI News"
+    },
     {
       "title": "李飞飞再出手，空间智能的ImageNet来了",
       "source": "量子位",
@@ -31,14 +47,6 @@
       "published": "2026-05-22",
       "summary": "400 tokens/s",
       "link": "https://www.qbitai.com/2026/05/422511.html",
-      "category": "AI News"
-    },
-    {
-      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "source": "量子位",
-      "published": "2026-05-22",
-      "summary": "提效数十倍，Token消耗直降70%",
-      "link": "https://www.qbitai.com/2026/05/422455.html",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-05-22",
       "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。以下为演讲内容，经36氪整理编辑：陈龙丨江行智能基模CTO各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知环境到改",
       "link": "https://36kr.com/p/3820298219425924?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
-      "source": "36氪",
-      "published": "2026-05-22",
-      "summary": "5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。YU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，Model Y则为35.8万辆。从月度交付表现看，今年1月YU7交付37869辆，成为中国汽车市场全品类销量冠军。然而，随着市场竞争加剧，YU7近几个月的交付量有所回落。在小米的调研中，特斯拉Model Y的订单",
-      "link": "https://36kr.com/p/3817022407181188?f=rss",
       "category": "AI News"
     }
   ]
