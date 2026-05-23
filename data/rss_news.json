@@ -1,6 +1,110 @@
 {
-  "updated": "2026-05-23T00:22:00.087597+00:00",
+  "updated": "2026-05-23T12:14:35.089144+00:00",
   "articles": [
+    {
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "source": "量子位",
+      "published": "2026-05-23",
+      "summary": "“AI时代经验不再是护城河”",
+      "link": "https://www.qbitai.com/2026/05/423202.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI大神教你如何榨干Codex",
+      "source": "量子位",
+      "published": "2026-05-23",
+      "summary": "13k星开源库作者解锁Codex-maxxing！",
+      "link": "https://www.qbitai.com/2026/05/423179.html",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+      "source": "量子位",
+      "published": "2026-05-23",
+      "summary": "梁文锋承诺坚持开源路线",
+      "link": "https://www.qbitai.com/2026/05/423162.html",
+      "category": "AI News"
+    },
+    {
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "source": "量子位",
+      "published": "2026-05-23",
+      "summary": "不造人形机器人，死磕餐饮后厨",
+      "link": "https://www.qbitai.com/2026/05/423159.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+      "source": "InfoQ 中文",
+      "published": "2026-05-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "source": "InfoQ 中文",
+      "published": "2026-05-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "EasyAi：让 Java 程序员挺直腰杆做 AI，不用在 Python 门口罚站",
+      "source": "开源中国",
+      "published": "2026-05-23",
+      "summary": "EasyAi：让 Java 程序员挺直腰杆做 AI，不用在 Python 门口罚站 告别“AI 必须从 Python 开始”的刻板印象。一个原生 Java、零第三方依赖、Maven 一键引入的 AI 算法框架，正在给 Java 开发者补上一条很实用的路。 你的痛，我懂 场景一。 老板走过来说：“咱们系统加个人脸识别吧。” 你打开搜索引擎，扑面而来一堆 Pyth...",
+      "link": "https://www.oschina.net/news/444721",
+      "category": "AI News"
+    },
+    {
+      "title": "VonaJS 全栈框架 5.1.34 发布，DTO 配字段就能生成 CRUD 页面",
+      "source": "开源中国",
+      "published": "2026-05-23",
+      "summary": "VonaJS全栈框架5.1.34发布，DTO 配字段就能生成 CRUD 页面，底层是基于 Tanstack Table / Tanstack Form / Tanstack Query 的最佳实践。 一、Entity：字段渲染的起点 VonaJS 的渲染配置从 Entity 开始。每个字段的渲染元数据直接写在字段定义旁边，一目了然： \n@Entity<IEntityOptionsStudent>('demoStudent')\nexport ...",
+      "link": "https://www.oschina.net/news/444658",
+      "category": "AI News"
+    },
+    {
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "source": "36氪",
+      "published": "2026-05-23",
+      "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从聊天框真正走进现实。以下为圆桌对话内容，经36氪整理编辑：刘子豪丨杭州颜柯教育联合创始人（主持）赵维奇丨乐奇全球开放生态负责人路少卿丨商汤科技研究院技术管理负责人",
+      "link": "https://36kr.com/p/3821714896408713?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+      "source": "36氪",
+      "published": "2026-05-23",
+      "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。以下为圆桌对话内容，经36氪整理编辑：郑王宇丨36氪基金投资副总裁（主持）龚毅丨尼尔森IQ 通信及科技业务总经理罗飞丨华科智能AI研究院院长林海卓丨卓源亚洲创始合伙人、董事长郑王宇：各位老师好，我们今天一起讨",
+      "link": "https://36kr.com/p/3821542483857801?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+      "source": "36氪",
+      "published": "2026-05-23",
+      "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。以下为圆桌对话内容，经36氪整理编辑：帮主丨36氪《AI局内人》主播（主持）郑鹏宇丨杭州颜柯教育科技有限公司创始人肖玛峰丨AI招聘平台TTC创始人帮主：各位下午好，我是这场圆桌的主持人帮主。这场圆桌不聊技术落地的事，聊一个在座很多老板都非常关心的事——AI人才从哪里来，以及能不能自己培养。今",
+      "link": "https://36kr.com/p/3821533415985283?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "对话王小川：离开通用人工智能的主干道之后",
+      "source": "36氪",
+      "published": "2026-05-23",
+      "summary": "“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。访谈｜邓咏仪 杨轩文｜邓咏仪编辑｜张雨忻一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。而看起来沉寂的百川在做什么？5月22日，王小川安静地交出答卷：新医疗大模型M4，以及Agent产品“百小医”。过去3年里，百川逐渐从“要做中国最好的基础大模型”转向“同时押注多个",
+      "link": "https://36kr.com/p/3821521291038856?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+      "source": "36氪",
+      "published": "2026-05-23",
+      "summary": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。“AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。以下为圆桌对话内容，经36氪整理编辑：薛冰丨上海蜚语信息科技副总裁（主持）崔健南丨广州搞搞镇文化科技创始人兼CEO杨晟丨珀乐互动科技创始人薛冰：各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的圆桌。今天非常开心能够邀请到和我同台的两位重量级嘉宾，崔总、杨总，现在我们直接进入圆桌环节，先请两位嘉宾做一下自我介绍，先从崔总开始。崔健南：谢谢主持人，大家下午好，各位领导",
+      "link": "https://36kr.com/p/3821519307591811?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "[EN] Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
       "source": "Hugging Face Blog",
@@ -15,38 +119,6 @@
       "published": "2026-05-22",
       "summary": "虾的下半场才刚开始",
       "link": "https://www.qbitai.com/2026/05/422811.html",
-      "category": "AI News"
-    },
-    {
-      "title": "李飞飞再出手，空间智能的ImageNet来了",
-      "source": "量子位",
-      "published": "2026-05-22",
-      "summary": "一个专门用来评测具身空间智能的新基准",
-      "link": "https://www.qbitai.com/2026/05/422738.html",
-      "category": "AI News"
-    },
-    {
-      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-      "source": "量子位",
-      "published": "2026-05-22",
-      "summary": "DeepSeek Code is Coming",
-      "link": "https://www.qbitai.com/2026/05/422624.html",
-      "category": "AI News"
-    },
-    {
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "source": "量子位",
-      "published": "2026-05-22",
-      "summary": "一个AI统一入口，搞定所有",
-      "link": "https://www.qbitai.com/2026/05/422615.html",
-      "category": "AI News"
-    },
-    {
-      "title": "顶流里最快！智谱，你是在「喷」代码吧",
-      "source": "量子位",
-      "published": "2026-05-22",
-      "summary": "400 tokens/s",
-      "link": "https://www.qbitai.com/2026/05/422511.html",
       "category": "AI News"
     },
     {
@@ -74,91 +146,19 @@
       "category": "AI News"
     },
     {
-      "title": "别再骂 Claude 限速了，Anthropic Boris 亲口承认：最挑剔的用户，反而最离不开我们",
-      "source": "InfoQ 中文",
-      "published": "2026-05-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/SuTZe24r2UTRkR82ODl9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "为创造，再一次信仰之跃 ｜AdventureX 2026 开启招募",
-      "source": "InfoQ 中文",
-      "published": "2026-05-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/165EQogRaOttWJ4bFQGl?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌强塞东西再惹众怒，这次是 IDE",
+      "title": "ThingsPanel v1.1.15 发布 — ThingsVis 嵌入体验全面升级",
       "source": "开源中国",
       "published": "2026-05-22",
-      "summary": "Antigravity 2.0 版本发布的第二天，大量开发者打开电脑上的 Antigravity 时，发现他们用了几个月的 IDE 界面消失了，取而代之的是一个对话式提示框 —— 事先没有任何升级提醒，也没有给用户版本回退的选项。",
-      "link": "https://my.oschina.net/u/4487475/blog/19678067",
+      "summary": "版本范围：v1.1.14.2（前端）/ v1.1.14.3（后端）→ v1.1.15 v1.1.15 是一次以 ThingsVis 嵌入能力 和 设备详情页体验 为核心的版本。如果你正在将 ThingsVis 集成进自己的应用，或者在项目交付中频繁使用设备详情页做日常运维，这个版本的改动会直接落在你最常踩坑的地方。 这次更新重点看什么 方向 这次变化 更直接的价...",
+      "link": "https://www.oschina.net/news/444647/thingspanel-1-1-15-released",
       "category": "AI News"
     },
     {
-      "title": "开发者弃用 Tailwind 之后，重新学习使用 CSS",
+      "title": "HeteroFlow 异构算力调度平台 5 月 22 日上线推理服务-彻底让 TOKEN 产量翻倍",
       "source": "开源中国",
       "published": "2026-05-22",
-      "summary": "八年前，Julia Evans 曾热情洋溢地写文章介绍她刚发现 Tailwind 的喜悦。当时她完全不知道如何组织 CSS 代码，在\"一团乱麻\"和\"Tailwind\"之间，她毫不犹豫地选择了后者。Tailwind 帮助她搭建了大量小型网站。 八年后，她用了大约一周时间把几个网站从 Tailwind 迁移到更语义化的 HTML + 原生 CSS，并记录下了这个过程中学...",
-      "link": "https://www.oschina.net/news/444470",
-      "category": "AI News"
-    },
-    {
-      "title": "B 站发布 2026 Q1 财报",
-      "source": "开源中国",
-      "published": "2026-05-22",
-      "summary": "B 站公布了截至 2026 年 3 月 31 日第一季度财务报告。一季度总营收为 74.7 亿元人民币，实现净利润 2. 02 亿元（去年同期亏损 1070 万元），正式实现单季扭亏为盈。 日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。千粉以上的UP主数量同比增长超30%，UP主人均收入同比增长24%。商业收入稳步...",
-      "link": "https://www.oschina.net/news/444453",
-      "category": "AI News"
-    },
-    {
-      "title": "NVIDIA 开源 NVCF 平台，揭开 GPU 函数计算平台的技术内幕",
-      "source": "开源中国",
-      "published": "2026-05-22",
-      "summary": "NVIDIA 近日以 Apache 2.0 协议开源了完整的 NVCF（NVIDIA Cloud Functions）平台。注意，这不是某个薄 SDK，也不是轻量级客户端库，而是真正的控制平面、调用平面、计算平面、CLI 工具、Helm charts 以及数据库迁移——所有代码都在 GitHub 单体仓库 github.com/nvidia/nvcf 中。NVCF 正是 build.nvidia.com 和 NVIDIA...",
-      "link": "https://www.oschina.net/news/444433",
-      "category": "AI News"
-    },
-    {
-      "title": "Wireshark 4.6.6 发布，最强开源网络数据包分析器",
-      "source": "开源中国",
-      "published": "2026-05-22",
-      "summary": "Wireshark 4.6.6 现已发布，具体更新内容如下： Bug Fixes wnpa-sec-2026-51 ROHC 协议解析器崩溃。 Issue 21243 在 Windows 系统上的 Visual Studio 中运行 Wireshark 时崩溃。Work item 24787 欢迎页面幻灯片偏好设置现已可在偏好设置窗口中找到。 vwr：在 pntoh16 中读取未初始化的内存。Issue 16460 vwr：在 find_s...",
-      "link": "https://www.oschina.net/news/444422/wireshark-4-6-6-released",
-      "category": "AI News"
-    },
-    {
-      "title": "新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线",
-      "source": "36氪",
-      "published": "2026-05-22",
-      "summary": "新鲜零食品牌争相竞逐新市场。36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。金粒门华南首店位于深圳龙岗布吉万象汇负一层据悉，金粒门早期从板栗、炒货相关业态起步，后转向“现制现售、短保新鲜”的新鲜零食模型。如今，作为“新鲜零食”热潮里的代表性品牌，金粒门以“短保现制、新鲜健康”为核心定位，形成了以麻辣鲜食",
-      "link": "https://36kr.com/p/3808777731464966?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
-      "source": "36氪",
-      "published": "2026-05-22",
-      "summary": "大公司：Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经）雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原",
-      "link": "https://36kr.com/p/3816943010071427?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
-      "source": "36氪",
-      "published": "2026-05-22",
-      "summary": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。以下为演讲内容，经36氪整理编辑：赵晓鹏丨NIQ GfK创新事业部总经理大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。我今天的主题是AI时代核心终端生态定位与用户需求洞察，主",
-      "link": "https://36kr.com/p/3820318177841541?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "source": "36氪",
-      "published": "2026-05-22",
-      "summary": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。以下为演讲内容，经36氪整理编辑：陈龙丨江行智能基模CTO各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知环境到改",
-      "link": "https://36kr.com/p/3820298219425924?f=rss",
+      "summary": "推理服务 HeteroFlow V2 提供完整的 GPU 推理服务管理能力，支持从模型发现到 API 服务的全自动化流程。通过 TaskGroup 统一管理推理服务生命周期，内置 OpenAI 兼容网关，实现一键部署和调用。 系统架构 \n┌────────────────────────────────────────────────────...",
+      "link": "https://www.oschina.net/news/444549",
       "category": "AI News"
     }
   ]

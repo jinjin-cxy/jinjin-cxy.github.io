@@ -1,10 +1,18 @@
 {
-  "updated": "2026-05-23T00:21:51.635517+00:00",
+  "updated": "2026-05-23T12:14:24.524358+00:00",
   "repositories": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+      "stars": 19681,
+      "stars_today": 1393,
+      "language": "TypeScript",
+      "link": "https://github.com/Lum1104/Understand-Anything"
+    },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 24908,
+      "stars": 25856,
       "stars_today": 2549,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-plugins-official"
@@ -12,106 +20,106 @@
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "stars": 16514,
+      "stars": 17957,
       "stars_today": 3684,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 64006,
-      "stars_today": 978,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
       "name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 11897,
+      "stars": 12769,
       "stars_today": 988,
       "language": "Python",
       "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "stars": 40968,
-      "stars_today": 501,
-      "language": "TypeScript",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
-    },
-    {
-      "name": "dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": 2526,
-      "stars_today": 389,
-      "language": "C#",
-      "link": "https://github.com/dotnet/skills"
-    },
-    {
-      "name": "Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
-      "stars": 18560,
-      "stars_today": 1393,
-      "language": "TypeScript",
-      "link": "https://github.com/Lum1104/Understand-Anything"
-    },
-    {
-      "name": "odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "stars": 51124,
-      "stars_today": 79,
-      "language": "Python",
-      "link": "https://github.com/odoo/odoo"
-    },
-    {
-      "name": "byJoey/cfnew",
-      "description": "",
-      "stars": 13295,
-      "stars_today": 87,
-      "language": "",
-      "link": "https://github.com/byJoey/cfnew"
-    },
-    {
-      "name": "trimstray/the-book-of-secret-knowledge",
-      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "stars": 223194,
-      "stars_today": 969,
-      "language": "",
-      "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
-    },
-    {
       "name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
-      "stars": 22633,
+      "stars": 22877,
       "stars_today": 367,
       "language": "Python",
       "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
-      "name": "can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 6336,
-      "stars_today": 457,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 148369,
+      "stars_today": 3152,
+      "language": "",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars": 2655,
+      "stars_today": 389,
+      "language": "C#",
+      "link": "https://github.com/dotnet/skills"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 41184,
+      "stars_today": 501,
       "language": "TypeScript",
-      "link": "https://github.com/can1357/oh-my-pi"
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "stars": 6907,
+      "stars_today": 238,
+      "language": "Python",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "name": "presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 6041,
+      "stars_today": 302,
+      "language": "TypeScript",
+      "link": "https://github.com/presenton/presenton"
+    },
+    {
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 31634,
+      "stars_today": 879,
+      "language": "TypeScript",
+      "link": "https://github.com/multica-ai/multica"
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "stars": 223506,
+      "stars_today": 969,
+      "language": "",
+      "link": "https://github.com/trimstray/the-book-of-secret-knowledge"
+    },
+    {
+      "name": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars": 51292,
+      "stars_today": 79,
+      "language": "Python",
+      "link": "https://github.com/odoo/odoo"
+    },
+    {
+      "name": "NVlabs/LongLive",
+      "description": "LongLive 2.0: Infra - Long Video Gen",
+      "stars": 1675,
+      "stars_today": 79,
+      "language": "Python",
+      "link": "https://github.com/NVlabs/LongLive"
     },
     {
       "name": "yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
-      "stars": 164328,
+      "stars": 164686,
       "stars_today": 444,
       "language": "Python",
       "link": "https://github.com/yt-dlp/yt-dlp"
-    },
-    {
-      "name": "karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "stars": 22332,
-      "stars_today": 159,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/karpathy/nn-zero-to-hero"
     }
   ]
 }
