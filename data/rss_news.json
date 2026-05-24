@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-23T12:14:35.089144+00:00",
+  "updated": "2026-05-24T00:21:12.235125+00:00",
   "articles": [
+    {
+      "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
+      "source": "InfoQ 中文",
+      "published": "2026-05-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
     {
       "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
       "source": "量子位",
@@ -135,14 +143,6 @@
       "published": "2026-05-22",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/jvoDNDaa2bRzwrHQy7lT?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Agoda 构建多模态内容系统，链接图片和评论",
-      "source": "InfoQ 中文",
-      "published": "2026-05-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/l48TRuhZJve9omIaa2Ih?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
