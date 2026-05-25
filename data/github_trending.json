@@ -1,125 +1,125 @@
 {
-  "updated": "2026-05-25T00:22:09.927479+00:00",
+  "updated": "2026-05-25T13:01:29.359814+00:00",
   "repositories": [
     {
       "name": "Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
-      "stars": 25703,
-      "stars_today": 3999,
+      "stars": 29375,
+      "stars_today": 5625,
       "language": "TypeScript",
       "link": "https://github.com/Lum1104/Understand-Anything"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 15919,
-      "stars_today": 1853,
-      "language": "Python",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "stars": 27229,
-      "stars_today": 1173,
-      "language": "Python",
-      "link": "https://github.com/anthropics/claude-plugins-official"
-    },
-    {
       "name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 14029,
-      "stars_today": 550,
+      "stars": 14655,
+      "stars_today": 1448,
       "language": "Python",
       "link": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 152017,
-      "stars_today": 2551,
-      "language": "",
-      "link": "https://github.com/multica-ai/andrej-karpathy-skills"
-    },
-    {
-      "name": "earendil-works/pi",
-      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-      "stars": 53913,
-      "stars_today": 456,
-      "language": "TypeScript",
-      "link": "https://github.com/earendil-works/pi"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-      "stars": 29149,
-      "stars_today": 553,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 17824,
+      "stars_today": 3167,
       "language": "Python",
-      "link": "https://github.com/Alishahryar1/free-claude-code"
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 191742,
+      "stars_today": 2052,
+      "language": "JavaScript",
+      "link": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "stars": 8851,
+      "stars_today": 999,
+      "language": "Python",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "stars": 21922,
-      "stars_today": 3003,
+      "stars": 24119,
+      "stars_today": 3171,
       "language": "TypeScript",
       "link": "https://github.com/colbymchenry/codegraph"
     },
     {
-      "name": "multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "stars": 32473,
-      "stars_today": 585,
-      "language": "TypeScript",
-      "link": "https://github.com/multica-ai/multica"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 25787,
-      "stars_today": 106,
-      "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
       "name": "manaflow-ai/cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "stars": 19010,
-      "stars_today": 696,
+      "stars": 19311,
+      "stars_today": 598,
       "language": "Swift",
       "link": "https://github.com/manaflow-ai/cmux"
     },
     {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 62135,
-      "stars_today": 197,
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 153600,
+      "stars_today": 2753,
+      "language": "",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars": 23663,
+      "stars_today": 462,
       "language": "Python",
-      "link": "https://github.com/666ghj/MiroFish"
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
-      "name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 504251,
-      "stars_today": 550,
-      "language": "Markdown",
-      "link": "https://github.com/codecrafters-io/build-your-own-x"
+      "name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": 41125,
+      "stars_today": 151,
+      "language": "Python",
+      "link": "https://github.com/paperless-ngx/paperless-ngx"
     },
     {
-      "name": "dotnet/skills",
-      "description": "Repository for skills to assist AI coding agents with .NET and C#",
-      "stars": 2957,
-      "stars_today": 183,
-      "language": "C#",
-      "link": "https://github.com/dotnet/skills"
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 43841,
+      "stars_today": 108,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/anthropics/claude-cookbooks"
     },
     {
-      "name": "blakeblackshear/frigate",
-      "description": "NVR with realtime local object detection for IP cameras",
-      "stars": 32831,
-      "stars_today": 181,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars": 19166,
+      "stars_today": 188,
+      "language": "Shell",
+      "link": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars": 39562,
+      "stars_today": 32,
       "language": "TypeScript",
-      "link": "https://github.com/blakeblackshear/frigate"
+      "link": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 25926,
+      "stars_today": 243,
+      "language": "Python",
+      "link": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "stars": 4194,
+      "stars_today": 141,
+      "language": "JavaScript",
+      "link": "https://github.com/Axorax/awesome-free-apps"
     }
   ]
 }
