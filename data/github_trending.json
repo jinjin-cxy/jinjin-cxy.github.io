@@ -1,117 +1,125 @@
 {
-  "updated": "2026-05-27T00:25:15.487631+00:00",
+  "updated": "2026-05-27T12:59:05.767223+00:00",
   "repositories": [
     {
       "name": "Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
-      "stars": 35760,
-      "stars_today": 4697,
+      "stars": 38382,
+      "stars_today": 4466,
       "language": "TypeScript",
       "link": "https://github.com/Lum1104/Understand-Anything"
     },
     {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 194332,
-      "stars_today": 1915,
-      "language": "JavaScript",
-      "link": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stars": 20690,
-      "stars_today": 2155,
-      "language": "Python",
-      "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
-    },
-    {
-      "name": "anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "stars": 16649,
-      "stars_today": 1718,
-      "language": "Python",
-      "link": "https://github.com/anthropics/knowledge-work-plugins"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
-      "stars": 10103,
-      "stars_today": 880,
-      "language": "Python",
-      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-    },
-    {
       "name": "hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
-      "stars": 5008,
-      "stars_today": 539,
+      "stars": 5381,
+      "stars_today": 664,
       "language": "",
       "link": "https://github.com/hardikpandya/stop-slop"
     },
     {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 195471,
+      "stars_today": 2062,
+      "language": "JavaScript",
+      "link": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": 17003,
+      "stars_today": 695,
+      "language": "Python",
+      "link": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 21641,
-      "stars_today": 1430,
+      "stars": 23302,
+      "stars_today": 2715,
       "language": "Shell",
       "link": "https://github.com/Leonxlnx/taste-skill"
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 167334,
-      "stars_today": 1219,
-      "language": "HTML",
-      "link": "https://github.com/DigitalPlatDev/FreeDomain"
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": 21828,
+      "stars_today": 314,
+      "language": "Python",
+      "link": "https://github.com/p-e-w/heretic"
     },
     {
-      "name": "jellyfin/jellyfin",
-      "description": "The Free Software Media System - Server Backend & API",
-      "stars": 52379,
-      "stars_today": 83,
-      "language": "C#",
-      "link": "https://github.com/jellyfin/jellyfin"
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": 26709,
+      "stars_today": 425,
+      "language": "Python",
+      "link": "https://github.com/shiyu-coder/Kronos"
     },
     {
-      "name": "Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
-      "stars": 5251,
-      "stars_today": 731,
-      "language": "JavaScript",
-      "link": "https://github.com/Axorax/awesome-free-apps"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "stars": 10593,
+      "stars_today": 885,
+      "language": "Python",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
       "name": "twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 46849,
-      "stars_today": 216,
+      "stars": 47111,
+      "stars_today": 520,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
     },
     {
-      "name": "Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
-      "stars": 12097,
-      "stars_today": 156,
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": 35037,
+      "stars_today": 137,
       "language": "TypeScript",
-      "link": "https://github.com/Open-Dev-Society/OpenStock"
+      "link": "https://github.com/Yeachan-Heo/oh-my-claudecode"
     },
     {
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
-      "stars": 78641,
-      "stars_today": 352,
-      "language": "TypeScript",
-      "link": "https://github.com/thedotmack/claude-mem"
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 168399,
+      "stars_today": 2223,
+      "language": "HTML",
+      "link": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
-      "name": "st-tech/ppf-contact-solver",
-      "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
-      "stars": 3484,
-      "stars_today": 170,
-      "language": "Python",
-      "link": "https://github.com/st-tech/ppf-contact-solver"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 208888,
+      "stars_today": 1680,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 45874,
+      "stars_today": 1133,
+      "language": "",
+      "link": "https://github.com/byoungd/English-level-up-tips"
+    },
+    {
+      "name": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "stars": 16592,
+      "stars_today": 244,
+      "language": "Rust",
+      "link": "https://github.com/iii-hq/iii"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "stars": 5635,
+      "stars_today": 728,
+      "language": "JavaScript",
+      "link": "https://github.com/Axorax/awesome-free-apps"
     }
   ]
 }
