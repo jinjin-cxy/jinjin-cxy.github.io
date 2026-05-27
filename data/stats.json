@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T12:52:08.474648+00:00",
+  "updated": "2026-05-27T00:25:23.929831+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -19,14 +19,14 @@
     },
     {
       "tag": "text-generation",
-      "count": 10
+      "count": 13
     },
     {
-      "tag": "arxiv:2505.09388",
+      "tag": "qwen3",
       "count": 5
     },
     {
-      "tag": "pytorch",
+      "tag": "conversational",
       "count": 4
     },
     {
@@ -38,8 +38,8 @@
       "count": 3
     },
     {
-      "tag": "arxiv:2309.00071",
-      "count": 3
+      "tag": "pytorch",
+      "count": 2
     },
     {
       "tag": "tf",
