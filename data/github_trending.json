@@ -1,123 +1,123 @@
 {
-  "updated": "2026-05-28T13:03:28.397671+00:00",
+  "updated": "2026-05-29T00:26:07.709912+00:00",
   "repositories": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 65080,
-      "stars_today": 1742,
+      "stars": 66235,
+      "stars_today": 4698,
       "language": "Python",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 196781,
-      "stars_today": 1388,
+      "stars": 197250,
+      "stars_today": 1385,
       "language": "JavaScript",
       "link": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 25518,
-      "stars_today": 2235,
+      "stars": 26370,
+      "stars_today": 2234,
       "language": "Shell",
       "link": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "name": "hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
-      "stars": 6124,
-      "stars_today": 755,
+      "stars": 6401,
+      "stars_today": 761,
       "language": "",
       "link": "https://github.com/hardikpandya/stop-slop"
     },
     {
       "name": "twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 47604,
-      "stars_today": 495,
+      "stars": 47834,
+      "stars_today": 493,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "stars": 170107,
-      "stars_today": 1769,
+      "stars": 170689,
+      "stars_today": 1761,
       "language": "HTML",
       "link": "https://github.com/DigitalPlatDev/FreeDomain"
     },
     {
       "name": "byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "stars": 47857,
-      "stars_today": 2015,
+      "stars": 48461,
+      "stars_today": 2019,
       "language": "",
       "link": "https://github.com/byoungd/English-level-up-tips"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 126880,
-      "stars_today": 1263,
+      "stars": 127710,
+      "stars_today": 1410,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 210569,
-      "stars_today": 1726,
+      "stars": 211056,
+      "stars_today": 1730,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 3711,
-      "stars_today": 68,
+      "stars": 3875,
+      "stars_today": 65,
       "language": "HTML",
       "link": "https://github.com/revfactory/harness"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 506177,
-      "stars_today": 739,
+      "stars": 506534,
+      "stars_today": 1066,
       "language": "Markdown",
       "link": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
       "name": "Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
-      "stars": 42055,
-      "stars_today": 3766,
+      "stars": 42706,
+      "stars_today": 3776,
       "language": "TypeScript",
       "link": "https://github.com/Lum1104/Understand-Anything"
     },
     {
       "name": "unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "stars": 66705,
-      "stars_today": 210,
+      "stars": 66927,
+      "stars_today": 154,
       "language": "Python",
       "link": "https://github.com/unclecode/crawl4ai"
     },
     {
       "name": "OpenMOSS/MOSS-TTS",
       "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, ",
-      "stars": 2051,
-      "stars_today": 53,
+      "stars": 2222,
+      "stars_today": 71,
       "language": "Python",
       "link": "https://github.com/OpenMOSS/MOSS-TTS"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": 17623,
-      "stars_today": 180,
+      "stars": 17768,
+      "stars_today": 184,
       "language": "TypeScript",
       "link": "https://github.com/EveryInc/compound-engineering-plugin"
     }

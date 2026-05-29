@@ -1,6 +1,38 @@
 {
-  "updated": "2026-05-28T13:03:38.809031+00:00",
+  "updated": "2026-05-29T00:26:18.814450+00:00",
   "articles": [
+    {
+      "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
+      "source": "36氪",
+      "published": "2026-05-29",
+      "summary": "今日热点导览盒马APP可下单租地种菜？客服：正在小范围试点追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”京东：未来5年培养10万名工程师蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右加密币集体下跌，加密币24小时超16万人爆仓光帆科技与腾讯出行服务达成战略合作，开启新一轮预售TOP 3大新闻Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO人工智能公司Anthropic PBC在新一轮融资中募资650亿美元，投后估值达到9650亿美元，首次超过竞争对手OpenAl。这轮融资于5月28日宣布，由Altimeter Cap",
+      "link": "https://36kr.com/p/3829622140593288?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "source": "量子位",
+      "published": "2026-05-28",
+      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
+      "link": "https://www.qbitai.com/2026/05/426314.html",
+      "category": "AI News"
+    },
+    {
+      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+      "source": "量子位",
+      "published": "2026-05-28",
+      "summary": "国产算力是潮流，先用起来。",
+      "link": "https://www.qbitai.com/2026/05/426293.html",
+      "category": "AI News"
+    },
+    {
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "source": "量子位",
+      "published": "2026-05-28",
+      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
+      "link": "https://www.qbitai.com/2026/05/426237.html",
+      "category": "AI News"
+    },
     {
       "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
       "source": "量子位",
@@ -18,27 +50,11 @@
       "category": "AI News"
     },
     {
-      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
-      "source": "量子位",
+      "title": "去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准 ｜ 原创文章",
+      "source": "InfoQ 中文",
       "published": "2026-05-28",
-      "summary": "医学AI Agent到了关键拐点",
-      "link": "https://www.qbitai.com/2026/05/426150.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "“87%用户不懂代码，却用AI跑通了一人公司”",
-      "link": "https://www.qbitai.com/2026/05/426069.html",
-      "category": "AI News"
-    },
-    {
-      "title": "「斯隆奖」得主戴亮全职加盟复旦",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "复旦的顶尖人才版图",
-      "link": "https://www.qbitai.com/2026/05/425959.html",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -71,14 +87,6 @@
       "published": "2026-05-28",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯云 DatabaseClaw：让 AI Agent 真正接管生产数据库 | 腾讯云数据库 DBTalk",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/RjWCjAxGrAfWYM1fD5uv?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-05-28",
       "summary": "5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。官方图片当前，新能源车渗透率已超50%，行业保持高速增长，为汽车后市场带来广阔发展机遇。与此同时，行业短板也逐步显现：具",
       "link": "https://36kr.com/p/3828856781099910?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-      "source": "36氪",
-      "published": "2026-05-28",
-      "summary": "2026 年 5 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）携手 TCL 好莱坞中国剧院举办夏季新品发布会，正式推出行业首款专业影视级 AR 眼镜雷鸟 GT 系列，以极致巨幕、影院级音画与轻盈佩戴，带来真正媲美影院的随身观影体验，售价 1899 元起；同时，新一代 AI 拍摄眼镜雷鸟 V4，在 AI 响应、超长续航、暗光拍摄、防水防尘等核心体验上全面刷新行业上限，带来真正具备替代传统眼镜的日常佩戴能力，售价 2199 元起。官方图片作为全球 AR 眼镜市场第一品牌，雷鸟创新凭借从底层光学设计到整机量产的全链路自研能力，全面布局覆盖 AR 观影、AI 拍摄与 AI+AR 空",
-      "link": "https://36kr.com/p/3828851140350592?f=rss",
       "category": "AI News"
     }
   ]
