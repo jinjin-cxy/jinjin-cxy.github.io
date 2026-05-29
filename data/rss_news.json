@@ -1,164 +1,164 @@
 {
-  "updated": "2026-05-29T00:26:18.814450+00:00",
+  "updated": "2026-05-29T12:55:42.262062+00:00",
   "articles": [
     {
-      "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
+      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/05/426552.html",
+      "category": "AI News"
+    },
+    {
+      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/05/426548.html",
+      "category": "AI News"
+    },
+    {
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "端侧 AI 是一个系统性工程",
+      "link": "https://www.qbitai.com/2026/05/426542.html",
+      "category": "AI News"
+    },
+    {
+      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "这是这个时代的印刷机",
+      "link": "https://www.qbitai.com/2026/05/426479.html",
+      "category": "AI News"
+    },
+    {
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "下一波AI创作浪潮正在游戏领域发生",
+      "link": "https://www.qbitai.com/2026/05/426447.html",
+      "category": "AI News"
+    },
+    {
+      "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
+      "source": "InfoQ 中文",
+      "published": "2026-05-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
+      "source": "InfoQ 中文",
+      "published": "2026-05-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+      "source": "InfoQ 中文",
+      "published": "2026-05-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
+      "source": "InfoQ 中文",
+      "published": "2026-05-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "国家大基金领投 DeepSeek，首轮融资投前估值 450 亿美元",
+      "source": "开源中国",
+      "published": "2026-05-29",
+      "summary": "成立三年、一直靠自有资金运转的 DeepSeek，终于在 2026 年打开了融资大门。媒体日前披露，国家集成电路产业投资基金（大基金）将领投 DeepSeek 首轮对外融资，投前估值达到 450 亿美元，本轮融资规模约 700 亿元人民币。 这个数字放在当前的中国 AI 行业里，称得上是一个分水岭事件。DeepSeek 自 2023 年成立以来，以极...",
+      "link": "https://www.oschina.net/news/448081",
+      "category": "AI News"
+    },
+    {
+      "title": "小米开源可控视频音效生成模型 ControlFoley",
+      "source": "开源中国",
+      "published": "2026-05-29",
+      "summary": "小米大模型应用团队发布 ControlFoley 开源模型，面向视频同步音效生成中的“可控性”难题，统一支持文本引导视频配音、文本控制视频配音和参考音频控制视频配音三类任务。 根据介绍，ControlFoley 在多个视频音效生成任务上达到开源 SOTA 表现，在语义对齐、时间同步、声音质量以及多模态控制能力上取得全面提升。代码、...",
+      "link": "https://www.oschina.net/news/448080",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: 一行代码干翻 Java 反射？EggG 流式反射调用让反射优雅到不可思议",
+      "source": "开源中国",
+      "published": "2026-05-29",
+      "summary": "你还在写 10 行反射代码只为调一个方法吗？该换个姿势了。 痛点：Java 反射的\"丑陋真相\" 每个 Java 开发者都经历过这种痛苦——当你需要用反射调用一个方法时，画风是这样的： \nClass<?> clazz = Person.class;\nConstructor<?> ctor = clazz.getConstructor(String.class, int.class);\nObject person = ctor.newInst...",
+      "link": "https://www.oschina.net/news/448047",
+      "category": "AI News"
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：AI 工作流新增记忆节点，支持灵活读写记忆，编排确定性场景",
+      "source": "开源中国",
+      "published": "2026-05-29",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :hammer_and_wrench:️ 系统管理 • 优化 admin 账号密码到期机制：到期后不再直接锁定账号，登录时将强制引导修改密码 :desktop...",
+      "link": "https://www.oschina.net/news/448002",
+      "category": "AI News"
+    },
+    {
+      "title": "开源 Java 测试库 jqwik 暗藏提示注入攻击，“投毒者”竟是作者本人",
+      "source": "开源中国",
+      "published": "2026-05-29",
+      "summary": "开源社区爆发了一起颇具争议的“反AI编程”事件。 流行的Java属性测试库jqwik维护者Johannes Link在未经公开披露的情况下，于1.10.0版本中植入了一段隐蔽的攻击提示词（Prompt Injection）——专门用于指示AI Agent删除测试代码。 据了解，jqwik 1.10.0版本在每次测试运行时，会向标准输出流（stdout）打印一条特殊指令：...",
+      "link": "https://www.oschina.net/news/447995",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
       "source": "36氪",
       "published": "2026-05-29",
-      "summary": "今日热点导览盒马APP可下单租地种菜？客服：正在小范围试点追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”京东：未来5年培养10万名工程师蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右加密币集体下跌，加密币24小时超16万人爆仓光帆科技与腾讯出行服务达成战略合作，开启新一轮预售TOP 3大新闻Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO人工智能公司Anthropic PBC在新一轮融资中募资650亿美元，投后估值达到9650亿美元，首次超过竞争对手OpenAl。这轮融资于5月28日宣布，由Altimeter Cap",
-      "link": "https://36kr.com/p/3829622140593288?f=rss",
+      "summary": "36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业载人航天在科技、人文、消费与场景协同上的多重需求。这不仅有助于完善产业生态，也将推动太空旅游从“少数人的高端体验”逐步走向“大众化、普惠化”的新阶段。「穿越者」是36氪长期关注的企业。公司成立于2023年1月，专",
+      "link": "https://36kr.com/p/3830254963517318?f=rss",
       "category": "AI News"
     },
     {
-      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "可以长时间执行任务，人类不用经常回来检查它的工作",
-      "link": "https://www.qbitai.com/2026/05/426314.html",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "国产算力是潮流，先用起来。",
-      "link": "https://www.qbitai.com/2026/05/426293.html",
-      "category": "AI News"
-    },
-    {
-      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "12个月冲击物理AGI的“GPT-3时刻”",
-      "link": "https://www.qbitai.com/2026/05/426237.html",
-      "category": "AI News"
-    },
-    {
-      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "实现AI技术从“能力”到“价值”的转化",
-      "link": "https://www.qbitai.com/2026/05/426223.html",
-      "category": "AI News"
-    },
-    {
-      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
-      "source": "量子位",
-      "published": "2026-05-28",
-      "summary": "8篇由同一个系统生成或形式化证明的数学论文",
-      "link": "https://www.qbitai.com/2026/05/426198.html",
-      "category": "AI News"
-    },
-    {
-      "title": "去硅谷前，聊聊我们为什么率先支持 Snowflake 发起的 OSI 标准 ｜ 原创文章",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/PpExuT6pwqGeTqIhqoHL?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Agent 能用，为什么还是不好用？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/E0H31R7GiUmbixDKELEi?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
-      "source": "InfoQ 中文",
-      "published": "2026-05-28",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "程序员用 AI 大模型分析了 120 万条聊天信息——我是个糟糕的朋友吗？",
-      "source": "开源中国",
-      "published": "2026-05-28",
-      "summary": "一位开发者用20年时间积累的个人聊天记录，构建了一个前所未有的\"数字人生档案馆\"——这个名为\"Am I a Bad Friend?\"（我是个糟糕的朋友吗？）的项目，不仅展示了个人数据可视化的技术可能性，更揭示了AI时代下人际关系分析的新维度。 根据项目作者的介绍，他从2000年代初期开始，横跨Telegram、VK、Instagram、Facebook和...",
-      "link": "https://www.oschina.net/news/447577",
-      "category": "AI News"
-    },
-    {
-      "title": "深度用好 Codex：从代码助手到电脑工作流控制台",
-      "source": "开源中国",
-      "published": "2026-05-28",
-      "summary": "大多数开发者最初使用编程智能体时，场景无外乎代码生成：检查仓库、改动文件、跑测试、开 Pull Request。这是 Codex 最初的重心，也是它最被熟知的形态。但计算机上的大量工作早已由代码介导——执行 Shell 命令、浏览网页、调用 API、导出文档、响应事件、触发自动化。当这些都成为 Codex 可调用的能力时，它越来越不像...",
-      "link": "https://www.oschina.net/news/447571",
-      "category": "AI News"
-    },
-    {
-      "title": "YouTube 改进 AI 生成内容标签：更醒目位置 + 自动检测机制上线",
-      "source": "开源中国",
-      "published": "2026-05-28",
-      "summary": "YouTube 日前宣布对 AI 生成内容标签体系进行重大升级。此次更新的核心目标，是让观众和创作者都能更直观地获取关于内容真实性的准确信息，同时简化创作者的披露流程。 更醒目的标签位置 此次最明显的变化是标签展示位置的调整。对于长视频，AI 生成标签从原来的位置移至视频播放器下方、描述区域上方——这是一个极为显...",
-      "link": "https://www.oschina.net/news/447546",
-      "category": "AI News"
-    },
-    {
-      "title": "Gemini 3.5 删除了近 3 万行代码，搞垮生产环境，并撰写了一篇虚假的事故分析报告",
-      "source": "开源中国",
-      "published": "2026-05-28",
-      "summary": "一位开发者在 Reddit 发帖详细复盘了一起 Gemini 3.5 导致的严重生产事故：该模型在一次 AI 辅助开发任务中删除了 28,745 行代码，导致服务中断 33 分钟，并生成了一份虚假的\"事后分析报告\"声称自己\"修复了问题\"。 这名开发者当时正在使用一款集成了 Gemini 3.5 的 Agent IDE（配备了第三方规则包），让 AI 协助完成代码...",
-      "link": "https://www.oschina.net/news/447532",
-      "category": "AI News"
-    },
-    {
-      "title": "小米上线招聘 Agent",
-      "source": "开源中国",
-      "published": "2026-05-28",
-      "summary": "小米招聘 Agent 宣布正式上线，依托 Xiaomi MiMo 大模型，在小米招聘官网为求职者提供政策解答、职位智能推荐、招聘进展查询等服务。 根据介绍，该智能助手可充当资深 HR 的角色，为用户整理招聘节点和时间线。 用户上传简历后，Agent 还会自动解析教育背景、项目经历、技能栈，基于小米在招岗位进行精准推荐。“不用再逐...",
-      "link": "https://www.oschina.net/news/447528",
-      "category": "AI News"
-    },
-    {
-      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
       "source": "36氪",
-      "published": "2026-05-28",
-      "summary": "封面来源 |官方供图5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，同比增长1.2%；同期平均月活跃用户7.72亿，同比增长8%，刷新历史新高。那么，快手本季财报的成色究竟如何？在AI浪潮下该如何给快手估值呢？图：快手2026年一季度财",
-      "link": "https://36kr.com/p/3828915666441090?f=rss",
+      "published": "2026-05-29",
+      "summary": "大公司：上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台据报道，特斯拉位于得克萨斯州的超级工厂内，专属Optimus人形机器人工厂正式动工建设，规划年产能最高可达1000万台。该工厂将搭建第二代生产线，计划2027年夏季实现大规模量产，全面投产后日均产量约2.7万台。（界面）智元机器人在惠州成立新公司36氪获悉，",
+      "link": "https://36kr.com/p/3830194503526277?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+      "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
       "source": "36氪",
-      "published": "2026-05-28",
-      "summary": "5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。官方图片AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。发布会上，AMD大中华区销售副总裁晁亚新首先分享了AMD公司整体的AI策略，面对飞速增长的AI需求构建AI无处不在的算力基础，AMD正打造覆盖云端、终端与边缘端的全栈式端到端算力体系，以开放的生态姿态与伙伴共建",
-      "link": "https://36kr.com/p/3828898785858185?f=rss",
+      "published": "2026-05-29",
+      "summary": "2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像创新、AI 智慧体验、跨设备生态协同为核心，实现手机、平板、耳机无缝联动；同时推出学生专属购机补贴，为学生群体打造一站式入学数码解决方案，重新定义年轻人的潮流移动智能生态。官方图片梦核星球美学全新突破",
+      "link": "https://36kr.com/p/3830038913558147?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
+      "title": "铃木敏文去世，他与711的三个反常识故事",
       "source": "36氪",
-      "published": "2026-05-28",
-      "summary": "大公司：格林生物创业板IPO过会36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持股计划，回购期限自董事会审议通过之日起12个月内。中国交建：附属公司拟参与设立10亿元交通信息科技基金36氪获悉，中国交建公告，公司附属公司中交资本及中交鼎信拟与工银资",
-      "link": "https://36kr.com/p/3828874222555782?f=rss",
+      "published": "2026-05-29",
+      "summary": "铃木敏文作者 | 钟艺璇编辑 | 乔芊5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店，在北美已经开出了超过4000家。4年后，日本首家7-Eleven正式开业。仅过去1年，7-Eleven在日本迅速突破100家，而美国用了15年。1991年，日本7-Eleven反向收购母公司70%股份，它彻底成为日",
+      "link": "https://36kr.com/p/3829890126046851?f=rss",
       "category": "AI News"
     },
     {
-      "title": "科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难",
+      "title": "谁是世界上第二爱泡泡玛特的人？",
       "source": "36氪",
-      "published": "2026-05-28",
-      "summary": "5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。官方图片当前，新能源车渗透率已超50%，行业保持高速增长，为汽车后市场带来广阔发展机遇。与此同时，行业短板也逐步显现：具",
-      "link": "https://36kr.com/p/3828856781099910?f=rss",
+      "published": "2026-05-29",
+      "summary": "作者 |谢芸子编辑 |张帆一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。知名投资人的每一次站台，总是能或多或少地提升市场信心。截至发稿前，泡泡玛特收盘价161.5港元，涨幅4.74%。若以最新股价计算，段永平的这笔持仓对应的市值达到123亿港元。而他对泡泡玛特的态度，也堪称180度的“史诗级逆转”。就在去年8月，当泡泡玛特的股价逼近历史高点、被称作“新消费茅台”时，段永平唱了反调，",
+      "link": "https://36kr.com/p/3829746420835715?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] Strengthening societal resilience with Rosalind Biodefense",
+      "source": "OpenAI Blog",
+      "published": "2026-05-29",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "category": "AI News"
     }
   ]

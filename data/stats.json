@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T00:26:18.815963+00:00",
+  "updated": "2026-05-29T12:55:42.265060+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -19,11 +19,11 @@
     },
     {
       "tag": "text-generation",
-      "count": 13
+      "count": 12
     },
     {
       "tag": "qwen3",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "conversational",
@@ -31,7 +31,7 @@
     },
     {
       "tag": "qwen2",
-      "count": 4
+      "count": 3
     },
     {
       "tag": "chat",
@@ -57,18 +57,18 @@
     },
     {
       "language": "TypeScript",
-      "count": 3
+      "count": 4
     },
     {
       "language": "Shell",
-      "count": 2
+      "count": 1
     },
     {
-      "language": "HTML",
-      "count": 2
+      "language": "Rust",
+      "count": 1
     },
     {
-      "language": "JavaScript",
+      "language": "Jupyter Notebook",
       "count": 1
     }
   ]
