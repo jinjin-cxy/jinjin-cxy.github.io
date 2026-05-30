@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-29T12:55:42.262062+00:00",
+  "updated": "2026-05-30T00:24:06.870099+00:00",
   "articles": [
+    {
+      "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "source": "InfoQ 中文",
+      "published": "2026-05-30",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "source": "量子位",
+      "published": "2026-05-29",
+      "summary": "智驾出事，比亚迪兜底",
+      "link": "https://www.qbitai.com/2026/05/426557.html",
+      "category": "AI News"
+    },
     {
       "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
       "source": "量子位",
@@ -34,14 +50,6 @@
       "category": "AI News"
     },
     {
-      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
-      "source": "量子位",
-      "published": "2026-05-29",
-      "summary": "下一波AI创作浪潮正在游戏领域发生",
-      "link": "https://www.qbitai.com/2026/05/426447.html",
-      "category": "AI News"
-    },
-    {
       "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
       "source": "InfoQ 中文",
       "published": "2026-05-29",
@@ -63,14 +71,6 @@
       "published": "2026-05-29",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
-      "source": "InfoQ 中文",
-      "published": "2026-05-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -114,6 +114,22 @@
       "category": "AI News"
     },
     {
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "source": "36氪",
+      "published": "2026-05-29",
+      "summary": "为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平移至千里智驾与极氪的合资公司千里浩瀚，千里浩瀚今后主要服务吉利这个核心客户。千里智驾可以将更多精力转移至其他主机厂客户。吉利暂定了这样一个整合方案。”针对以上信息，36氪向吉利求证，截止发稿，没有回应。据公开信息显示，千里智驾是千里科技负责辅助驾驶研发的子公司，千里科技通过重庆江河间接持有千里智驾30%的股份。",
+      "link": "https://36kr.com/p/3830580716365449?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
+      "source": "36氪",
+      "published": "2026-05-29",
+      "summary": "在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责任叙事，今年的报告更强调“可量化”与“产业化”：包括首次按照科学碳目标倡议（SBTi）标准制定减碳路径、扩大范围三碳排放披露边界，以及将生物多样性、绿色原料、智能制造与供应链效率直接绑定。对于当前的中国美妆行业而言，这种变化并不只是“做ESG”，更像是在寻找下一阶段竞争力。过去几年，ESG更多是国际消费品公司的标准动作。包括L'Oréal、Estée Lauder",
+      "link": "https://36kr.com/p/3830545234552452?f=rss",
+      "category": "AI News"
+    },
+    {
       "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
       "source": "36氪",
       "published": "2026-05-29",
@@ -138,27 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "铃木敏文去世，他与711的三个反常识故事",
-      "source": "36氪",
-      "published": "2026-05-29",
-      "summary": "铃木敏文作者 | 钟艺璇编辑 | 乔芊5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店，在北美已经开出了超过4000家。4年后，日本首家7-Eleven正式开业。仅过去1年，7-Eleven在日本迅速突破100家，而美国用了15年。1991年，日本7-Eleven反向收购母公司70%股份，它彻底成为日",
-      "link": "https://36kr.com/p/3829890126046851?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "谁是世界上第二爱泡泡玛特的人？",
-      "source": "36氪",
-      "published": "2026-05-29",
-      "summary": "作者 |谢芸子编辑 |张帆一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。知名投资人的每一次站台，总是能或多或少地提升市场信心。截至发稿前，泡泡玛特收盘价161.5港元，涨幅4.74%。若以最新股价计算，段永平的这笔持仓对应的市值达到123亿港元。而他对泡泡玛特的态度，也堪称180度的“史诗级逆转”。就在去年8月，当泡泡玛特的股价逼近历史高点、被称作“新消费茅台”时，段永平唱了反调，",
-      "link": "https://36kr.com/p/3829746420835715?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Strengthening societal resilience with Rosalind Biodefense",
+      "title": "[EN] Boston Children’s uses AI to unlock new diagnoses",
       "source": "OpenAI Blog",
       "published": "2026-05-29",
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "link": "https://openai.com/index/boston-childrens-hospital",
       "category": "AI News"
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-29T12:55:23.369447+00:00",
+  "updated": "2026-05-30T00:23:51.665129+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
       "downloads": 19751122,
-      "likes": 1275,
+      "likes": 1276,
       "tags": [
         "transformers",
         "safetensors",
@@ -22,7 +22,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 16544102,
-      "likes": 3265,
+      "likes": 3266,
       "tags": [
         "transformers",
         "pytorch",
@@ -54,7 +54,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 13519542,
-      "likes": 471,
+      "likes": 472,
       "tags": [
         "transformers",
         "safetensors",
@@ -70,7 +70,7 @@
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
       "downloads": 12956418,
-      "likes": 1306,
+      "likes": 1307,
       "tags": [
         "transformers",
         "safetensors",
@@ -86,7 +86,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 12775970,
-      "likes": 1108,
+      "likes": 1109,
       "tags": [
         "transformers",
         "safetensors",
@@ -134,7 +134,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 10440860,
-      "likes": 5926,
+      "likes": 5932,
       "tags": [
         "transformers",
         "safetensors",
@@ -166,7 +166,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 8111880,
-      "likes": 4650,
+      "likes": 4651,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "gemma-3-270m",
       "author": "google",
       "downloads": 5955523,
-      "likes": 1029,
+      "likes": 1030,
       "tags": [
         "transformers",
         "safetensors",
@@ -230,7 +230,7 @@
       "name": "DeepSeek-V4-Pro",
       "author": "deepseek-ai",
       "downloads": 5836444,
-      "likes": 4421,
+      "likes": 4433,
       "tags": [
         "transformers",
         "safetensors",
