@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T00:23:27.880770+00:00",
+  "updated": "2026-05-31T12:22:56.927567+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -53,22 +53,22 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 5
+      "count": 7
     },
     {
       "language": "TypeScript",
-      "count": 3
-    },
-    {
-      "language": "Rust",
-      "count": 2
-    },
-    {
-      "language": "Jupyter Notebook",
-      "count": 2
+      "count": 5
     },
     {
       "language": "HTML",
+      "count": 1
+    },
+    {
+      "language": "Jupyter Notebook",
+      "count": 1
+    },
+    {
+      "language": "Markdown",
       "count": 1
     }
   ]

@@ -1,28 +1,60 @@
 {
-  "updated": "2026-05-31T00:23:27.879468+00:00",
+  "updated": "2026-05-31T12:22:56.924717+00:00",
   "articles": [
     {
-      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+      "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
       "source": "量子位",
-      "published": "2026-05-30",
-      "summary": "（可能是）大模型圈里最会弹钢琴的人",
-      "link": "https://www.qbitai.com/2026/05/426706.html",
+      "published": "2026-05-31",
+      "summary": "半年斩获5轮融资",
+      "link": "https://www.qbitai.com/2026/05/426984.html",
       "category": "AI News"
     },
     {
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
       "source": "量子位",
-      "published": "2026-05-30",
+      "published": "2026-05-31",
       "summary": "让世界模型迈向多智能体交互仿真",
-      "link": "https://www.qbitai.com/2026/05/426662.html",
+      "link": "https://www.qbitai.com/2026/05/426970.html",
       "category": "AI News"
     },
     {
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
       "source": "量子位",
-      "published": "2026-05-30",
-      "summary": "让世界模型迈向多智能体交互仿真",
-      "link": "https://www.qbitai.com/2026/05/426643.html",
+      "published": "2026-05-31",
+      "summary": "17800小时的真机数据",
+      "link": "https://www.qbitai.com/2026/05/426832.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+      "source": "量子位",
+      "published": "2026-05-31",
+      "summary": "CLI更像是Agent的母语",
+      "link": "https://www.qbitai.com/2026/05/426819.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+      "source": "量子位",
+      "published": "2026-05-31",
+      "summary": "与其焦虑AI，不如加入AI",
+      "link": "https://www.qbitai.com/2026/05/426793.html",
+      "category": "AI News"
+    },
+    {
+      "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-05-31",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "BootstrapBlazor v10.7.0 已经发布，Bootstrap 样式的 Blazor UI 组件库",
+      "source": "开源中国",
+      "published": "2026-05-31",
+      "summary": "BootstrapBlazor v10.7.0 已经发布，Bootstrap 样式的 Blazor UI 组件库 此版本更新内容包括： Release 2026-05-31 V10.7.0 Features feat(OctIcons): 更新依赖到最新发布 10.0.3 by @ArgoZhang in https://github.com/dotnetcore/BootstrapBlazor/pull/8067 feat(ThemeProvider): 保持 auto 值不使用实际值代替 by @Ar...",
+      "link": "https://www.oschina.net/news/449803",
       "category": "AI News"
     },
     {
@@ -98,22 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "source": "量子位",
-      "published": "2026-05-29",
-      "summary": "智驾出事，比亚迪兜底",
-      "link": "https://www.qbitai.com/2026/05/426557.html",
-      "category": "AI News"
-    },
-    {
-      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-      "source": "量子位",
-      "published": "2026-05-29",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/05/426552.html",
-      "category": "AI News"
-    },
-    {
       "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
       "source": "InfoQ 中文",
       "published": "2026-05-29",
@@ -130,27 +146,11 @@
       "category": "AI News"
     },
     {
-      "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
-      "source": "InfoQ 中文",
-      "published": "2026-05-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rkzo8wTerq0TlxbqP1tR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "国家大基金领投 DeepSeek，首轮融资投前估值 450 亿美元",
       "source": "开源中国",
       "published": "2026-05-29",
       "summary": "成立三年、一直靠自有资金运转的 DeepSeek，终于在 2026 年打开了融资大门。媒体日前披露，国家集成电路产业投资基金（大基金）将领投 DeepSeek 首轮对外融资，投前估值达到 450 亿美元，本轮融资规模约 700 亿元人民币。 这个数字放在当前的中国 AI 行业里，称得上是一个分水岭事件。DeepSeek 自 2023 年成立以来，以极...",
       "link": "https://www.oschina.net/news/448081",
-      "category": "AI News"
-    },
-    {
-      "title": "小米开源可控视频音效生成模型 ControlFoley",
-      "source": "开源中国",
-      "published": "2026-05-29",
-      "summary": "小米大模型应用团队发布 ControlFoley 开源模型，面向视频同步音效生成中的“可控性”难题，统一支持文本引导视频配音、文本控制视频配音和参考音频控制视频配音三类任务。 根据介绍，ControlFoley 在多个视频音效生成任务上达到开源 SOTA 表现，在语义对齐、时间同步、声音质量以及多模态控制能力上取得全面提升。代码、...",
-      "link": "https://www.oschina.net/news/448080",
       "category": "AI News"
     },
     {
