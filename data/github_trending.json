@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-31T12:22:47.066011+00:00",
+  "updated": "2026-06-01T00:23:30.898094+00:00",
   "repositories": [
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 73029,
+      "stars": 74122,
       "stars_today": 1937,
       "language": "Python",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo"
@@ -12,112 +12,112 @@
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 133781,
-      "stars_today": 2759,
+      "stars": 134916,
+      "stars_today": 2798,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 56062,
-      "stars_today": 639,
+      "stars": 56596,
+      "stars_today": 606,
       "language": "Python",
       "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
       "name": "nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 9574,
-      "stars_today": 320,
+      "stars": 9955,
+      "stars_today": 357,
       "language": "Python",
       "link": "https://github.com/nesquena/hermes-webui"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": 18537,
-      "stars_today": 243,
+      "stars": 18695,
+      "stars_today": 251,
       "language": "TypeScript",
       "link": "https://github.com/EveryInc/compound-engineering-plugin"
     },
     {
       "name": "github/docs",
       "description": "The open-source repo for docs.github.com",
-      "stars": 19591,
-      "stars_today": 20,
+      "stars": 19724,
+      "stars_today": 27,
       "language": "TypeScript",
       "link": "https://github.com/github/docs"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 23104,
-      "stars_today": 779,
+      "stars": 23504,
+      "stars_today": 635,
       "language": "Python",
       "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 4425,
-      "stars_today": 55,
+      "stars": 4588,
+      "stars_today": 323,
       "language": "HTML",
       "link": "https://github.com/revfactory/harness"
     },
     {
       "name": "FareedKhan-dev/train-llm-from-scratch",
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": 2557,
-      "stars_today": 327,
+      "stars": 2948,
+      "stars_today": 626,
       "language": "Jupyter Notebook",
       "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
     },
     {
       "name": "supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 23046,
-      "stars_today": 236,
+      "stars": 23325,
+      "stars_today": 264,
       "language": "TypeScript",
       "link": "https://github.com/supermemoryai/supermemory"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "stars": 27512,
-      "stars_today": 372,
+      "stars": 27719,
+      "stars_today": 374,
       "language": "TypeScript",
       "link": "https://github.com/Crosstalk-Solutions/project-nomad"
     },
     {
       "name": "anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
-      "stars": 128623,
-      "stars_today": 490,
+      "stars": 128896,
+      "stars_today": 489,
       "language": "Python",
       "link": "https://github.com/anthropics/claude-code"
     },
     {
       "name": "nicobailon/pi-subagents",
       "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-      "stars": 1725,
-      "stars_today": 59,
+      "stars": 1834,
+      "stars_today": 69,
       "language": "TypeScript",
       "link": "https://github.com/nicobailon/pi-subagents"
     },
     {
       "name": "emmabostian/developer-portfolios",
       "description": "A list of developer portfolios for your inspiration",
-      "stars": 23153,
-      "stars_today": 53,
+      "stars": 23354,
+      "stars_today": 73,
       "language": "Python",
       "link": "https://github.com/emmabostian/developer-portfolios"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 508785,
-      "stars_today": 1112,
+      "stars": 509386,
+      "stars_today": 1158,
       "language": "Markdown",
       "link": "https://github.com/codecrafters-io/build-your-own-x"
     }
