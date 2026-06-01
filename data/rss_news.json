@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-01T00:24:11.616839+00:00",
+  "updated": "2026-06-01T13:53:20.493487+00:00",
   "articles": [
     {
-      "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+      "title": "构建云原生 Kafka：从分层存储迈向无盘未来",
+      "source": "InfoQ 中文",
+      "published": "2026-06-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/0o9rwjoo2XsSH7Noi7kw?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场",
+      "source": "InfoQ 中文",
+      "published": "2026-06-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微软推出 MDASH，用于大规模 AI 漏洞研究",
+      "source": "InfoQ 中文",
+      "published": "2026-06-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报",
+      "source": "InfoQ 中文",
+      "published": "2026-06-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "如何解决 Kafka 和 Flink 管道中的模式膨胀问题",
+      "source": "InfoQ 中文",
+      "published": "2026-06-01",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "学会 SQL，受用三十年",
+      "source": "开源中国",
+      "published": "2026-06-01",
+      "summary": "对于\"该学什么语言\"这个问题，社区的回答总是层出不穷——Go、Rust、Elixir、Haskell……每隔几年就会出现一个新的\"正确答案\"，让开发者不断重新投资学习。但 Fagner Brack 最近的一篇文章提出了一个反直觉的观点：SQL 是少有的、经得起时间考验的编程语言，一次学会，受用三十年。 SQL 建立在数学之上，而非潮流之上 这...",
+      "link": "https://www.oschina.net/news/450485",
+      "category": "AI News"
+    },
+    {
+      "title": "AI Coding agents 的 UI 困境：终端正在成为工作空间而非工具",
+      "source": "开源中国",
+      "published": "2026-06-01",
+      "summary": "很长时间以来，终端一直是开发者工作流中最简单的一部分。你打开一个 shell，运行命令，查看输出，切换目录，也许再分个窗格，然后继续。它是一个薄的、快速的执行接口，不是一个完整的工作空间。 但 AI coding agents 改变了这个逻辑。它们写代码——更准确地说，它们现在在开发者最常做有状态工作的同一个环境中运行：...",
+      "link": "https://www.oschina.net/news/450478",
+      "category": "AI News"
+    },
+    {
+      "title": "用 10 年前至强服务器跑满血版 Gemma 4 26B MoE，llama.cpp CPU 推理调优实录",
+      "source": "开源中国",
+      "published": "2026-06-01",
+      "summary": "2016年的Intel Xeon E5-2620 v4服务器，8核16线程、128GB DDR3内存、没有任何GPU——这样的硬件配置在今天看来已经相当落伍。但一位开发者偏偏要用这台\"10年前的服务器\"运行Google最新发布的Gemma 4 26B MoE模型，结果出乎意料：推理水平达到了\"人眼可阅读\"的生成速度。 作者使用的llama.cpp命令行工具，通过speculative...",
+      "link": "https://www.oschina.net/news/450458/gemma-4-on-a-2016-xeon",
+      "category": "AI News"
+    },
+    {
+      "title": "‌美联航‌ 767 航班因蓝牙设备名触发安全警报返航",
+      "source": "开源中国",
+      "published": "2026-06-01",
+      "summary": "5月30日，美联航一架波音767-400ER客机（UA236航班）在从纽瓦克飞往帕尔马德马洛卡的途中，因一名乘客的蓝牙设备名称触发了意想不到的安全警报。这名乘客将其Fitbit手环的蓝牙名称设置为\"BOMB\"（炸弹），导致机组在飞行约60分钟后决定返航纽瓦克机场。 事件起因是一名青少年乘客将自己的Fitbit设备命名为\"BOMB\"。当机组人...",
+      "link": "https://www.oschina.net/news/450445",
+      "category": "AI News"
+    },
+    {
+      "title": "CopyQ 16.0.0 发布，跨平台剪切板管理工具",
+      "source": "开源中国",
+      "published": "2026-06-01",
+      "summary": "CopyQ 是一个剪切板管理工具，可以监控系统剪贴板，并将其内容保存在自定义标签中。保存的剪贴板内容可以在以后直接复制和粘贴到任何应用程序中。 CopyQ 16.0.0 现已发布，更新内容如下： Added 通过clipboard_mime_size_limit配置选项和COPYQ_CLIPBOARD_MIME_SIZE_LIMIT环境变量，设置每个 MIME 类型的剪贴板大小限制以...",
+      "link": "https://www.oschina.net/news/450444/copyq-16-0-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
       "source": "36氪",
       "published": "2026-06-01",
-      "summary": "今日热点导览OpenAI称使用AI攻克“80岁”数学难题亚马逊：关停词元跟踪榜单马斯克辟谣SpaceX估值下调三花智控高管“为孩子教育”减持套现超4.3亿哈根达斯中国被曝将被柠季收购TOP 3大新闻天涯社区正式恢复访问6月1日起，天涯社区正式恢复访问。据“天涯社区”官方微博发布的《关于天涯社区恢复访问进展的情况说明》，自2023年4月1日起，天涯社区因电信IDC欠费而暂停访问。为了确保涉及上亿用户的天涯数据完整存续以及天涯社区的恢复访问，三年来，天涯社区重启团队持续不懈地展开自救。今年2月份，在新天涯联合工作组的支持下，确立了推进2026年6月1日前恢复天涯社区访问的方案。此外，天涯社区数据迁",
-      "link": "https://36kr.com/p/3833859545343618?f=rss",
+      "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间",
+      "link": "https://36kr.com/p/3834544830721671?f=rss",
       "category": "AI News"
     },
     {
-      "title": "DDIM之父宋佳铭，宣布离职",
-      "source": "量子位",
-      "published": "2026-05-31",
-      "summary": "新的浪潮，还在继续往前推",
-      "link": "https://www.qbitai.com/2026/05/427104.html",
-      "category": "AI News"
-    },
-    {
-      "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-      "source": "量子位",
-      "published": "2026-05-31",
-      "summary": "下一代CUA训练范式",
-      "link": "https://www.qbitai.com/2026/05/427005.html",
-      "category": "AI News"
-    },
-    {
-      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-      "source": "量子位",
-      "published": "2026-05-31",
-      "summary": "我们需要一台「印刷机」",
-      "link": "https://www.qbitai.com/2026/05/426991.html",
-      "category": "AI News"
-    },
-    {
-      "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
-      "source": "量子位",
-      "published": "2026-05-31",
-      "summary": "半年斩获5轮融资",
-      "link": "https://www.qbitai.com/2026/05/426984.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "source": "量子位",
-      "published": "2026-05-31",
-      "summary": "让世界模型迈向多智能体交互仿真",
-      "link": "https://www.qbitai.com/2026/05/426970.html",
-      "category": "AI News"
-    },
-    {
-      "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
-      "source": "InfoQ 中文",
-      "published": "2026-05-31",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "BootstrapBlazor v10.7.0 已经发布，Bootstrap 样式的 Blazor UI 组件库",
-      "source": "开源中国",
-      "published": "2026-05-31",
-      "summary": "BootstrapBlazor v10.7.0 已经发布，Bootstrap 样式的 Blazor UI 组件库 此版本更新内容包括： Release 2026-05-31 V10.7.0 Features feat(OctIcons): 更新依赖到最新发布 10.0.3 by @ArgoZhang in https://github.com/dotnetcore/BootstrapBlazor/pull/8067 feat(ThemeProvider): 保持 auto 值不使用实际值代替 by @Ar...",
-      "link": "https://www.oschina.net/news/449803",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
-      "source": "InfoQ 中文",
-      "published": "2026-05-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
-      "source": "InfoQ 中文",
-      "published": "2026-05-30",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "ProxyPin v1.2.8 已经发布，全平台 HTTP 抓包工具",
-      "source": "开源中国",
-      "published": "2026-05-30",
-      "summary": "ProxyPin v1.2.8 已经发布，全平台 HTTP 抓包工具 此版本更新内容包括： iOS App Store：https://apps.apple.com/app/proxypin/id6450932949 QQ群交流: https://qm.qq.com/q/pE3U9IAkXC 证书安装流程介绍：https://www.bilibili.com/video/BV1Qm4y157Gk/ V1.2.8 新增多选功能，支持批量删除、导出、重放； 增强请求重写，...",
-      "link": "https://www.oschina.net/news/448459",
-      "category": "AI News"
-    },
-    {
-      "title": "免费可商用 PHP 管理后台 CatchAdmin V5.3.1 发布 后台打包时间降到 10s 内",
-      "source": "开源中国",
-      "published": "2026-05-30",
-      "summary": "介绍 CatchAdmin 是一款基于 Laravel 13.x 和 Vue3 二次开发的 PHP 开源后台管理系统，采用前后端分离架构，面向企业级后台场景，提供了一套开箱即用、可持续扩展的后台基础框架。 它内置了后台系统常用的一整套能力，包括 Token 鉴权、权限管理、动态路由、动态表格、分页封装、资源权限控制、上传下载、代码生成器、数...",
-      "link": "https://www.oschina.net/news/448447",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenHarmony 总架构师任革林谈开源鸿蒙这六年",
-      "source": "开源中国",
-      "published": "2026-05-30",
-      "summary": "开源鸿蒙项目管理委员会主席任革林在开源鸿蒙开发者大会 2026（OHDC 2026） 的主论坛结束后，与我们一起走进了媒体采访间。当天早些时候，这位开源鸿蒙项目的总架构师正式对外解读了 OpenHarmony 6.x Release 的新特性，并预发布了 6.1 LTS 版本。",
-      "link": "https://my.oschina.net/u/4487475/blog/19688886",
-      "category": "AI News"
-    },
-    {
-      "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
+      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
       "source": "36氪",
-      "published": "2026-05-30",
-      "summary": "5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年发展基金会捐赠总价值约468万元的产品，并启动新一年度校园义卖活动。从表面来看，这是一场校园公益活动；但放在全球美妆行业的发展背景下，它更像是美妆品牌持续拥抱运动文化和健康生活方式的一次缩影。过去很长一段时间，美妆与运动被视为两个相对独立的消费领域。前者围绕审美表达展开，后者则强调竞技和功能价值。然而近年来，随着健康消费崛起、女性运动参与率提升以及生活方式经",
-      "link": "https://36kr.com/p/3831348302358408?f=rss",
+      "published": "2026-06-01",
+      "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。这笔融资背后，是一个逐渐清晰的判断：AI for Science需要量子计算。AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模型预测结果也会显著受限。量子计算，天然适合模拟分子结构、化学键等体系。作为一种高精度求解器，它有可能输出更接近物理世界规律的计算结果；计算产出的量子级高精度数据，也是",
+      "link": "https://36kr.com/p/3826034537223043?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
       "source": "36氪",
-      "published": "2026-05-30",
-      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎博士，曾先后在腾讯、小鹏、美团等企业负责机器人核心技术研发，深耕多模态大模型、3D感知、多传感器融合等领域，拥有丰富量产实战经",
-      "link": "https://36kr.com/p/3831135917107075?f=rss",
+      "published": "2026-06-01",
+      "summary": "大公司：中通快递在广州成立新物流公司，注册资本5亿36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人OpenAI CEO山姆·奥特曼在社交平台发布OpenAI Robotics招聘信息，称公司正在寻找杰出的全栈硬件、运营、系统及机器学习工程师，共同编程并制造对社会真正有用的机器人。奥特曼表示，人工智能应当能够在现实世界中帮助人类。短期内，OpenAI专注于研发能够协助技术工",
+      "link": "https://36kr.com/p/3834354415347337?f=rss",
       "category": "AI News"
     },
     {
-      "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+      "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
       "source": "36氪",
-      "published": "2026-05-30",
-      "summary": "今日热点导览黄仁勋披露“赶飞机”细节，特朗普要出发时来电话国内航线燃油附加费6月5日起首次下调铁路将实施新规：违规乘车拒不补票将被限制购票iPhone 17系列中国销量破3000万台，Pro Max版占近一半SpaceX据悉将IPO估值目标下调至至少1.8万亿美元TOP3大新闻泡泡玛特上涨，段永平单日盈利近10亿港币泡泡玛特迎来强势上涨，5月29日盘中最大涨幅超12%，截至29日记者发稿报收176港元，涨幅达8.98%。此番行情走高，与知名投资人段永平大举布局相关。据港交所5月27日披露的信息显示，知名投资人段永平举牌泡泡玛特，当时的持仓市值超117亿港元。伴随29日股价上扬，其单日账面盈利接",
-      "link": "https://36kr.com/p/3831073348855433?f=rss",
+      "published": "2026-06-01",
+      "summary": "一、每一年，我们都在找一个地方，让年轻人在一起WAVES之夜是WAVES独有的标签。不是又一个分论坛，不是又一个颁奖礼，不是又一场穿西装坐两小时的行业对话。它是WAVES的\"晚上\"——白天属于议程和逻辑，夜晚属于人和直觉。2023年，我们把年轻人和创业者拉到了北京金海湖的碧波岛上。那个夜晚，有人在草坪上喝啤酒，有人在帐篷里聊融资条款，有人在露天电影前什么都没想，发了一小时呆。暗涌WAVES后来写了一段话，成了WAVES之夜最好的一句注脚：\"几年、十几年甚至更长的时间之后，我们今天在场的人中如果有一些人，会一不小心想起今天，大概大多数记忆都是模糊，但你也会觉得这是一个美好的夏天夜晚。有落日，有草",
+      "link": "https://36kr.com/p/3834276149356420?f=rss",
       "category": "AI News"
     },
     {
-      "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
+      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
       "source": "36氪",
-      "published": "2026-05-30",
-      "summary": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。西安光机所副所长邵晓鹏在沙龙上演讲“好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智控——太空智驾与遥感技术的产业共振”为主题，汇聚了航天领域专家，以及来自科创企业、投资机构与地方政府的近百位代表，共同探讨卫星和星座从被动响应向自主决策升级的技术路径",
-      "link": "https://36kr.com/p/3831071878358659?f=rss",
+      "published": "2026-06-01",
+      "summary": "作者 | 林晴晴编辑 | 袁斯来硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，兴棠资本担任长期财务顾问。本轮融资资金将主要用于在宁波高新区建设8英寸混合键合量产线及后续研发投入。「秋水半导体」成立于2022年11月，是一家专注于Micro-LED微显示芯片与模组的半导体公司，产品覆盖数字车灯、AR眼镜、微投影等应用领域。公司总部原在苏州，近期已整体搬迁至宁波。Micro-LED常被认为是下一代显示技术的重要方向，但过去几年量",
+      "link": "https://36kr.com/p/3834427736024965?f=rss",
       "category": "AI News"
     },
     {
-      "title": "对话罗剑岚：把机器人“部署”本身变成训练的一部分",
-      "source": "InfoQ 中文",
+      "title": "[EN] Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "source": "Hugging Face Blog",
+      "published": "2026-06-01",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "source": "Hugging Face Blog",
+      "published": "2026-06-01",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] Boston Children’s uses AI to unlock new diagnoses",
+      "source": "OpenAI Blog",
       "published": "2026-05-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9qNdzFNpb66rcCfKhNFe?utm_source=rss&utm_medium=article",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "link": "https://openai.com/index/boston-childrens-hospital",
       "category": "AI News"
     },
     {
-      "title": "OpenShift年入20亿美元、虚拟化业务狂飙417%，市场重构后，红帽靠什么持续领跑？",
-      "source": "InfoQ 中文",
+      "title": "[EN] How Braintrust turns customer requests into code with Codex",
+      "source": "OpenAI Blog",
       "published": "2026-05-29",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/8UVgTm994lb7wHITMpXV?utm_source=rss&utm_medium=article",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "link": "https://openai.com/index/braintrust",
       "category": "AI News"
     },
     {
-      "title": "国家大基金领投 DeepSeek，首轮融资投前估值 450 亿美元",
-      "source": "开源中国",
+      "title": "[EN] Strengthening societal resilience with Rosalind Biodefense",
+      "source": "OpenAI Blog",
       "published": "2026-05-29",
-      "summary": "成立三年、一直靠自有资金运转的 DeepSeek，终于在 2026 年打开了融资大门。媒体日前披露，国家集成电路产业投资基金（大基金）将领投 DeepSeek 首轮对外融资，投前估值达到 450 亿美元，本轮融资规模约 700 亿元人民币。 这个数字放在当前的中国 AI 行业里，称得上是一个分水岭事件。DeepSeek 自 2023 年成立以来，以极...",
-      "link": "https://www.oschina.net/news/448081",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "category": "AI News"
     }
   ]
