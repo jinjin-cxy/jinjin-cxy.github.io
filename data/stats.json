@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-02T00:28:48.958964+00:00",
+  "updated": "2026-06-02T13:05:50.800955+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 15,
+    "github_trending": 11,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -22,12 +22,12 @@
       "count": 12
     },
     {
-      "tag": "qwen3",
+      "tag": "conversational",
       "count": 4
     },
     {
-      "tag": "conversational",
-      "count": 4
+      "tag": "qwen3",
+      "count": 3
     },
     {
       "tag": "qwen2",
@@ -57,10 +57,6 @@
     },
     {
       "language": "TypeScript",
-      "count": 3
-    },
-    {
-      "language": "Jupyter Notebook",
       "count": 2
     },
     {
@@ -68,7 +64,7 @@
       "count": 1
     },
     {
-      "language": "HTML",
+      "language": "Jupyter Notebook",
       "count": 1
     }
   ]

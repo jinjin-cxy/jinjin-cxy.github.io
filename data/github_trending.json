@@ -1,125 +1,93 @@
 {
-  "updated": "2026-06-02T00:28:38.088994+00:00",
+  "updated": "2026-06-02T13:05:41.341202+00:00",
   "repositories": [
+    {
+      "name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 4905,
+      "stars_today": 1266,
+      "language": "Python",
+      "link": "https://github.com/chopratejas/headroom"
+    },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 138349,
-      "stars_today": 3034,
+      "stars": 140422,
+      "stars_today": 3616,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
-      "name": "nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 11276,
-      "stars_today": 945,
-      "language": "Python",
-      "link": "https://github.com/nesquena/hermes-webui"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 23961,
-      "stars_today": 647,
-      "language": "TypeScript",
-      "link": "https://github.com/supermemoryai/supermemory"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 76810,
-      "stars_today": 3375,
-      "language": "Python",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 202928,
+      "stars_today": 1842,
+      "language": "JavaScript",
+      "link": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 58011,
-      "stars_today": 1486,
+      "stars": 58739,
+      "stars_today": 1196,
       "language": "Python",
       "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
-      "name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "stars": 32673,
-      "stars_today": 485,
-      "language": "JavaScript",
-      "link": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "stars": 23024,
-      "stars_today": 249,
+      "name": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars": 12228,
+      "stars_today": 1725,
       "language": "Python",
-      "link": "https://github.com/p-e-w/heretic"
+      "link": "https://github.com/nesquena/hermes-webui"
     },
     {
-      "name": "EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "stars": 19097,
-      "stars_today": 417,
+      "name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": 4276,
+      "stars_today": 319,
       "language": "TypeScript",
-      "link": "https://github.com/EveryInc/compound-engineering-plugin"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "stars": 81753,
-      "stars_today": 299,
-      "language": "Python",
-      "link": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "name": "revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "stars": 5137,
-      "stars_today": 524,
-      "language": "HTML",
-      "link": "https://github.com/revfactory/harness"
-    },
-    {
-      "name": "godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "stars": 111633,
-      "stars_today": 77,
-      "language": "C++",
-      "link": "https://github.com/godotengine/godot"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 9456,
-      "stars_today": 335,
-      "language": "TypeScript",
-      "link": "https://github.com/can1357/oh-my-pi"
+      "link": "https://github.com/reconurge/flowsint"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 24219,
-      "stars_today": 888,
+      "stars": 24781,
+      "stars_today": 779,
       "language": "Python",
       "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "stars": 3703,
-      "stars_today": 861,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
-    },
-    {
       "name": "stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "stars": 17850,
-      "stars_today": 93,
+      "stars": 18167,
+      "stars_today": 570,
       "language": "Jupyter Notebook",
       "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "description": "",
+      "stars": 6232,
+      "stars_today": 31,
+      "language": "Python",
+      "link": "https://github.com/jamwithai/production-agentic-rag-course"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars": 24374,
+      "stars_today": 677,
+      "language": "TypeScript",
+      "link": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 8047,
+      "stars_today": 65,
+      "language": "Python",
+      "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
     }
   ]
 }
