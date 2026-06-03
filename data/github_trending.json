@@ -1,91 +1,91 @@
 {
-  "updated": "2026-06-02T13:05:41.341202+00:00",
+  "updated": "2026-06-03T00:33:11.294173+00:00",
   "repositories": [
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 4905,
-      "stars_today": 1266,
+      "stars": 6367,
+      "stars_today": 1265,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 140422,
-      "stars_today": 3616,
+      "stars": 141105,
+      "stars_today": 3618,
       "language": "Python",
       "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 202928,
-      "stars_today": 1842,
+      "stars": 203922,
+      "stars_today": 1533,
       "language": "JavaScript",
       "link": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 58739,
-      "stars_today": 1196,
+      "stars": 59146,
+      "stars_today": 1182,
       "language": "Python",
       "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
       "name": "nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 12228,
-      "stars_today": 1725,
+      "stars": 12528,
+      "stars_today": 1722,
       "language": "Python",
       "link": "https://github.com/nesquena/hermes-webui"
     },
     {
       "name": "reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "stars": 4276,
-      "stars_today": 319,
+      "stars": 4497,
+      "stars_today": 124,
       "language": "TypeScript",
       "link": "https://github.com/reconurge/flowsint"
     },
     {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 24781,
-      "stars_today": 779,
+      "stars": 25107,
+      "stars_today": 783,
       "language": "Python",
       "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "stars": 18167,
-      "stars_today": 570,
+      "stars": 18452,
+      "stars_today": 574,
       "language": "Jupyter Notebook",
       "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
     },
     {
       "name": "jamwithai/production-agentic-rag-course",
       "description": "",
-      "stars": 6232,
-      "stars_today": 31,
+      "stars": 6370,
+      "stars_today": 30,
       "language": "Python",
       "link": "https://github.com/jamwithai/production-agentic-rag-course"
     },
     {
       "name": "supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 24374,
-      "stars_today": 677,
+      "stars": 24617,
+      "stars_today": 680,
       "language": "TypeScript",
       "link": "https://github.com/supermemoryai/supermemory"
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 8047,
-      "stars_today": 65,
+      "stars": 8349,
+      "stars_today": 66,
       "language": "Python",
       "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
     }
