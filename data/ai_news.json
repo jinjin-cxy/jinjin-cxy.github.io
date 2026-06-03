@@ -1,6 +1,142 @@
 {
-  "updated": "2026-06-03T00:33:21.866207+00:00",
+  "updated": "2026-06-03T13:27:40.653885+00:00",
   "articles": [
+    {
+      "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
+      "source": "量子位",
+      "published": "2026-06-03",
+      "summary": "在潜在空间中完成信息传导",
+      "link": "https://www.qbitai.com/2026/06/428544.html",
+      "category": "AI News"
+    },
+    {
+      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+      "source": "量子位",
+      "published": "2026-06-03",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/428435.html",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，Anthropic提交了招股书！",
+      "source": "量子位",
+      "published": "2026-06-03",
+      "summary": "最快Q4上市",
+      "link": "https://www.qbitai.com/2026/06/428407.html",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，Meta Skill来了",
+      "source": "量子位",
+      "published": "2026-06-03",
+      "summary": "GitHub最新火爆仓库：OpenSquilla。",
+      "link": "https://www.qbitai.com/2026/06/428335.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移",
+      "source": "InfoQ 中文",
+      "published": "2026-06-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+      "source": "InfoQ 中文",
+      "published": "2026-06-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则",
+      "source": "InfoQ 中文",
+      "published": "2026-06-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告",
+      "source": "InfoQ 中文",
+      "published": "2026-06-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
+      "source": "InfoQ 中文",
+      "published": "2026-06-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "用 Jujutsu (jj) 做大型代码变更审查：一种减少认知负担的工作流",
+      "source": "开源中国",
+      "published": "2026-06-03",
+      "summary": "代码审查是软件工程中最重要的质量保障手段之一，但当面对一个包含数百个文件、数万行代码变更的大型PR时，即便是最有经验的审查者也容易迷失。传统的Git工作流在处理这类场景时往往力不从心——你需要记住哪些文件看过了、哪些还没看、哪些意见已经解决了。这份\"心理清单\"本身就是一种认知负担。Ben Gesoff最近分享了一...",
+      "link": "https://www.oschina.net/news/451559/reviewing-large-changes-with-jj",
+      "category": "AI News"
+    },
+    {
+      "title": "微软提出“Agent 优化循环”，将 Agent 质量改进定义为搜索问题",
+      "source": "开源中国",
+      "published": "2026-06-03",
+      "summary": "微软工程师在实践中发现了一个困扰许多团队的问题：AI Agent的质量改进陷入了\"测量容易修复难\"的困境。当团队能够追踪和评估Agent的表现时，却发现即使知道问题所在，也很难在不引入回归的情况下完成修复。针对这个挑战，微软Vivek Bhaduria、Luis Quintanilla和Saket Sathe组成的团队提出了一个新的解决思路——将Agent...",
+      "link": "https://www.oschina.net/news/451536",
+      "category": "AI News"
+    },
+    {
+      "title": "Netty 4.2.15.Final 发布，Java 网络应用框架",
+      "source": "开源中国",
+      "published": "2026-06-03",
+      "summary": "Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。Netty 4.2.15.Final 现已发布，这是一个修复漏洞和安全问题的版本。 CVE-2026-48059：io.netty:netty-codec-haproxy内存耗尽（high） CVE-2026-47691：io.netty:netty-resolver-dns中的 DNS 缓存中毒（high） CVE-2026-X...",
+      "link": "https://www.oschina.net/news/451528/netty-4-2-15-released",
+      "category": "AI News"
+    },
+    {
+      "title": "微软发布 Project Solara，面向 AI Agent 时代的硬件平台",
+      "source": "开源中国",
+      "published": "2026-06-03",
+      "summary": "微软在Build 2026期间正式公布了代号为\"Project Solara\"的芯片到云端平台，这是一个专为AI Agent优先体验设计的全新硬件+软件整合方案。微软Windows与设备副总裁Steven Bathiche在博客中表示，AI Agent正在成为新的编程单元和人机交互单元，Project Solara的使命是推动新类型计算设备的出现。 Project Solara的架构围绕三...",
+      "link": "https://www.oschina.net/news/451516",
+      "category": "AI News"
+    },
+    {
+      "title": "TimescaleDB 2.27.2 发布，基于 PostgreSQL 的时序数据库",
+      "source": "开源中国",
+      "published": "2026-06-03",
+      "summary": "TimescaleDB 是一个开源数据库，旨在使 SQL 可扩展到时间序列数据，基于 PostgreSQL 构建的，并打包为 PostgreSQL 扩展程序，提供跨时间和空间的自动分区，以及完整的 SQL 支持。 TimescaleDB 2.27.2 现已发布，此版本修复了自 2.27.1 版本以来存在的错误。官方建议尽快升级。 错误修复 #9895 添加列存储策略时移除刷新策...",
+      "link": "https://www.oschina.net/news/451512/timescaledb-2-27-2-released",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
+      "source": "36氪",
+      "published": "2026-06-03",
+      "summary": "文｜邓咏仪编辑｜张雨忻 杨轩36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗量仍然保持着月度近 ",
+      "link": "https://36kr.com/p/3836973710423429?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "source": "36氪",
+      "published": "2026-06-03",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。具身智能赛道竞争逻辑正发生根本性切换。",
+      "link": "https://36kr.com/p/3836068296209537?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+      "source": "36氪",
+      "published": "2026-06-03",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。不同于市面上常见的巡检机器人，旷行科技的核",
+      "link": "https://36kr.com/p/3836744788014208?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
       "source": "36氪",
@@ -10,155 +146,19 @@
       "category": "AI News"
     },
     {
+      "title": "[EN] Direct Preference Optimization Beyond Chatbots",
+      "source": "Hugging Face Blog",
+      "published": "2026-06-03",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "category": "AI News"
+    },
+    {
       "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
       "source": "量子位",
       "published": "2026-06-02",
       "summary": "还能带你打卡老黄同款南锣路线",
       "link": "https://www.qbitai.com/2026/06/428092.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI挖走中科大少年班校友！12岁上大学，哈佛史上最年轻正教授",
-      "source": "量子位",
-      "published": "2026-06-02",
-      "summary": "还挖走了苏炜杰",
-      "link": "https://www.qbitai.com/2026/06/428003.html",
-      "category": "AI News"
-    },
-    {
-      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
-      "source": "量子位",
-      "published": "2026-06-02",
-      "summary": "平台入驻全球达人已超10万",
-      "link": "https://www.qbitai.com/2026/06/427922.html",
-      "category": "AI News"
-    },
-    {
-      "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-      "source": "量子位",
-      "published": "2026-06-02",
-      "summary": "AI视频编辑先理解再动手",
-      "link": "https://www.qbitai.com/2026/06/427810.html",
-      "category": "AI News"
-    },
-    {
-      "title": "“豆包汽车”，目标市场10万-20万",
-      "source": "量子位",
-      "published": "2026-06-02",
-      "summary": "国资入主，赛力斯让权",
-      "link": "https://www.qbitai.com/2026/06/427760.html",
-      "category": "AI News"
-    },
-    {
-      "title": "LinkedIn 如何发现导致系统反复死机的内核锁竞争问题",
-      "source": "InfoQ 中文",
-      "published": "2026-06-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
-      "source": "InfoQ 中文",
-      "published": "2026-06-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？",
-      "source": "InfoQ 中文",
-      "published": "2026-06-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
-      "source": "InfoQ 中文",
-      "published": "2026-06-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "不会写代码的“鲸鱼哥”，被 DeepSeek 改写人生 | 专访 Hunter Bown",
-      "source": "InfoQ 中文",
-      "published": "2026-06-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/dxWDEmZrgm23D9Y5152j?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "英伟达联合微软发布 RTX Spark：消费级 ARM 超级芯片、1 Petaflop 算力塞进 Windows PC",
-      "source": "开源中国",
-      "published": "2026-06-02",
-      "summary": "NVIDIA与微软在Computex 2026期间联合发布了RTX Spark，这是一款面向消费级PC和笔记本电脑的ARM超级芯片。NVIDIA CEO将其描述为\"个人电脑的新起点\"，将Petaflop级AI算力带入消费级设备。 RTX Spark的核心参数令人印象深刻：Blackwell架构GPU与Grace CPU的结合，台积电N3E工艺，完整的CUDA和RTX生态系统支持，以及Windows...",
-      "link": "https://www.oschina.net/news/450990",
-      "category": "AI News"
-    },
-    {
-      "title": "一位创始人对抗信息成瘾的实验，购买 iPhone 17 然后对其限速",
-      "source": "开源中国",
-      "published": "2026-06-02",
-      "summary": "Guilherme Campos买了一件颇具讽刺意味的东西：一台全新的iPhone 17，然后立刻让它变慢了。这听起来有违常理——花大价钱买一台性能怪兽，再亲手把它降速——但他有充分的理由。 Campos长期与\"刷屏成瘾\"（doomscrolling）作斗争。他尝试过常见的解决方案：彻底断网、App拦截工具，但这些方法都没有触及渴望本身，而且很容...",
-      "link": "https://www.oschina.net/news/450968",
-      "category": "AI News"
-    },
-    {
-      "title": "字节 Seed 旗下 AI4S 团队核心成员顾全全宣布离职",
-      "source": "开源中国",
-      "published": "2026-06-02",
-      "summary": "字节跳动 Seed 旗下聚焦科学智能领域的 AI4S（Seed-AI for Science）团队核心成员顾全全在 X 平台上官宣了离职消息： 今天是我在字节跳动 Seed 的最后一天。 过去三年里，我有幸在人工智能领域两个最令人振奋的前沿领域工作：用于药物发现的人工智能，以及前沿大型语言模型的开发。职业生涯中能同时致力于治愈疾病和构建...",
-      "link": "https://www.oschina.net/news/450962",
-      "category": "AI News"
-    },
-    {
-      "title": "快手：AI 发展带来新职业达 15 个",
-      "source": "开源中国",
-      "published": "2026-06-02",
-      "summary": "快手发布《2025 年度快手企业社会责任报告》。报告显示，截至2025年底，可灵 AI 视频生成数超 6 亿个。企业重点布局大模型领域，累计申请专利 510 件，获得授权 270 件。 截至 2025 年底，快手平台共带动 4860 万个就业机会，其中平台直接带动就业 2600 万个，商业生态体系带动就业 1548 万个，内容生态体系带动就业 71...",
-      "link": "https://www.oschina.net/news/450942",
-      "category": "AI News"
-    },
-    {
-      "title": "微信 AI Agent 即将上线：向右滑动即可唤醒，支持自动调用小程序",
-      "source": "开源中国",
-      "published": "2026-06-02",
-      "summary": "据《金融时报》报道，腾讯即将在微信中推出AI Agent，用户通过在主界面右滑即可唤醒——类似于在iPhone上调用Siri的方式。这款AI Agent将能够代表用户自动操作微信内的小程序，完成充值、缴费、点餐等日常任务，真正实现\"甩手不管\"的自动化体验。 知情人士透露，该AI Agent的核心能力是自主使用微信小程序。微信生态内拥...",
-      "link": "https://www.oschina.net/news/450936",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-      "source": "36氪",
-      "published": "2026-06-02",
-      "summary": "大公司：高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出发前即可直观判断目的地是否符合预期。江西国家稀土技术创新中心成立，注册资本12.5亿36氪获悉，天眼查App显示，近日，江西国家稀土技术创新中心有限公司成立，法定代",
-      "link": "https://36kr.com/p/3834354708031111?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "美团在竞争中看清自己",
-      "source": "36氪",
-      "published": "2026-06-02",
-      "summary": "作者｜任彩茹编辑｜乔芊参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。值得关注的是，本季财报中美团还更新了两个关键的收入口径：一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自营零售业务。",
-      "link": "https://36kr.com/p/3835814792492416?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-      "source": "36氪",
-      "published": "2026-06-02",
-      "summary": "文｜肖思佳编辑｜乔芊 杨轩5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。”据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相",
-      "link": "https://36kr.com/p/3835814391100550?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
-      "source": "36氪",
-      "published": "2026-06-02",
-      "summary": "爱彼迎的”进化“五月的旧金山，正在经历一场技术的集体癫狂。硅谷的各路AI新贵忙着为机器进化摇旗呐喊，把发布会开成一场场技术狂欢，仿佛人类的下一步就是被算法接管一切。同样的城市里，Brian Chesky——爱彼迎联合创始人兼首席执行官，站上爱彼迎旧金山总部2026夏季发布会的舞台，面对着坐满一楼中央大厅的全球媒体和围在办公大楼每层栏杆边上的爱彼迎员工，他拿应该是过去一年最让他兴奋的事开场了，不是爱彼迎如何利用AI来进化，而是——一位在巴黎专拍家庭和情侣的摄影师，去年靠爱彼迎体验赚了14.5万美元；一位意大利第三代意面传人，靠每场90分钟、收费70美元的手工意面课，赚了超过18万美元；一位伦敦做",
-      "link": "https://36kr.com/p/3835511712363657?f=rss",
       "category": "AI News"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T00:33:21.868641+00:00",
+  "updated": "2026-06-03T13:27:40.656483+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -22,7 +22,7 @@
       "count": 12
     },
     {
-      "tag": "conversational",
+      "tag": "qwen2",
       "count": 4
     },
     {
@@ -30,7 +30,7 @@
       "count": 3
     },
     {
-      "tag": "qwen2",
+      "tag": "conversational",
       "count": 3
     },
     {
