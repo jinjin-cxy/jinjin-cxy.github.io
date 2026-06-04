@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-04T00:33:55.724116+00:00",
+  "updated": "2026-06-04T12:54:40.273414+00:00",
   "articles": [
     {
-      "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
+      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
       "source": "量子位",
-      "published": "2026-06-03",
-      "summary": "在潜在空间中完成信息传导",
-      "link": "https://www.qbitai.com/2026/06/428703.html",
+      "published": "2026-06-04",
+      "summary": "率先实现物理AI闭环飞轮",
+      "link": "https://www.qbitai.com/2026/06/429130.html",
       "category": "AI News"
     },
     {
-      "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+      "title": "连GitLab都开始裁程序员了",
       "source": "量子位",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
+      "summary": "硅谷科技公司Q1裁员同比增长40%",
+      "link": "https://www.qbitai.com/2026/06/429117.html",
+      "category": "AI News"
+    },
+    {
+      "title": "A股账户可以买Robotaxi了",
+      "source": "量子位",
+      "published": "2026-06-04",
+      "summary": "Robotaxi双雄同日官宣",
+      "link": "https://www.qbitai.com/2026/06/428954.html",
+      "category": "AI News"
+    },
+    {
+      "title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
+      "source": "量子位",
+      "published": "2026-06-04",
+      "summary": "聚焦高校科研算力",
+      "link": "https://www.qbitai.com/2026/06/428942.html",
+      "category": "AI News"
+    },
+    {
+      "title": "比亚迪与中国石化深化战略合作 共建智慧能源生态",
+      "source": "量子位",
+      "published": "2026-06-04",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/06/428435.html",
+      "link": "https://www.qbitai.com/2026/06/428933.html",
       "category": "AI News"
     },
     {
-      "title": "刚刚，Anthropic提交了招股书！",
-      "source": "量子位",
-      "published": "2026-06-03",
-      "summary": "最快Q4上市",
-      "link": "https://www.qbitai.com/2026/06/428407.html",
-      "category": "AI News"
-    },
-    {
-      "title": "刚刚，Meta Skill来了",
-      "source": "量子位",
-      "published": "2026-06-03",
-      "summary": "GitHub最新火爆仓库：OpenSquilla。",
-      "link": "https://www.qbitai.com/2026/06/428335.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移",
+      "title": "凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？",
       "source": "InfoQ 中文",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+      "title": "AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”",
       "source": "InfoQ 中文",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则",
+      "title": "3 个维度说清楚，工具型产品如何成为 AI 原生产品",
       "source": "InfoQ 中文",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/video/Cive5P8EQzbhJqFiruWZ?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告",
+      "title": "别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？",
       "source": "InfoQ 中文",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
+      "title": "刚刚，这款国产模型登顶 Artificial Analysis 输出速度榜榜首",
       "source": "InfoQ 中文",
-      "published": "2026-06-03",
+      "published": "2026-06-04",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/LxqvV7TqKRi72MksLTd9?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "用 Jujutsu (jj) 做大型代码变更审查：一种减少认知负担的工作流",
+      "title": "U-00DC-Sprache（Ü）：一种基于 LLVM 的静态类型编程语言",
       "source": "开源中国",
-      "published": "2026-06-03",
-      "summary": "代码审查是软件工程中最重要的质量保障手段之一，但当面对一个包含数百个文件、数万行代码变更的大型PR时，即便是最有经验的审查者也容易迷失。传统的Git工作流在处理这类场景时往往力不从心——你需要记住哪些文件看过了、哪些还没看、哪些意见已经解决了。这份\"心理清单\"本身就是一种认知负担。Ben Gesoff最近分享了一...",
-      "link": "https://www.oschina.net/news/451559/reviewing-large-changes-with-jj",
+      "published": "2026-06-04",
+      "summary": "在系统编程语言的世界里，C++ 长期占据着\"必须学但谁都不喜欢\"的位置。它的复杂度有目共睹——模板元编程、指针操作、内存管理的坑多得能让老手翻车。 Rust 用所有权模型重新定义了安全编程的标杆，但学习曲线同样陡峭，且慢雾山在编译期性能上付出了代价。U-00DC-Sprache（Ü）是一个近期出现在 GitHub 上的编程语言项目...",
+      "link": "https://www.oschina.net/news/452113",
       "category": "AI News"
     },
     {
-      "title": "微软提出“Agent 优化循环”，将 Agent 质量改进定义为搜索问题",
+      "title": "“AI 养马”出桌面端了：Hermes Desktop 公测发布，支持 Windows/macOS/Linux",
       "source": "开源中国",
-      "published": "2026-06-03",
-      "summary": "微软工程师在实践中发现了一个困扰许多团队的问题：AI Agent的质量改进陷入了\"测量容易修复难\"的困境。当团队能够追踪和评估Agent的表现时，却发现即使知道问题所在，也很难在不引入回归的情况下完成修复。针对这个挑战，微软Vivek Bhaduria、Luis Quintanilla和Saket Sathe组成的团队提出了一个新的解决思路——将Agent...",
-      "link": "https://www.oschina.net/news/451536",
+      "published": "2026-06-04",
+      "summary": "如果你长期关注 AI Agent 领域，可能见过一个被称为\"养马\"的项目——这是国内开发者对 Hermes Agent 的昵称。Hermes Agent 是由 Nous Research 开发的开源 AI 智能体，最大的特点是具备跨会话记忆能力和自我进化能力，能够随着用户的使用不断积累经验和技能。6月3日，Nous Research 正式发布 Hermes Desktop 桌面版应用，...",
+      "link": "https://www.oschina.net/news/452068",
       "category": "AI News"
     },
     {
-      "title": "Netty 4.2.15.Final 发布，Java 网络应用框架",
+      "title": "Golang 通用代码生成器仙童电音仙女 Beta2 版发布，增强修复了 HTML 原型模式",
       "source": "开源中国",
-      "published": "2026-06-03",
-      "summary": "Netty 是一个异步事件驱动的网络应用框架，主要用于可维护的高性能协议服务器和客户端的快速开发。Netty 4.2.15.Final 现已发布，这是一个修复漏洞和安全问题的版本。 CVE-2026-48059：io.netty:netty-codec-haproxy内存耗尽（high） CVE-2026-47691：io.netty:netty-resolver-dns中的 DNS 缓存中毒（high） CVE-2026-X...",
-      "link": "https://www.oschina.net/news/451528/netty-4-2-15-released",
+      "published": "2026-06-04",
+      "summary": "Golang通用代码生成器仙童电音仙女Beta2版发布，增强修复了HTML原型模式 Golang通用代码生成器仙童电音仙女Beta2版已发布。此版本增强修复了HTML原型模式，修复了几个HTML圆形模式复杂版面的缺陷。更稳定更少缺陷。欢迎使用。 Go语言通用代码生成器：仙童 动词算子式通用代码生成器阵列全面开源 动词算子式通用代码生成器...",
+      "link": "https://www.oschina.net/news/452056",
       "category": "AI News"
     },
     {
-      "title": "微软发布 Project Solara，面向 AI Agent 时代的硬件平台",
+      "title": "openKylin 社区 2026 年 5 月运营报告",
       "source": "开源中国",
-      "published": "2026-06-03",
-      "summary": "微软在Build 2026期间正式公布了代号为\"Project Solara\"的芯片到云端平台，这是一个专为AI Agent优先体验设计的全新硬件+软件整合方案。微软Windows与设备副总裁Steven Bathiche在博客中表示，AI Agent正在成为新的编程单元和人机交互单元，Project Solara的使命是推动新类型计算设备的出现。 Project Solara的架构围绕三...",
-      "link": "https://www.oschina.net/news/451516",
+      "published": "2026-06-04",
+      "summary": "一、社区治理 openKylin走进国防科大暨常务委员会会议召开 2026年5月28日，OpenAtom openKylin（简称“openKylin”）走进国防科大暨常务委员会5月会议在湖南长沙国防科技大学召开，来自麒麟软件、联想开天、海光信息、国防科大、国家工信安全中心常委单位代表参会。 openKylin项目新增捐赠人 ● 龙芯中科技术股份有限公司...",
+      "link": "https://www.oschina.net/news/452054",
       "category": "AI News"
     },
     {
-      "title": "TimescaleDB 2.27.2 发布，基于 PostgreSQL 的时序数据库",
+      "title": "✨License Manager 软件授权管理系统 v1.1.3 发布",
       "source": "开源中国",
-      "published": "2026-06-03",
-      "summary": "TimescaleDB 是一个开源数据库，旨在使 SQL 可扩展到时间序列数据，基于 PostgreSQL 构建的，并打包为 PostgreSQL 扩展程序，提供跨时间和空间的自动分区，以及完整的 SQL 支持。 TimescaleDB 2.27.2 现已发布，此版本修复了自 2.27.1 版本以来存在的错误。官方建议尽快升级。 错误修复 #9895 添加列存储策略时移除刷新策...",
-      "link": "https://www.oschina.net/news/451512/timescaledb-2-27-2-released",
+      "published": "2026-06-04",
+      "summary": "代码之上是资产：软件授权管理系统的战略价值与意义 | License Manager 本次更新 新增APIKEY管理模块，方便对接业务系统 修复了若干BUG，优化了部分交互 官方网站：https://cedar-v.com/",
+      "link": "https://www.oschina.net/news/452024",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨腾讯称无法确定微信AI智能体推出时间；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+      "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
       "source": "36氪",
-      "published": "2026-06-03",
-      "summary": "今日热点导览A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元名创优品称会员买单仅限潮玩商品谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型Meta在全球范围扩大青少年内容管控多家银行下架3年期5年期定期存款TOP 3大新闻腾讯人士回应微信AI智能体：无法确定何时推出6月2日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾讯相关负责人表示",
-      "link": "https://36kr.com/p/3838091144464644?f=rss",
+      "published": "2026-06-04",
+      "summary": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。AI也曾经历类似的混沌阶段。过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI Native的公司。但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的方向——方向错了，",
+      "link": "https://36kr.com/p/3838702884604421?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
       "source": "36氪",
-      "published": "2026-06-03",
-      "summary": "大公司：瑞典AI初创公司Lovable与Google Cloud扩大多年期合作据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经）段永平在泡泡玛特持股比例升至6.04%36氪获悉，据港",
-      "link": "https://36kr.com/p/3837330582008963?f=rss",
+      "published": "2026-06-04",
+      "summary": "从芯片行业在资本市场的狂飙，到华为发布“韬（τ）定律”，AI浪潮带动下，烈火烹油的半导体行业进入超级周期，推动芯片设计等上游产业链迎来需求爆发。但随着需求暴增，设计复杂度不断提高，芯片验证周期过长，拖累开发节奏的瓶颈也越来越明显。2024年西门子和威尔逊研究集团的研究报告中指出高工艺复杂芯片的流片风险非常大，首次流片成功率只有14%。“一款芯片从架构到流片一般需要两年时间，其中验证环节消耗的人力与时间往往超过60%。”王翕对36氪表示。数字芯片开发流程王翕是「智维创芯」的创始人兼董事长，目前也是东南大学的副教授、博士生导师。2025年，王翕团队依托此前在国家集成电路设计自动化技术创新中心（ED",
+      "link": "https://36kr.com/p/3838488706370054?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
+      "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
       "source": "36氪",
-      "published": "2026-06-03",
-      "summary": "文｜邓咏仪编辑｜张雨忻 杨轩36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗量仍然保持着月度近 ",
-      "link": "https://36kr.com/p/3836973710423429?f=rss",
+      "published": "2026-06-04",
+      "summary": "大公司：OpenAI首席财务官谈公司AI设备：今年年底前将正式发布OpenAI首席财务官Sarah Friar日前在受访时透露，已经亲自体验过OpenAI的AI设备。她表示到“今年年底之前”OpenAI将正式发布这款产品。此前，OpenAI曾在一份文件中表示，预计最早也要到2027年2月才会开始发货。（财联社）LG Innotek计划扩建半导体基板工厂LG Innotek将于下月开始扩建其位于越南的半导体基板工厂。此次扩建将通过其越南生产子公司的直接投资进行，计划2027年5月竣工。（新浪财经）鸿海与SK集团深化AI基础设施合作鸿海表示，董事长刘扬伟近日会见韩国SK集团会长崔泰源，双方就全球A",
+      "link": "https://36kr.com/p/3838652242823687?f=rss",
       "category": "AI News"
     },
     {
-      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
       "source": "36氪",
-      "published": "2026-06-03",
-      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。具身智能赛道竞争逻辑正发生根本性切换。",
-      "link": "https://36kr.com/p/3836068296209537?f=rss",
+      "published": "2026-06-04",
+      "summary": "文｜周鑫雨编辑｜张雨忻 杨轩《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题：加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球  SOTA（最佳）Google Genie 3 的水平。视频模型继续保持领先地位，探索“动态生成”等新方向。进一步打好 Coding 的地基，做好 Coding 的 Dogfooding（数据回流、评测，形成飞轮），提升 Agent 能力。豆包强化商业化能力，重点场景是“办公”。字节的未竟之地：世界模型如今，字节的 AI 矩阵中，有让字节终于得以进入中国大模型第一梯队的 Seed 2.0，还有做到世界 SOTA 水平的 Se",
+      "link": "https://36kr.com/p/3838454229027072?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+      "title": "李宁需要库里，但库里更需要李宁",
       "source": "36氪",
-      "published": "2026-06-03",
-      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。不同于市面上常见的巡检机器人，旷行科技的核",
-      "link": "https://36kr.com/p/3836744788014208?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Introducing new capabilities to GPT-Rosalind",
-      "source": "OpenAI Blog",
-      "published": "2026-06-03",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published": "2026-06-04",
+      "summary": "作者 |谢芸子编辑 |张帆一条消息让体育圈炸了锅。6月2日，NBA球星斯蒂芬·库里与中国运动品牌李宁，签下了一为期十年的代言。双方均未披露具体金额，但业内口径相当统一：这是一份总价超过4亿美元（约合27亿元人民币）的超级合同。据多方信息，库里每年保底可获3000万美元的代言费，还能从其个人品牌Curry Brand的销售中得到提成，外加李宁的流通股股权激励。这套“高保底+销售分成+股权”的组合模式，完全对标耐克当年给迈克尔·乔丹的待遇。库里的江湖地位毋庸置疑：他是“NBA历史上最具革命性影响的球员之一”，控卫历史第二，是“小球时代”的奠基人。今年4月，《今日美国》评选“NBA历史25大巨星”，",
+      "link": "https://36kr.com/p/3838185031305474?f=rss",
       "category": "AI News"
     }
   ]

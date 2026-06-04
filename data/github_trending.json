@@ -1,117 +1,117 @@
 {
-  "updated": "2026-06-04T00:33:46.212010+00:00",
+  "updated": "2026-06-04T12:54:22.194467+00:00",
   "repositories": [
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 9677,
-      "stars_today": 3530,
+      "stars": 11468,
+      "stars_today": 3139,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 205721,
-      "stars_today": 2141,
-      "language": "JavaScript",
-      "link": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35394,
-      "stars_today": 24,
-      "language": "Go",
-      "link": "https://github.com/aquasecurity/trivy"
-    },
-    {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 179097,
+      "stars": 180221,
       "stars_today": 1735,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 142843,
-      "stars_today": 1984,
-      "language": "Python",
-      "link": "https://github.com/microsoft/markitdown"
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 206609,
+      "stars_today": 1736,
+      "language": "JavaScript",
+      "link": "https://github.com/affaan-m/ECC"
     },
     {
-      "name": "nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 13094,
-      "stars_today": 719,
+      "name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 79588,
+      "stars_today": 105,
       "language": "Python",
-      "link": "https://github.com/nesquena/hermes-webui"
+      "link": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 60222,
-      "stars_today": 1067,
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 108275,
+      "stars_today": 311,
       "language": "Python",
-      "link": "https://github.com/D4Vinci/Scrapling"
+      "link": "https://github.com/github/spec-kit"
     },
     {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "stars": 23255,
-      "stars_today": 570,
-      "language": "Java",
-      "link": "https://github.com/opendataloader-project/opendataloader-pdf"
+      "name": "NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars": 8793,
+      "stars_today": 138,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/NVIDIA/cosmos"
     },
     {
-      "name": "odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "stars": 51925,
-      "stars_today": 29,
-      "language": "Python",
-      "link": "https://github.com/odoo/odoo"
+      "name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars": 24434,
+      "stars_today": 227,
+      "language": "TypeScript",
+      "link": "https://github.com/lfnovo/open-notebook"
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 8947,
-      "stars_today": 693,
+      "stars": 9298,
+      "stars_today": 583,
       "language": "Python",
       "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
     },
     {
       "name": "jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 349001,
+      "stars": 349455,
       "stars_today": 330,
       "language": "",
       "link": "https://github.com/jwasham/coding-interview-university"
     },
     {
-      "name": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 18890,
-      "stars_today": 208,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/lyogavin/airllm"
+      "name": "github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 8826,
+      "stars_today": 25,
+      "language": "Java",
+      "link": "https://github.com/github/copilot-sdk"
     },
     {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 25165,
-      "stars_today": 600,
+      "name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 35566,
+      "stars_today": 255,
+      "language": "Go",
+      "link": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars": 1169,
+      "stars_today": 331,
+      "language": "C#",
+      "link": "https://github.com/openclaw/openclaw-windows-node"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars": 5083,
+      "stars_today": 308,
       "language": "TypeScript",
-      "link": "https://github.com/supermemoryai/supermemory"
+      "link": "https://github.com/reconurge/flowsint"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 9902,
-      "stars_today": 197,
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 27285,
+      "stars_today": 173,
       "language": "Python",
-      "link": "https://github.com/HKUDS/Vibe-Trading"
+      "link": "https://github.com/mvanhorn/last30days-skill"
     }
   ]
 }
