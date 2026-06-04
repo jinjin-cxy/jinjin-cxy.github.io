@@ -1,93 +1,117 @@
 {
-  "updated": "2026-06-03T13:27:28.216969+00:00",
+  "updated": "2026-06-04T00:33:46.212010+00:00",
   "repositories": [
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 8469,
-      "stars_today": 3528,
+      "stars": 9677,
+      "stars_today": 3530,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "stars": 142316,
-      "stars_today": 2006,
-      "language": "Python",
-      "link": "https://github.com/microsoft/markitdown"
-    },
-    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 205014,
-      "stars_today": 2147,
+      "stars": 205721,
+      "stars_today": 2141,
       "language": "JavaScript",
       "link": "https://github.com/affaan-m/ECC"
     },
     {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "stars": 59779,
-      "stars_today": 1078,
+      "name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars": 35394,
+      "stars_today": 24,
+      "language": "Go",
+      "link": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 179097,
+      "stars_today": 1735,
       "language": "Python",
-      "link": "https://github.com/D4Vinci/Scrapling"
+      "link": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": 142843,
+      "stars_today": 1984,
+      "language": "Python",
+      "link": "https://github.com/microsoft/markitdown"
     },
     {
       "name": "nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "stars": 12913,
-      "stars_today": 734,
+      "stars": 13094,
+      "stars_today": 719,
       "language": "Python",
       "link": "https://github.com/nesquena/hermes-webui"
     },
     {
-      "name": "reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "stars": 4788,
-      "stars_today": 509,
-      "language": "TypeScript",
-      "link": "https://github.com/reconurge/flowsint"
-    },
-    {
-      "name": "OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 25467,
-      "stars_today": 713,
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars": 60222,
+      "stars_today": 1067,
       "language": "Python",
-      "link": "https://github.com/OpenBMB/VoxCPM"
+      "link": "https://github.com/D4Vinci/Scrapling"
     },
     {
-      "name": "stefan-jansen/machine-learning-for-trading",
-      "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-      "stars": 18879,
-      "stars_today": 716,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/stefan-jansen/machine-learning-for-trading"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 23255,
+      "stars_today": 570,
+      "language": "Java",
+      "link": "https://github.com/opendataloader-project/opendataloader-pdf"
     },
     {
-      "name": "jamwithai/production-agentic-rag-course",
-      "description": "",
-      "stars": 6605,
-      "stars_today": 372,
+      "name": "odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars": 51925,
+      "stars_today": 29,
       "language": "Python",
-      "link": "https://github.com/jamwithai/production-agentic-rag-course"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "stars": 24960,
-      "stars_today": 601,
-      "language": "TypeScript",
-      "link": "https://github.com/supermemoryai/supermemory"
+      "link": "https://github.com/odoo/odoo"
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 8747,
-      "stars_today": 702,
+      "stars": 8947,
+      "stars_today": 693,
       "language": "Python",
       "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 349001,
+      "stars_today": 330,
+      "language": "",
+      "link": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 18890,
+      "stars_today": 208,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars": 25165,
+      "stars_today": 600,
+      "language": "TypeScript",
+      "link": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 9902,
+      "stars_today": 197,
+      "language": "Python",
+      "link": "https://github.com/HKUDS/Vibe-Trading"
     }
   ]
 }

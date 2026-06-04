@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-03T13:27:40.653885+00:00",
+  "updated": "2026-06-04T00:33:55.724116+00:00",
   "articles": [
     {
       "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
       "source": "量子位",
       "published": "2026-06-03",
       "summary": "在潜在空间中完成信息传导",
-      "link": "https://www.qbitai.com/2026/06/428544.html",
+      "link": "https://www.qbitai.com/2026/06/428703.html",
       "category": "AI News"
     },
     {
@@ -114,6 +114,22 @@
       "category": "AI News"
     },
     {
+      "title": "8点1氪丨腾讯称无法确定微信AI智能体推出时间；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+      "source": "36氪",
+      "published": "2026-06-03",
+      "summary": "今日热点导览A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元名创优品称会员买单仅限潮玩商品谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型Meta在全球范围扩大青少年内容管控多家银行下架3年期5年期定期存款TOP 3大新闻腾讯人士回应微信AI智能体：无法确定何时推出6月2日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾讯相关负责人表示",
+      "link": "https://36kr.com/p/3838091144464644?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
+      "source": "36氪",
+      "published": "2026-06-03",
+      "summary": "大公司：瑞典AI初创公司Lovable与Google Cloud扩大多年期合作据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经）段永平在泡泡玛特持股比例升至6.04%36氪获悉，据港",
+      "link": "https://36kr.com/p/3837330582008963?f=rss",
+      "category": "AI News"
+    },
+    {
       "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
       "source": "36氪",
       "published": "2026-06-03",
@@ -138,27 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
-      "source": "36氪",
+      "title": "[EN] Introducing new capabilities to GPT-Rosalind",
+      "source": "OpenAI Blog",
       "published": "2026-06-03",
-      "summary": "今日热点导览豆包付费或专注复杂任务， 定价锚定ChatGPT英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力中国内地航线燃油附加费将下调标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款马尔代夫将限制16岁以下青少年访问部分社媒平台TOP 3大新闻腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控股（00700.",
-      "link": "https://36kr.com/p/3836703946257542?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Direct Preference Optimization Beyond Chatbots",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-03",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "category": "AI News"
-    },
-    {
-      "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
-      "source": "量子位",
-      "published": "2026-06-02",
-      "summary": "还能带你打卡老黄同款南锣路线",
-      "link": "https://www.qbitai.com/2026/06/428092.html",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "category": "AI News"
     }
   ]
