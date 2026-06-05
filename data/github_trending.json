@@ -1,90 +1,90 @@
 {
-  "updated": "2026-06-04T12:54:22.194467+00:00",
+  "updated": "2026-06-05T00:26:01.621782+00:00",
   "repositories": [
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 11468,
-      "stars_today": 3139,
+      "stars": 12452,
+      "stars_today": 3142,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 180221,
-      "stars_today": 1735,
+      "stars": 180961,
+      "stars_today": 1913,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 206609,
-      "stars_today": 1736,
+      "stars": 207214,
+      "stars_today": 1750,
       "language": "JavaScript",
       "link": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 79588,
-      "stars_today": 105,
+      "stars": 79847,
+      "stars_today": 141,
       "language": "Python",
       "link": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 108275,
-      "stars_today": 311,
+      "stars": 108566,
+      "stars_today": 321,
       "language": "Python",
       "link": "https://github.com/github/spec-kit"
     },
     {
       "name": "NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "stars": 8793,
-      "stars_today": 138,
+      "stars": 8989,
+      "stars_today": 133,
       "language": "Jupyter Notebook",
       "link": "https://github.com/NVIDIA/cosmos"
     },
     {
       "name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 24434,
-      "stars_today": 227,
+      "stars": 25006,
+      "stars_today": 212,
       "language": "TypeScript",
       "link": "https://github.com/lfnovo/open-notebook"
     },
     {
       "name": "Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "stars": 9298,
-      "stars_today": 583,
+      "stars": 9580,
+      "stars_today": 581,
       "language": "Python",
       "link": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
     },
     {
       "name": "jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
-      "stars": 349455,
-      "stars_today": 330,
+      "stars": 349710,
+      "stars_today": 632,
       "language": "",
       "link": "https://github.com/jwasham/coding-interview-university"
     },
     {
       "name": "github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "stars": 8826,
-      "stars_today": 25,
+      "stars": 8966,
+      "stars_today": 38,
       "language": "Java",
       "link": "https://github.com/github/copilot-sdk"
     },
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35566,
+      "stars": 35665,
       "stars_today": 255,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
@@ -92,15 +92,15 @@
     {
       "name": "openclaw/openclaw-windows-node",
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "stars": 1169,
-      "stars_today": 331,
+      "stars": 1318,
+      "stars_today": 411,
       "language": "C#",
       "link": "https://github.com/openclaw/openclaw-windows-node"
     },
     {
       "name": "reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "stars": 5083,
+      "stars": 5303,
       "stars_today": 308,
       "language": "TypeScript",
       "link": "https://github.com/reconurge/flowsint"
@@ -108,8 +108,8 @@
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 27285,
-      "stars_today": 173,
+      "stars": 27562,
+      "stars_today": 199,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     }
