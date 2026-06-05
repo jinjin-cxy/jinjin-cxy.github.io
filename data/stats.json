@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-05T00:26:14.028134+00:00",
+  "updated": "2026-06-05T12:54:08.751148+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 14,
+    "github_trending": 15,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -53,7 +53,7 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 6
+      "count": 8
     },
     {
       "language": "TypeScript",
@@ -61,14 +61,14 @@
     },
     {
       "language": "JavaScript",
-      "count": 1
+      "count": 2
     },
     {
       "language": "Jupyter Notebook",
       "count": 1
     },
     {
-      "language": "Java",
+      "language": "C#",
       "count": 1
     }
   ]
