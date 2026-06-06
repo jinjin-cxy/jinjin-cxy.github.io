@@ -1,44 +1,76 @@
 {
-  "updated": "2026-06-06T00:24:50.470041+00:00",
+  "updated": "2026-06-06T12:23:30.155272+00:00",
   "articles": [
     {
-      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "title": "马斯克是SpaceX面子，她才是里子",
       "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
-      "link": "https://www.qbitai.com/2026/06/431045.html",
+      "published": "2026-06-06",
+      "summary": "造火箭的正在批量造巨富",
+      "link": "https://www.qbitai.com/2026/06/431371.html",
       "category": "AI News"
     },
     {
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
       "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
-      "link": "https://www.qbitai.com/2026/06/431033.html",
+      "published": "2026-06-06",
+      "summary": "观众投币定前十！",
+      "link": "https://www.qbitai.com/2026/06/431287.html",
       "category": "AI News"
     },
     {
-      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "title": "Hinton吹哨了：AI已经有意识！",
       "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/431027.html",
+      "published": "2026-06-06",
+      "summary": "人类得接受自己不再是唯一智能生命体",
+      "link": "https://www.qbitai.com/2026/06/431349.html",
       "category": "AI News"
     },
     {
-      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
       "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/430757.html",
+      "published": "2026-06-06",
+      "summary": "广东上大分！",
+      "link": "https://www.qbitai.com/2026/06/431186.html",
       "category": "AI News"
     },
     {
-      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
       "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "AI笔记不是聊天框，而是信息入口。",
-      "link": "https://www.qbitai.com/2026/06/431014.html",
+      "published": "2026-06-06",
+      "summary": "形成「鞋履+人工智能数据」双主业",
+      "link": "https://www.qbitai.com/2026/06/431056.html",
+      "category": "AI News"
+    },
+    {
+      "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "source": "InfoQ 中文",
+      "published": "2026-06-06",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "source": "InfoQ 中文",
+      "published": "2026-06-06",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "我用 Tauri 2 做了一个能跑 30 多种语言的代码运行器，聊聊插件化架构是怎么扛住的",
+      "source": "开源中国",
+      "published": "2026-06-06",
+      "summary": "这是一篇实现向的文章。如果你只想看产品，项目在这里：https://github.com/devlive-community/codeforge。如果你也在用 Tauri 折腾桌面工具，下面这些架构上的取舍和坑，也许能帮你少走点弯路。 起因：我想要一个「代码草稿本」，但没找到顺手的 事情的起点很朴素。 我经常需要快速验证一小段代码——可能是一段 Python...",
+      "link": "https://www.oschina.net/news/452973",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "source": "36氪",
+      "published": "2026-06-06",
+      "summary": "今日热点导览SpaceX据悉将其IPO的日本融资目标提高至25亿美元二手房挂牌量回落新房库存下降，楼市供需关系向好B站宣布启动AI创造公开赛TOP3大新闻数据显示，豆包推出付费后月活减少610万据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗",
+      "link": "https://36kr.com/p/3840996342073604?f=rss",
       "category": "AI News"
     },
     {
@@ -66,19 +98,11 @@
       "category": "AI News"
     },
     {
-      "title": "超越客户 360：通过自适应体验赢得谨慎消费者的技术栈 ｜ 技术趋势",
-      "source": "InfoQ 中文",
+      "title": "Aifei 发布，世界首个 AI Coding 框架",
+      "source": "开源中国",
       "published": "2026-06-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/g4wSu5ZhdrugHA4KXSw9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Node.js 从 27 版本开始改为每年发布一个大版本",
-      "source": "InfoQ 中文",
-      "published": "2026-06-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&utm_medium=article",
+      "summary": "Aifei 是世界首个 AI Coding 框架。 Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发。 过去三年，AI 写代码的能力快速跃升。代码生成正在从“辅助”走向“主导”，开发者的角色也会越来越多地转向需求判断、架构决策、代码审查与质量控...",
+      "link": "https://www.oschina.net/news/452924",
       "category": "AI News"
     },
     {
@@ -106,22 +130,6 @@
       "category": "AI News"
     },
     {
-      "title": "阿里开源 AI 代码审查 CLI 工具：Open Code Review",
-      "source": "开源中国",
-      "published": "2026-06-05",
-      "summary": "代码审查是软件工程中保证代码质量的关键环节，但在快速迭代的团队中，人工审查的效率往往跟不上代码提交的节奏。阿里巴巴将内部使用两年的 AI 代码审查助手 Open Code Review 开源，免费提供给社区使用。在内部部署期间，该工具服务了数万名开发者，发现了数百万个代码缺陷——这个规模是目前大多数 AI 代码审查工具没有...",
-      "link": "https://www.oschina.net/news/452693",
-      "category": "AI News"
-    },
-    {
-      "title": "开源浏览器引擎 Ladybird 宣布停止接受公开 Pull Request",
-      "source": "开源中国",
-      "published": "2026-06-05",
-      "summary": "开源浏览器引擎项目Ladybird宣布了一项重大政策转变：不再接受公开Pull Request，所有代码变更将仅由项目维护者引入。这一决定正值Ladybird筹备发布其首个Alpha版本的关键阶段，团队表示需要更严格的开发流程、更清晰的安全模型，以及更小规模的负责群体来确保进入浏览器的每一行代码都是可信的。 这并非一个轻率的决定。...",
-      "link": "https://www.oschina.net/news/452691",
-      "category": "AI News"
-    },
-    {
       "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
       "source": "36氪",
       "published": "2026-06-05",
@@ -133,7 +141,7 @@
       "title": "Token大战中，华为云选择了第三条路｜最前线",
       "source": "36氪",
       "published": "2026-06-05",
-      "summary": "作者 | 邓咏仪编辑 | 张雨忻“在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。华为云CEO周跃峰过去两年，中国云厂商围绕",
+      "summary": "作者 | 邓咏仪编辑 | 张雨忻“在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。华为云CEO周跃峰过去两年，中国云厂商",
       "link": "https://36kr.com/p/3840016255126016?f=rss",
       "category": "AI News"
     },
@@ -151,14 +159,6 @@
       "published": "2026-06-05",
       "summary": "一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入门车型。销量结构的下沉，让理想这家最早盈利的新造车公司再度陷入季度亏损。蔚来则通过定价",
       "link": "https://36kr.com/p/3839803361741313?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "source": "36氪",
-      "published": "2026-06-05",
-      "summary": "文｜王毓婵 梁键强编辑｜张雨忻昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。“您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”腾讯客服表示。与之前字节跳动推出的豆包手机相比，腾讯的微信AI采取了完全不同的技术路径。以豆包手机为代表的很多 OS 端 AI 助手，走的是GUI agent（图形界面智能体）路线——它们像人一样通过“",
-      "link": "https://36kr.com/p/3839575253993985?f=rss",
       "category": "AI News"
     }
   ]

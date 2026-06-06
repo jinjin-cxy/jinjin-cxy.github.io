@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-06T00:24:39.380728+00:00",
+  "updated": "2026-06-06T12:23:15.209862+00:00",
   "repositories": [
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 183100,
+      "stars": 184230,
       "stars_today": 1845,
       "language": "Python",
       "link": "https://github.com/NousResearch/hermes-agent"
@@ -12,7 +12,7 @@
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 14488,
+      "stars": 15192,
       "stars_today": 2473,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
@@ -20,7 +20,7 @@
     {
       "name": "CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "stars": 32673,
+      "stars": 32955,
       "stars_today": 366,
       "language": "TypeScript",
       "link": "https://github.com/CopilotKit/CopilotKit"
@@ -28,7 +28,7 @@
     {
       "name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 25991,
+      "stars": 26335,
       "stars_today": 1152,
       "language": "TypeScript",
       "link": "https://github.com/lfnovo/open-notebook"
@@ -36,7 +36,7 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 208349,
+      "stars": 208749,
       "stars_today": 1361,
       "language": "JavaScript",
       "link": "https://github.com/affaan-m/ECC"
@@ -44,7 +44,7 @@
     {
       "name": "Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 21550,
+      "stars": 21948,
       "stars_today": 148,
       "language": "Python",
       "link": "https://github.com/Panniantong/Agent-Reach"
@@ -52,7 +52,7 @@
     {
       "name": "NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "stars": 9412,
+      "stars": 9559,
       "stars_today": 479,
       "language": "Jupyter Notebook",
       "link": "https://github.com/NVIDIA/cosmos"
@@ -60,7 +60,7 @@
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 64692,
+      "stars": 64948,
       "stars_today": 320,
       "language": "Python",
       "link": "https://github.com/666ghj/MiroFish"
@@ -68,7 +68,7 @@
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 28201,
+      "stars": 28426,
       "stars_today": 731,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
@@ -76,7 +76,7 @@
     {
       "name": "PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 80535,
+      "stars": 80737,
       "stars_today": 747,
       "language": "Python",
       "link": "https://github.com/PaddlePaddle/PaddleOCR"
@@ -84,7 +84,7 @@
     {
       "name": "openai/plugins",
       "description": "OpenAI Plugins",
-      "stars": 1531,
+      "stars": 1639,
       "stars_today": 49,
       "language": "JavaScript",
       "link": "https://github.com/openai/plugins"
@@ -92,7 +92,7 @@
     {
       "name": "MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 53875,
+      "stars": 54064,
       "stars_today": 227,
       "language": "Python",
       "link": "https://github.com/MemPalace/mempalace"
@@ -100,7 +100,7 @@
     {
       "name": "withastro/flue",
       "description": "The sandbox agent framework.",
-      "stars": 4512,
+      "stars": 4664,
       "stars_today": 126,
       "language": "TypeScript",
       "link": "https://github.com/withastro/flue"
@@ -108,7 +108,7 @@
     {
       "name": "openclaw/openclaw-windows-node",
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "stars": 1598,
+      "stars": 1675,
       "stars_today": 326,
       "language": "C#",
       "link": "https://github.com/openclaw/openclaw-windows-node"
@@ -116,7 +116,7 @@
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35851,
+      "stars": 35915,
       "stars_today": 207,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
