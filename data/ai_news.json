@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-05T12:54:08.748088+00:00",
+  "updated": "2026-06-06T00:24:50.470041+00:00",
   "articles": [
+    {
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "source": "量子位",
+      "published": "2026-06-05",
+      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」",
+      "link": "https://www.qbitai.com/2026/06/431045.html",
+      "category": "AI News"
+    },
     {
       "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
       "source": "量子位",
@@ -31,14 +39,6 @@
       "published": "2026-06-05",
       "summary": "AI笔记不是聊天框，而是信息入口。",
       "link": "https://www.qbitai.com/2026/06/431014.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从超级个体到超级团队，腾讯云发布WorkBuddy企业版",
-      "source": "量子位",
-      "published": "2026-06-05",
-      "summary": "打造企业AI效率工具新标配",
-      "link": "https://www.qbitai.com/2026/06/430758.html",
       "category": "AI News"
     },
     {
