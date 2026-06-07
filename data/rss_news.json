@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-07T00:24:53.342331+00:00",
+  "updated": "2026-06-07T12:27:00.440211+00:00",
   "articles": [
+    {
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "source": "量子位",
+      "published": "2026-06-07",
+      "summary": "花旗美银都是客户",
+      "link": "https://www.qbitai.com/2026/06/431487.html",
+      "category": "AI News"
+    },
+    {
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "source": "量子位",
+      "published": "2026-06-07",
+      "summary": "高一致性、低延迟、实时超分全梭哈",
+      "link": "https://www.qbitai.com/2026/06/431401.html",
+      "category": "AI News"
+    },
+    {
+      "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-06-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "未高考满分作文：从\"词语\"到\"中国词元\"：一个青年眼中的时代之变",
+      "source": "开源中国",
+      "published": "2026-06-07",
+      "summary": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作。（60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。青年是常为新的，在你的成长过程中，你对哪一个词语的理解发生了变化？这变化有你成长的印记，对你有特殊的意义…… 以上材料...",
+      "link": "https://www.oschina.net/news/453556",
+      "category": "AI News"
+    },
+    {
+      "title": "[EN] Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "source": "Hugging Face Blog",
+      "published": "2026-06-07",
+      "summary": "",
+      "link": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "category": "AI News"
+    },
     {
       "title": "马斯克是SpaceX面子，她才是里子",
       "source": "量子位",
@@ -23,22 +63,6 @@
       "published": "2026-06-06",
       "summary": "人类得接受自己不再是唯一智能生命体",
       "link": "https://www.qbitai.com/2026/06/431349.html",
-      "category": "AI News"
-    },
-    {
-      "title": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
-      "source": "量子位",
-      "published": "2026-06-06",
-      "summary": "广东上大分！",
-      "link": "https://www.qbitai.com/2026/06/431186.html",
-      "category": "AI News"
-    },
-    {
-      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
-      "source": "量子位",
-      "published": "2026-06-06",
-      "summary": "形成「鞋履+人工智能数据」双主业",
-      "link": "https://www.qbitai.com/2026/06/431056.html",
       "category": "AI News"
     },
     {
@@ -82,14 +106,6 @@
       "category": "AI News"
     },
     {
-      "title": "[EN] Five labs, five minds: building a multi-model finance drama on small models",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-06",
-      "summary": "",
-      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "category": "AI News"
-    },
-    {
       "title": "架构变更案例：面向演进式架构的实用方法",
       "source": "InfoQ 中文",
       "published": "2026-06-05",
@@ -106,14 +122,6 @@
       "category": "AI News"
     },
     {
-      "title": "从流水线到蜂巢：AI 时代企业组织如何进化",
-      "source": "InfoQ 中文",
-      "published": "2026-06-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "Aifei 发布，世界首个 AI Coding 框架",
       "source": "开源中国",
       "published": "2026-06-05",
@@ -127,14 +135,6 @@
       "published": "2026-06-05",
       "summary": "大规模数据中心的网络可靠性一直是工程领域的难题。当交换机、路由器、光模块在高速率流量下出现偶发性故障时，传统的ping或traceroute往往无法捕捉那些瞬时、间歇性发生的问题——比如微秒级的丢包、比特翻转导致的随机错误，或者ECMP负载均衡路径上某个特定链路的降级。百度团队开源的nettools，正是针对这类\"黑盒\"监控...",
       "link": "https://www.oschina.net/news/452720",
-      "category": "AI News"
-    },
-    {
-      "title": "程序员为养生把喝可乐改成果汁，半年瘦 20 斤进抢救室",
-      "source": "开源中国",
-      "published": "2026-06-05",
-      "summary": "宁波晚报报道称，浙江一名 28 岁的程序员小吴（化名）为了养生戒掉喝可乐的爱好，改成每天喝 2 升纯果汁。这样坚持的结果是，小吴确实在半年内瘦了 20 斤，但同时也因“糖尿病酮症酸中毒”，进了医院的抢救室。 据悉，事情起因在于半年前，身高只有 1 米 75 的，体重却达 190 斤的小吴有一天看到一篇文章说“喝可乐等于慢...",
-      "link": "https://www.oschina.net/news/452709",
       "category": "AI News"
     },
     {

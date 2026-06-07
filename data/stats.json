@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T00:24:53.343728+00:00",
+  "updated": "2026-06-07T12:27:00.442692+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -60,15 +60,15 @@
       "count": 4
     },
     {
-      "language": "JavaScript",
-      "count": 3
-    },
-    {
-      "language": "Go",
+      "language": "C++",
       "count": 2
     },
     {
-      "language": "C",
+      "language": "Rust",
+      "count": 2
+    },
+    {
+      "language": "Shell",
       "count": 1
     }
   ]

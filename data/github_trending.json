@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-07T00:24:44.904029+00:00",
+  "updated": "2026-06-07T12:26:50.104875+00:00",
   "repositories": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 28791,
-      "stars_today": 439,
+      "stars": 29535,
+      "stars_today": 1097,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "stars": 33202,
-      "stars_today": 631,
-      "language": "TypeScript",
-      "link": "https://github.com/CopilotKit/CopilotKit"
+      "name": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "stars": 87889,
+      "stars_today": 58,
+      "language": "C++",
+      "link": "https://github.com/opencv/opencv"
     },
     {
-      "name": "MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 54276,
-      "stars_today": 446,
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars": 35806,
+      "stars_today": 1104,
+      "language": "Shell",
+      "link": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 185305,
+      "stars_today": 1117,
       "language": "Python",
-      "link": "https://github.com/MemPalace/mempalace"
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "stars": 14957,
-      "stars_today": 70,
-      "language": "TypeScript",
-      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
-    },
-    {
-      "name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1767,
-      "stars_today": 213,
-      "language": "JavaScript",
-      "link": "https://github.com/openai/plugins"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 22312,
-      "stars_today": 683,
-      "language": "Python",
-      "link": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "name": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "stars": 86982,
-      "stars_today": 25,
-      "language": "JavaScript",
-      "link": "https://github.com/sveltejs/svelte"
-    },
-    {
-      "name": "nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "stars": 30689,
-      "stars_today": 20,
-      "language": "C",
-      "link": "https://github.com/nginx/nginx"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 36000,
-      "stars_today": 159,
-      "language": "Go",
-      "link": "https://github.com/aquasecurity/trivy"
-    },
-    {
-      "name": "golang/go",
-      "description": "The Go programming language",
-      "stars": 134506,
-      "stars_today": 30,
-      "language": "Go",
-      "link": "https://github.com/golang/go"
+      "link": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 26608,
-      "stars_today": 794,
+      "stars": 26877,
+      "stars_today": 555,
       "language": "TypeScript",
       "link": "https://github.com/lfnovo/open-notebook"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 219647,
-      "stars_today": 700,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 49338,
-      "stars_today": 193,
-      "language": "JavaScript",
-      "link": "https://github.com/santifer/career-ops"
-    },
-    {
-      "name": "openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "stars": 101854,
-      "stars_today": 150,
-      "language": "Python",
-      "link": "https://github.com/openai/whisper"
-    },
-    {
-      "name": "vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
-      "stars": 81179,
-      "stars_today": 25,
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "stars": 18489,
+      "stars_today": 180,
       "language": "TypeScript",
-      "link": "https://github.com/vitejs/vite"
+      "link": "https://github.com/yikart/AiToEarn"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 47165,
+      "stars_today": 262,
+      "language": "Rust",
+      "link": "https://github.com/aaif-goose/goose"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 29445,
+      "stars_today": 304,
+      "language": "TypeScript",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 115087,
+      "stars_today": 199,
+      "language": "C++",
+      "link": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": 6255,
+      "stars_today": 1533,
+      "language": "Python",
+      "link": "https://github.com/RyanCodrai/turbovec"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "stars": 72284,
+      "stars_today": 355,
+      "language": "Roff",
+      "link": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1898,
+      "stars_today": 262,
+      "language": "JavaScript",
+      "link": "https://github.com/openai/plugins"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "stars": 12598,
+      "stars_today": 242,
+      "language": "TypeScript",
+      "link": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "stars": 13575,
+      "stars_today": 21,
+      "language": "Python",
+      "link": "https://github.com/HunxByts/GhostTrack"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "stars": 1272,
+      "stars_today": 314,
+      "language": "Rust",
+      "link": "https://github.com/microsoft/pg_durable"
     }
   ]
 }
