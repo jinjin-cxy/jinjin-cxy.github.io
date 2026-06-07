@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-06T12:23:15.209862+00:00",
+  "updated": "2026-06-07T00:24:44.904029+00:00",
   "repositories": [
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 184230,
-      "stars_today": 1845,
-      "language": "Python",
-      "link": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 15192,
-      "stars_today": 2473,
-      "language": "Python",
-      "link": "https://github.com/chopratejas/headroom"
-    },
-    {
-      "name": "CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-      "stars": 32955,
-      "stars_today": 366,
-      "language": "TypeScript",
-      "link": "https://github.com/CopilotKit/CopilotKit"
-    },
-    {
-      "name": "lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "stars": 26335,
-      "stars_today": 1152,
-      "language": "TypeScript",
-      "link": "https://github.com/lfnovo/open-notebook"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": 208749,
-      "stars_today": 1361,
-      "language": "JavaScript",
-      "link": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 21948,
-      "stars_today": 148,
-      "language": "Python",
-      "link": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "name": "NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "stars": 9559,
-      "stars_today": 479,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/NVIDIA/cosmos"
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 64948,
-      "stars_today": 320,
-      "language": "Python",
-      "link": "https://github.com/666ghj/MiroFish"
-    },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 28426,
-      "stars_today": 731,
+      "stars": 28791,
+      "stars_today": 439,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "stars": 80737,
-      "stars_today": 747,
-      "language": "Python",
-      "link": "https://github.com/PaddlePaddle/PaddleOCR"
-    },
-    {
-      "name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 1639,
-      "stars_today": 49,
-      "language": "JavaScript",
-      "link": "https://github.com/openai/plugins"
+      "name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "stars": 33202,
+      "stars_today": 631,
+      "language": "TypeScript",
+      "link": "https://github.com/CopilotKit/CopilotKit"
     },
     {
       "name": "MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": 54064,
-      "stars_today": 227,
+      "stars": 54276,
+      "stars_today": 446,
       "language": "Python",
       "link": "https://github.com/MemPalace/mempalace"
     },
     {
-      "name": "withastro/flue",
-      "description": "The sandbox agent framework.",
-      "stars": 4664,
-      "stars_today": 126,
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 14957,
+      "stars_today": 70,
       "language": "TypeScript",
-      "link": "https://github.com/withastro/flue"
+      "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
-      "name": "openclaw/openclaw-windows-node",
-      "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-      "stars": 1675,
-      "stars_today": 326,
-      "language": "C#",
-      "link": "https://github.com/openclaw/openclaw-windows-node"
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1767,
+      "stars_today": 213,
+      "language": "JavaScript",
+      "link": "https://github.com/openai/plugins"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 22312,
+      "stars_today": 683,
+      "language": "Python",
+      "link": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "stars": 86982,
+      "stars_today": 25,
+      "language": "JavaScript",
+      "link": "https://github.com/sveltejs/svelte"
+    },
+    {
+      "name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "stars": 30689,
+      "stars_today": 20,
+      "language": "C",
+      "link": "https://github.com/nginx/nginx"
     },
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": 35915,
-      "stars_today": 207,
+      "stars": 36000,
+      "stars_today": 159,
       "language": "Go",
       "link": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "name": "golang/go",
+      "description": "The Go programming language",
+      "stars": 134506,
+      "stars_today": 30,
+      "language": "Go",
+      "link": "https://github.com/golang/go"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars": 26608,
+      "stars_today": 794,
+      "language": "TypeScript",
+      "link": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 219647,
+      "stars_today": 700,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 49338,
+      "stars_today": 193,
+      "language": "JavaScript",
+      "link": "https://github.com/santifer/career-ops"
+    },
+    {
+      "name": "openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 101854,
+      "stars_today": 150,
+      "language": "Python",
+      "link": "https://github.com/openai/whisper"
+    },
+    {
+      "name": "vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "stars": 81179,
+      "stars_today": 25,
+      "language": "TypeScript",
+      "link": "https://github.com/vitejs/vite"
     }
   ]
 }
