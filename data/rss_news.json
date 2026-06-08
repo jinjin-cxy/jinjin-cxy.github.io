@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-08T00:26:28.137472+00:00",
+  "updated": "2026-06-08T13:20:19.739597+00:00",
   "articles": [
+    {
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "source": "量子位",
+      "published": "2026-06-08",
+      "summary": "协助用户与商家判断智能体可信赖程度",
+      "link": "https://www.qbitai.com/2026/06/432587.html",
+      "category": "AI News"
+    },
+    {
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "source": "量子位",
+      "published": "2026-06-08",
+      "summary": "ABot-Earth0.5正式开放内测",
+      "link": "https://www.qbitai.com/2026/06/432489.html",
+      "category": "AI News"
+    },
+    {
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "source": "量子位",
+      "published": "2026-06-08",
+      "summary": "豆包硬刚ChatGPT",
+      "link": "https://www.qbitai.com/2026/06/432425.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "source": "量子位",
+      "published": "2026-06-08",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/432581.html",
+      "category": "AI News"
+    },
+    {
+      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "source": "量子位",
+      "published": "2026-06-08",
+      "summary": "轻视它就会错过整个时代",
+      "link": "https://www.qbitai.com/2026/06/432417.html",
+      "category": "AI News"
+    },
+    {
+      "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
+      "source": "InfoQ 中文",
+      "published": "2026-06-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+      "source": "InfoQ 中文",
+      "published": "2026-06-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
+      "source": "InfoQ 中文",
+      "published": "2026-06-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度",
+      "source": "InfoQ 中文",
+      "published": "2026-06-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
+      "source": "InfoQ 中文",
+      "published": "2026-06-08",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微信宣布面向开发者提供接入微信 AI 生态的能力",
+      "source": "开源中国",
+      "published": "2026-06-08",
+      "summary": "6月8日，微信正式面向开发者提供接入微信AI生态的能力。 据微信公开课官方公众号，开发者需在「小程序管理后台-AI能力」主动授权接入微信AI。同时，平台提供了自动模式与开发模式两种接入选项，以满足不同规模团队的开发需求。 自动模式需授权平台提审时读取小程序源码，无需投入额外开发。平台将可分析开发者的小程序页...",
+      "link": "https://www.oschina.net/news/454273",
+      "category": "AI News"
+    },
+    {
+      "title": "TaiXu-Admin V0.0.12 发布，LLM+RAG+Agent 应用技术系统",
+      "source": "开源中国",
+      "published": "2026-06-08",
+      "summary": "TaiXu-Admin V0.0.12 发布，LLM+RAG+Agent 应用技术系统 更新日志 1、LangChain升级1.x版本； 2、适配 poetry 安装依赖； 3、文件结构规整； 4、网络模型与 Ollama 模型的适配； 5、RAG、Agent 等异常处理； 系统介绍 TaiXu-Admin 是 AI 技术集成的智能技术系统，后端用 Python 编写实现，前端用 React 开发交互页面，涉...",
+      "link": "https://www.oschina.net/news/454240",
+      "category": "AI News"
+    },
+    {
+      "title": "“Windows 任务管理器之父”用纯 C 手搓了一个文本编辑器，致敬经典 Petzold 编程风格",
+      "source": "开源中国",
+      "published": "2026-06-08",
+      "summary": "在现代IDE和语法高亮编辑器的时代，一个名为Retropad的项目选择了相反的方向：完全用纯C语言重写一个Windows记事本。这个项目由“Windows任务管理器之父”Dave W. Plummer创造，目标非常明确——在不使用任何现代框架的情况下，完整复现经典Windows记事本的每一个功能。该软件体积仅为2749字节，约合2.7KB，运行高效且资...",
+      "link": "https://www.oschina.net/news/454229",
+      "category": "AI News"
+    },
+    {
+      "title": "Linus 的极客小玩具：自制滚轮控制器，用 RP2350 实现音量控制",
+      "source": "开源中国",
+      "published": "2026-06-08",
+      "summary": "Linux内核作者Linus Torvalds在GitHub上向来以低调著称，但他的个人仓库里偶尔会出现一些有趣的项目。最近曝光的ScrollWheel就是一个典型的例子：这是一个基于RP2350（树莓派Pico 2）芯片的极客小制作，功能是做一个滚轮控制器——通过旋转编码器控制电脑音量。 ScrollWheel的技术实现相当硬核。项目使用C语言编写（占8...",
+      "link": "https://www.oschina.net/news/454189",
+      "category": "AI News"
+    },
+    {
+      "title": "不用写 Selenium，零代码的 UI 自动化测试工具！",
+      "source": "开源中国",
+      "published": "2026-06-08",
+      "summary": "UI自动化测试因启动门槛高、维护成本高、协作沉淀困难而难以落地，传统工具如Selenium、Playwright虽强大但复杂，不适合所有团队。",
+      "link": "https://my.oschina.net/u/5170379/blog/19698144",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "source": "36氪",
+      "published": "2026-06-08",
+      "summary": "文｜王毓婵编辑｜张雨忻6月5日，腾讯云AI产业应用大会最受外界关注的是什么？毫无疑问，是汤道生与姚顺雨的对话。在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？”姚顺雨回答说：“感觉应该是我问你的问题。”姚顺雨随后提到了两个判断标准——1.AI是一个短期游戏还是长期游戏？2.它会是一个线性还是多元游戏？",
+      "link": "https://36kr.com/p/3844018911889924?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "source": "36氪",
+      "published": "2026-06-08",
+      "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。进出两端",
+      "link": "https://36kr.com/p/3844199957236227?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "source": "36氪",
+      "published": "2026-06-08",
+      "summary": "作者 | 邱晓芬编辑 | 袁斯来「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。但范典做第一款产品用了三年。2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调也体现在他新",
+      "link": "https://36kr.com/p/3844006775360002?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+      "source": "36氪",
+      "published": "2026-06-08",
+      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。公司核心团队汇聚了来自清华大学、上海交通大学、帝国理工等海内外高校的人才，覆盖神经科学、声学、医学影像、人工",
+      "link": "https://36kr.com/p/3841459663030532?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
       "source": "36氪",
       "published": "2026-06-08",
       "summary": "今日热点导览AI等机器网络请求量首超人类瑞幸咖啡回应拿铁去冰仅半杯宗馥莉自有品牌KELLYONE回归多家低成本航空公司对登机箱登机收费黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案TOP3大新闻八家上市公司集中公告“补税”6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.SZ）一家补缴3.08亿元，占八家总额的近八成，该公司披露，仅滞纳金就达1.23亿元。对部分公司而言，这笔补缴金额已接近甚至超过去年一整年的利润。如电子材料企业宏昌电子（603002.SH）需补缴4041.91万元，而公",
       "link": "https://36kr.com/p/3843764238174729?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "有余凯不投的地平线离职创业员工吗？",
-      "source": "量子位",
-      "published": "2026-06-07",
-      "summary": "「放任」人才外流的反常操作，只是格局使然吗？",
-      "link": "https://www.qbitai.com/2026/06/431931.html",
-      "category": "AI News"
-    },
-    {
-      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-      "source": "量子位",
-      "published": "2026-06-07",
-      "summary": "人类历史最大规模的IPO招股开始了！",
-      "link": "https://www.qbitai.com/2026/06/431694.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-      "source": "量子位",
-      "published": "2026-06-07",
-      "summary": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了",
-      "link": "https://www.qbitai.com/2026/06/431499.html",
-      "category": "AI News"
-    },
-    {
-      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-      "source": "量子位",
-      "published": "2026-06-07",
-      "summary": "花旗美银都是客户",
-      "link": "https://www.qbitai.com/2026/06/431487.html",
-      "category": "AI News"
-    },
-    {
-      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "source": "量子位",
-      "published": "2026-06-07",
-      "summary": "高一致性、低延迟、实时超分全梭哈",
-      "link": "https://www.qbitai.com/2026/06/431401.html",
-      "category": "AI News"
-    },
-    {
-      "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
-      "source": "InfoQ 中文",
-      "published": "2026-06-07",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "未高考满分作文：从\"词语\"到\"中国词元\"：一个青年眼中的时代之变",
-      "source": "开源中国",
-      "published": "2026-06-07",
-      "summary": "今天的高考全国卷1语文作文题： 阅读下面的材料，根据要求写作。（60分） 词语是表达思想情感的载体，也是展现社会生活变化的窗口。当前，世界之变、时代之变、历史之变正以前所未有的方式展开。青年是常为新的，在你的成长过程中，你对哪一个词语的理解发生了变化？这变化有你成长的印记，对你有特殊的意义…… 以上材料...",
-      "link": "https://www.oschina.net/news/453556",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Amazing Digital Dentures (a failed project)",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-07",
-      "summary": "",
-      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-      "category": "AI News"
-    },
-    {
-      "title": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
-      "source": "InfoQ 中文",
-      "published": "2026-06-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
-      "source": "InfoQ 中文",
-      "published": "2026-06-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MateClaw v1.5.0 发布：Goal Checklist、LLM Wiki 自维护与多人记忆隔离",
-      "source": "开源中国",
-      "published": "2026-06-06",
-      "summary": "MateClaw v1.5.0 已发布。 这一版的重点不是“多接一个模型”或“多加几个按钮”，而是继续补齐 Agent 在真实团队里运行时需要的基础能力：目标要能验收，知识库要能维护一致性，记忆要能区分不同使用者。 如果用一句话概括 v1.5.0： 把 Agent 从“能继续干活”推进到“能按清单收尾、按知识关系维护上下文、按用户身份隔...",
-      "link": "https://www.oschina.net/news/453257",
-      "category": "AI News"
-    },
-    {
-      "title": "我用 Tauri 2 做了一个能跑 30 多种语言的代码运行器，聊聊插件化架构是怎么扛住的",
-      "source": "开源中国",
-      "published": "2026-06-06",
-      "summary": "这是一篇实现向的文章。如果你只想看产品，项目在这里：https://github.com/devlive-community/codeforge。如果你也在用 Tauri 折腾桌面工具，下面这些架构上的取舍和坑，也许能帮你少走点弯路。 起因：我想要一个「代码草稿本」，但没找到顺手的 事情的起点很朴素。 我经常需要快速验证一小段代码——可能是一段 Python...",
-      "link": "https://www.oschina.net/news/452973",
-      "category": "AI News"
-    },
-    {
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "source": "36氪",
-      "published": "2026-06-06",
-      "summary": "今日热点导览SpaceX据悉将其IPO的日本融资目标提高至25亿美元二手房挂牌量回落新房库存下降，楼市供需关系向好B站宣布启动AI创造公开赛TOP3大新闻数据显示，豆包推出付费后月活减少610万据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗",
-      "link": "https://36kr.com/p/3840996342073604?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "架构变更案例：面向演进式架构的实用方法",
-      "source": "InfoQ 中文",
-      "published": "2026-06-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/arLDulGp7TW4dAUaCMHB?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "openJiuwen 社区又上新： JiuwenSwarm 给 Harness 装上「后训练」",
-      "source": "InfoQ 中文",
-      "published": "2026-06-05",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/lk4PwQKXhgPSlM7a8ACU?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Aifei 发布，世界首个 AI Coding 框架",
-      "source": "开源中国",
-      "published": "2026-06-05",
-      "summary": "Aifei 是世界首个 AI Coding 框架。 Aifei 不是在传统框架之上增加 AI 用法，而是从框架结构本身出发，围绕大模型理解、生成和维护代码的方式，重新设计 Java 服务端开发。 过去三年，AI 写代码的能力快速跃升。代码生成正在从“辅助”走向“主导”，开发者的角色也会越来越多地转向需求判断、架构决策、代码审查与质量控...",
-      "link": "https://www.oschina.net/news/452924",
-      "category": "AI News"
-    },
-    {
-      "title": "百度开源 nettools，大规模物理网络监控工具集",
-      "source": "开源中国",
-      "published": "2026-06-05",
-      "summary": "大规模数据中心的网络可靠性一直是工程领域的难题。当交换机、路由器、光模块在高速率流量下出现偶发性故障时，传统的ping或traceroute往往无法捕捉那些瞬时、间歇性发生的问题——比如微秒级的丢包、比特翻转导致的随机错误，或者ECMP负载均衡路径上某个特定链路的降级。百度团队开源的nettools，正是针对这类\"黑盒\"监控...",
-      "link": "https://www.oschina.net/news/452720",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继��心无旁骛做实业",
-      "source": "36氪",
-      "published": "2026-06-05",
-      "summary": "大公司：首关15亿元，英诺科创三期基金持续聚焦早期科技投资36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。比特币“金库”公司市值蒸发620亿美元比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初的近期顶",
-      "link": "https://36kr.com/p/3840267945969929?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "source": "36氪",
-      "published": "2026-06-05",
-      "summary": "作者 | 邓咏仪编辑 | 张雨忻“在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。华为云CEO周跃峰过去两年，中国云厂商",
-      "link": "https://36kr.com/p/3840016255126016?f=rss",
       "category": "AI News"
     }
   ]
