@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-09T00:21:55.693910+00:00",
+  "updated": "2026-06-09T12:52:12.755714+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
-      "downloads": 22789512,
-      "likes": 1306,
+      "downloads": 21649861,
+      "likes": 1308,
       "tags": [
         "transformers",
         "safetensors",
@@ -21,8 +21,8 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "author": "Qwen",
-      "downloads": 17701558,
-      "likes": 629,
+      "downloads": 15898513,
+      "likes": 630,
       "tags": [
         "transformers",
         "safetensors",
@@ -37,8 +37,8 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 15344092,
-      "likes": 3293,
+      "downloads": 13683865,
+      "likes": 3294,
       "tags": [
         "transformers",
         "pytorch",
@@ -53,8 +53,8 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
-      "downloads": 14345798,
-      "likes": 491,
+      "downloads": 13355782,
+      "likes": 493,
       "tags": [
         "transformers",
         "safetensors",
@@ -69,8 +69,8 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
-      "downloads": 12843763,
-      "likes": 1341,
+      "downloads": 11890117,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -85,7 +85,7 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "author": "Qwen",
-      "downloads": 11861550,
+      "downloads": 10950977,
       "likes": 1127,
       "tags": [
         "transformers",
@@ -101,7 +101,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
-      "downloads": 11782905,
+      "downloads": 10622858,
       "likes": 733,
       "tags": [
         "transformers",
@@ -117,7 +117,7 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "author": "facebook",
-      "downloads": 11236981,
+      "downloads": 10542605,
       "likes": 264,
       "tags": [
         "transformers",
@@ -133,8 +133,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
-      "downloads": 11146200,
-      "likes": 6021,
+      "downloads": 10031112,
+      "likes": 6027,
       "tags": [
         "transformers",
         "safetensors",
@@ -149,7 +149,7 @@
       "id": "Qwen/Qwen3-Embedding-0.6B",
       "name": "Qwen3-Embedding-0.6B",
       "author": "Qwen",
-      "downloads": 9243386,
+      "downloads": 8593433,
       "likes": 1057,
       "tags": [
         "sentence-transformers",
@@ -165,7 +165,7 @@
       "id": "google/gemma-3-270m",
       "name": "gemma-3-270m",
       "author": "google",
-      "downloads": 8134958,
+      "downloads": 7812709,
       "likes": 1032,
       "tags": [
         "transformers",
@@ -181,8 +181,8 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "author": "meta-llama",
-      "downloads": 8041519,
-      "likes": 1465,
+      "downloads": 7481230,
+      "likes": 1466,
       "tags": [
         "transformers",
         "safetensors",
@@ -197,7 +197,7 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "author": "openai",
-      "downloads": 7462455,
+      "downloads": 6752540,
       "likes": 4693,
       "tags": [
         "transformers",
@@ -213,7 +213,7 @@
       "id": "deepseek-ai/DeepSeek-R1-0528",
       "name": "DeepSeek-R1-0528",
       "author": "deepseek-ai",
-      "downloads": 6539627,
+      "downloads": 6413732,
       "likes": 2450,
       "tags": [
         "transformers",
@@ -229,8 +229,8 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "author": "deepseek-ai",
-      "downloads": 5694709,
-      "likes": 13378,
+      "downloads": 5348466,
+      "likes": 13379,
       "tags": [
         "transformers",
         "safetensors",

@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-09T00:22:10.511338+00:00",
+  "updated": "2026-06-09T12:52:28.230650+00:00",
   "articles": [
     {
-      "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+      "source": "量子位",
+      "published": "2026-06-09",
+      "summary": "祝大家都能找到，属于自己的驱动力",
+      "link": "https://www.qbitai.com/2026/06/433517.html",
+      "category": "AI News"
+    },
+    {
+      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "source": "量子位",
+      "published": "2026-06-09",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/433508.html",
+      "category": "AI News"
+    },
+    {
+      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "source": "量子位",
+      "published": "2026-06-09",
+      "summary": "效果比肩GPT-5.4",
+      "link": "https://www.qbitai.com/2026/06/433478.html",
+      "category": "AI News"
+    },
+    {
+      "title": "你天天刷的小红书，正在长出一个GitHub",
+      "source": "量子位",
+      "published": "2026-06-09",
+      "summary": "RED Skill预计7月全量上线",
+      "link": "https://www.qbitai.com/2026/06/433066.html",
+      "category": "AI News"
+    },
+    {
+      "title": "国产通用大模型第一梯队，来新人了？！",
+      "source": "量子位",
+      "published": "2026-06-09",
+      "summary": "不卷参数，卷“智能密度×Token价值”",
+      "link": "https://www.qbitai.com/2026/06/432747.html",
+      "category": "AI News"
+    },
+    {
+      "title": "导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误",
+      "source": "InfoQ 中文",
+      "published": "2026-06-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/sElIC5qTiH6iTiFJvDEk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "解码热门AI应用，智能质检、3D生成与AIGC实践分享",
+      "source": "InfoQ 中文",
+      "published": "2026-06-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Multi-Agent+工作流如何打造更泛化的智能体应用",
+      "source": "InfoQ 中文",
+      "published": "2026-06-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/mU2DUpqtlo7HvmNTxxZk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用",
+      "source": "InfoQ 中文",
+      "published": "2026-06-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+      "source": "InfoQ 中文",
+      "published": "2026-06-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "给 AI 加一点“苹果”",
+      "source": "开源中国",
+      "published": "2026-06-09",
+      "summary": "过去三年，AI 几乎重塑了整个科技行业。 从 ChatGPT 到 Gemini，从 Agent 到 AI Coding，新的产品形态层出不穷，几乎所有科技巨头都在重新定义人与计算机的交互方式。相比之下，苹果的节奏显得有些缓慢。Apple Intelligence 自 2024 年亮相以来，经历了多次延期与调整，外界对于苹果 AI 战略的质疑也从未停止。 直到 WW...",
+      "link": "https://www.oschina.net/news/454979",
+      "category": "AI News"
+    },
+    {
+      "title": "ONLYOFFICE 协作空间 3.7 发布：支持文件生成 &amp; 新增 AI 智能体提供商、更智能的表单、房间分组等",
+      "source": "开源中国",
+      "published": "2026-06-09",
+      "summary": "ONLYOFFICE 协作空间3.7已经发布，几乎涵盖了平台的每个板块。此版本添加了新的 AI 提供商和工具，重新设计的表单填写体验，文档和房间管理的改进，以及更多功能。阅读下文了解所有新增功能。 在 AI 聊天中生成 DOCX、PPTX 和 PDF 在 ONLYOFFICE 协作空间，您可以连接 AI 提供商并激活智能体来帮助：分析文件、生成内容、...",
+      "link": "https://www.oschina.net/news/454946",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 又立一功？倒逼Linux内核清理历史包袱",
+      "source": "开源中国",
+      "published": "2026-06-09",
+      "summary": "Linux 内核 3000 万行代码，AF_ALG 是第一个被AI加速淘汰的接口，当然不会是最后一个。内核里功能小众、攻击面巨大的接口有多少？没人能精确统计，但AI正在逐个把它们挖出来，帮内核社区甩掉那些早就该甩掉的历史包袱。",
+      "link": "https://my.oschina.net/u/4487475/blog/19698372",
+      "category": "AI News"
+    },
+    {
+      "title": "工信部出手整治 APP 乱跳转现象",
+      "source": "开源中国",
+      "published": "2026-06-09",
+      "summary": "工业和信息化部信息通信管理局日前组织召开专题会议，指导督促相关互联网平台和智能终端企业，强化 App 信息窗口呈现方式的规范管理，严禁违规呈现信息窗口。 随着“618”各类电子商务促销活动不断增多，部分App在开屏和弹出的信息窗口中，采用违规方式诱导用户点击，或通过高灵敏度“摇一摇”等方式误导触发跳转。会议通...",
+      "link": "https://www.oschina.net/news/454931",
+      "category": "AI News"
+    },
+    {
+      "title": "Redisson 4.5.0 发布，官方推荐的 Redis 客户端",
+      "source": "开源中国",
+      "published": "2026-06-09",
+      "summary": "Redisson 4.5.0 现已发布，这是一个 Java 编写的 Redis 客户端，具备驻内存数据网格（In-Memory Data Grid）功能，并获得了 Redis 的官方推荐。 此版本更新内容如下： Feature 新增数组对象 新增 BitVector Store 对象 Fory 库升级至 1.1.0 支持 Micronaut 5.0 为MapOptions、PlainOptions、LocalCachedMapOptions对象新...",
+      "link": "https://www.oschina.net/news/454920/redisson-4-5-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
       "source": "36氪",
       "published": "2026-06-09",
-      "summary": "今日热点导览阿里巴巴成立Token Foundry事业部微信宣布面向开发者提供接入微信AI生态的能力全球70%PPE树脂断供，PCB价格大涨英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AITOP3大新闻苹果推出全新Siri AI，新一代操作系统iOS 27正式发布在WWDC 2026开发者大会上，新一代操作系统iOS 27正式发布，本次iOS 27的升级重点，是新一代Apple Intelligence（苹果智能）以及全新Siri AI。苹果宣布，Apple Intelligence与谷歌合作，引入Gemini大模型，并采用全新的AI架构，进一步提升Siri AI的能力，让其在",
-      "link": "https://36kr.com/p/3845196412193284?f=rss",
+      "summary": "大公司：猫眼娱乐：作为首批内测开发者接入微信AI生态布局36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。歌尔股份：拟向歌尔光学增资5亿元，持股比例将增至39.6676%36氪获悉，歌尔股份公告，公司及宁波舜宇奥来技术有限公司拟",
+      "link": "https://36kr.com/p/3845899768760580?f=rss",
       "category": "AI News"
     },
     {
-      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
-      "source": "量子位",
-      "published": "2026-06-08",
-      "summary": "协助用户与商家判断智能体可信赖程度",
-      "link": "https://www.qbitai.com/2026/06/432587.html",
-      "category": "AI News"
-    },
-    {
-      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
-      "source": "量子位",
-      "published": "2026-06-08",
-      "summary": "ABot-Earth0.5正式开放内测",
-      "link": "https://www.qbitai.com/2026/06/432489.html",
-      "category": "AI News"
-    },
-    {
-      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
-      "source": "量子位",
-      "published": "2026-06-08",
-      "summary": "豆包硬刚ChatGPT",
-      "link": "https://www.qbitai.com/2026/06/432425.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
-      "source": "量子位",
-      "published": "2026-06-08",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/432581.html",
-      "category": "AI News"
-    },
-    {
-      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
-      "source": "量子位",
-      "published": "2026-06-08",
-      "summary": "轻视它就会错过整个时代",
-      "link": "https://www.qbitai.com/2026/06/432417.html",
-      "category": "AI News"
-    },
-    {
-      "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
-      "source": "InfoQ 中文",
-      "published": "2026-06-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
-      "source": "InfoQ 中文",
-      "published": "2026-06-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
-      "source": "InfoQ 中文",
-      "published": "2026-06-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度",
-      "source": "InfoQ 中文",
-      "published": "2026-06-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
-      "source": "InfoQ 中文",
-      "published": "2026-06-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "微信宣布面向开发者提供接入微信 AI 生态的能力",
-      "source": "开源中国",
-      "published": "2026-06-08",
-      "summary": "6月8日，微信正式面向开发者提供接入微信AI生态的能力。 据微信公开课官方公众号，开发者需在「小程序管理后台-AI能力」主动授权接入微信AI。同时，平台提供了自动模式与开发模式两种接入选项，以满足不同规模团队的开发需求。 自动模式需授权平台提审时读取小程序源码，无需投入额外开发。平台将可分析开发者的小程序页...",
-      "link": "https://www.oschina.net/news/454273",
-      "category": "AI News"
-    },
-    {
-      "title": "TaiXu-Admin V0.0.12 发布，LLM+RAG+Agent 应用技术系统",
-      "source": "开源中国",
-      "published": "2026-06-08",
-      "summary": "TaiXu-Admin V0.0.12 发布，LLM+RAG+Agent 应用技术系统 更新日志 1、LangChain升级1.x版本； 2、适配 poetry 安装依赖； 3、文件结构规整； 4、网络模型与 Ollama 模型的适配； 5、RAG、Agent 等异常处理； 系统介绍 TaiXu-Admin 是 AI 技术集成的智能技术系统，后端用 Python 编写实现，前端用 React 开发交互页面，涉...",
-      "link": "https://www.oschina.net/news/454240",
-      "category": "AI News"
-    },
-    {
-      "title": "“Windows 任务管理器之父”用纯 C 手搓了一个文本编辑器，致敬经典 Petzold 编程风格",
-      "source": "开源中国",
-      "published": "2026-06-08",
-      "summary": "在现代IDE和语法高亮编辑器的时代，一个名为Retropad的项目选择了相反的方向：完全用纯C语言重写一个Windows记事本。这个项目由“Windows任务管理器之父”Dave W. Plummer创造，目标非常明确——在不使用任何现代框架的情况下，完整复现经典Windows记事本的每一个功能。该软件体积仅为2749字节，约合2.7KB，运行高效且资...",
-      "link": "https://www.oschina.net/news/454229",
-      "category": "AI News"
-    },
-    {
-      "title": "Linus 的极客小玩具：自制滚轮控制器，用 RP2350 实现音量控制",
-      "source": "开源中国",
-      "published": "2026-06-08",
-      "summary": "Linux内核作者Linus Torvalds在GitHub上向来以低调著称，但他的个人仓库里偶尔会出现一些有趣的项目。最近曝光的ScrollWheel就是一个典型的例子：这是一个基于RP2350（树莓派Pico 2）芯片的极客小制作，功能是做一个滚轮控制器——通过旋转编码器控制电脑音量。 ScrollWheel的技术实现相当硬核。项目使用C语言编写（占8...",
-      "link": "https://www.oschina.net/news/454189",
-      "category": "AI News"
-    },
-    {
-      "title": "不用写 Selenium，零代码的 UI 自动化测试工具！",
-      "source": "开源中国",
-      "published": "2026-06-08",
-      "summary": "UI自动化测试因启动门槛高、维护成本高、协作沉淀困难而难以落地，传统工具如Selenium、Playwright虽强大但复杂，不适合所有团队。",
-      "link": "https://my.oschina.net/u/5170379/blog/19698144",
-      "category": "AI News"
-    },
-    {
-      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
       "source": "36氪",
-      "published": "2026-06-08",
-      "summary": "2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有\"MADE IN CHINA\"字样。值得说明的是，全球足球制造的版图并非由单一地区主导。公开资料显示，巴基斯坦锡亚尔科特一城便生产了全球约七成足球，历届世界杯的大量用球亦出自当地的Forward Sports等代工企业。世界杯用球的供给，实际上是一",
-      "link": "https://36kr.com/p/3844185422400008?f=rss",
+      "published": "2026-06-09",
+      "summary": "文 | 阿至封面来源｜Pexels星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”）近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的产学研转化项目之一。创始人戴武涛硕士毕业于南",
+      "link": "https://36kr.com/p/3845819328023043?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
       "source": "36氪",
-      "published": "2026-06-08",
-      "summary": "大公司：热门中概股美股盘前多数上涨，哔哩哔哩涨超5%36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。天娱数科：目前无物理AI业务，未形成相关业务收入36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查并向第一大股东核实，公司前期披露信息无需更正补充，未发现可能对股价产生较大影响的未公开重大信息，生产经营活动正常，第一大股东在异常波动期间未买卖公司股票。公司关注到近期",
-      "link": "https://36kr.com/p/3844559758936582?f=rss",
+      "published": "2026-06-09",
+      "summary": "文｜李嘉星编辑｜周鑫雨一句话介绍context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。团队背景context-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。Mert Köseoğlu（核心开发者、创始人）：曾作为技术顾问为 ",
+      "link": "https://36kr.com/p/3845645258541319?f=rss",
       "category": "AI News"
     },
     {
-      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "title": "康养地产的“闭环”，北京山谷找到了",
       "source": "36氪",
-      "published": "2026-06-08",
-      "summary": "文｜王毓婵编辑｜张雨忻6月5日，腾讯云AI产业应用大会最受外界关注的是什么？毫无疑问，是汤道生与姚顺雨的对话。在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？”姚顺雨回答说：“感觉应该是我问你的问题。”姚顺雨随后提到了两个判断标准——1.AI是一个短期游戏还是长期游戏？2.它会是一个线性还是多元游戏？",
-      "link": "https://36kr.com/p/3844018911889924?f=rss",
+      "published": "2026-06-09",
+      "summary": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了这个赛道的常态。但这不代表市场没有需求。恰恰相反，北京康养市场的供需矛盾相当尖锐。据《北京市老龄事业发展报告（2024）》，2024年末全市60岁及以上常住人口突破514万人，其中超过80%属于低龄健康老年群体。他们需要的不是传统护理型养老，而是兼顾生活品质、医疗保障和身心全方位康养的品质居所。与此同时，都市中青年群体的亚健康问题也在推动康养需求边界外延。大量“上班族”中青年也需要一个不在远方的“远方”",
+      "link": "https://36kr.com/p/3845553021880840?f=rss",
       "category": "AI News"
     },
     {
-      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
       "source": "36氪",
-      "published": "2026-06-08",
-      "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。进出两端",
-      "link": "https://36kr.com/p/3844199957236227?f=rss",
+      "published": "2026-06-09",
+      "summary": "作者 | 邱晓芬编辑 | 袁斯来6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。显然，苹果正试图把过去两年的\"AI迟到者\"的标签，编译成另一套叙事。在发布会上，苹果软件工程高级副总裁克雷格·费德里吉（Craig Federighi）先是纠偏了多数AI的产品思路——他认为，大部分公司都在急着往前跑，\"为了AI而AI\"，却始终没考虑真正要服务的用户。或许是在隐晦为苹果过去缺席AI做出解释，在他",
+      "link": "https://36kr.com/p/3845356968839680?f=rss",
       "category": "AI News"
     }
   ]
