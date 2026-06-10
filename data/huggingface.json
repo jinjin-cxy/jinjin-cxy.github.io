@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-10T00:27:48.882131+00:00",
+  "updated": "2026-06-10T13:00:01.639533+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
       "downloads": 21649861,
-      "likes": 1310,
+      "likes": 1312,
       "tags": [
         "transformers",
         "safetensors",
@@ -22,7 +22,7 @@
       "name": "Qwen3-4B",
       "author": "Qwen",
       "downloads": 15898513,
-      "likes": 631,
+      "likes": 632,
       "tags": [
         "transformers",
         "safetensors",
@@ -34,27 +34,11 @@
       "updated": ""
     },
     {
-      "id": "openai-community/gpt2",
-      "name": "gpt2",
-      "author": "openai-community",
-      "downloads": 13683865,
-      "likes": 3294,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "tflite"
-      ],
-      "link": "https://huggingface.co/openai-community/gpt2",
-      "updated": ""
-    },
-    {
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 13355782,
-      "likes": 494,
+      "likes": 495,
       "tags": [
         "transformers",
         "safetensors",
@@ -66,11 +50,27 @@
       "updated": ""
     },
     {
+      "id": "openai-community/gpt2",
+      "name": "gpt2",
+      "author": "openai-community",
+      "downloads": 13173872,
+      "likes": 3295,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "tflite"
+      ],
+      "link": "https://huggingface.co/openai-community/gpt2",
+      "updated": ""
+    },
+    {
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
       "downloads": 11890117,
-      "likes": 1344,
+      "likes": 1347,
       "tags": [
         "transformers",
         "safetensors",
@@ -117,8 +117,8 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "author": "facebook",
-      "downloads": 10542605,
-      "likes": 265,
+      "downloads": 10311297,
+      "likes": 266,
       "tags": [
         "transformers",
         "pytorch",
@@ -134,7 +134,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 10031112,
-      "likes": 6035,
+      "likes": 6042,
       "tags": [
         "transformers",
         "safetensors",
@@ -198,7 +198,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 6752540,
-      "likes": 4693,
+      "likes": 4694,
       "tags": [
         "transformers",
         "safetensors",

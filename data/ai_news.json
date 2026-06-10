@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-10T00:28:03.624406+00:00",
+  "updated": "2026-06-10T13:00:19.503683+00:00",
   "articles": [
     {
-      "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
+      "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
+      "source": "量子位",
+      "published": "2026-06-10",
+      "summary": "转载来源：智象未来\n本文为量子位获授权转载，观点仅为原作者所有。",
+      "link": "https://www.qbitai.com/2026/06/434196.html",
+      "category": "AI News"
+    },
+    {
+      "title": "东风联手九识，商用无人车也有“HI模式”了",
+      "source": "量子位",
+      "published": "2026-06-10",
+      "summary": "商用车AI基座已成型",
+      "link": "https://www.qbitai.com/2026/06/433956.html",
+      "category": "AI News"
+    },
+    {
+      "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
+      "source": "量子位",
+      "published": "2026-06-10",
+      "summary": "踮起脚尖吧。",
+      "link": "https://www.qbitai.com/2026/06/433832.html",
+      "category": "AI News"
+    },
+    {
+      "title": "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+      "source": "量子位",
+      "published": "2026-06-10",
+      "summary": "AI创作新时代，英特尔锐炫™ Pro B70 GPU 释放专业算力潜能",
+      "link": "https://www.qbitai.com/2026/06/433798.html",
+      "category": "AI News"
+    },
+    {
+      "title": "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+      "source": "量子位",
+      "published": "2026-06-10",
+      "summary": "诚邀30家OPC入驻内测",
+      "link": "https://www.qbitai.com/2026/06/433516.html",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+      "source": "InfoQ 中文",
+      "published": "2026-06-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "大人，AI编程又变天了！Claude Code之父、龙虾创始人同时力捧新范式，杀死提示词工程？",
+      "source": "InfoQ 中文",
+      "published": "2026-06-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/W3cHyeWfH0fbisevdoK6?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "完成亿元天使轮融资，华超神控押注 AI 超声脑机接口",
+      "source": "InfoQ 中文",
+      "published": "2026-06-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/C1Fqp2WOao7d72b1kHR1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 祭出双旗舰模型 Fable、Mythos，屠榜所有基测！网友：除了贵没毛病",
+      "source": "InfoQ 中文",
+      "published": "2026-06-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/SzLqxwcXt941I2eZclFK?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "基于国产 GPU 全栈训练，摩尔线程 MusaCoder 正式开源：KernelBench 得分超越 Opus 4.7",
+      "source": "InfoQ 中文",
+      "published": "2026-06-10",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/zrRC0hYrZ2K49JVWt49E?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Meta 工程师用 Rust 重写 React 核心编译器的 PR 已被合并",
+      "source": "开源中国",
+      "published": "2026-06-10",
+      "summary": "React团队近日在GitHub上合并了一个备受关注的Pull Request——将React Compiler移植到Rust。这个实验性项目的开发者是React核心团队成员josephsavona，他将其描述为一次\"由AI主导编码、人类紧密指导\"的尝试。 React Compiler是React生态中的关键工具，可以自动优化React组件的性能。此前它使用TypeScript编写，而Rust以...",
+      "link": "https://www.oschina.net/news/455594",
+      "category": "AI News"
+    },
+    {
+      "title": "工信部聚焦“AI+通信” 打造智算网络体系",
+      "source": "开源中国",
+      "published": "2026-06-10",
+      "summary": "工业和信息化部印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》。 《意见》主旨即“AI+通信”融合发展，核心目标是到2028年初步实现信息通信网络高等级自智，网络、算力等信息基础设施支撑人工智能能力进一步提升，城域算力1毫秒时延圈覆盖率不低于75%；到2030年，人工智能与信息通信网络融合关键核心技...",
+      "link": "https://www.oschina.net/news/455560",
+      "category": "AI News"
+    },
+    {
+      "title": "HeidiSQL 12.18 发布",
+      "source": "开源中国",
+      "published": "2026-06-10",
+      "summary": "HeidiSQL 12.18 现已发布，一些更新亮点包括： feat：支持在用户管理器中选择身份验证插件，并修复未设置固定密码长度的用户插件的密码长度无效问题 fix：在断开连接的 SQL Server 连接上执行查询时自动重新连接 fix：漏洞 CVE-2025-70873，将 SQLite 库更新至 v3.53.1 feat：网格导出选项，仅导出当前选中的网格列 feat...",
+      "link": "https://www.oschina.net/news/455526/heidisql-12-18-released",
+      "category": "AI News"
+    },
+    {
+      "title": "摩尔线程开源 MusaCoder：首个基于国产全功能 GPU 全栈训练的代码大模型",
+      "source": "开源中国",
+      "published": "2026-06-10",
+      "summary": "摩尔线程宣布正式发布并开源面向 GPU 底层算子生成的专用代码大模型 MusaCoder，包含 9B 和 27B 两个参数规模。 公告称，这是业内首个基于国产 GPU 算力底座完成全链路训练与验证的开源代码大模型，其完整后训练流程均在基于 MTT S5000 构建的夸娥智算集群上完成。 在 KernelBench 严格评测中，MusaCoder-27B-RL 以 Over...",
+      "link": "https://www.oschina.net/news/455509",
+      "category": "AI News"
+    },
+    {
+      "title": "Code designs Harness 还是 Model drives Harnesses？",
+      "source": "开源中国",
+      "published": "2026-06-10",
+      "summary": "\"If you're not the Model, you're the Harness.\"",
+      "link": "https://my.oschina.net/u/3874284/blog/19699468",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
       "source": "36氪",
       "published": "2026-06-10",
-      "summary": "今日热点导览清仓美高梅国际持股，何超琼套现逾1.4亿美元任天堂在法国遭2.7亿元重罚王传福回应股价被低估：还没能反映比亚迪潜力5月汽车销量公布：前十已无燃油车TOP3大新闻已致3人永久失明，膳魔师紧急召回百万件产品因产品瓶塞存在弹出的风险，近段时间，德国知名真空保温品牌膳魔师（Thermos）在中美多国各召回百万件食物罐等产品，据美国消费品安全委员会披露的公告，有三名消费者因眼睛被击中而导致永久性视力丧失。5月29日，国家市场监管总局官网发布公告称，日前，膳魔师（中国）家庭制品有限公司召回2011年-2023年期间制造的部分SK3000、SK3020型高真空不锈钢食物罐，涉及数量为399541",
-      "link": "https://36kr.com/p/3846601462073600?f=rss",
+      "summary": "大公司：瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。Meta与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心Facebook母公司Meta 周三表示，已与印度亿万富翁穆克什·安巴尼旗下的信实工业集团 达成合作，将在印度共建一座人工智能数据中心。声明称，信实工业将在",
+      "link": "https://36kr.com/p/3847079661193733?f=rss",
       "category": "AI News"
     },
     {
-      "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
-      "source": "量子位",
-      "published": "2026-06-09",
-      "summary": "一个更强的模型上桌了",
-      "link": "https://www.qbitai.com/2026/06/433590.html",
-      "category": "AI News"
-    },
-    {
-      "title": "内蒙跑通AI逆袭新解法",
-      "source": "量子位",
-      "published": "2026-06-09",
-      "summary": "全行业的Token焦虑何解？",
-      "link": "https://www.qbitai.com/2026/06/433565.html",
-      "category": "AI News"
-    },
-    {
-      "title": "理想智驾一号位创业，落户北京亦庄了",
-      "source": "量子位",
-      "published": "2026-06-09",
-      "summary": "10天跻身具身独角兽",
-      "link": "https://www.qbitai.com/2026/06/433560.html",
-      "category": "AI News"
-    },
-    {
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "source": "量子位",
-      "published": "2026-06-09",
-      "summary": "祝大家都能找到，属于自己的驱动力",
-      "link": "https://www.qbitai.com/2026/06/433517.html",
-      "category": "AI News"
-    },
-    {
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "source": "量子位",
-      "published": "2026-06-09",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/433508.html",
-      "category": "AI News"
-    },
-    {
-      "title": "导致 Spark on Kubernetes 发生 OOM 故障的两个配置错误",
-      "source": "InfoQ 中文",
-      "published": "2026-06-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/sElIC5qTiH6iTiFJvDEk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "解码热门AI应用，智能质检、3D生成与AIGC实践分享",
-      "source": "InfoQ 中文",
-      "published": "2026-06-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/NkDlPzssTJw9VN31i4JE?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Multi-Agent+工作流如何打造更泛化的智能体应用",
-      "source": "InfoQ 中文",
-      "published": "2026-06-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/mU2DUpqtlo7HvmNTxxZk?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenTelemetry 推出 Blueprints 计划，旨在简化企业可观测性的采用",
-      "source": "InfoQ 中文",
-      "published": "2026-06-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/8xeEt0c6VN0gri2Xr8ec?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
-      "source": "InfoQ 中文",
-      "published": "2026-06-09",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "给 AI 加一点“苹果”",
-      "source": "开源中国",
-      "published": "2026-06-09",
-      "summary": "过去三年，AI 几乎重塑了整个科技行业。 从 ChatGPT 到 Gemini，从 Agent 到 AI Coding，新的产品形态层出不穷，几乎所有科技巨头都在重新定义人与计算机的交互方式。相比之下，苹果的节奏显得有些缓慢。Apple Intelligence 自 2024 年亮相以来，经历了多次延期与调整，外界对于苹果 AI 战略的质疑也从未停止。 直到 WW...",
-      "link": "https://www.oschina.net/news/454979",
-      "category": "AI News"
-    },
-    {
-      "title": "ONLYOFFICE 协作空间 3.7 发布：支持文件生成 &amp; 新增 AI 智能体提供商、更智能的表单、房间分组等",
-      "source": "开源中国",
-      "published": "2026-06-09",
-      "summary": "ONLYOFFICE 协作空间3.7已经发布，几乎涵盖了平台的每个板块。此版本添加了新的 AI 提供商和工具，重新设计的表单填写体验，文档和房间管理的改进，以及更多功能。阅读下文了解所有新增功能。 在 AI 聊天中生成 DOCX、PPTX 和 PDF 在 ONLYOFFICE 协作空间，您可以连接 AI 提供商并激活智能体来帮助：分析文件、生成内容、...",
-      "link": "https://www.oschina.net/news/454946",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 又立一功？倒逼Linux内核清理历史包袱",
-      "source": "开源中国",
-      "published": "2026-06-09",
-      "summary": "Linux 内核 3000 万行代码，AF_ALG 是第一个被AI加速淘汰的接口，当然不会是最后一个。内核里功能小众、攻击面巨大的接口有多少？没人能精确统计，但AI正在逐个把它们挖出来，帮内核社区甩掉那些早就该甩掉的历史包袱。",
-      "link": "https://my.oschina.net/u/4487475/blog/19698372",
-      "category": "AI News"
-    },
-    {
-      "title": "工信部出手整治 APP 乱跳转现象",
-      "source": "开源中国",
-      "published": "2026-06-09",
-      "summary": "工业和信息化部信息通信管理局日前组织召开专题会议，指导督促相关互联网平台和智能终端企业，强化 App 信息窗口呈现方式的规范管理，严禁违规呈现信息窗口。 随着“618”各类电子商务促销活动不断增多，部分App在开屏和弹出的信息窗口中，采用违规方式诱导用户点击，或通过高灵敏度“摇一摇”等方式误导触发跳转。会议通...",
-      "link": "https://www.oschina.net/news/454931",
-      "category": "AI News"
-    },
-    {
-      "title": "Redisson 4.5.0 发布，官方推荐的 Redis 客户端",
-      "source": "开源中国",
-      "published": "2026-06-09",
-      "summary": "Redisson 4.5.0 现已发布，这是一个 Java 编写的 Redis 客户端，具备驻内存数据网格（In-Memory Data Grid）功能，并获得了 Redis 的官方推荐。 此版本更新内容如下： Feature 新增数组对象 新增 BitVector Store 对象 Fory 库升级至 1.1.0 支持 Micronaut 5.0 为MapOptions、PlainOptions、LocalCachedMapOptions对象新...",
-      "link": "https://www.oschina.net/news/454920/redisson-4-5-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "在反外挂前线，游戏厂商开启了“军备竞赛”",
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
       "source": "36氪",
-      "published": "2026-06-09",
-      "summary": "“破坏公平，就该受到惩罚”，这几乎是所有人心中的共识。但在聚集了数千万乃至上亿参与者的游戏竞技场里，作弊行为的边界却显得模糊。在网络游戏领域，作弊有一个更广为人知的称呼：“开外挂”。它包含一切通过非官方允许的外部程序或硬件，获取超过正常玩家所拥有的信息与操作能力的行为。而在涉及游戏的场景中，外挂往往不包含在单机游戏里使用数据修改器，而是特指多人竞技游戏中的透视、自瞄等工具。当下互联网除了外挂开发者，还有一部分内容创作者也把“外挂”作为有噱头的传播素材，获取流量，甚至是给外挂打广告，做宣传。比如在一些深夜的直播间里，摸金玩法游戏的“寻宝鼠”类主播会持续向观众展示“自己如何利用物资透视外挂，在地图",
-      "link": "https://36kr.com/p/3846046471277059?f=rss",
+      "published": "2026-06-10",
+      "summary": "文｜周鑫雨编辑｜张雨忻《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI4S 算法人才和资深制药领域专家构成。该团队自成立起便承担着从基础模型研究到产业化的核心职能。此前字节内部负责蛋白结构预测模型的相关团队，也已并入由刘凯负责的 AI 制药团队，相关算法模型团队已完成整合，将继续推进该领域的基础模型",
+      "link": "https://36kr.com/p/3846956646124036?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
+      "title": "最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店",
       "source": "36氪",
-      "published": "2026-06-09",
-      "summary": "大公司：猫眼娱乐：作为首批内测开发者接入微信AI生态布局36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。歌尔股份：拟向歌尔光学增资5亿元，持股比例将增至39.6676%36氪获悉，歌尔股份公告，公司及宁波舜宇奥来技术有限公司拟",
-      "link": "https://36kr.com/p/3845899768760580?f=rss",
+      "published": "2026-06-10",
+      "summary": "文｜张子怡编辑｜袁斯来在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具；对于独立站卖家而言，这一数字往往会上升到5个甚至更多。因此，跨境电商圈对于AI工具的降本增效功能格外渴望。在过去两年的大模型热潮中，跨境卖家们用ChatGPT写描述、Midjourney生图、翻译客服等工具塞满工作流。然而",
+      "link": "https://36kr.com/p/3846793046133257?f=rss",
       "category": "AI News"
     },
     {
-      "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
       "source": "36氪",
-      "published": "2026-06-09",
-      "summary": "文 | 阿至封面来源｜Pexels星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”）近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。本轮资金将主要用于星载组合光纤放大器产线扩容、星载三轴光纤陀螺在轨搭载验证及多款新品研发，进一步加速星载光电核心部组件的国产化进程。寰宇星通成立于2021年，团队核心班底来自南开大学，是国内最早从事星载光纤放大器自主研发的产学研转化项目之一。创始人戴武涛硕士毕业于南",
-      "link": "https://36kr.com/p/3845819328023043?f=rss",
+      "published": "2026-06-10",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。无论是物理世界的具身机器人还是数字世界的语言大模型，由于缺乏高精度多模态人类状态数据的输入，都只能做机械的被动响应，缺乏主动共情的闭环能力，无法执行",
+      "link": "https://36kr.com/p/3846789531404549?f=rss",
       "category": "AI News"
     },
     {
-      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+      "title": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
       "source": "36氪",
-      "published": "2026-06-09",
-      "summary": "文｜李嘉星编辑｜周鑫雨一句话介绍context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至 3 小时。团队背景context-mode 的背后是一支背景多元的跨国初创团队。目前团队的核心成员分布在土耳其、法国等 4 个国家，主要通过 GitHub 异步协作。Mert Köseoğlu（核心开发者、创始人）：曾作为技术顾问为 ",
-      "link": "https://36kr.com/p/3845645258541319?f=rss",
+      "published": "2026-06-10",
+      "summary": "文｜胡香赟编辑｜海若镜基本面向上、股价向下，是近期创新药板块的真实写照。6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国创新药企公布了高价值的临床研究成果，但却未能成为扭转行情的催化剂。既往，ASCO上公布的新药临床研究进展是影响创新药企股价的关键变量。当下，随着BD出海热潮，ASCO又被赋予了“集中检验新药资产成色”的意义，因为“没人敢在ASCO上数据造假”。尤其是，中国创新药企今年带去ASCO的成果堪称历届最佳：本届ASCO收录的7239篇研究摘要中，中国机构/新药参与的摘要高达488篇，占比6.7%，仅恒瑞医药就有80多篇；质",
+      "link": "https://36kr.com/p/3845683804555529?f=rss",
       "category": "AI News"
     }
   ]
