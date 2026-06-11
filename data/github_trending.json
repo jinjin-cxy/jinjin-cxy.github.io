@@ -1,123 +1,123 @@
 {
-  "updated": "2026-06-10T13:00:05.220186+00:00",
+  "updated": "2026-06-11T00:29:54.554753+00:00",
   "repositories": [
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 50398,
-      "stars_today": 781,
+      "stars": 51746,
+      "stars_today": 821,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 14017,
-      "stars_today": 775,
+      "stars": 14830,
+      "stars_today": 804,
       "language": "",
       "link": "https://github.com/phuryn/pm-skills"
     },
     {
       "name": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 14651,
-      "stars_today": 618,
+      "stars": 14896,
+      "stars_today": 612,
       "language": "TypeScript",
       "link": "https://github.com/refactoringhq/tolaria"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 38670,
-      "stars_today": 2561,
+      "stars": 39054,
+      "stars_today": 2535,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 31717,
-      "stars_today": 261,
+      "stars": 32002,
+      "stars_today": 318,
       "language": "Python",
       "link": "https://github.com/soxoj/maigret"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
-      "stars": 139387,
-      "stars_today": 397,
+      "stars": 139506,
+      "stars_today": 393,
       "language": "",
       "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 223126,
-      "stars_today": 1011,
+      "stars": 223578,
+      "stars_today": 1104,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": 4987,
-      "stars_today": 92,
+      "stars": 5201,
+      "stars_today": 354,
       "language": "Go",
       "link": "https://github.com/masterking32/MasterDnsVPN"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 84457,
-      "stars_today": 1471,
+      "stars": 85006,
+      "stars_today": 1389,
       "language": "Python",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
       "name": "maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
-      "stars": 2119,
-      "stars_today": 535,
+      "stars": 2278,
+      "stars_today": 527,
       "language": "Python",
       "link": "https://github.com/maziyarpanahi/openmed"
     },
     {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 36339,
-      "stars_today": 204,
+      "stars": 36525,
+      "stars_today": 211,
       "language": "Python",
       "link": "https://github.com/luongnv89/claude-howto"
     },
     {
       "name": "activeloopai/hivemind",
       "description": "One brain for all your agents",
-      "stars": 637,
-      "stars_today": 47,
+      "stars": 827,
+      "stars_today": 64,
       "language": "TypeScript",
       "link": "https://github.com/activeloopai/hivemind"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 72657,
-      "stars_today": 439,
+      "stars": 72890,
+      "stars_today": 420,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
-      "stars": 43381,
-      "stars_today": 699,
+      "stars": 43566,
+      "stars_today": 695,
       "language": "Python",
       "link": "https://github.com/roboflow/supervision"
     },
     {
       "name": "google/skills",
       "description": "Agent Skills for Google products and technologies",
-      "stars": 13041,
-      "stars_today": 680,
+      "stars": 13285,
+      "stars_today": 211,
       "language": "Python",
       "link": "https://github.com/google/skills"
     }
