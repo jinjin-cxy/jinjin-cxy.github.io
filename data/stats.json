@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T00:30:04.822611+00:00",
+  "updated": "2026-06-11T13:09:57.032683+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -52,23 +52,23 @@
   ],
   "top_languages": [
     {
-      "language": "Python",
-      "count": 7
-    },
-    {
       "language": "Shell",
-      "count": 2
+      "count": 3
     },
     {
-      "language": "TypeScript",
-      "count": 2
+      "language": "Python",
+      "count": 3
     },
     {
       "language": "Go",
+      "count": 3
+    },
+    {
+      "language": "Swift",
       "count": 1
     },
     {
-      "language": "Rust",
+      "language": "TypeScript",
       "count": 1
     }
   ]

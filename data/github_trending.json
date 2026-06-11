@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-11T00:29:54.554753+00:00",
+  "updated": "2026-06-11T13:09:41.184223+00:00",
   "repositories": [
+    {
+      "name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 30980,
+      "stars_today": 2419,
+      "language": "Swift",
+      "link": "https://github.com/apple/container"
+    },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 51746,
-      "stars_today": 821,
+      "stars": 53623,
+      "stars_today": 3275,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
+      "name": "maziyarpanahi/openmed",
+      "description": "open-source healthcare ai",
+      "stars": 2547,
+      "stars_today": 427,
+      "language": "Python",
+      "link": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 14830,
-      "stars_today": 804,
+      "stars": 15916,
+      "stars_today": 1944,
       "language": "",
       "link": "https://github.com/phuryn/pm-skills"
     },
     {
-      "name": "refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 14896,
-      "stars_today": 612,
-      "language": "TypeScript",
-      "link": "https://github.com/refactoringhq/tolaria"
-    },
-    {
-      "name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 39054,
-      "stars_today": 2535,
+      "name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 2313,
+      "stars_today": 308,
       "language": "Python",
-      "link": "https://github.com/mvanhorn/last30days-skill"
+      "link": "https://github.com/NVIDIA/SkillSpector"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 32002,
-      "stars_today": 318,
+      "stars": 32380,
+      "stars_today": 665,
       "language": "Python",
       "link": "https://github.com/soxoj/maigret"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
-      "stars": 139506,
-      "stars_today": 393,
+      "stars": 139740,
+      "stars_today": 369,
       "language": "",
       "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "stars": 15234,
+      "stars_today": 604,
+      "language": "TypeScript",
+      "link": "https://github.com/refactoringhq/tolaria"
+    },
+    {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 223578,
-      "stars_today": 1104,
+      "stars": 224423,
+      "stars_today": 1323,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
+      "name": "restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "stars": 34022,
+      "stars_today": 33,
+      "language": "Go",
+      "link": "https://github.com/restic/restic"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 111045,
+      "stars_today": 1434,
+      "language": "Shell",
+      "link": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
       "name": "masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": 5201,
-      "stars_today": 354,
+      "stars": 5493,
+      "stars_today": 510,
       "language": "Go",
       "link": "https://github.com/masterking32/MasterDnsVPN"
     },
     {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "stars": 85006,
-      "stars_today": 1389,
-      "language": "Python",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 30155,
+      "stars_today": 31,
+      "language": "Ruby",
+      "link": "https://github.com/chatwoot/chatwoot"
     },
     {
-      "name": "maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
-      "stars": 2278,
-      "stars_today": 527,
-      "language": "Python",
-      "link": "https://github.com/maziyarpanahi/openmed"
+      "name": "kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "stars": 1454,
+      "stars_today": 98,
+      "language": "Go",
+      "link": "https://github.com/kenn-io/agentsview"
     },
     {
-      "name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "stars": 36525,
-      "stars_today": 211,
-      "language": "Python",
-      "link": "https://github.com/luongnv89/claude-howto"
-    },
-    {
-      "name": "activeloopai/hivemind",
-      "description": "One brain for all your agents",
-      "stars": 827,
-      "stars_today": 64,
-      "language": "TypeScript",
-      "link": "https://github.com/activeloopai/hivemind"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 72890,
-      "stars_today": 420,
-      "language": "Rust",
-      "link": "https://github.com/ruvnet/RuView"
-    },
-    {
-      "name": "roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
-      "stars": 43566,
-      "stars_today": 695,
-      "language": "Python",
-      "link": "https://github.com/roboflow/supervision"
-    },
-    {
-      "name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "stars": 13285,
-      "stars_today": 211,
-      "language": "Python",
-      "link": "https://github.com/google/skills"
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "stars": 7869,
+      "stars_today": 94,
+      "language": "",
+      "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
     }
   ]
 }
