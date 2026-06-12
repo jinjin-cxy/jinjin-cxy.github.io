@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-12T00:29:20.120044+00:00",
+  "updated": "2026-06-12T12:59:49.889314+00:00",
   "articles": [
+    {
+      "title": "千里收购了一家毫米波雷达公司",
+      "source": "量子位",
+      "published": "2026-06-12",
+      "summary": "布局全栈闭环",
+      "link": "https://www.qbitai.com/2026/06/435196.html",
+      "category": "AI News"
+    },
+    {
+      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
+      "source": "量子位",
+      "published": "2026-06-12",
+      "summary": "助力LP与GP高效合",
+      "link": "https://www.qbitai.com/2026/06/435192.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+      "source": "量子位",
+      "published": "2026-06-12",
+      "summary": "那位被OpenAI开除的股神",
+      "link": "https://www.qbitai.com/2026/06/433717.html",
+      "category": "AI News"
+    },
+    {
+      "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
+      "source": "量子位",
+      "published": "2026-06-12",
+      "summary": "7 月 17-18 日",
+      "link": "https://www.qbitai.com/2026/06/435105.html",
+      "category": "AI News"
+    },
+    {
+      "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
+      "source": "量子位",
+      "published": "2026-06-12",
+      "summary": "最难档通通零蛋",
+      "link": "https://www.qbitai.com/2026/06/434774.html",
+      "category": "AI News"
+    },
+    {
+      "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-06-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅",
+      "source": "InfoQ 中文",
+      "published": "2026-06-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+      "source": "InfoQ 中文",
+      "published": "2026-06-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Build 2026：Azure API Management 推出统一模型API并新增MCP内容安全能力",
+      "source": "InfoQ 中文",
+      "published": "2026-06-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/KDgV7D7aIrCVeEEuy6Wk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake 迈向 Agentic Enterprise 的关键一跃",
+      "source": "InfoQ 中文",
+      "published": "2026-06-12",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/x99GEFjWQ8Ipb4pcDq2P?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Kimi K2.7 Code 发布并开源，6 倍速高速版下周一上线",
+      "source": "开源中国",
+      "published": "2026-06-12",
+      "summary": "月之暗面宣布发布并开源 Kimi K2.7 Code 编程模型。1M token 的标准输入和输出价格与 K2.6 模型一致，分别为 6.5 元和 27 元；命中缓存的输入价格调整为 1.3 元。 其内外部基准评估显示，Kimi K2.7 Code 相比 K2.6 模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的...",
+      "link": "https://www.oschina.net/news/457565",
+      "category": "AI News"
+    },
+    {
+      "title": "Protocol Buffers 35.1 发布",
+      "source": "开源中国",
+      "published": "2026-06-12",
+      "summary": "Protocol Buffers 35.1 已经发布。Protocol Buffers（protobuf）是 Google 开源的语言无关、平台无关的可扩展机制，用于序列化结构化数据。 Announcements Protobuf News 可能包括即将发生的变化的额外公告或预告。 Bazel Bazel 9 针对 csharp、hpb、objc、php、python、rust 和 upb 进行了测试（#27598）（4469e38） 打...",
+      "link": "https://www.oschina.net/news/457562/protobuf-35-1-released",
+      "category": "AI News"
+    },
+    {
+      "title": "从月球漫步到赛博都市，WBench 测出了世界模型的边界",
+      "source": "开源中国",
+      "published": "2026-06-12",
+      "summary": "像这样，在月球上自由漫步，是什么感觉？它们是真的理解了世界，还是仅仅在模仿视频？目前的模型距离这个目标还有多远？",
+      "link": "https://my.oschina.net/meituantech/blog/19702272",
+      "category": "AI News"
+    },
+    {
+      "title": "smart-socket v2.1.0 发布：在 AI 时代，我们为什么还在打磨一个通信框架？",
+      "source": "开源中国",
+      "published": "2026-06-12",
+      "summary": "AI 都已经开始写代码了，为什么还要继续维护 smart-socket 这样的通信框架？ 这是个值得思考的问题。 如今，大模型已经能够生成完整的业务代码，自动补全、测试生成、代码重构……越来越多过去需要开发者亲手完成的工作，正在被 AI 接管。 但这些年的经历，让我越来越确信： AI 可以生成代码，但无法替代工程积累。 AI 可...",
+      "link": "https://www.oschina.net/news/457440/smart-socket-2-1-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "“开源版 Windows” ReactOS 达成重要里程碑，现已能够运行《半条命》",
+      "source": "开源中国",
+      "published": "2026-06-12",
+      "summary": "致力于实现与微软Windows二进制兼容的开源操作系统——ReactOS终于能够运行经典游戏《半条命》（Half-Life）了。ReactOS的开发历程已达28年之久，这个里程碑的达成来之不易。 ReactOS项目成立于1998年，其核心目标是创建一个与Windows二进制兼容的操作系统，让Windows程序和驱动程序无需修改即可在其上运行。这一目标说起...",
+      "link": "https://www.oschina.net/news/457407",
+      "category": "AI News"
+    },
+    {
+      "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
+      "source": "36氪",
+      "published": "2026-06-12",
+      "summary": "比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪，直到一次受邀参加当地泰籍员工间的聚会，他才找到这些被“偷走”的BYD Logo。“有一个当地人穿了一件T恤，那不是我们的工服，但胸前却有一个BYD的Logo，我凑近了看才发现，那就是桶装水上的Logo塑料片，他们用胶水小心",
+      "link": "https://36kr.com/p/3846882883963139?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？",
+      "source": "36氪",
+      "published": "2026-06-12",
+      "summary": "2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。国槐另一边，一街之隔，是有1300年历史的法源寺——法源寺的丁香四月初开，满寺如雪。而“居于庙前、庙左”成为周志峰买下院子最主要的理由。来源：崛貌国际艺术设计他小时候住过寺庙。祖父辈是乡绅地主，也算是事实性“阔过”，后来这种成功成为了鉴定“坏身份”的缘由，祖宅大院被分给了乡亲们住，他们家则被安置到一座废弃的寺庙。周志峰和",
+      "link": "https://36kr.com/p/3849664394204419?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+      "source": "36氪",
+      "published": "2026-06-12",
+      "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制造企业日常运营中高频、分散、复杂的基础物料，工业用品尤其是MRO物料，直接关系设备维护、产线运行、安全生产和综合运营效率。然而，长期以来，工业用品采购普遍存在供应商分散、商品参数不统一、选型比价困难、履约稳定性不足、库存管理粗放等问题，成为制造",
+      "link": "https://36kr.com/p/3846798967818752?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "source": "36氪",
+      "published": "2026-06-12",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。力普司2025年7月成立于连云港，聚焦大型船舶综合电力推进系统的研发、设计与生产，产品覆盖领先一代的L型永磁全回转推进器、永磁吊舱推进器、破冰型全回转推进器等全矩阵系列，全系列产品采用标准化、模块化的设计和制造理念，具有尺寸小、重量轻、功率密度大、可",
+      "link": "https://36kr.com/p/3849520020231432?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
       "source": "36氪",
       "published": "2026-06-12",
       "summary": "今日热点导览OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录SK海力士设备供应商要求涨价端午前机票价格跳水SpaceX上市前夕，美股太空股提前狂欢TOP 3 大新闻SpaceX上市在即，马斯克或成全球首位万亿富翁据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元上市纪录的逾两倍。声",
       "link": "https://36kr.com/p/3849431503869187?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-      "source": "量子位",
-      "published": "2026-06-11",
-      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
-      "link": "https://www.qbitai.com/2026/06/434571.html",
-      "category": "AI News"
-    },
-    {
-      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
-      "source": "量子位",
-      "published": "2026-06-11",
-      "summary": "前期做了40万AI考生压测",
-      "link": "https://www.qbitai.com/2026/06/434558.html",
-      "category": "AI News"
-    },
-    {
-      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-      "source": "量子位",
-      "published": "2026-06-11",
-      "summary": "Meshy发布全球首个3D AI Agent",
-      "link": "https://www.qbitai.com/2026/06/434317.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
-      "source": "量子位",
-      "published": "2026-06-11",
-      "summary": "用扩散模型生成文字",
-      "link": "https://www.qbitai.com/2026/06/434316.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
-      "source": "量子位",
-      "published": "2026-06-11",
-      "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上！",
-      "link": "https://www.qbitai.com/2026/06/434326.html",
-      "category": "AI News"
-    },
-    {
-      "title": "硅谷大厂，员工人均月花5万养 AI",
-      "source": "InfoQ 中文",
-      "published": "2026-06-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/g0gwDH3edWuateVXqp6N?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了",
-      "source": "InfoQ 中文",
-      "published": "2026-06-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Arm 神经技术与虚幻引擎 MegaLights首登移动端，手游画质跨入电影时代",
-      "source": "InfoQ 中文",
-      "published": "2026-06-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zaWyR4Kg3d7ubjcHR3Lr?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "企业级 AI Coding 进入深水区：从代码生成到组织重构",
-      "source": "InfoQ 中文",
-      "published": "2026-06-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/LI99ydgLxBlJ3qDmSKRy?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "微软 Foundry 新增生产级智能体运行时、工具链与管控能力",
-      "source": "InfoQ 中文",
-      "published": "2026-06-11",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/FoxOEsYuLGTKgu8wbhdY?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Apache Burr：让 AI Agent 应用的开发、追踪和持久化变得简单",
-      "source": "开源中国",
-      "published": "2026-06-11",
-      "summary": "当 AI Agent 应用从研究原型走向真实产品时，开发者面临的核心问题不再是\"能不能跑起来\"，而是：如何管理复杂的状态、如何追踪每一次决策路径、如何在生产环境中可靠地持久化对话历史？Apache Burr（目前处于孵化阶段）试图用一套轻量级 Python 工具集来回答这个问题。 Burr 包括： 一个（零依赖）低抽象程度的 Python 库...",
-      "link": "https://www.oschina.net/news/456237",
-      "category": "AI News"
-    },
-    {
-      "title": "Perplexity 与哈佛联合发布研究：AI Agent 如何重塑知识工作",
-      "source": "开源中国",
-      "published": "2026-06-11",
-      "summary": "AI助手和AI智能体是完全不同的物种。前者回答问题、解释权衡、建议下一步，用户仍需亲自动手执行；后者则直接规划、执行并交付成果。Perplexity与哈佛商学院研究团队的最新研究首次对Perplexity Computer（通用AI Agent编排器）与传统搜索助手在实际部署中的表现进行了全面比较，揭示了一个正在重塑知识工作格局的深刻转...",
-      "link": "https://www.oschina.net/news/456209",
-      "category": "AI News"
-    },
-    {
-      "title": "VS Code 为扩展自动更新增加 2 小时延迟，以限制供应链攻击",
-      "source": "开源中国",
-      "published": "2026-06-11",
-      "summary": "微软旗下最流行的集成开发环境 VS Code 日前推出了一项新的安全机制：从版本 1.123 开始，扩展程序在发布后将自动延迟 2 小时后才进行更新。微软表示，这一设计旨在为\"问题版本或可能被入侵的版本\"添加一层额外的安全缓冲。 当用户启用自动更新功能时，VS Code 扩展商店中的任何扩展在发布新版本后，将等待 2 小时才会被...",
-      "link": "https://www.oschina.net/news/456173/s-code-adds-2-hour-extension-auto",
-      "category": "AI News"
-    },
-    {
-      "title": "LLM 正在侵蚀我的软件工程师职业生涯",
-      "source": "开源中国",
-      "published": "2026-06-11",
-      "summary": "翻译自：https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/ 今年是我从事软件工程的第十年。十年来，我花了大量时间积累金融支付领域的专业知识：PCI合规、双复式记账、第三方支付、资金托管、对账流程、银行转账幂等性——这些知识让我成为这个细分...",
-      "link": "https://www.oschina.net/news/456159",
-      "category": "AI News"
-    },
-    {
-      "title": "Windows 用户吐槽：Claude Desktop 刚启动就霸占 1.8GB 内存",
-      "source": "开源中国",
-      "published": "2026-06-11",
-      "summary": "近期，不少 Windows 平台的用户对 Anthropic 旗下的Claude Desktop应用提出了强烈不满，核心矛头直指其“难以接受”的内存占用问题。 根据用户在社区的反馈，问题的症结在于该程序在 Windows 系统上的资源调用机制。一旦用户曾经体验过 Claude Cowork 或智能体（Agent）模式，软件便会在后台悄然启动一个1.8GB 的 Hyper-...",
-      "link": "https://www.oschina.net/news/456144",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "source": "36氪",
-      "published": "2026-06-11",
-      "summary": "大公司：克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François Provost）汇报。通用或停止将磷酸铁锂电池用于电动汽车通用汽车电池技术负责人表示，该公司可能会放弃使用低成本的铁基电池技术，而许多汽车制造商正在使用这种技术来降低电动汽车的成本。这家底特律汽车制造商此前曾表",
-      "link": "https://36kr.com/p/3848516305605892?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-      "source": "36氪",
-      "published": "2026-06-11",
-      "summary": "两个月后，ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJoy AI未来生态大会的战略合作伙伴，36氪游戏与ChinaJoy 联合打造「ChinaJoy Vision Future 前沿科技展区 × 36氪直播间」，将一线报",
-      "link": "https://36kr.com/p/3848564910036229?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-      "source": "36氪",
-      "published": "2026-06-11",
-      "summary": "文｜张子怡编辑｜袁斯来近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺乏面向普通消费者的量产产品。坦途科技此次选择的“地效贴水飞行”形态，旨在通过技术手段降低个人飞行的准入和操作门槛。在产品设计上，WaveFly 5X采用双串翼式布局与航空级碳纤维机身。由于其基于地效原理运行，飞行",
-      "link": "https://36kr.com/p/3848476414792709?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
-      "source": "36氪",
-      "published": "2026-06-11",
-      "summary": "文丨贝果树编辑丨果脯5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。彼时，这款游戏刚发售12天，销量超过了20万份。或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至只有一百多的评论数。但如今，借着20万份的热度，《梦幻魔法公主》在游戏发售后甚至发起了众筹计划，打算向玩家贩售游戏周边。《梦幻魔法公主》开启游戏众筹单看游戏本身，《梦幻魔法公主》无疑是一部美少女养成类游戏的佳作。游戏画风精美，剧情",
-      "link": "https://36kr.com/p/3848383082222849?f=rss",
       "category": "AI News"
     }
   ]

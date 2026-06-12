@@ -1,123 +1,123 @@
 {
-  "updated": "2026-06-12T00:29:10.199321+00:00",
+  "updated": "2026-06-12T12:59:40.679798+00:00",
   "repositories": [
     {
       "name": "apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 32380,
-      "stars_today": 2430,
+      "stars": 34408,
+      "stars_today": 3513,
       "language": "Swift",
       "link": "https://github.com/apple/container"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 54683,
-      "stars_today": 3278,
+      "stars": 56219,
+      "stars_today": 2660,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
-      "stars": 2745,
-      "stars_today": 426,
+      "stars": 3052,
+      "stars_today": 517,
       "language": "Python",
       "link": "https://github.com/maziyarpanahi/openmed"
     },
     {
       "name": "phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 16200,
-      "stars_today": 1978,
+      "stars": 16712,
+      "stars_today": 823,
       "language": "",
       "link": "https://github.com/phuryn/pm-skills"
     },
     {
       "name": "NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "stars": 2636,
-      "stars_today": 319,
+      "stars": 3107,
+      "stars_today": 811,
       "language": "Python",
       "link": "https://github.com/NVIDIA/SkillSpector"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "stars": 32602,
-      "stars_today": 661,
+      "stars": 32909,
+      "stars_today": 559,
       "language": "Python",
       "link": "https://github.com/soxoj/maigret"
     },
     {
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
-      "stars": 139864,
-      "stars_today": 368,
+      "stars": 140075,
+      "stars_today": 355,
       "language": "",
       "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     },
     {
       "name": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 15383,
-      "stars_today": 604,
+      "stars": 15582,
+      "stars_today": 369,
       "language": "TypeScript",
       "link": "https://github.com/refactoringhq/tolaria"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 224806,
-      "stars_today": 1322,
+      "stars": 225614,
+      "stars_today": 1276,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "restic/restic",
       "description": "Fast, secure, efficient backup program",
-      "stars": 34151,
-      "stars_today": 61,
+      "stars": 34316,
+      "stars_today": 307,
       "language": "Go",
       "link": "https://github.com/restic/restic"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 111545,
-      "stars_today": 1599,
+      "stars": 112019,
+      "stars_today": 1040,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": 5687,
-      "stars_today": 507,
+      "stars": 5879,
+      "stars_today": 401,
       "language": "Go",
       "link": "https://github.com/masterking32/MasterDnsVPN"
     },
     {
       "name": "chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 30354,
-      "stars_today": 67,
+      "stars": 30567,
+      "stars_today": 437,
       "language": "Ruby",
       "link": "https://github.com/chatwoot/chatwoot"
     },
     {
       "name": "kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "stars": 1636,
-      "stars_today": 114,
+      "stars": 1979,
+      "stars_today": 529,
       "language": "Go",
       "link": "https://github.com/kenn-io/agentsview"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
       "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "stars": 7940,
-      "stars_today": 89,
+      "stars": 8171,
+      "stars_today": 314,
       "language": "",
       "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
     }
