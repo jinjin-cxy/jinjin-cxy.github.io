@@ -1,109 +1,117 @@
 {
-  "updated": "2026-06-13T00:29:40.669364+00:00",
+  "updated": "2026-06-13T12:29:32.292754+00:00",
   "repositories": [
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 56776,
-      "stars_today": 2656,
-      "language": "Shell",
-      "link": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "music-assistant/server",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
-      "stars": 1776,
-      "stars_today": 20,
-      "language": "Python",
-      "link": "https://github.com/music-assistant/server"
-    },
-    {
-      "name": "mattermost/mattermost",
-      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "stars": 37623,
-      "stars_today": 388,
-      "language": "TypeScript",
-      "link": "https://github.com/mattermost/mattermost"
-    },
-    {
-      "name": "apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 35070,
-      "stars_today": 3504,
-      "language": "Swift",
-      "link": "https://github.com/apple/container"
-    },
     {
       "name": "iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 118024,
+      "stars": 118321,
       "stars_today": 179,
       "language": "TypeScript",
       "link": "https://github.com/iptv-org/iptv"
     },
     {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 57636,
+      "stars_today": 1507,
+      "language": "Shell",
+      "link": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 30648,
+      "stars_today": 86,
+      "language": "Ruby",
+      "link": "https://github.com/chatwoot/chatwoot"
+    },
+    {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 225987,
-      "stars_today": 1275,
+      "stars": 226499,
+      "stars_today": 931,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
-      "name": "refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 15758,
-      "stars_today": 369,
-      "language": "TypeScript",
-      "link": "https://github.com/refactoringhq/tolaria"
+      "name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 35773,
+      "stars_today": 1471,
+      "language": "Swift",
+      "link": "https://github.com/apple/container"
     },
     {
-      "name": "maziyarpanahi/openmed",
-      "description": "open-source healthcare ai",
-      "stars": 3186,
-      "stars_today": 515,
+      "name": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars": 1900,
+      "stars_today": 20,
       "language": "Python",
-      "link": "https://github.com/maziyarpanahi/openmed"
+      "link": "https://github.com/music-assistant/server"
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "stars": 2153,
+      "stars_today": 187,
+      "language": "Go",
+      "link": "https://github.com/kenn-io/agentsview"
     },
     {
       "name": "LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "stars": 8631,
+      "stars": 8752,
       "stars_today": 28,
       "language": "Python",
       "link": "https://github.com/LMCache/LMCache"
     },
     {
-      "name": "phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "stars": 16974,
-      "stars_today": 827,
-      "language": "",
-      "link": "https://github.com/phuryn/pm-skills"
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "stars": 6006,
-      "stars_today": 400,
-      "language": "Go",
-      "link": "https://github.com/masterking32/MasterDnsVPN"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 112405,
-      "stars_today": 1026,
-      "language": "Shell",
-      "link": "https://github.com/msitarzewski/agency-agents"
-    },
-    {
       "name": "microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "stars": 134328,
+      "stars": 134497,
       "stars_today": 103,
       "language": "C",
       "link": "https://github.com/microsoft/PowerToys"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 13982,
+      "stars_today": 132,
+      "language": "Python",
+      "link": "https://github.com/andrewyng/aisuite"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 3903,
+      "stars_today": 809,
+      "language": "Python",
+      "link": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "stars": 47346,
+      "stars_today": 86,
+      "language": "Kotlin",
+      "link": "https://github.com/bannedbook/fanqiang"
+    },
+    {
+      "name": "swc-project/swc",
+      "description": "Rust-based platform for the Web",
+      "stars": 33552,
+      "stars_today": 12,
+      "language": "Rust",
+      "link": "https://github.com/swc-project/swc"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+      "stars": 140174,
+      "stars_today": 107,
+      "language": "",
+      "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
     }
   ]
 }
