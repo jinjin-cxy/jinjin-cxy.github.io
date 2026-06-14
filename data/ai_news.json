@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-13T12:29:47.450185+00:00",
+  "updated": "2026-06-14T00:26:49.681416+00:00",
   "articles": [
+    {
+      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "source": "量子位",
+      "published": "2026-06-13",
+      "summary": "模型参数量只有1B",
+      "link": "https://www.qbitai.com/2026/06/435483.html",
+      "category": "AI News"
+    },
     {
       "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
       "source": "量子位",
@@ -103,14 +111,6 @@
       "published": "2026-06-12",
       "summary": "比分、红牌、绝杀全押中",
       "link": "https://www.qbitai.com/2026/06/435321.html",
-      "category": "AI News"
-    },
-    {
-      "title": "千里收购了一家毫米波雷达公司",
-      "source": "量子位",
-      "published": "2026-06-12",
-      "summary": "布局全栈闭环",
-      "link": "https://www.qbitai.com/2026/06/435196.html",
       "category": "AI News"
     },
     {
