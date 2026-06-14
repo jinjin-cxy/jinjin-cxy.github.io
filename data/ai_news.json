@@ -1,6 +1,70 @@
 {
-  "updated": "2026-06-14T00:26:49.681416+00:00",
+  "updated": "2026-06-14T12:32:53.635063+00:00",
   "articles": [
+    {
+      "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-06-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+      "source": "InfoQ 中文",
+      "published": "2026-06-14",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
+      "source": "开源中国",
+      "published": "2026-06-14",
+      "summary": "WCP5 提供了一套完整的企业级知识管理解决方案，让团队协作更智能、更高效！ 核心模块重构一览 模块 说明 * 知识管理 支持 多格式知识创建与维护 * 智能搜索 基于 Apache Lucene + IK 分词的全文检索引擎 * AI 助手 集成大语言模型，支持智能问答与嵌入检索 * 工作流引擎 可视化 AI 流程编排（Vue Flow） *️ 分类体系 ...",
+      "link": "https://www.oschina.net/news/458347",
+      "category": "AI News"
+    },
+    {
+      "title": "GodeX 1.2.0 拥抱 GLM-5.2",
+      "source": "开源中国",
+      "published": "2026-06-14",
+      "summary": "让每个模型都成为 Codex 引擎。 OpenAI 兼容的 Responses API 网关，让 Codex、CLI 工具和开发者 Agent 接入任意模型。 English Documentation · 中文文档 GodeX 让使用 OpenAI Responses API 的客户端，可以通过一个本地网关调用 DeepSeek、Xiaomi、MiniMax、智谱等只提供 Chat Completions API 的模型提供商。 GodeX ...",
+      "link": "https://www.oschina.net/news/458338",
+      "category": "AI News"
+    },
+    {
+      "title": "feilong 4.5.4 发布了，让 Java 开发更简便的工具库",
+      "source": "开源中国",
+      "published": "2026-06-14",
+      "summary": "feilong 4.5.4 Release Notes（Milestone #53） 里程碑：4.5.4 · Milestone #53（18 items, 100% completed） 仓库：https://github.com/ifeilong/feilong Milestone 视图：https://github.com/ifeilong/feilong/milestone/53?closed=1 升级提示（先看这个） MapUtil.get(Map<K,V>, int) 由于 int 重载容易产生歧义（是...",
+      "link": "https://www.oschina.net/news/458333",
+      "category": "AI News"
+    },
+    {
+      "title": "Dante Cloud 4.1.0.0 发布，Spring Boot 3 已落幕，启航新征程",
+      "source": "开源中国",
+      "published": "2026-06-14",
+      "summary": "[一] 更新说明 2026年6月，Spring Boot 4.1 和 Spring Cloud 2025.1.2 正式发布。本次发布并不同于传统习惯在 5月底发布，而是改为在 6 月第二周，所有 Spring 生态组件集中发布。 随着 Spring Boot 4.1 版本的发布，Spring Boot 3 也结束其生命周期，正式停止维护退出历史舞台。今后，Spring Boot 4.X 将会成为社区主要...",
+      "link": "https://www.oschina.net/news/458331",
+      "category": "AI News"
+    },
+    {
+      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+      "source": "36氪",
+      "published": "2026-06-14",
+      "summary": "文｜贺哲馨编辑｜乔芊36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、",
+      "link": "https://36kr.com/p/3850942780838912?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "source": "36氪",
+      "published": "2026-06-14",
+      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的",
+      "link": "https://36kr.com/p/3851572421432324?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
       "source": "量子位",
@@ -58,11 +122,11 @@
       "category": "AI News"
     },
     {
-      "title": "调问更新5.31~6.12：新增 Excel 数据导入与手机号验证，全面优化统计与抽奖模块",
+      "title": "常驻内存仅 15MB，无强制绑定！我们用 Go 语言重构了一款干净、轻量的 Linux 面板 DBPanel",
       "source": "开源中国",
       "published": "2026-06-13",
-      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源*，助力企业建设属于自己的问卷调研系统*。 *官网地址： https://www.diaowen.net * 在线服务： https://www.surveyform.cn * 源码下载： https://gitee.com/wkeyuan/DWSurvey 本次更新致力于全面提升数据收集的效率与分析的专业度：全新上线了手机号验证与 Excel 数据导...",
-      "link": "https://www.oschina.net/news/457829",
+      "summary": "各位开源中国的技术同仁、DevOps 工程师、系统管理员们，大家好： 在数字化基础设施建设中，Linux 服务器管理面板一直是开发者和运维人员离不开的生产力工具。然而，随着国内通用面板生态的演进，相信大家在日常运维、帮客户交付系统或管理私有云时，都或多或少面临着以下痛点： 面板自身越来越臃肿：由于功能过度堆砌，...",
+      "link": "https://www.oschina.net/news/458127",
       "category": "AI News"
     },
     {
@@ -90,75 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-      "source": "36氪",
-      "published": "2026-06-13",
-      "summary": "飞向宇宙、浩瀚无垠作者｜曹思颀编辑｜靖宇6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。从 2002 年因为买不到火箭而被迫创业，到如今完成人类商业史上最大的 IPO，这 24 年的旅程里，有大量反直觉、反共识的故事。这家公司名义上造火箭，但火",
-      "link": "https://36kr.com/p/3851073239372809?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "突发！Anthropic全球停用Claude 5",
-      "source": "36氪",
-      "published": "2026-06-13",
-      "summary": "究竟为何，Anthropic突然下线了地表最强Claude？【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。太突然了！就在刚刚，Anthropic官宣——全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。无论是在美国境内还是境外，就连Anthropic的外籍员工，全都不可用。上线才3天的Claude Fable 5，一瞬间就没了。全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限一时间，全网都坐不住了。AI圈大佬们纷纷震惊，表示不解。网友评论网友评论究竟为何，Anthr",
-      "link": "https://36kr.com/p/3851015329027336?f=rss",
-      "category": "AI News"
-    },
-    {
       "title": "神了，世界杯第一天真按千问剧本踢了",
       "source": "量子位",
       "published": "2026-06-12",
       "summary": "比分、红牌、绝杀全押中",
       "link": "https://www.qbitai.com/2026/06/435321.html",
-      "category": "AI News"
-    },
-    {
-      "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
-      "source": "InfoQ 中文",
-      "published": "2026-06-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "5人2周肝出5.1k星！小米 MiMo Code开源但bug不断，开发者炸锅",
-      "source": "InfoQ 中文",
-      "published": "2026-06-12",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GTYmDTKIy8f79604Jz1V?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥MakuBoot 5.1 发布，低代码开发平台，快速开发利器",
-      "source": "开源中国",
-      "published": "2026-06-12",
-      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开发者提供一个简洁、高效、可扩展的低代码开发平台。 使用门槛极低，支持国密加密、达梦数据库等，符合信创需求的低代码开发平台。 采用组件模式，扩展不同的业务功能，可以...",
-      "link": "https://www.oschina.net/news/457589",
-      "category": "AI News"
-    },
-    {
-      "title": "Kimi K2.7 Code 发布并开源，6 倍速高速版下周一上线",
-      "source": "开源中国",
-      "published": "2026-06-12",
-      "summary": "月之暗面宣布发布并开源 Kimi K2.7 Code 编程模型。1M token 的标准输入和输出价格与 K2.6 模型一致，分别为 6.5 元和 27 元；命中缓存的输入价格调整为 1.3 元。 其内外部基准评估显示，Kimi K2.7 Code 相比 K2.6 模型显著提升了长上下文编程场景的指令遵循能力、长程编程任务的性能表现，并且大幅改善了在长程任务中的...",
-      "link": "https://www.oschina.net/news/457565",
-      "category": "AI News"
-    },
-    {
-      "title": "Protocol Buffers 35.1 发布",
-      "source": "开源中国",
-      "published": "2026-06-12",
-      "summary": "Protocol Buffers 35.1 已经发布。Protocol Buffers（protobuf）是 Google 开源的语言无关、平台无关的可扩展机制，用于序列化结构化数据。 Announcements Protobuf News 可能包括即将发生的变化的额外公告或预告。 Bazel Bazel 9 针对 csharp、hpb、objc、php、python、rust 和 upb 进行了测试（#27598）（4469e38） 打...",
-      "link": "https://www.oschina.net/news/457562/protobuf-35-1-released",
-      "category": "AI News"
-    },
-    {
-      "title": "从月球漫步到赛博都市，WBench 测出了世界模型的边界",
-      "source": "开源中国",
-      "published": "2026-06-12",
-      "summary": "像这样，在月球上自由漫步，是什么感觉？它们是真的理解了世界，还是仅仅在模仿视频？目前的模型距离这个目标还有多远？",
-      "link": "https://my.oschina.net/meituantech/blog/19702272",
       "category": "AI News"
     }
   ]
