@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-15T00:27:55.739424+00:00",
+  "updated": "2026-06-15T14:00:04.888309+00:00",
   "repositories": [
     {
       "name": "iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 120885,
-      "stars_today": 1528,
+      "stars": 122498,
+      "stars_today": 2650,
       "language": "TypeScript",
       "link": "https://github.com/iptv-org/iptv"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 447177,
-      "stars_today": 146,
-      "language": "TypeScript",
-      "link": "https://github.com/freeCodeCamp/freeCodeCamp"
+      "name": "teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars": 8159,
+      "stars_today": 35,
+      "language": "Elixir",
+      "link": "https://github.com/teslamate-org/teslamate"
     },
     {
-      "name": "pytest-dev/pytest",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "stars": 14030,
-      "stars_today": 14,
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 29538,
+      "stars_today": 1045,
       "language": "Python",
-      "link": "https://github.com/pytest-dev/pytest"
-    },
-    {
-      "name": "swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "stars": 33775,
-      "stars_today": 163,
-      "language": "Rust",
-      "link": "https://github.com/swc-project/swc"
-    },
-    {
-      "name": "chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "stars": 31209,
-      "stars_today": 400,
-      "language": "Ruby",
-      "link": "https://github.com/chatwoot/chatwoot"
-    },
-    {
-      "name": "NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "stars": 5269,
-      "stars_today": 964,
-      "language": "Python",
-      "link": "https://github.com/NVIDIA/SkillSpector"
+      "link": "https://github.com/Panniantong/Agent-Reach"
     },
     {
       "name": "meshery/meshery",
       "description": "Meshery, the cloud native manager",
-      "stars": 10397,
-      "stars_today": 20,
+      "stars": 10541,
+      "stars_today": 227,
       "language": "TypeScript",
       "link": "https://github.com/meshery/meshery"
     },
     {
-      "name": "cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "stars": 49928,
-      "stars_today": 39,
+      "name": "chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": 31502,
+      "stars_today": 431,
+      "language": "Ruby",
+      "link": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "stars": 126771,
+      "stars_today": 95,
+      "language": "Java",
+      "link": "https://github.com/krahets/hello-algo"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 447652,
+      "stars_today": 738,
       "language": "TypeScript",
-      "link": "https://github.com/cypress-io/cypress"
+      "link": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
-      "name": "GorvGoyl/Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-      "stars": 35449,
-      "stars_today": 269,
+      "name": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 18041,
+      "stars_today": 57,
+      "language": "HTML",
+      "link": "https://github.com/trycua/cua"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 352096,
+      "stars_today": 516,
       "language": "",
-      "link": "https://github.com/GorvGoyl/Clone-Wars"
+      "link": "https://github.com/jwasham/coding-interview-university"
     },
     {
-      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "stars": 2709,
-      "stars_today": 293,
-      "language": "TeX",
-      "link": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": 29901,
-      "stars_today": 244,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 32781,
+      "stars_today": 538,
       "language": "Python",
-      "link": "https://github.com/shiyu-coder/Kronos"
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "name": "music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
-      "stars": 2178,
-      "stars_today": 197,
+      "stars": 2329,
+      "stars_today": 226,
       "language": "Python",
       "link": "https://github.com/music-assistant/server"
     },
     {
       "name": "Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
-      "stars": 16923,
-      "stars_today": 70,
+      "stars": 17157,
+      "stars_today": 361,
       "language": "Python",
       "link": "https://github.com/Free-TV/IPTV"
     },
     {
-      "name": "puppeteer/puppeteer",
-      "description": "JavaScript API for Chrome and Firefox",
-      "stars": 94640,
-      "stars_today": 29,
-      "language": "TypeScript",
-      "link": "https://github.com/puppeteer/puppeteer"
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "stars": 2968,
+      "stars_today": 488,
+      "language": "TeX",
+      "link": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots"
     },
     {
-      "name": "andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "stars": 14388,
-      "stars_today": 291,
-      "language": "Python",
-      "link": "https://github.com/andrewyng/aisuite"
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+      "stars": 47760,
+      "stars_today": 114,
+      "language": "PowerShell",
+      "link": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automatio",
+      "stars": 20653,
+      "stars_today": 126,
+      "language": "Dockerfile",
+      "link": "https://github.com/mikeroyal/Self-Hosting-Guide"
     }
   ]
 }

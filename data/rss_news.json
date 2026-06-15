@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-15T00:28:06.378929+00:00",
+  "updated": "2026-06-15T14:00:20.813148+00:00",
   "articles": [
     {
-      "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
-      "source": "InfoQ 中文",
-      "published": "2026-06-14",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
-      "source": "InfoQ 中文",
-      "published": "2026-06-14",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "知识管理系统 WCP5.0.1 发布，全面重构支持AI工作流引擎编排",
-      "source": "开源中国",
-      "published": "2026-06-14",
-      "summary": "WCP5 提供了一套完整的企业级知识管理解决方案，让团队协作更智能、更高效！ 核心模块重构一览 模块 说明 * 知识管理 支持 多格式知识创建与维护 * 智能搜索 基于 Apache Lucene + IK 分词的全文检索引擎 * AI 助手 集成大语言模型，支持智能问答与嵌入检索 * 工作流引擎 可视化 AI 流程编排（Vue Flow） *️ 分类体系 ...",
-      "link": "https://www.oschina.net/news/458347",
-      "category": "AI News"
-    },
-    {
-      "title": "GodeX 1.2.0 拥抱 GLM-5.2",
-      "source": "开源中国",
-      "published": "2026-06-14",
-      "summary": "让每个模型都成为 Codex 引擎。 OpenAI 兼容的 Responses API 网关，让 Codex、CLI 工具和开发者 Agent 接入任意模型。 English Documentation · 中文文档 GodeX 让使用 OpenAI Responses API 的客户端，可以通过一个本地网关调用 DeepSeek、Xiaomi、MiniMax、智谱等只提供 Chat Completions API 的模型提供商。 GodeX ...",
-      "link": "https://www.oschina.net/news/458338",
-      "category": "AI News"
-    },
-    {
-      "title": "feilong 4.5.4 发布了，让 Java 开发更简便的工具库",
-      "source": "开源中国",
-      "published": "2026-06-14",
-      "summary": "feilong 4.5.4 Release Notes（Milestone #53） 里程碑：4.5.4 · Milestone #53（18 items, 100% completed） 仓库：https://github.com/ifeilong/feilong Milestone 视图：https://github.com/ifeilong/feilong/milestone/53?closed=1 升级提示（先看这个） MapUtil.get(Map<K,V>, int) 由于 int 重载容易产生歧义（是...",
-      "link": "https://www.oschina.net/news/458333",
-      "category": "AI News"
-    },
-    {
-      "title": "Dante Cloud 4.1.0.0 发布，Spring Boot 3 已落幕，启航新征程",
-      "source": "开源中国",
-      "published": "2026-06-14",
-      "summary": "[一] 更新说明 2026年6月，Spring Boot 4.1 和 Spring Cloud 2025.1.2 正式发布。本次发布并不同于传统习惯在 5月底发布，而是改为在 6 月第二周，所有 Spring 生态组件集中发布。 随着 Spring Boot 4.1 版本的发布，Spring Boot 3 也结束其生命周期，正式停止维护退出历史舞台。今后，Spring Boot 4.X 将会成为社区主要...",
-      "link": "https://www.oschina.net/news/458331",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-      "source": "36氪",
-      "published": "2026-06-14",
-      "summary": "今日热点导览加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀A股10家退市公司波及超25万股民SK海力士去年新增员工超2000人H&M重组全球架构，大中华区降级世界杯期间英格兰队装备遭窃，大部分已被追回TOP 3 大新闻诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味",
-      "link": "https://36kr.com/p/3853670570743040?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
-      "source": "36氪",
-      "published": "2026-06-14",
-      "summary": "文｜贺哲馨编辑｜乔芊36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、",
-      "link": "https://36kr.com/p/3850942780838912?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "source": "36氪",
-      "published": "2026-06-14",
-      "summary": "作者｜黄楠编辑｜袁斯来硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的",
-      "link": "https://36kr.com/p/3851572421432324?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Introducing the OpenAI Partner Network",
-      "source": "OpenAI Blog",
-      "published": "2026-06-14",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "link": "https://openai.com/index/introducing-openai-partner-network",
-      "category": "AI News"
-    },
-    {
-      "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
       "source": "量子位",
-      "published": "2026-06-13",
-      "summary": "模型参数量只有1B",
-      "link": "https://www.qbitai.com/2026/06/435483.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "source": "量子位",
-      "published": "2026-06-13",
-      "summary": "一起构建下一代物理世界的智能系统",
-      "link": "https://www.qbitai.com/2026/06/435455.html",
-      "category": "AI News"
-    },
-    {
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "source": "量子位",
-      "published": "2026-06-13",
+      "published": "2026-06-15",
       "summary": "",
-      "link": "https://www.qbitai.com/2026/06/435394.html",
+      "link": "https://www.qbitai.com/2026/06/435848.html",
       "category": "AI News"
     },
     {
-      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
       "source": "量子位",
-      "published": "2026-06-13",
-      "summary": "马斯克成人类历史首位万亿美金富豪",
-      "link": "https://www.qbitai.com/2026/06/435339.html",
+      "published": "2026-06-15",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/435841.html",
       "category": "AI News"
     },
     {
-      "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+      "title": "宇树机器人要登珠峰了！",
+      "source": "量子位",
+      "published": "2026-06-15",
+      "summary": "已登顶钦博拉索",
+      "link": "https://www.qbitai.com/2026/06/435817.html",
+      "category": "AI News"
+    },
+    {
+      "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
+      "source": "量子位",
+      "published": "2026-06-15",
+      "summary": "上半年订单金额已超10亿",
+      "link": "https://www.qbitai.com/2026/06/435804.html",
+      "category": "AI News"
+    },
+    {
+      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "source": "量子位",
+      "published": "2026-06-15",
+      "summary": "还能听懂时间戳",
+      "link": "https://www.qbitai.com/2026/06/435802.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
       "source": "InfoQ 中文",
-      "published": "2026-06-13",
+      "published": "2026-06-15",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/UkvVZm81ZerzhmEsTgHD?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "AI驱动的网络钓鱼：技术演变与实施方式",
+      "title": "普通人创作千万播放量爆款视频不是梦！从字节走出的产品人，做了一款AIGC视频神器",
       "source": "InfoQ 中文",
-      "published": "2026-06-13",
+      "published": "2026-06-15",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/pfJ4soZQji2VsfuX1DMm?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+      "title": "智能体加速金融创新 | TF技术前线179期报名",
       "source": "InfoQ 中文",
-      "published": "2026-06-13",
+      "published": "2026-06-15",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/Bim80Njzp6ZYQJVm8dh7?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "常驻内存仅 15MB，无强制绑定！我们用 Go 语言重构了一款干净、轻量的 Linux 面板 DBPanel",
+      "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+      "source": "InfoQ 中文",
+      "published": "2026-06-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Fable 5 被禁竟因不听劝，Anthropic开启退款；阿里辟谣合伙人周靖人离职消息；智谱GLM-5.2全量开放：前沿智能不应被随时收回｜AI周报",
+      "source": "InfoQ 中文",
+      "published": "2026-06-15",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/iuD87mUGUbkR8RGbiqNr?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "curl 项目即将开启“幸福之夏”，创始人宣布 7 月停止接受漏洞报告",
       "source": "开源中国",
-      "published": "2026-06-13",
-      "summary": "各位开源中国的技术同仁、DevOps 工程师、系统管理员们，大家好： 在数字化基础设施建设中，Linux 服务器管理面板一直是开发者和运维人员离不开的生产力工具。然而，随着国内通用面板生态的演进，相信大家在日常运维、帮客户交付系统或管理私有云时，都或多或少面临着以下痛点： 面板自身越来越臃肿：由于功能过度堆砌，...",
-      "link": "https://www.oschina.net/news/458127",
+      "published": "2026-06-15",
+      "summary": "开源世界最核心的基础设施之一——curl 项目，其创始人兼首席维护者 Daniel Stenberg 今日宣布了一项不同寻常的决定：curl 项目将在整个 2026 年 7 月暂停接受漏洞报告，这段时间被命名为\"curl summer of bliss\"（curl 幸福之夏）。这不是玩笑，也不是对安全的不重视，而是一个被持续高压压垮的开源维护者发出的求助信号...",
+      "link": "https://www.oschina.net/news/459181",
       "category": "AI News"
     },
     {
-      "title": "曼联，要被卖了",
-      "source": "36氪",
-      "published": "2026-06-13",
-      "summary": "图片来源：视觉中国作者/余梦莹报道/投资界PEdaily史上最盛大世界杯正在上演。48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉煌也走过低谷，“红色旗帜永不落幕”。红魔这一幕颇为感慨。足球这门生意实在赚钱，越来越多俱乐部被摆上了货架，浸泡在资本的洪流中。美国大",
-      "link": "https://36kr.com/p/3851350342325504?f=rss",
+      "title": "红帽发布 RHEL 10.2 RISC-V 第二个开发者预览版，迈出正式支持关键一步",
+      "source": "开源中国",
+      "published": "2026-06-15",
+      "summary": "Red Hat 近日发布了 Red Hat Enterprise Linux 10.2 for RISC-V 的开发者预览版（Developer Preview）。这是继去年 RHEL 10.0 首次提供 RISC-V 开发者预览之后的第二次公开快照，距离初版发布已经过去了 13 个月。对于关注 RISC-V 生态发展的用户来说，这次更新不仅是技术层面的增量改进，更是一个明确的信号：Red Hat 正...",
+      "link": "https://www.oschina.net/news/459121",
       "category": "AI News"
     },
     {
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "title": "C++ Web 框架 Paozhu 1.11.0发布",
+      "source": "开源中国",
+      "published": "2026-06-15",
+      "summary": "C++ Web框架 Paozhu1.11.0发布，这次大量API更新，特别是ORM，删了很多API，新增API使用模板编程重新写，提高性能。 该用业务代码驱动模式开发程序，而不是预先植好模式，充分利用了C++ 编译期优势。 \n新增ORM \nget_cols<id,name>    输出map键值对方式，业务做横切很有用\nget_cols_vec<id,name>        返回vector ...",
+      "link": "https://www.oschina.net/news/459120",
+      "category": "AI News"
+    },
+    {
+      "title": "Vibe Coder 和软件工程师是两种人",
+      "source": "开源中国",
+      "published": "2026-06-15",
+      "summary": "Yusuf Aytas 近日发表一篇题为 \"Vibe Coder vs Software Engineer\" 的文章在开发者社区迅速传播。Aytas 此前曾写过 Java 开发者与软件工程师的区别，这次他把分析框架应用到了 AI 辅助编程这个当前最热也最混乱的话题上。文章用六组核心差异定义了两类用 AI 写代码的人，但全文的根本判断只有一个：AI 改变的是代码生成的...",
+      "link": "https://www.oschina.net/news/459086",
+      "category": "AI News"
+    },
+    {
+      "title": "开源免费首发！首款真正的 AI 大屏诞生 JimuBI，一句话生成炫酷大屏",
+      "source": "开源中国",
+      "published": "2026-06-15",
+      "summary": "真正的 AI 大屏来了！ 一句话生成大屏，一句话添加组件，一句话改配置。先对话讨论方案，再一键应用修改 —— 全流程自然语言驱动。 在线体验：https://jimureport.com/login，登录即可体验 AI 生成大屏、AI 生成组件、AI 修改大屏等全部功能。 为什么数据大屏开发需要 AI？ 做过数据大屏的人都知道，最耗时的从来不是 ...",
+      "link": "https://www.oschina.net/news/459010",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
       "source": "36氪",
-      "published": "2026-06-13",
-      "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。从“向外破局”到“向内扎根”：中国留",
-      "link": "https://36kr.com/p/3846972367866119?f=rss",
+      "published": "2026-06-15",
+      "summary": "大公司：支付宝：政务AI助手“晓政”服务突破1亿次36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。小雨智造与地瓜机器人正式宣布达成战略合作36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。小红书或已准备好本月在香港提交IPO申请据透露，小红书科技有限公司",
+      "link": "https://36kr.com/p/3854486447510535?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+      "source": "36氪",
+      "published": "2026-06-15",
+      "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里，他们把自己的生活观察、专业背景和兴趣经验变成了一个个可运行的产品。",
+      "link": "https://36kr.com/p/3854243718550528?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "source": "36氪",
+      "published": "2026-06-15",
+      "summary": "作者 | 邱晓芬编辑 | 袁斯来过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。行业的目光转向背后是切实的焦虑。一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。只是，当资本、技术专家、产业资源都倾注于此，世界",
+      "link": "https://36kr.com/p/3853016586359817?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+      "source": "36氪",
+      "published": "2026-06-15",
+      "summary": "作者 | 邱晓芬编辑 | 袁斯来硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发全国首台",
+      "link": "https://36kr.com/p/3853011900142848?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+      "source": "36氪",
+      "published": "2026-06-15",
+      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。变速器产品主要被用于出行产品中。智能电动",
+      "link": "https://36kr.com/p/3853252135654660?f=rss",
       "category": "AI News"
     }
   ]
