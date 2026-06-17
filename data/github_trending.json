@@ -1,66 +1,66 @@
 {
-  "updated": "2026-06-16T13:30:56.565566+00:00",
+  "updated": "2026-06-17T00:31:53.983517+00:00",
   "repositories": [
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 448259,
-      "stars_today": 640,
+      "stars": 448548,
+      "stars_today": 633,
       "language": "TypeScript",
       "link": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
       "name": "swc-project/swc",
       "description": "Rust-based platform for the Web",
-      "stars": 33903,
-      "stars_today": 21,
+      "stars": 33964,
+      "stars_today": 20,
       "language": "Rust",
       "link": "https://github.com/swc-project/swc"
     },
     {
       "name": "teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "stars": 8358,
-      "stars_today": 214,
+      "stars": 8402,
+      "stars_today": 215,
       "language": "Elixir",
       "link": "https://github.com/teslamate-org/teslamate"
     },
     {
       "name": "iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
-      "stars": 123632,
-      "stars_today": 1196,
+      "stars": 124045,
+      "stars_today": 1197,
       "language": "TypeScript",
       "link": "https://github.com/iptv-org/iptv"
     },
     {
       "name": "puppeteer/puppeteer",
       "description": "JavaScript API for Chrome and Firefox",
-      "stars": 94803,
-      "stars_today": 171,
+      "stars": 94884,
+      "stars_today": 56,
       "language": "TypeScript",
       "link": "https://github.com/puppeteer/puppeteer"
     },
     {
       "name": "meshery/meshery",
       "description": "Meshery, the cloud native manager",
-      "stars": 10755,
-      "stars_today": 229,
+      "stars": 10849,
+      "stars_today": 228,
       "language": "TypeScript",
       "link": "https://github.com/meshery/meshery"
     },
     {
       "name": "cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "stars": 50109,
-      "stars_today": 11,
+      "stars": 50206,
+      "stars_today": 13,
       "language": "TypeScript",
       "link": "https://github.com/cypress-io/cypress"
     },
     {
       "name": "music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
-      "stars": 2481,
+      "stars": 2563,
       "stars_today": 157,
       "language": "Python",
       "link": "https://github.com/music-assistant/server"
@@ -68,7 +68,7 @@
     {
       "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "stars": 7099,
+      "stars": 7295,
       "stars_today": 146,
       "language": "Rust",
       "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
@@ -76,24 +76,32 @@
     {
       "name": "OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "stars": 29966,
-      "stars_today": 413,
+      "stars": 30122,
+      "stars_today": 408,
       "language": "Python",
       "link": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "name": "alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 10272,
-      "stars_today": 251,
+      "stars": 10446,
+      "stars_today": 156,
       "language": "C++",
       "link": "https://github.com/alibaba/zvec"
     },
     {
+      "name": "rmyndharis/OpenWA",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "stars": 9077,
+      "stars_today": 185,
+      "language": "TypeScript",
+      "link": "https://github.com/rmyndharis/OpenWA"
+    },
+    {
       "name": "n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 9083,
-      "stars_today": 326,
+      "stars": 9279,
+      "stars_today": 334,
       "language": "Rust",
       "link": "https://github.com/n0-computer/iroh"
     }
