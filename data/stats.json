@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T00:29:55.867975+00:00",
+  "updated": "2026-06-18T13:00:25.362107+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -22,7 +22,7 @@
       "count": 12
     },
     {
-      "tag": "conversational",
+      "tag": "qwen2",
       "count": 4
     },
     {
@@ -30,7 +30,7 @@
       "count": 3
     },
     {
-      "tag": "qwen2",
+      "tag": "conversational",
       "count": 3
     },
     {
@@ -56,16 +56,16 @@
       "count": 5
     },
     {
-      "language": "Rust",
-      "count": 2
-    },
-    {
       "language": "Python",
       "count": 2
     },
     {
-      "language": "Shell",
+      "language": "Rust",
       "count": 2
+    },
+    {
+      "language": "Shell",
+      "count": 1
     },
     {
       "language": "C",

@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-18T00:29:45.784901+00:00",
+  "updated": "2026-06-18T13:00:11.863363+00:00",
   "repositories": [
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 5246,
-      "stars_today": 371,
-      "language": "C",
-      "link": "https://github.com/DeusData/codebase-memory-mcp"
-    },
-    {
-      "name": "n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 9641,
-      "stars_today": 421,
-      "language": "Rust",
-      "link": "https://github.com/n0-computer/iroh"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 33152,
-      "stars_today": 1161,
-      "language": "Python",
-      "link": "https://github.com/Panniantong/Agent-Reach"
-    },
-    {
-      "name": "meshery/meshery",
-      "description": "Meshery, the cloud native manager",
-      "stars": 11015,
-      "stars_today": 196,
-      "language": "TypeScript",
-      "link": "https://github.com/meshery/meshery"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 231045,
-      "stars_today": 1129,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
     {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 21880,
-      "stars_today": 606,
+      "stars": 22398,
+      "stars_today": 858,
       "language": "Python",
       "link": "https://github.com/google-research/timesfm"
     },
     {
-      "name": "RocketChat/Rocket.Chat",
-      "description": "The Secure CommsOS™ for mission-critical operations",
-      "stars": 45575,
-      "stars_today": 22,
-      "language": "TypeScript",
-      "link": "https://github.com/RocketChat/Rocket.Chat"
-    },
-    {
-      "name": "continuedev/continue",
-      "description": "open-source coding agent",
-      "stars": 33891,
-      "stars_today": 49,
-      "language": "TypeScript",
-      "link": "https://github.com/continuedev/continue"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": 50078,
-      "stars_today": 70,
-      "language": "Clojure",
-      "link": "https://github.com/penpot/penpot"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "stars": 127434,
-      "stars_today": 96,
-      "language": "Java",
-      "link": "https://github.com/krahets/hello-algo"
-    },
-    {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "stars": 7637,
-      "stars_today": 457,
+      "name": "n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars": 9854,
+      "stars_today": 369,
       "language": "Rust",
-      "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 133537,
-      "stars_today": 1523,
-      "language": "Shell",
-      "link": "https://github.com/mattpocock/skills"
-    },
-    {
-      "name": "yairm210/Unciv",
-      "description": "Open-source Android/Desktop remake of Civ V",
-      "stars": 10652,
-      "stars_today": 24,
-      "language": "Kotlin",
-      "link": "https://github.com/yairm210/Unciv"
+      "link": "https://github.com/n0-computer/iroh"
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 449128,
-      "stars_today": 757,
+      "stars": 449360,
+      "stars_today": 417,
       "language": "TypeScript",
       "link": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
-      "name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "stars": 36688,
-      "stars_today": 150,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 231918,
+      "stars_today": 1435,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars": 3890,
+      "stars_today": 286,
+      "language": "",
+      "link": "https://github.com/zai-org/GLM-5"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars": 6531,
+      "stars_today": 2308,
+      "language": "C",
+      "link": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+      "name": "alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 11032,
+      "stars_today": 435,
+      "language": "C++",
+      "link": "https://github.com/alibaba/zvec"
+    },
+    {
+      "name": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "stars": 5344,
+      "stars_today": 164,
       "language": "TypeScript",
-      "link": "https://github.com/bytedance/UI-TARS-desktop"
+      "link": "https://github.com/withastro/flue"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars": 21483,
+      "stars_today": 1339,
+      "language": "TypeScript",
+      "link": "https://github.com/Kilo-Org/kilocode"
+    },
+    {
+      "name": "makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars": 51616,
+      "stars_today": 610,
+      "language": "TypeScript",
+      "link": "https://github.com/makeplane/plane"
+    },
+    {
+      "name": "Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "stars": 38530,
+      "stars_today": 13,
+      "language": "TypeScript",
+      "link": "https://github.com/Kong/insomnia"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars": 7782,
+      "stars_today": 247,
+      "language": "Rust",
+      "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "stars": 38065,
+      "stars_today": 11,
+      "language": "C#",
+      "link": "https://github.com/dotnet/aspnetcore"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars": 14162,
+      "stars_today": 33,
+      "language": "",
+      "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 7389,
+      "stars_today": 47,
+      "language": "Python",
+      "link": "https://github.com/Lightricks/LTX-2"
     }
   ]
 }
