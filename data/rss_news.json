@@ -1,6 +1,38 @@
 {
-  "updated": "2026-06-17T13:06:24.127283+00:00",
+  "updated": "2026-06-18T00:29:55.865268+00:00",
   "articles": [
+    {
+      "title": "SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表",
+      "source": "InfoQ 中文",
+      "published": "2026-06-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "万亿估值前夜，OpenAI 被曝一年亏约 2600 亿",
+      "source": "InfoQ 中文",
+      "published": "2026-06-18",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
+      "source": "36氪",
+      "published": "2026-06-18",
+      "summary": "今日热点导览SpaceX华裔女工程师辟谣国内成品油价即将迎来两连跌必胜客中国对外投资超60家企业苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhoneOpenAI 2026年前三个月烧钱37亿美元TOP 3 大新闻监管约谈山姆后，沃尔玛中国多位高管变动36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Me",
+      "link": "https://36kr.com/p/3857925631104004?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
+      "source": "量子位",
+      "published": "2026-06-17",
+      "summary": "计划1000倍综合降本",
+      "link": "https://www.qbitai.com/2026/06/436456.html",
+      "category": "AI News"
+    },
     {
       "title": "AI转型最大的门槛，不是技术，是人",
       "source": "量子位",
@@ -34,14 +66,6 @@
       "category": "AI News"
     },
     {
-      "title": "为什么最有价值的AI讨论总发生在知乎？",
-      "source": "量子位",
-      "published": "2026-06-17",
-      "summary": "知乎记录的不只是AI，而是时代变化本身",
-      "link": "https://www.qbitai.com/2026/06/436211.html",
-      "category": "AI News"
-    },
-    {
       "title": "轻装上阵，能力不减：TDSQL 基础版的“小而美”之道 | 腾讯云数据库 DBTalk",
       "source": "InfoQ 中文",
       "published": "2026-06-17",
@@ -63,22 +87,6 @@
       "published": "2026-06-17",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "极佳视界再获10亿元B2轮融资，首款家用机器人拾光S1引发强烈反响",
-      "source": "InfoQ 中文",
-      "published": "2026-06-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/WTOJWohLb3Ie7uhNfceO?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-      "source": "InfoQ 中文",
-      "published": "2026-06-17",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -151,14 +159,6 @@
       "published": "2026-06-17",
       "summary": "01.深夜急诊室：校医下班后，“电子校医”上线了深夜11点，宿舍快熄灯了，张雯的小腹突然一阵绞痛，疼得她揪紧被子，直冒冷汗。校医室这个点已经下班了，室友说陪她去校外医院。但张雯犹豫了，大半夜不想折腾，万一一会儿就缓过来了呢？她打开蚂蚁阿福，把自己的症状输进去，“凌晨腹部绞痛，一阵一阵的，没有拉肚子，没有发烧，也不是生理期。”阿福很快给出分析，“大概率是腹部受凉引起的肠道痉挛，可能和夜间受凉、睡前吃了生冷辛辣的食物有关，这些都会引起小腹下坠的绞痛。”还列出了其他可能性，比如尿路小结石、排卵期疼痛等。张雯发现第一条最符合，当天确实吃了辣的东西。阿福马上给出对策：先保暖，调整姿势，不要乱吃止痛药。如",
       "link": "https://36kr.com/p/3856958075802633?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-      "source": "36氪",
-      "published": "2026-06-17",
-      "summary": "作者｜梁键强编辑｜王毓婵一句话介绍NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。团队介绍NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MBA就读于北京大学光华管理学院。曾先后在中兴、阿里、腾讯和小米任职，参与过OS产品、SaaS、社交产品和智能硬件相关业务。在腾讯期间，吴尚曾参与早期创业项目“我岛”，该项目曾获得600万美元融资。其他核心成员分别负责技术研发、",
-      "link": "https://36kr.com/p/3848483761493250?f=rss",
       "category": "AI News"
     }
   ]
