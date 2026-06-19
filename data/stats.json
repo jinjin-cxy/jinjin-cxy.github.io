@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T00:33:49.809270+00:00",
+  "updated": "2026-06-19T13:17:27.619764+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -22,7 +22,7 @@
       "count": 12
     },
     {
-      "tag": "qwen2",
+      "tag": "conversational",
       "count": 4
     },
     {
@@ -30,7 +30,7 @@
       "count": 3
     },
     {
-      "tag": "conversational",
+      "tag": "qwen2",
       "count": 3
     },
     {
@@ -52,23 +52,23 @@
   ],
   "top_languages": [
     {
-      "language": "TypeScript",
-      "count": 5
-    },
-    {
       "language": "Python",
-      "count": 2
+      "count": 4
     },
     {
-      "language": "Rust",
-      "count": 2
-    },
-    {
-      "language": "Shell",
-      "count": 1
+      "language": "TypeScript",
+      "count": 4
     },
     {
       "language": "C",
+      "count": 1
+    },
+    {
+      "language": "Swift",
+      "count": 1
+    },
+    {
+      "language": "HTML",
       "count": 1
     }
   ]
