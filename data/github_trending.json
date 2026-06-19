@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-18T13:00:11.863363+00:00",
+  "updated": "2026-06-19T00:33:06.902776+00:00",
   "repositories": [
     {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 22398,
-      "stars_today": 858,
+      "stars": 23153,
+      "stars_today": 844,
       "language": "Python",
       "link": "https://github.com/google-research/timesfm"
     },
     {
       "name": "n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 9854,
+      "stars": 10002,
       "stars_today": 369,
       "language": "Rust",
       "link": "https://github.com/n0-computer/iroh"
@@ -20,7 +20,7 @@
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 449360,
+      "stars": 449538,
       "stars_today": 417,
       "language": "TypeScript",
       "link": "https://github.com/freeCodeCamp/freeCodeCamp"
@@ -28,98 +28,98 @@
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 231918,
-      "stars_today": 1435,
+      "stars": 232403,
+      "stars_today": 1429,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 3890,
-      "stars_today": 286,
+      "stars": 4121,
+      "stars_today": 202,
       "language": "",
       "link": "https://github.com/zai-org/GLM-5"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 6531,
-      "stars_today": 2308,
+      "stars": 7022,
+      "stars_today": 2322,
       "language": "C",
       "link": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
+      "name": "yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "stars": 1769,
+      "stars_today": 124,
+      "language": "Python",
+      "link": "https://github.com/yifanfeng97/Hyper-Extract"
+    },
+    {
       "name": "alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 11032,
-      "stars_today": 435,
+      "stars": 11213,
+      "stars_today": 259,
       "language": "C++",
       "link": "https://github.com/alibaba/zvec"
     },
     {
       "name": "withastro/flue",
       "description": "The sandbox agent framework.",
-      "stars": 5344,
-      "stars_today": 164,
+      "stars": 5498,
+      "stars_today": 162,
       "language": "TypeScript",
       "link": "https://github.com/withastro/flue"
     },
     {
       "name": "Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "stars": 21483,
-      "stars_today": 1339,
+      "stars": 22127,
+      "stars_today": 1345,
       "language": "TypeScript",
       "link": "https://github.com/Kilo-Org/kilocode"
     },
     {
       "name": "makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "stars": 51616,
-      "stars_today": 610,
+      "stars": 51832,
+      "stars_today": 613,
       "language": "TypeScript",
       "link": "https://github.com/makeplane/plane"
     },
     {
       "name": "Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "stars": 38530,
-      "stars_today": 13,
+      "stars": 38677,
+      "stars_today": 18,
       "language": "TypeScript",
       "link": "https://github.com/Kong/insomnia"
     },
     {
       "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "stars": 7782,
-      "stars_today": 247,
+      "stars": 7921,
+      "stars_today": 244,
       "language": "Rust",
       "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
     },
     {
       "name": "dotnet/aspnetcore",
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "stars": 38065,
-      "stars_today": 11,
+      "stars": 38096,
+      "stars_today": 14,
       "language": "C#",
       "link": "https://github.com/dotnet/aspnetcore"
     },
     {
       "name": "owainlewis/awesome-artificial-intelligence",
       "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "stars": 14162,
-      "stars_today": 33,
+      "stars": 14390,
+      "stars_today": 40,
       "language": "",
       "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
-    },
-    {
-      "name": "Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "stars": 7389,
-      "stars_today": 47,
-      "language": "Python",
-      "link": "https://github.com/Lightricks/LTX-2"
     }
   ]
 }
