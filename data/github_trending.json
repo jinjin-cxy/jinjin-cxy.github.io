@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-20T00:25:00.765266+00:00",
+  "updated": "2026-06-20T12:31:03.463616+00:00",
   "repositories": [
+    {
+      "name": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "stars": 2340,
+      "stars_today": 904,
+      "language": "Swift",
+      "link": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "name": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "stars": 50816,
+      "stars_today": 424,
+      "language": "Clojure",
+      "link": "https://github.com/penpot/penpot"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 6591,
+      "stars_today": 677,
+      "language": "Python",
+      "link": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "stars": 20024,
+      "stars_today": 774,
+      "language": "Rust",
+      "link": "https://github.com/tursodatabase/turso"
+    },
     {
       "name": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 8213,
-      "stars_today": 1058,
+      "stars": 8812,
+      "stars_today": 1267,
       "language": "C",
       "link": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 24079,
-      "stars_today": 1510,
+      "stars": 24269,
+      "stars_today": 432,
       "language": "Python",
       "link": "https://github.com/google-research/timesfm"
     },
     {
-      "name": "palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "stars": 1892,
-      "stars_today": 756,
-      "language": "Swift",
-      "link": "https://github.com/palmier-io/palmier-pro"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": 57231,
-      "stars_today": 156,
+      "name": "twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 50676,
+      "stars_today": 140,
       "language": "TypeScript",
-      "link": "https://github.com/koala73/worldmonitor"
-    },
-    {
-      "name": "aishwaryanr/awesome-generative-ai-guide",
-      "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "stars": 27614,
-      "stars_today": 107,
-      "language": "HTML",
-      "link": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "stars": 1038,
-      "stars_today": 147,
-      "language": "TypeScript",
-      "link": "https://github.com/BuilderIO/agent-native"
-    },
-    {
-      "name": "chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 38672,
-      "stars_today": 4005,
-      "language": "Python",
-      "link": "https://github.com/chopratejas/headroom"
-    },
-    {
-      "name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 6272,
-      "stars_today": 156,
-      "language": "Python",
-      "link": "https://github.com/calesthio/OpenMontage"
-    },
-    {
-      "name": "zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "stars": 4577,
-      "stars_today": 480,
-      "language": "",
-      "link": "https://github.com/zai-org/GLM-5"
-    },
-    {
-      "name": "withastro/flue",
-      "description": "The sandbox agent framework.",
-      "stars": 5829,
-      "stars_today": 309,
-      "language": "TypeScript",
-      "link": "https://github.com/withastro/flue"
-    },
-    {
-      "name": "n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "stars": 10247,
-      "stars_today": 302,
-      "language": "Rust",
-      "link": "https://github.com/n0-computer/iroh"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 233334,
-      "stars_today": 1110,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": 50584,
-      "stars_today": 85,
-      "language": "Clojure",
-      "link": "https://github.com/penpot/penpot"
+      "link": "https://github.com/twentyhq/twenty"
     },
     {
       "name": "Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "stars": 38972,
-      "stars_today": 292,
+      "stars": 39131,
+      "stars_today": 327,
       "language": "TypeScript",
       "link": "https://github.com/Kong/insomnia"
     },
     {
-      "name": "Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "stars": 7668,
-      "stars_today": 196,
+      "name": "tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "stars": 53196,
+      "stars_today": 2398,
+      "language": "Rust",
+      "link": "https://github.com/tw93/Pake"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 40387,
+      "stars_today": 3786,
       "language": "Python",
-      "link": "https://github.com/Lightricks/LTX-2"
+      "link": "https://github.com/chopratejas/headroom"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 30758,
+      "stars_today": 140,
+      "language": "TypeScript",
+      "link": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars": 23101,
+      "stars_today": 1035,
+      "language": "TypeScript",
+      "link": "https://github.com/Kilo-Org/kilocode"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 137521,
+      "stars_today": 1520,
+      "language": "Shell",
+      "link": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "stars": 5957,
+      "stars_today": 313,
+      "language": "TypeScript",
+      "link": "https://github.com/withastro/flue"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars": 14628,
+      "stars_today": 223,
+      "language": "",
+      "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
     }
   ]
 }

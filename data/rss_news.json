@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-20T00:25:09.969531+00:00",
+  "updated": "2026-06-20T12:31:19.777926+00:00",
   "articles": [
+    {
+      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+      "source": "量子位",
+      "published": "2026-06-20",
+      "summary": "速度快7倍，成本只有Veo 3的1/2000",
+      "link": "https://www.qbitai.com/2026/06/436996.html",
+      "category": "AI News"
+    },
+    {
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "source": "量子位",
+      "published": "2026-06-20",
+      "summary": "Gemini 3.5 Pro呢？",
+      "link": "https://www.qbitai.com/2026/06/436980.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "source": "量子位",
+      "published": "2026-06-20",
+      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+      "link": "https://www.qbitai.com/2026/06/436966.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-06-20",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "WSL Dashboard v0.9.1 已经发布，轻量级的 WSL 实例管理面板",
+      "source": "开源中国",
+      "published": "2026-06-20",
+      "summary": "WSL Dashboard v0.9.1 已经发布，轻量级的 WSL 实例管理面板 此版本更新内容包括： Auto-synced from GitHub Release v0.9.1 更新日志 ： 修复端口转发生效后界面状态未显示的问题（非英文系统），兼容所有语言的 Windows 系统 修复发行版导入/安装成功后可能显示错误信息的问题（非英文系统），改用退出码判定结果成功 ...",
+      "link": "https://www.oschina.net/news/463893",
+      "category": "AI News"
+    },
     {
       "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
       "source": "量子位",
@@ -15,14 +55,6 @@
       "published": "2026-06-19",
       "summary": "AI实现药物全自动研发，还远吗？",
       "link": "https://www.qbitai.com/2026/06/436842.html",
-      "category": "AI News"
-    },
-    {
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "source": "量子位",
-      "published": "2026-06-19",
-      "summary": "人形机器人正式迈入“GPT时代”",
-      "link": "https://www.qbitai.com/2026/06/436813.html",
       "category": "AI News"
     },
     {
@@ -66,22 +98,6 @@
       "category": "AI News"
     },
     {
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "source": "量子位",
-      "published": "2026-06-18",
-      "summary": "M4是大脑，百小医是身体",
-      "link": "https://www.qbitai.com/2026/06/436758.html",
-      "category": "AI News"
-    },
-    {
-      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-      "source": "量子位",
-      "published": "2026-06-18",
-      "summary": "全系产品入驻万机易租2.0",
-      "link": "https://www.qbitai.com/2026/06/436802.html",
-      "category": "AI News"
-    },
-    {
       "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
       "source": "InfoQ 中文",
       "published": "2026-06-18",
@@ -95,14 +111,6 @@
       "published": "2026-06-18",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Gemini 联合负责人出走 OpenAI：Google 为什么总让 AI 天才感到挫败？",
-      "source": "InfoQ 中文",
-      "published": "2026-06-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/3hkmF10X9ec1ujwwIjFW?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
@@ -127,14 +135,6 @@
       "published": "2026-06-18",
       "summary": "历经40+ Alpha版本迭代打磨，全新uniTerm v1.0 正式版正式开源发布！作为一款现代化跨平台终端模拟器，uniTerm 深度集成可自主运行的 AI Agent，复刻 Claude Code 级别的终端智能能力，同时整合远程连接、文件传输、桌面管控、数据库操作、服务器监控一站式能力，彻底解决开发者多工具切换、重复运维操作、终端智能化不足...",
       "link": "https://www.oschina.net/news/460922",
-      "category": "AI News"
-    },
-    {
-      "title": "库克承认苹果将全面涨价，AI 浪潮引爆内存“百年一遇”危机",
-      "source": "开源中国",
-      "published": "2026-06-18",
-      "summary": "苹果公司即将离任的 CEO 蒂姆·库克在 6 月 18 日接受《华尔街日报》采访时做出了一个罕见的表态：苹果产品的价格上涨已经\"不可避免\"，当前的局面已经变得\"不可持续\"。库克将这场由 AI 引爆的内存芯片价格暴涨形容为\"百年一遇的洪水\"——这是他在苹果三十余年职业生涯中见过的最剧烈的单一组件成本飙升。据估计，库克将在...",
-      "link": "https://www.oschina.net/news/460918",
       "category": "AI News"
     },
     {
