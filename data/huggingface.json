@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-19T13:03:38.629850+00:00",
+  "updated": "2026-06-20T00:24:56.077618+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
       "downloads": 27537244,
-      "likes": 1342,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -54,7 +54,7 @@
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
       "downloads": 12905733,
-      "likes": 1370,
+      "likes": 1372,
       "tags": [
         "transformers",
         "safetensors",
@@ -70,7 +70,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 12574844,
-      "likes": 1149,
+      "likes": 1150,
       "tags": [
         "transformers",
         "safetensors",
@@ -102,7 +102,7 @@
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
       "downloads": 11534184,
-      "likes": 504,
+      "likes": 506,
       "tags": [
         "transformers",
         "safetensors",
@@ -118,7 +118,7 @@
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
       "downloads": 10672297,
-      "likes": 743,
+      "likes": 745,
       "tags": [
         "transformers",
         "safetensors",
@@ -134,7 +134,7 @@
       "name": "Qwen3-Embedding-0.6B",
       "author": "Qwen",
       "downloads": 10276387,
-      "likes": 1071,
+      "likes": 1073,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -150,7 +150,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 9845394,
-      "likes": 6112,
+      "likes": 6116,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "DeepSeek-R1",
       "author": "deepseek-ai",
       "downloads": 6838667,
-      "likes": 13400,
+      "likes": 13401,
       "tags": [
         "transformers",
         "safetensors",

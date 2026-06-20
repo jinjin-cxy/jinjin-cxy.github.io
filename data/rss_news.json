@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-19T13:17:27.616618+00:00",
+  "updated": "2026-06-20T00:25:09.969531+00:00",
   "articles": [
+    {
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "source": "量子位",
+      "published": "2026-06-19",
+      "summary": "创作者的终极玩具来了",
+      "link": "https://www.qbitai.com/2026/06/436864.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT发AI原创新成果了",
+      "source": "量子位",
+      "published": "2026-06-19",
+      "summary": "AI实现药物全自动研发，还远吗？",
+      "link": "https://www.qbitai.com/2026/06/436842.html",
+      "category": "AI News"
+    },
+    {
+      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+      "source": "量子位",
+      "published": "2026-06-19",
+      "summary": "人形机器人正式迈入“GPT时代”",
+      "link": "https://www.qbitai.com/2026/06/436813.html",
+      "category": "AI News"
+    },
     {
       "title": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
       "source": "InfoQ 中文",
@@ -39,6 +63,22 @@
       "published": "2026-06-19",
       "summary": "36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学相关研究团队共同研发。与传统依赖材料软硬度实现缓震不同，折纸科技试",
       "link": "https://36kr.com/p/3859469888508933?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "source": "量子位",
+      "published": "2026-06-18",
+      "summary": "M4是大脑，百小医是身体",
+      "link": "https://www.qbitai.com/2026/06/436758.html",
+      "category": "AI News"
+    },
+    {
+      "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+      "source": "量子位",
+      "published": "2026-06-18",
+      "summary": "全系产品入驻万机易租2.0",
+      "link": "https://www.qbitai.com/2026/06/436802.html",
       "category": "AI News"
     },
     {
@@ -119,46 +159,6 @@
       "published": "2026-06-18",
       "summary": "大公司：滴滴自动驾驶参加伦敦MOVE 2026大会6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机器人经过",
       "link": "https://36kr.com/p/3858015526704129?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] New usage analytics and updated spend controls for enterprises",
-      "source": "OpenAI Blog",
-      "published": "2026-06-18",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Improving health intelligence in ChatGPT",
-      "source": "OpenAI Blog",
-      "published": "2026-06-18",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "source": "OpenAI Blog",
-      "published": "2026-06-18",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] MosaicLeaks: Can your research agent keep a secret?",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-18",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-18",
-      "summary": "",
-      "link": "https://huggingface.co/blog/peft-beyond-lora",
       "category": "AI News"
     }
   ]
