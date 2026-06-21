@@ -1,6 +1,46 @@
 {
-  "updated": "2026-06-21T00:26:52.016499+00:00",
+  "updated": "2026-06-21T12:33:44.896915+00:00",
   "articles": [
+    {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "source": "量子位",
+      "published": "2026-06-21",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+      "link": "https://www.qbitai.com/2026/06/437198.html",
+      "category": "AI News"
+    },
+    {
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "source": "量子位",
+      "published": "2026-06-21",
+      "summary": "一个月只要340块",
+      "link": "https://www.qbitai.com/2026/06/437141.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "source": "InfoQ 中文",
+      "published": "2026-06-21",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "VibeCoding v0.1.46 已经发布，单文件的code agent工具",
+      "source": "开源中国",
+      "published": "2026-06-21",
+      "summary": "VibeCoding v0.1.46 已经发布，单文件的code agent工具 此版本更新内容包括： 更新日志 v0.1.46 ✨ 新功能 Workflow Agent 实例 Key 新增重复逻辑 workflow agent 的 :key，有界 while 循环可以保持 agent 名称为字面量，同时将每轮结果保存为 phase.agent[key]。 新增 result-key、result-latest，并支持 (result \"pha...",
+      "link": "https://www.oschina.net/news/464507",
+      "category": "AI News"
+    },
+    {
+      "title": "🔥为 AI 知识库新增外部向量存储配置表单：开源无代码 / 低代码平台 NocoBase",
+      "source": "开源中国",
+      "published": "2026-06-21",
+      "summary": "原文链接：https://www.nocobase.com/cn/blog/weekly-updates-20260619 汇总一周产品更新日志，最新发布可以前往我们的博客查看。 NocoBase 目前更新包括的版本更新包括三个分支：main ，next和 develop。 main ：截止目前最稳定的版本，推荐安装此版本。 next：包含即将发布的新功能，经过初步测试的版本，可能存在部分...",
+      "link": "https://www.oschina.net/news/464367",
+      "category": "AI News"
+    },
     {
       "title": "英伟达开始搞机器人自己研究机器人那套了…",
       "source": "量子位",
@@ -23,22 +63,6 @@
       "published": "2026-06-20",
       "summary": "速度快7倍，成本只有Veo 3的1/2000",
       "link": "https://www.qbitai.com/2026/06/436996.html",
-      "category": "AI News"
-    },
-    {
-      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
-      "source": "量子位",
-      "published": "2026-06-20",
-      "summary": "Gemini 3.5 Pro呢？",
-      "link": "https://www.qbitai.com/2026/06/436980.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "source": "量子位",
-      "published": "2026-06-20",
-      "summary": "抢人最猛的Meta，似乎先从内部裂开了",
-      "link": "https://www.qbitai.com/2026/06/436966.html",
       "category": "AI News"
     },
     {
@@ -111,30 +135,6 @@
       "published": "2026-06-18",
       "summary": "点击查看原文>",
       "link": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "当 Token 成为商品，AI 基础设施会怎么变化？",
-      "source": "InfoQ 中文",
-      "published": "2026-06-18",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VXD37NcfxyXjXFLk2hyd?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "MooTool 1.7.7 发布，开发者常备小工具",
-      "source": "开源中国",
-      "published": "2026-06-18",
-      "summary": "MooTool 1.7.7 已发布，这是一个用 Java 编写的开发者常备桌面小工具集。 更新内容 ● feat：【全局】功能列表「最近使用」默认隐藏，可在设置中开启 ● feat：【Host】Host 切换按钮点击后短暂显示成功/失败状态 ● feat：【全局】macOS 应用主菜单增加检查更新项 ● opt：【JSON】优化 JSON Path value 相关功能 ● fi...",
-      "link": "https://www.oschina.net/news/461029",
-      "category": "AI News"
-    },
-    {
-      "title": "Wood v1.4.6 已经发布，微型 ORM 框架",
-      "source": "开源中国",
-      "published": "2026-06-18",
-      "summary": "Wood v1.4.6 已经发布，微型 ORM 框架 此版本更新内容包括： 新增 外部方言可插拔机制：DbDialectRegistry 允许不修改 Wood 核心源码注册新数据库方言 WoodConfig.registerDialect(dialect, matcher) 全局注册 DbContext.getDialectRegistry() / setDialectRegistry() 实例级覆盖 DbDialect 接口新增 default String typ...",
-      "link": "https://www.oschina.net/news/460944",
       "category": "AI News"
     },
     {

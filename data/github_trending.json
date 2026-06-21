@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-21T00:26:43.006083+00:00",
+  "updated": "2026-06-21T12:33:34.974224+00:00",
   "repositories": [
     {
       "name": "palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
-      "stars": 3333,
-      "stars_today": 902,
+      "stars": 4152,
+      "stars_today": 1829,
       "language": "Swift",
       "link": "https://github.com/palmier-io/palmier-pro"
     },
     {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": 51411,
-      "stars_today": 420,
-      "language": "Clojure",
-      "link": "https://github.com/penpot/penpot"
-    },
-    {
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 7049,
-      "stars_today": 677,
+      "stars": 7607,
+      "stars_today": 993,
       "language": "Python",
       "link": "https://github.com/calesthio/OpenMontage"
     },
     {
-      "name": "tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "stars": 20324,
-      "stars_today": 801,
-      "language": "Rust",
-      "link": "https://github.com/tursodatabase/turso"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 9337,
-      "stars_today": 1271,
-      "language": "C",
-      "link": "https://github.com/DeusData/codebase-memory-mcp"
-    },
-    {
-      "name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 24542,
-      "stars_today": 433,
-      "language": "Python",
-      "link": "https://github.com/google-research/timesfm"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 50858,
-      "stars_today": 140,
-      "language": "TypeScript",
-      "link": "https://github.com/twentyhq/twenty"
-    },
-    {
-      "name": "Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "stars": 39324,
-      "stars_today": 329,
-      "language": "TypeScript",
-      "link": "https://github.com/Kong/insomnia"
-    },
-    {
-      "name": "tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "stars": 54733,
-      "stars_today": 2546,
-      "language": "Rust",
-      "link": "https://github.com/tw93/Pake"
-    },
-    {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 41838,
-      "stars_today": 3795,
+      "stars": 42922,
+      "stars_today": 2617,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 31015,
-      "stars_today": 145,
+      "name": "tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "stars": 20550,
+      "stars_today": 543,
+      "language": "Rust",
+      "link": "https://github.com/tursodatabase/turso"
+    },
+    {
+      "name": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "stars": 51909,
+      "stars_today": 1131,
+      "language": "Clojure",
+      "link": "https://github.com/penpot/penpot"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars": 43901,
+      "stars_today": 519,
+      "language": "Python",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 57751,
+      "stars_today": 633,
       "language": "TypeScript",
-      "link": "https://github.com/jamiepine/voicebox"
+      "link": "https://github.com/koala73/worldmonitor"
     },
     {
-      "name": "Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "stars": 23347,
-      "stars_today": 513,
-      "language": "TypeScript",
-      "link": "https://github.com/Kilo-Org/kilocode"
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars": 72246,
+      "stars_today": 415,
+      "language": "Python",
+      "link": "https://github.com/bytedance/deer-flow"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 138209,
-      "stars_today": 1395,
-      "language": "Shell",
-      "link": "https://github.com/mattpocock/skills"
+      "name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars": 9825,
+      "stars_today": 1029,
+      "language": "C",
+      "link": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
-      "name": "withastro/flue",
-      "description": "The sandbox agent framework.",
-      "stars": 6093,
-      "stars_today": 316,
-      "language": "TypeScript",
-      "link": "https://github.com/withastro/flue"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "stars": 17261,
+      "stars_today": 343,
+      "language": "Python",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "stars": 14780,
-      "stars_today": 48,
+      "name": "mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "stars": 3684,
+      "stars_today": 164,
+      "language": "Python",
+      "link": "https://github.com/mikumifa/biliTickerBuy"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": 18575,
+      "stars_today": 288,
+      "language": "Python",
+      "link": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 18419,
+      "stars_today": 361,
+      "language": "Python",
+      "link": "https://github.com/topoteretes/cognee"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 53883,
+      "stars_today": 121,
       "language": "",
-      "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
+      "link": "https://github.com/byoungd/English-level-up-tips"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "stars": 44028,
+      "stars_today": 352,
+      "language": "JavaScript",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks"
     }
   ]
 }
