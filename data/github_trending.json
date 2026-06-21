@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-20T12:31:03.463616+00:00",
+  "updated": "2026-06-21T00:26:43.006083+00:00",
   "repositories": [
     {
       "name": "palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
-      "stars": 2340,
-      "stars_today": 904,
+      "stars": 3333,
+      "stars_today": 902,
       "language": "Swift",
       "link": "https://github.com/palmier-io/palmier-pro"
     },
     {
       "name": "penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
-      "stars": 50816,
-      "stars_today": 424,
+      "stars": 51411,
+      "stars_today": 420,
       "language": "Clojure",
       "link": "https://github.com/penpot/penpot"
     },
     {
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 6591,
+      "stars": 7049,
       "stars_today": 677,
       "language": "Python",
       "link": "https://github.com/calesthio/OpenMontage"
@@ -28,31 +28,31 @@
     {
       "name": "tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "stars": 20024,
-      "stars_today": 774,
+      "stars": 20324,
+      "stars_today": 801,
       "language": "Rust",
       "link": "https://github.com/tursodatabase/turso"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
-      "stars": 8812,
-      "stars_today": 1267,
+      "stars": 9337,
+      "stars_today": 1271,
       "language": "C",
       "link": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
       "name": "google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": 24269,
-      "stars_today": 432,
+      "stars": 24542,
+      "stars_today": 433,
       "language": "Python",
       "link": "https://github.com/google-research/timesfm"
     },
     {
       "name": "twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
-      "stars": 50676,
+      "stars": 50858,
       "stars_today": 140,
       "language": "TypeScript",
       "link": "https://github.com/twentyhq/twenty"
@@ -60,64 +60,64 @@
     {
       "name": "Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "stars": 39131,
-      "stars_today": 327,
+      "stars": 39324,
+      "stars_today": 329,
       "language": "TypeScript",
       "link": "https://github.com/Kong/insomnia"
     },
     {
       "name": "tw93/Pake",
       "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "stars": 53196,
-      "stars_today": 2398,
+      "stars": 54733,
+      "stars_today": 2546,
       "language": "Rust",
       "link": "https://github.com/tw93/Pake"
     },
     {
       "name": "chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "stars": 40387,
-      "stars_today": 3786,
+      "stars": 41838,
+      "stars_today": 3795,
       "language": "Python",
       "link": "https://github.com/chopratejas/headroom"
     },
     {
       "name": "jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": 30758,
-      "stars_today": 140,
+      "stars": 31015,
+      "stars_today": 145,
       "language": "TypeScript",
       "link": "https://github.com/jamiepine/voicebox"
     },
     {
       "name": "Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "stars": 23101,
-      "stars_today": 1035,
+      "stars": 23347,
+      "stars_today": 513,
       "language": "TypeScript",
       "link": "https://github.com/Kilo-Org/kilocode"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 137521,
-      "stars_today": 1520,
+      "stars": 138209,
+      "stars_today": 1395,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
       "name": "withastro/flue",
       "description": "The sandbox agent framework.",
-      "stars": 5957,
-      "stars_today": 313,
+      "stars": 6093,
+      "stars_today": 316,
       "language": "TypeScript",
       "link": "https://github.com/withastro/flue"
     },
     {
       "name": "owainlewis/awesome-artificial-intelligence",
       "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "stars": 14628,
-      "stars_today": 223,
+      "stars": 14780,
+      "stars_today": 48,
       "language": "",
       "link": "https://github.com/owainlewis/awesome-artificial-intelligence"
     }
