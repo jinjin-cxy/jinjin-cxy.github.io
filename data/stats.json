@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T12:33:44.899692+00:00",
+  "updated": "2026-06-22T00:27:30.063226+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -56,11 +56,11 @@
       "count": 8
     },
     {
-      "language": "Swift",
-      "count": 1
+      "language": "Rust",
+      "count": 2
     },
     {
-      "language": "Rust",
+      "language": "Swift",
       "count": 1
     },
     {
