@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-22T13:48:06.716852+00:00",
+  "updated": "2026-06-23T00:25:57.416011+00:00",
   "articles": [
+    {
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "source": "36氪",
+      "published": "2026-06-23",
+      "summary": "今日热点导览三星电子向韩国所有员工开放ChatGPT和Codex港股智谱暴涨，总市值突破1万亿港元何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事杨子卸任巨力集团职务供应链公司：已向苹果首款折叠屏iPhone小批量供货TOP3大新闻纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英特尔涨超5%，闪迪涨超4",
+      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
       "source": "量子位",
@@ -146,19 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-      "source": "36氪",
+      "title": "[EN] Daybreak: Tools for securing every organization in the world",
+      "source": "OpenAI Blog",
       "published": "2026-06-22",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪 ·暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”以下为致辞内容，经36氪整理编辑：周维｜HORWIN号外 品牌创始人兼CEO",
-      "link": "https://36kr.com/p/3864002982286342?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "source": "Hugging Face Blog",
-      "published": "2026-06-22",
-      "summary": "",
-      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "category": "AI News"
     }
   ]
