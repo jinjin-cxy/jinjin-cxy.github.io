@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-23T00:25:57.416011+00:00",
+  "updated": "2026-06-23T12:50:07.105334+00:00",
   "articles": [
     {
-      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+      "source": "量子位",
+      "published": "2026-06-23",
+      "summary": "希望你能找到快乐",
+      "link": "https://www.qbitai.com/2026/06/437425.html",
+      "category": "AI News"
+    },
+    {
+      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+      "source": "量子位",
+      "published": "2026-06-23",
+      "summary": "24小时在线，2秒回话，陪你聊球",
+      "link": "https://www.qbitai.com/2026/06/437381.html",
+      "category": "AI News"
+    },
+    {
+      "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+      "source": "量子位",
+      "published": "2026-06-23",
+      "summary": "英伟达：不造机器人，但要帮具身企业造好机器人",
+      "link": "https://www.qbitai.com/2026/06/437382.html",
+      "category": "AI News"
+    },
+    {
+      "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
+      "source": "量子位",
+      "published": "2026-06-23",
+      "summary": "新商标已曝光",
+      "link": "https://www.qbitai.com/2026/06/437340.html",
+      "category": "AI News"
+    },
+    {
+      "title": "雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一",
+      "source": "量子位",
+      "published": "2026-06-23",
+      "summary": "实现上半年市场表现的“开门红”",
+      "link": "https://www.qbitai.com/2026/06/437489.html",
+      "category": "AI News"
+    },
+    {
+      "title": "数据库到底该怎么选？TDSQL 用一套内核给出了三个答案",
+      "source": "InfoQ 中文",
+      "published": "2026-06-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/aWFuheF4r0CGI5tor4VH?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷",
+      "source": "InfoQ 中文",
+      "published": "2026-06-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
+      "source": "InfoQ 中文",
+      "published": "2026-06-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "主题征文｜跟鸿蒙一起迈入 Agent 时代，大展“鸿图”！",
+      "source": "InfoQ 中文",
+      "published": "2026-06-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/p0LYKZdFku7y5BkSMNQN?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯云发布边缘 Web 与 AI Agent 托管平台 EdgeOne Makers：一键开发部署，分钟级全球上线",
+      "source": "InfoQ 中文",
+      "published": "2026-06-23",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/5iz5ew8NpQXIvvpFphDk?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "2026红帽媒体Open讲在京举行，阐述“未来的平台即是选择”重要理念",
+      "source": "开源中国",
+      "published": "2026-06-23",
+      "summary": "6月16日，全球开源解决方案提供商 红帽 举办 2026红帽媒体Open讲，红帽全球副总裁兼大中华区总裁曹衡康携大中华区核心管理团队出席，全面复盘 2026 红帽全球峰会核心成果，阐述 “未来的平台，即是选择”重要理念，同步推介红帽 AI 3.4、RHEL Forever 长生命周期增强包等重磅产品，并介绍了 IBM 与红帽联合投入 50 亿美元...",
+      "link": "https://www.oschina.net/news/466057",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 编程圈最近在吹的“Loop Engineering（循环工程）”是什么？",
+      "source": "开源中国",
+      "published": "2026-06-23",
+      "summary": "2026 年 6 月，AI 编程圈在短短一周内经历了一次词汇的强制更新。 5 月 31 日，Claude Code 的创建者 Boris Cherny 在一次采访中轻描淡写地提到，他从 2025 年 11 月起就卸载了自己的 IDE——那个月他提交了 259 个 PR，\"没有一行代码是自己敲的，全是 Claude Code 写的\"。他指出自己已经不再给 Claude 写提示词了：\"我写...",
+      "link": "https://www.oschina.net/news/466052",
+      "category": "AI News"
+    },
+    {
+      "title": "一份 AI 博士的求职笔记，万字长文揭开工业界研究科学家招聘的真实面纱",
+      "source": "开源中国",
+      "published": "2026-06-23",
+      "summary": "华盛顿大学 NLP 博士 Alisa Liu 在她的个人博客上发布了一篇题为《Notes on the Industry Job Search》的文章。这篇约八千字的求职回顾在 24 小时内传遍了 AI 研究者的社交媒体圈。它的作者并非享有公众知名度的 AI 创业者或明星工程师，而是一位刚刚完成六年博士学业、以 tokenization 研究在 NeurIPS 上发表过论文的应...",
+      "link": "https://www.oschina.net/news/466029",
+      "category": "AI News"
+    },
+    {
+      "title": "TimescaleDB 2.28.1 发布，基于 PostgreSQL 的时序数据库",
+      "source": "开源中国",
+      "published": "2026-06-23",
+      "summary": "TimescaleDB v2.28.1 现已发布，此版本较 2.28.0 版本有所改进。 错误修复 #9913 修复当执行计划使用Bitmap Heap Scan时，对压缩表执行DML操作可能导致的崩溃问题 #10091 修复压缩块的列重命名问题 #10056 强制执行直接压缩插入操作中的CHECK、NOT NULL以及带WITH CHECK OPTION视图约束 #10059 修复在HAVING子句中使用f...",
+      "link": "https://www.oschina.net/news/465993/timescaledb-2-28-1-released",
+      "category": "AI News"
+    },
+    {
+      "title": "🔥🔥「AI桌面硬件大赏」Vibeboard -- 为 Vibe Coding 而生的按键板",
+      "source": "开源中国",
+      "published": "2026-06-23",
+      "summary": "Vibe coding（氛围编程） 是你指挥 AI 助手，而不是逐行敲代码。瓶颈不再是打字，而是那套小动作：打开 AI 面板 → 启动语音输入 → 提交。vibeboard 把它压缩成三颗键加一个旋钮，做成一个标准的 QMK 键盘并支持 VIA：每颗键和旋钮都能用图形界面实时改键，无需重新编译。默认布局发送 Win+K（打开 Kiro）、Win+H（语音...",
+      "link": "https://www.oschina.net/ai-creation/details/2815",
+      "category": "AI News"
+    },
+    {
+      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
       "source": "36氪",
       "published": "2026-06-23",
-      "summary": "今日热点导览三星电子向韩国所有员工开放ChatGPT和Codex港股智谱暴涨，总市值突破1万亿港元何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事杨子卸任巨力集团职务供应链公司：已向苹果首款折叠屏iPhone小批量供货TOP3大新闻纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英特尔涨超5%，闪迪涨超4",
-      "link": "https://36kr.com/p/3865001641006081?f=rss",
+      "summary": "AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !以下为圆桌对话内容，经36氪整理编辑：巴芮｜暗涌副主编（主持人）朱天宇｜蓝驰创投 管理合伙人秦深涛｜OriginFlow创始人&CEO巴芮：大家好！我们这场对谈的主题是比共识更早一步，刚才上一场收尾在说一些非共识的内容，我们这一场是说比共识更早一步的事情。现场这两位，一位是在投资上出手非常早，蓝驰创投管理合伙人朱天宇。另外一位是创业比较早的OriginFlow的创始人秦深涛，",
+      "link": "https://36kr.com/p/3865630193030145?f=rss",
       "category": "AI News"
     },
     {
-      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-      "source": "量子位",
-      "published": "2026-06-22",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/437317.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-      "source": "量子位",
-      "published": "2026-06-22",
-      "summary": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
-      "link": "https://www.qbitai.com/2026/06/437308.html",
-      "category": "AI News"
-    },
-    {
-      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-      "source": "量子位",
-      "published": "2026-06-22",
-      "summary": "DeepSeek正在全力押注",
-      "link": "https://www.qbitai.com/2026/06/437249.html",
-      "category": "AI News"
-    },
-    {
-      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
-      "source": "量子位",
-      "published": "2026-06-22",
-      "summary": "120分钟长视频一边看一边记",
-      "link": "https://www.qbitai.com/2026/06/437235.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Netflix如何实时绘制数千个微服务的拓扑图",
-      "source": "InfoQ 中文",
-      "published": "2026-06-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Java新闻汇总：WildFly、Micronaut、Spring AI、Apache Fory、GlassFish插件和Open Liberty",
-      "source": "InfoQ 中文",
-      "published": "2026-06-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/uxOetuGQdWIU0dzEG89v?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
-      "source": "InfoQ 中文",
-      "published": "2026-06-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
-      "source": "InfoQ 中文",
-      "published": "2026-06-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Discord以自动化重构数据库运维，以管理超大规模的ScyllaDB",
-      "source": "InfoQ 中文",
-      "published": "2026-06-22",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/hsg1FAk30lT5KVpIpDf1?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "GLM-5.2 vs Claude Opus 实测：开源模型离闭源旗舰还有多远？",
-      "source": "开源中国",
-      "published": "2026-06-22",
-      "summary": "科技媒体 Tech Stackups 发布了一篇在开发者社区引起广泛讨论的评测文章。这篇文章的测试方法很简单：给两个大模型同样的 prompt，要求它们从零构建一个完整的 3D 平台跳跃游戏——原始 WebGL2 渲染、GLB 模型解析、骨骼动画、碰撞检测、摄像机跟随——不借助任何游戏引擎或 Three.js 等第三方库。两个参赛者分别是 Anth...",
-      "link": "https://www.oschina.net/news/465094",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥🔥RDK毕业巡展，全网陪你一起「云毕业」",
-      "source": "开源中国",
-      "published": "2026-06-22",
-      "summary": "RDK毕业巡展，全网陪你一起「云毕业」 每一个让人直呼\"看不懂但大受震撼\"的毕设背后，是凌晨三点的实验室灯光，是跑了一百遍终于出来的数据，是改了二十七版的图纸，是导师说\"再想想\"时你咬着牙的重来。 你的毕设，从来不只是\"完成任务\"，它是你技术实力的第一份证明，是你把知识变成作品的第一次完整交付。 现在，是时候...",
-      "link": "https://www.oschina.net/news/465044",
-      "category": "AI News"
-    },
-    {
-      "title": "40 款 APP 被通报违法违规收集使用个人信息",
-      "source": "开源中国",
-      "published": "2026-06-22",
-      "summary": "国家网络安全通报中心发布通报称，经公安部计算机信息系统安全产品质量监督检验中心检测，40 款移动应用存在一项或者多项违法违规收集使用个人信息情况。具体看来，其中教育、培训及在线学习类应用占大多数。 具体通报情况如下： 1、处理不满十四周岁未成年人个人信息，未制定专门的个人信息处理规则，未取得未成年人父母...",
-      "link": "https://www.oschina.net/news/465040",
-      "category": "AI News"
-    },
-    {
-      "title": "诺奖得主 John Jumper 离开 DeepMind，转投 Anthropic",
-      "source": "开源中国",
-      "published": "2026-06-22",
-      "summary": "诺贝尔化学奖得主 John Jumper 日前宣布，在为谷歌 DeepMind 效力“近 9 年”后，他将跳槽到 Anthropic 公司。 Jumper 和 Hassabis 因其在 AlphaFold 上的工作而荣获 2024 年诺贝尔奖。AlphaFold 是一种 AI 模型，可以根据蛋白质的基因序列预测其 3D 结构。 在谷歌 DeepMind 工作近 9 年后，我决定离开，加入 Anthropic（...",
-      "link": "https://www.oschina.net/news/465028",
-      "category": "AI News"
-    },
-    {
-      "title": "LLM 时代的购买 vs. 自建：可销售软件的“最小可行单元”在哪？",
-      "source": "开源中国",
-      "published": "2026-06-22",
-      "summary": "在 LLM 让软件开发成本断崖式下降的时代，做一家小型软件公司还有没有意义？前 Stripe 工程师、开源项目 River 的作者 Brandur Leach 在自己的博客上发表了长文《The Minimum Viable Unit of Saleable Software》（可销售软件的最小可行单元），试图用一个清晰的经济学框架来回答这个问题。他的核心结论是：LLM 让软件变...",
-      "link": "https://www.oschina.net/news/465014",
-      "category": "AI News"
-    },
-    {
-      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+      "title": "只租办公室的拼多多，在雄安买了一栋楼",
       "source": "36氪",
-      "published": "2026-06-22",
-      "summary": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致力于成为世界模型时代的基础设施服务商。“我们注意到，目前市面上还没有相对成熟完善的空间感知解决方案，大部分做传感器的企业只是把雷达、摄像头等设备的原始数据丢给本体",
-      "link": "https://36kr.com/p/3864071269569540?f=rss",
+      "published": "2026-06-23",
+      "summary": "扎堆雄安的互联网大厂又多了一个。6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。这是拼多多第一次“买楼”。雄安新区产业园拼多多自2015年9月正���成立上线以来，尽管已经发展到了约2.55万员工，超4300亿营收，但它始终采取轻资产办公模式，坚持不买楼、不盖楼。目前拼多多所在的办公地，包括金虹桥国际中心、艺丰中心、晶耀虹桥、星展银行大厦等地的办公楼都是租的。不自建总部、分散租赁办公楼，甚至服务器、仓库等核心运营资产也大多采用租赁模式，减少资金沉淀，把资金都投入到供应链、补贴等公司运营环节，保持高效率，这几乎是拼多多的原则。但这一",
+      "link": "https://36kr.com/p/3865625576297476?f=rss",
       "category": "AI News"
     },
     {
-      "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+      "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
       "source": "36氪",
-      "published": "2026-06-22",
-      "summary": "大公司：赢创计划全球裁员3200人赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体裁员数量尚未明确。“赢创定制”计划于2023年10月推出，原定目标为2026年底前累计削减约2800个岗位。今年5月，赢创曾表示该计划进展顺利并将实现既定降本目标。韩国考虑对三星和SK海力士杠杆ETF采取单独措施韩国金融监督院院长Lee Chan-jin表示，由于散户投资者对高风险产品的需求没有降温迹象，金融监",
-      "link": "https://36kr.com/p/3864065855706120?f=rss",
+      "published": "2026-06-23",
+      "summary": "36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研究中心，自研高导高强合金设计技术、超高导热复材设计及界面调控技术与半固态注塑成型工艺，切入机器人关节电机模组、外骨骼、汽车结构件等高附加值场景，目前已与包含头部机器人本体厂商在内的超10家机器人本体、零部件厂商开展合作，确定镁合金替代产品超15种，并且获得多个汽车领域客户定点。公司创始人兼CEO程轩挺是上海交通大学材料工程硕士、复旦大学MBA，拥有20余年汽车行业",
+      "link": "https://36kr.com/p/3864082158785539?f=rss",
       "category": "AI News"
     },
     {
-      "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+      "title": "WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点",
       "source": "36氪",
-      "published": "2026-06-22",
-      "summary": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。以下为圆桌对话内容，经36氪整理编辑:许嘉婧｜36氪后浪研究所 主理人（主持人）徐子悦 ｜PhotonPay 光子易商务副总裁程刚｜KOOK语音 创始人兼CEO徐良威｜智域基石CTO程二亭｜万拿机器人 创始人&CEO薛昊昕｜潞晨科技 副总裁陆弘远｜脸谱心智 CEO许嘉婧：观众朋友，大家好！我是36氪后浪研究所的许嘉婧，我们这场研究的主题叫：“在没人相信之前”。我们后浪研究所之前也是报道过很多年轻创业者的故事，最有趣的就是",
-      "link": "https://36kr.com/p/3864054145209602?f=rss",
+      "published": "2026-06-23",
+      "summary": "WAVES 2026汇聚众多投资人、产业领袖与创业者，围绕AI与产业未来展开深度对话。嘉宾核心观点现集中呈现。6月16-17日，36氪WAVES 2026新浪潮大会落地广州番禺良仓新造创意园，大会汇聚了来自 AI、硬科技、出海、医疗、消费硬件等核心赛道的顶级投资人、产业掌舵人与青年创业者，围绕“今年盛夏”的主题展开了一场场直戳本质的深度对话，在滚烫的盛夏里，为中国创投与产业创新注入了最蓬勃的动力。在盛夏中，最动人的从来不是树荫下的清凉，而是烈日下赶路的身影。从2023年走到今天，WAVES始终在做同一件事：找到那些愿意比别人早出发一步、多坚持一点的人。他们可能现在还是少数，但终有一天，这些人的",
+      "link": "https://36kr.com/p/3865596826768643?f=rss",
       "category": "AI News"
     },
     {
-      "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+      "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
       "source": "36氪",
-      "published": "2026-06-22",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”以下为对话内容，经36氪整理编辑：36氪《CEO锦囊》主编杨沙沙（主持）探迹",
-      "link": "https://36kr.com/p/3864033017549832?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Daybreak: Tools for securing every organization in the world",
-      "source": "OpenAI Blog",
-      "published": "2026-06-22",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "published": "2026-06-23",
+      "summary": "我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演讲给了我们一个思考的起点，现在，我们要把它变成一场辩论。以下为圆桌对话内容，经36氪整理编辑：图源：Waves现场海若镜｜暗涌副主编（主持人）王鹤宇｜CMC AI创意基金张毅｜静水湖创投 创始管理合伙人聂艾玲 | 钛动科技 创始合伙人石亚琼 | 锦秋基金副总裁海若镜：大家好！首先非常欢迎各位来到我们今天的WAVES大会，我是这场圆桌的主持人，暗涌的海若镜。今",
+      "link": "https://36kr.com/p/3865565708752134?f=rss",
       "category": "AI News"
     }
   ]
