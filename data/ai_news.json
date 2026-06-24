@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-24T00:21:00.262819+00:00",
+  "updated": "2026-06-24T12:39:13.001481+00:00",
   "articles": [
     {
-      "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
+      "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+      "source": "量子位",
+      "published": "2026-06-24",
+      "summary": "已率先完成智谱GLM-5.2适配",
+      "link": "https://www.qbitai.com/2026/06/438174.html",
+      "category": "AI News"
+    },
+    {
+      "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
+      "source": "量子位",
+      "published": "2026-06-24",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/438166.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+      "source": "量子位",
+      "published": "2026-06-24",
+      "summary": "报名通道已开启。",
+      "link": "https://www.qbitai.com/2026/06/438157.html",
+      "category": "AI News"
+    },
+    {
+      "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+      "source": "量子位",
+      "published": "2026-06-24",
+      "summary": "申通安能用真金白银下单",
+      "link": "https://www.qbitai.com/2026/06/437853.html",
+      "category": "AI News"
+    },
+    {
+      "title": "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+      "source": "量子位",
+      "published": "2026-06-24",
+      "summary": "开源项目GitHub狂揽4.2k Star",
+      "link": "https://www.qbitai.com/2026/06/437833.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub",
+      "source": "InfoQ 中文",
+      "published": "2026-06-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VGQNO8bH0sq4kFDb6B7H?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
+      "source": "InfoQ 中文",
+      "published": "2026-06-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
+      "source": "InfoQ 中文",
+      "published": "2026-06-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
+      "source": "InfoQ 中文",
+      "published": "2026-06-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
+      "source": "InfoQ 中文",
+      "published": "2026-06-24",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 发布 Claude Tag，让 AI 以团队成员身份加入 Slack",
+      "source": "开源中国",
+      "published": "2026-06-24",
+      "summary": "Anthropic 正式发布了 Claude Tag，一个让 Claude 以团队成员身份加入 Slack 频道的新产品。这不是一个简单的聊天机器人集成，而是一个从根本上改变了人与 AI 协作模式的系统：在频道里 @Claude，它就会像一个真正的同事那样，理解上下文、规划任务、异步执行，并在完成后主动汇报。Anthropic 还透露了一个让外界重新审视...",
+      "link": "https://www.oschina.net/news/466760",
+      "category": "AI News"
+    },
+    {
+      "title": "xAI 悄然上线 Grok Build 0.1：定价激进的新一代测试版、智能超越 Grok 4.3",
+      "source": "开源中国",
+      "published": "2026-06-24",
+      "summary": "2026 年 6 月中旬，Elon Musk 创立的 AI 公司 xAI 在未做任何正式公告的情况下，通过 API 平台上线了一个名为 Grok Build 0.1 0616 的新模型。这个奇怪的命名——既不是常规的 Grok 4.x 系列编号，也不是标准的语义化版本号——迅速引起了 AI 开发者和评测机构的关注。 独立评测平台 Artificial Analysis 在第一时间对其...",
+      "link": "https://www.oschina.net/news/466730/grok-build-0-1-06-16",
+      "category": "AI News"
+    },
+    {
+      "title": "Kiwi TCMS 16.1 发布，开源测试管理系统",
+      "source": "开源中国",
+      "published": "2026-06-24",
+      "summary": "Kiwi TCMS 是领先的开源测试管理系统，用于手动和自动测试。它的特点是集成 Bug 跟踪器、搜索页面、强大的访问控制、测试自动化框架插件、可视化报告和丰富的 API 层。 Kiwi TCMS 16.1 现已发布，这是一个主要版本更新，其中包括安全相关更新、多项改进、不向后兼容的更改和新的翻译。 自 Kiwi TCMS 16.0 版本以来的变化...",
+      "link": "https://www.oschina.net/news/466719/kiwi-tcms-161",
+      "category": "AI News"
+    },
+    {
+      "title": "Notepad-- v3.8.0 已经发布，文本编辑器",
+      "source": "开源中国",
+      "published": "2026-06-24",
+      "summary": "Notepad-- v3.8.0 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.8.0-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.8.0-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 3.8.0 修改记录： 1 修复光标可能变竖线问题。 2 大文本查找增加...",
+      "link": "https://www.oschina.net/news/466692",
+      "category": "AI News"
+    },
+    {
+      "title": "Apache Tomcat 11.0.23 发布",
+      "source": "开源中国",
+      "published": "2026-06-24",
+      "summary": "Apache Tomcat 11.0.23 现已发布，此版本实现了 Jakarta EE 11 平台的部分规范。 公告提醒称：Tomcat 10 及以后版本的用户应注意，作为 Java EE 向 Eclipse 基金会转移的一部分，Java EE 已从 Java EE 迁移到 Jakarta EE，因此所有已实施 API 的主包已从javax.* 变为 jakarta.*。这几乎肯定需要修改代码才能使应用程序从...",
+      "link": "https://www.oschina.net/news/466666/tomcat-11-0-23-released",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
       "source": "36氪",
       "published": "2026-06-24",
-      "summary": "今日热点导览创业板指创年内最大跌幅，失守4200点整数关口影石回应Luna Ultra新品骗国补质疑：发布会标价有误上交所向沪市公司发出“提质增效重回报”2.0专项行动公开倡议韩国将要求所有上市公司披露库存股详情贾跃亭推出工业级轮臂机器人TOP3大新闻追觅辟谣汽车CEO离职：陈龙冬职务与网络传言不符，今年5月已离职6月23日，针对追觅汽车CEO离职传闻，追觅旗下星辰未来汽车发布声明称：“陈龙冬先生于2025年6月加入追觅科技原星辰未来BU，担任BU负责人，其职务与网络传言‘追觅汽车CEO’不符；2026年5月，陈龙冬先生已从星辰未来离职，该离职属正常人事变动。”此前公司大整改中，追觅把原本两百",
-      "link": "https://36kr.com/p/3866428592657411?f=rss",
+      "summary": "大公司：华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。SK海力士已提交美国IPO申请据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股",
+      "link": "https://36kr.com/p/3867032586867972?f=rss",
       "category": "AI News"
     },
     {
-      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-      "source": "量子位",
-      "published": "2026-06-23",
-      "summary": "以“数据—模型—基础设施”系统性协同通往物理智能",
-      "link": "https://www.qbitai.com/2026/06/437694.html",
-      "category": "AI News"
-    },
-    {
-      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-      "source": "量子位",
-      "published": "2026-06-23",
-      "summary": "Agentic AI爆发的拐点已然来临",
-      "link": "https://www.qbitai.com/2026/06/437672.html",
-      "category": "AI News"
-    },
-    {
-      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-      "source": "量子位",
-      "published": "2026-06-23",
-      "summary": "编程比肩Opus 4.7",
-      "link": "https://www.qbitai.com/2026/06/437503.html",
-      "category": "AI News"
-    },
-    {
-      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-      "source": "量子位",
-      "published": "2026-06-23",
-      "summary": "希望你能找到快乐",
-      "link": "https://www.qbitai.com/2026/06/437425.html",
-      "category": "AI News"
-    },
-    {
-      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
-      "source": "量子位",
-      "published": "2026-06-23",
-      "summary": "24小时在线，2秒回话，陪你聊球",
-      "link": "https://www.qbitai.com/2026/06/437381.html",
-      "category": "AI News"
-    },
-    {
-      "title": "人人都是 Builder 的时代，企业的真正挑战是“怎么管”？",
-      "source": "InfoQ 中文",
-      "published": "2026-06-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/UXZBCoYhBRFN0WRLVR5x?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "数据库到底该怎么选？TDSQL 用一套内核给出了三个答案",
-      "source": "InfoQ 中文",
-      "published": "2026-06-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/aWFuheF4r0CGI5tor4VH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "拿下OpenAI Offer后，她复盘了57场面试：Transformer要会手写，LeetCode还得刷",
-      "source": "InfoQ 中文",
-      "published": "2026-06-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/85A9DVFo51jUHia88mQ4?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
-      "source": "InfoQ 中文",
-      "published": "2026-06-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "主题征文｜跟鸿蒙一起迈入 Agent 时代，大展“鸿图”！",
-      "source": "InfoQ 中文",
-      "published": "2026-06-23",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/p0LYKZdFku7y5BkSMNQN?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "2026红帽媒体Open讲在京举行，阐述“未来的平台即是选择”重要理念",
-      "source": "开源中国",
-      "published": "2026-06-23",
-      "summary": "6月16日，全球开源解决方案提供商 红帽 举办 2026红帽媒体Open讲，红帽全球副总裁兼大中华区总裁曹衡康携大中华区核心管理团队出席，全面复盘 2026 红帽全球峰会核心成果，阐述 “未来的平台，即是选择”重要理念，同步推介红帽 AI 3.4、RHEL Forever 长生命周期增强包等重磅产品，并介绍了 IBM 与红帽联合投入 50 亿美元...",
-      "link": "https://www.oschina.net/news/466057",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 编程圈最近在吹的“Loop Engineering（循环工程）”是什么？",
-      "source": "开源中国",
-      "published": "2026-06-23",
-      "summary": "2026 年 6 月，AI 编程圈在短短一周内经历了一次词汇的强制更新。 5 月 31 日，Claude Code 的创建者 Boris Cherny 在一次采访中轻描淡写地提到，他从 2025 年 11 月起就卸载了自己的 IDE——那个月他提交了 259 个 PR，\"没有一行代码是自己敲的，全是 Claude Code 写的\"。他指出自己已经不再给 Claude 写提示词了：\"我写...",
-      "link": "https://www.oschina.net/news/466052",
-      "category": "AI News"
-    },
-    {
-      "title": "一份 AI 博士的求职笔记，万字长文揭开工业界研究科学家招聘的真实面纱",
-      "source": "开源中国",
-      "published": "2026-06-23",
-      "summary": "华盛顿大学 NLP 博士 Alisa Liu 在她的个人博客上发布了一篇题为《Notes on the Industry Job Search》的文章。这篇约八千字的求职回顾在 24 小时内传遍了 AI 研究者的社交媒体圈。它的作者并非享有公众知名度的 AI 创业者或明星工程师，而是一位刚刚完成六年博士学业、以 tokenization 研究在 NeurIPS 上发表过论文的应...",
-      "link": "https://www.oschina.net/news/466029",
-      "category": "AI News"
-    },
-    {
-      "title": "TimescaleDB 2.28.1 发布，基于 PostgreSQL 的时序数据库",
-      "source": "开源中国",
-      "published": "2026-06-23",
-      "summary": "TimescaleDB v2.28.1 现已发布，此版本较 2.28.0 版本有所改进。 错误修复 #9913 修复当执行计划使用Bitmap Heap Scan时，对压缩表执行DML操作可能导致的崩溃问题 #10091 修复压缩块的列重命名问题 #10056 强制执行直接压缩插入操作中的CHECK、NOT NULL以及带WITH CHECK OPTION视图约束 #10059 修复在HAVING子句中使用f...",
-      "link": "https://www.oschina.net/news/465993/timescaledb-2-28-1-released",
-      "category": "AI News"
-    },
-    {
-      "title": "🔥🔥「AI桌面硬件大赏」Vibeboard -- 为 Vibe Coding 而生的按键板",
-      "source": "开源中国",
-      "published": "2026-06-23",
-      "summary": "Vibe coding（氛围编程） 是你指挥 AI 助手，而不是逐行敲代码。瓶颈不再是打字，而是那套小动作：打开 AI 面板 → 启动语音输入 → 提交。vibeboard 把它压缩成三颗键加一个旋钮，做成一个标准的 QMK 键盘并支持 VIA：每颗键和旋钮都能用图形界面实时改键，无需重新编译。默认布局发送 Win+K（打开 Kiro）、Win+H（语音...",
-      "link": "https://www.oschina.net/ai-creation/details/2815",
-      "category": "AI News"
-    },
-    {
-      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
       "source": "36氪",
-      "published": "2026-06-23",
-      "summary": "AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !以下为圆桌对话内容，经36氪整理编辑：巴芮｜暗涌副主编（主持人）朱天宇｜蓝驰创投 管理合伙人秦深涛｜OriginFlow创始人&CEO巴芮：大家好！我们这场对谈的主题是比共识更早一步，刚才上一场收尾在说一些非共识的内容，我们这一场是说比共识更早一步的事情。现场这两位，一位是在投资上出手非常早，蓝驰创投管理合伙人朱天宇。另外一位是创业比较早的OriginFlow的创始人秦深涛，",
-      "link": "https://36kr.com/p/3865630193030145?f=rss",
+      "published": "2026-06-24",
+      "summary": "文｜王欣逸编辑｜张雨忻2026 年开年来，3D 生成模型赛道相当热闹。今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。近日，影眸科技——这支扎根学术圈、创业早、年轻的 3D 模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。这支团队创立于 2020 年，创始人兼 CEO 吴迪、和联合创始人兼 CTO 张启煊以及另外两位联合创始人张龙文、曾初啸均来自上海科技大学。团队约 60 人，平均年龄不到 25 岁",
+      "link": "https://36kr.com/p/3865060112438533?f=rss",
       "category": "AI News"
     },
     {
-      "title": "只租办公室的拼多多，在雄安买了一栋楼",
+      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
       "source": "36氪",
-      "published": "2026-06-23",
-      "summary": "扎堆雄安的互联网大厂又多了一个。6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。这是拼多多第一次“买楼”。雄安新区产业园拼多多自2015年9月正式成立上线以来，尽管已经发展到了约2.55万员工，超4300亿营收，但它始终采取轻资产办公模式，坚持不买楼、不盖楼。目前拼多多所在的办公地，包括金虹桥国际中心、艺丰中心、晶耀虹桥、星展银行大厦等地的办公楼都是租的。不自建总部、分散租赁办公楼，甚至服务器、仓库等核心运营资产也大多采用租赁模式，减少资金沉淀，把资金都投入到供应链、补贴等公司运营环节，保持高效率，这几乎是拼多多的原则。但这一次不",
-      "link": "https://36kr.com/p/3865625576297476?f=rss",
+      "published": "2026-06-24",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”以下为对话内容，经36氪整理编辑：海若镜丨36氪暗涌副主编（主持）王蓓｜高瓴",
+      "link": "https://36kr.com/p/3866900608701449?f=rss",
       "category": "AI News"
     },
     {
-      "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
       "source": "36氪",
-      "published": "2026-06-23",
-      "summary": "36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研究中心，自研高导高强合金设计技术、超高导热复材设计及界面调控技术与半固态注塑成型工艺，切入机器人关节电机模组、外骨骼、汽车结构件等高附加值场景，目前已与包含头部机器人本体厂商在内的超10家机器人本体、零部件厂商开展合作，确定镁合金替代产品超15种，并且获得多个汽车领域客户定点。公司创始人兼CEO程轩挺是上海交通大学材料工程硕士、复旦大学MBA，拥有20余年汽车行业",
-      "link": "https://36kr.com/p/3864082158785539?f=rss",
+      "published": "2026-06-24",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”6月17日下午，WAVES2026新浪潮大会进行了一场圆桌对话，主题为「生命",
+      "link": "https://36kr.com/p/3866854221698313?f=rss",
       "category": "AI News"
     },
     {
-      "title": "WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点",
+      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
       "source": "36氪",
-      "published": "2026-06-23",
-      "summary": "WAVES 2026汇聚众多投资人、产业领袖与创业者，围绕AI与产业未来展开深度对话。嘉宾核心观点现集中呈现。6月16-17日，36氪WAVES 2026新浪潮大会落地广州番禺良仓新造创意园，大会汇聚了来自 AI、硬科技、出海、医疗、消费硬件等核心赛道的顶级投资人、产业掌舵人与青年创业者，围绕“今年盛夏”的主题展开了一场场直戳本质的深度对话，在滚烫的盛夏里，为中国创投与产业创新注入了最蓬勃的动力。在盛夏中，最动人的从来不是树荫下的清凉，而是烈日下赶路的身影。从2023年走到今天，WAVES始终在做同一件事：找到那些愿意比别人早出发一步、多坚持一点的人。他们可能现在还是少数，但终有一天，这些人的",
-      "link": "https://36kr.com/p/3865596826768643?f=rss",
+      "published": "2026-06-24",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”以下为对话内容，经36氪整理编辑：何思翀丨蚂蚁集团NEXTA创新实验室 项目",
+      "link": "https://36kr.com/p/3866787672773888?f=rss",
       "category": "AI News"
     }
   ]
