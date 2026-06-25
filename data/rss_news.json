@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-25T00:25:58.953494+00:00",
+  "updated": "2026-06-25T12:40:56.870553+00:00",
   "articles": [
     {
-      "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
+      "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+      "source": "量子位",
+      "published": "2026-06-25",
+      "summary": "7月17-7月20",
+      "link": "https://www.qbitai.com/2026/06/438364.html",
+      "category": "AI News"
+    },
+    {
+      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
+      "source": "量子位",
+      "published": "2026-06-25",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/438658.html",
+      "category": "AI News"
+    },
+    {
+      "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
+      "source": "量子位",
+      "published": "2026-06-25",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/438638.html",
+      "category": "AI News"
+    },
+    {
+      "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
+      "source": "量子位",
+      "published": "2026-06-25",
+      "summary": "3D生成领域的Anthropic",
+      "link": "https://www.qbitai.com/2026/06/438468.html",
+      "category": "AI News"
+    },
+    {
+      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+      "source": "量子位",
+      "published": "2026-06-25",
+      "summary": "Claude已经，俨然成为了新一代电子老公。",
+      "link": "https://www.qbitai.com/2026/06/438365.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
+      "source": "InfoQ 中文",
+      "published": "2026-06-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
+      "source": "InfoQ 中文",
+      "published": "2026-06-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
+      "source": "InfoQ 中文",
+      "published": "2026-06-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
+      "source": "InfoQ 中文",
+      "published": "2026-06-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题",
+      "source": "InfoQ 中文",
+      "published": "2026-06-25",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "NumPy 2.5.0 发布",
+      "source": "开源中国",
+      "published": "2026-06-25",
+      "summary": "Numpy 2.5.0 现已发布，这是一个过渡版本。它不再支持 Python 3.11，标志着 distutils 的终结，并废除了 2.0.x 版本中大量已弃用的依赖项。 此外，它还改进了自由线程，并通过新增降序排序，使排序功能符合 array-api 标准。 同时，它也为 Python 3.15 做了大量准备工作，并将从第一个 rc 开始支持 Python 3.15。 此版本...",
+      "link": "https://www.oschina.net/news/467386/numpy-2-5-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "上线第二天，腾讯云 Makers 登顶 Product Hunt 日榜",
+      "source": "开源中国",
+      "published": "2026-06-25",
+      "summary": "Makers 是腾讯云旗下 EdgeOne 的边缘 Web 和 AI Agent 托管平台，前一天刚发布 Agent 开发托管能力。Product Hunt 是全球独立开发者和早期用户的「新品试金石」，日榜第一意味着当天的投票和讨论热度超过了同时上架的所有产品。一个中国大厂的平台级产品能拿到这个位置，不算常见。...",
+      "link": "https://my.oschina.net/u/4487475/blog/19711940",
+      "category": "AI News"
+    },
+    {
+      "title": "基于 MoonBit 的开源深度学习训练框架 MoonXi-net ，性能达 PyTorch 2 倍",
+      "source": "开源中国",
+      "published": "2026-06-25",
+      "summary": "近期，MoonBit 社区开发者、清华大学计算机科学与技术博士Kaiwei Li开发了开源项目：深度学习训练框架MoonXi-net。这是一个基于 MoonBit 构建、采用 Tagless Final 架构设计、支持 CPU/GPU 多后端扩展的训练框架项目。 在不到一个月的业余开发时间里，开发者借助国产大模型与开源 Agent 工具链完成了框架原型设计、训练系...",
+      "link": "https://www.oschina.net/news/467339",
+      "category": "AI News"
+    },
+    {
+      "title": "RoboScience 发布 Visics 大模型，实现跨场景自主执行",
+      "source": "开源中国",
+      "published": "2026-06-25",
+      "summary": "RoboScience 机器科学正式发布了通用具身大模型 Visics，并披露了其核心技术架构 VLOA（Vision-Language-Object-Action）。这一进展意味着机器人不再局限于针对单一任务的重复训练，而是具备了跨本体、跨物体、跨任务的通用操作能力。 过去，具身智能行业普遍采取“动作复刻”模式，即让机器人死记硬背特定的关节运动轨迹...",
+      "link": "https://www.oschina.net/news/467328",
+      "category": "AI News"
+    },
+    {
+      "title": "文心一言发布服务升级公告，数据迁移即将开启",
+      "source": "开源中国",
+      "published": "2026-06-25",
+      "summary": "文心一言正式发布服务升级公告，宣告其平台架构与服务入口的深度整合。 根据公告，自2026年6月25日零时起，文心一言官网的提问入口已正式开启升级。未来用户若想继续使用智能对话、创意写作、高效办公辅助以及专业信息查询等 AI 功能，并将体验最新的文心大模型强大算力，需统一迁移至百度文心网站进行操作。 为了确保用...",
+      "link": "https://www.oschina.net/news/467308",
+      "category": "AI News"
+    },
+    {
+      "title": "美光的好财报，黄金的坏消息",
       "source": "36氪",
       "published": "2026-06-25",
-      "summary": "今日热点导览豆包专业版正式上线，采用三级阶梯定价方案半导体新股暴涨900%，中一签该股最高盈利超20万元以色列证实向伊朗偷运数万台“星链”接收器霍尔木兹海峡对商船完全开放60天，国际油价下跌券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零消息称苹果将于7月下旬量产首款可折叠iPhoneTOP3大新闻SK海力士已提交美国IPO申请据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社）马斯克身家蒸发3400亿美元，已不是万亿富豪6月24日，埃隆·马斯克身价已跌破万亿美元。据彭博亿万富豪指数数据，马斯克目前身",
-      "link": "https://36kr.com/p/3867827741086728?f=rss",
+      "summary": "美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份SCA的细节，表示即便按照价格下限计算，现有签约订单在剩余合同周期内的累计价值仍高达1000亿美元，同时相关协议可为公司锁定220亿美元现金保证金及金融承诺。受益于超预期业绩与千亿长协利好共振，截至发稿，美光盘后股",
+      "link": "https://36kr.com/p/3868523068298499?f=rss",
       "category": "AI News"
     },
     {
-      "title": "世界模型混战，Momenta率先冲刺IPO",
-      "source": "量子位",
-      "published": "2026-06-24",
-      "summary": "AI司机收入3年涨42倍",
-      "link": "https://www.qbitai.com/2026/06/438179.html",
-      "category": "AI News"
-    },
-    {
-      "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
-      "source": "量子位",
-      "published": "2026-06-24",
-      "summary": "已率先完成智谱GLM-5.2适配",
-      "link": "https://www.qbitai.com/2026/06/438174.html",
-      "category": "AI News"
-    },
-    {
-      "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
-      "source": "量子位",
-      "published": "2026-06-24",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/438166.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
-      "source": "量子位",
-      "published": "2026-06-24",
-      "summary": "报名通道已开启。",
-      "link": "https://www.qbitai.com/2026/06/438157.html",
-      "category": "AI News"
-    },
-    {
-      "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
-      "source": "量子位",
-      "published": "2026-06-24",
-      "summary": "申通安能用真金白银下单",
-      "link": "https://www.qbitai.com/2026/06/437853.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Xcode 27 扩展代理集成，全面改版用户界面，并引入了 DeviceHub",
-      "source": "InfoQ 中文",
-      "published": "2026-06-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/VGQNO8bH0sq4kFDb6B7H?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
-      "source": "InfoQ 中文",
-      "published": "2026-06-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 解释了 Claude 如何构建自己的执行框架",
-      "source": "InfoQ 中文",
-      "published": "2026-06-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/DYIUw7abCW7ZYI1OER9i?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "ArrowJS 发布 1.0 版，转型为“代理时代”的首个 UI 框架",
-      "source": "InfoQ 中文",
-      "published": "2026-06-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/JW7bom70PQ14N2OlVRLt?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Spring 近期新闻：Boot、Security、Integration、Modulith 发布增量版本及 Spring AI 2.0 正式发布",
-      "source": "InfoQ 中文",
-      "published": "2026-06-24",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Jpi5XBmoO8smLYSyaD9t?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 发布 Claude Tag，让 AI 以团队成员身份加入 Slack",
-      "source": "开源中国",
-      "published": "2026-06-24",
-      "summary": "Anthropic 正式发布了 Claude Tag，一个让 Claude 以团队成员身份加入 Slack 频道的新产品。这不是一个简单的聊天机器人集成，而是一个从根本上改变了人与 AI 协作模式的系统：在频道里 @Claude，它就会像一个真正的同事那样，理解上下文、规划任务、异步执行，并在完成后主动汇报。Anthropic 还透露了一个让外界重新审视...",
-      "link": "https://www.oschina.net/news/466760",
-      "category": "AI News"
-    },
-    {
-      "title": "xAI 悄然上线 Grok Build 0.1：定价激进的新一代测试版、智能超越 Grok 4.3",
-      "source": "开源中国",
-      "published": "2026-06-24",
-      "summary": "2026 年 6 月中旬，Elon Musk 创立的 AI 公司 xAI 在未做任何正式公告的情况下，通过 API 平台上线了一个名为 Grok Build 0.1 0616 的新模型。这个奇怪的命名——既不是常规的 Grok 4.x 系列编号，也不是标准的语义化版本号——迅速引起了 AI 开发者和评测机构的关注。 独立评测平台 Artificial Analysis 在第一时间对其...",
-      "link": "https://www.oschina.net/news/466730/grok-build-0-1-06-16",
-      "category": "AI News"
-    },
-    {
-      "title": "Kiwi TCMS 16.1 发布，开源测试管理系统",
-      "source": "开源中国",
-      "published": "2026-06-24",
-      "summary": "Kiwi TCMS 是领先的开源测试管理系统，用于手动和自动测试。它的特点是集成 Bug 跟踪器、搜索页面、强大的访问控制、测试自动化框架插件、可视化报告和丰富的 API 层。 Kiwi TCMS 16.1 现已发布，这是一个主要版本更新，其中包括安全相关更新、多项改进、不向后兼容的更改和新的翻译。 自 Kiwi TCMS 16.0 版本以来的变化...",
-      "link": "https://www.oschina.net/news/466719/kiwi-tcms-161",
-      "category": "AI News"
-    },
-    {
-      "title": "Notepad-- v3.8.0 已经发布，文本编辑器",
-      "source": "开源中国",
-      "published": "2026-06-24",
-      "summary": "Notepad-- v3.8.0 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.8.0-plugin-Installer.exe 是win10下面的插件版安装包，会关联右键菜单等。 Notepad--v3.8.0-win10-portable.zip 是绿色免安装版本，解压即用，不会关联右键菜单注册表。 3.8.0 修改记录： 1 修复光标可能变竖线问题。 2 大文本查找增加...",
-      "link": "https://www.oschina.net/news/466692",
-      "category": "AI News"
-    },
-    {
-      "title": "Apache Tomcat 11.0.23 发布",
-      "source": "开源中国",
-      "published": "2026-06-24",
-      "summary": "Apache Tomcat 11.0.23 现已发布，此版本实现了 Jakarta EE 11 平台的部分规范。 公告提醒称：Tomcat 10 及以后版本的用户应注意，作为 Java EE 向 Eclipse 基金会转移的一部分，Java EE 已从 Java EE 迁移到 Jakarta EE，因此所有已实施 API 的主包已从javax.* 变为 jakarta.*。这几乎肯定需要修改代码才能使应用程序从...",
-      "link": "https://www.oschina.net/news/466666/tomcat-11-0-23-released",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+      "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
       "source": "36氪",
-      "published": "2026-06-24",
-      "summary": "大公司：华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞争力，但药物从临床试验到上市存在不确定性，对近期业绩无重大影响。SK海力士已提交美国IPO申请据报道，据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股",
-      "link": "https://36kr.com/p/3867032586867972?f=rss",
+      "published": "2026-06-25",
+      "summary": "大公司：百度：已有1500万人使用百度AI志愿助手填报36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。名创优品寇维宣：乐园系门店年内破百家36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100家。依托超级IP与超级门店双轮驱动，名创优品致力于成为全球领先的IP运营平台，带领100个中国IP走向世界。高考出分三日，千问志愿大模型为考生生成500万份志愿报告6月25日，全国多省份高考成绩密集公布，高招季进入志愿填报高峰期。",
+      "link": "https://36kr.com/p/3868502221018370?f=rss",
       "category": "AI News"
     },
     {
-      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
       "source": "36氪",
-      "published": "2026-06-24",
-      "summary": "文｜王欣逸编辑｜张雨忻2026 年开年来，3D 生成模型赛道相当热闹。今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。近日，影眸科技——这支扎根学术圈、创业早、年轻的 3D 模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。这支团队创立于 2020 年，创始人兼 CEO 吴迪、和联合创始人兼 CTO 张启煊以及另外两位联合创始人张龙文、曾初啸均来自上海科技大学。团队约 60 人，平均年龄不到 25 岁",
-      "link": "https://36kr.com/p/3865060112438533?f=rss",
+      "published": "2026-06-25",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪 ·暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。”以下为开放麦内容，经36氪整理编辑：胡奇｜启明创投执行董事大家晚上好。",
+      "link": "https://36kr.com/p/3868349472920576?f=rss",
       "category": "AI News"
     },
     {
-      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
       "source": "36氪",
-      "published": "2026-06-24",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”以下为对话内容，经36氪整理编辑：海若镜丨36氪暗涌副主编（主持）王蓓｜高瓴",
-      "link": "https://36kr.com/p/3866900608701449?f=rss",
+      "published": "2026-06-25",
+      "summary": "作者｜黄楠编辑｜袁斯来6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、模型从哪学、以及学习后是否能迁移至新场景。过去两年，行业主流做法是让模型直接学习机器人的关节运动轨迹，即复刻某一个特定硬件在特定",
+      "link": "https://36kr.com/p/3868276479710466?f=rss",
       "category": "AI News"
     },
     {
-      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
       "source": "36氪",
-      "published": "2026-06-24",
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。每一年，由36氪· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”6月17日下午，WAVES2026新浪潮大会进行了一场圆桌对话，主题为「生命",
-      "link": "https://36kr.com/p/3866854221698313?f=rss",
+      "published": "2026-06-25",
+      "summary": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第一，61",
+      "link": "https://36kr.com/p/3868204527457287?f=rss",
       "category": "AI News"
     }
   ]
