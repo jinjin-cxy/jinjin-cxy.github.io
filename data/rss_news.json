@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-26T00:27:07.661329+00:00",
+  "updated": "2026-06-26T12:36:27.391915+00:00",
   "articles": [
     {
-      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+      "source": "量子位",
+      "published": "2026-06-26",
+      "summary": "Coding为王",
+      "link": "https://www.qbitai.com/2026/06/438848.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+      "source": "量子位",
+      "published": "2026-06-26",
+      "summary": "这不能是营销计划的一部分吧？",
+      "link": "https://www.qbitai.com/2026/06/438789.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+      "source": "量子位",
+      "published": "2026-06-26",
+      "summary": "精准识别设计系统",
+      "link": "https://www.qbitai.com/2026/06/438750.html",
+      "category": "AI News"
+    },
+    {
+      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+      "source": "量子位",
+      "published": "2026-06-26",
+      "summary": "共建工业物理智能“数据底座与智能大脑”",
+      "link": "https://www.qbitai.com/2026/06/438741.html",
+      "category": "AI News"
+    },
+    {
+      "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
+      "source": "量子位",
+      "published": "2026-06-26",
+      "summary": "提前200毫秒预判",
+      "link": "https://www.qbitai.com/2026/06/438701.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Athena 联盟成立：以协同防御应对开源软件安全风险",
+      "source": "InfoQ 中文",
+      "published": "2026-06-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
+      "source": "InfoQ 中文",
+      "published": "2026-06-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验",
+      "source": "InfoQ 中文",
+      "published": "2026-06-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24小时自主巡逻执勤",
+      "source": "InfoQ 中文",
+      "published": "2026-06-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/BvOA2HoC0d1IzKMZjsdy?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout",
+      "source": "InfoQ 中文",
+      "published": "2026-06-26",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式",
+      "source": "开源中国",
+      "published": "2026-06-26",
+      "summary": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式 开源物联网平台 ThingsPanel 于 2026 年 6 月 18 日发布 v1.2.3 版本。这是 1.2.x 系列的第三个迭代，重点增强了设备管理能力、统一了协议插件体系，并对 ThingsVis 可视化引擎和自动化联动做了持续升级。 一、v1.2.3 更新亮点 1. 设备分组统计...",
+      "link": "https://www.oschina.net/news/468070/thingspanel-1-2-3-released",
+      "category": "AI News"
+    },
+    {
+      "title": "首个开源鸿蒙机器人操作系统社区启动运营，M-Robots公布年度运营路线",
+      "source": "开源中国",
+      "published": "2026-06-26",
+      "summary": "6月26日，M-Robots开源社区在2026开放原子开源生态大会上正式启动运营，并同期发布了技术架构、治理体系与年度运营计划，标志着国内首个基于开源鸿蒙的机器人全栈操作系统开源社区从“宣告成立”进入“启动运营”阶段。 从企业自研到产业共治：一条“捐赠-共建”的演进之路 M-Robots开源社区由深开鸿牵头发起、开放原子开...",
+      "link": "https://www.oschina.net/news/468048",
+      "category": "AI News"
+    },
+    {
+      "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言",
+      "source": "开源中国",
+      "published": "2026-06-26",
+      "summary": "Mistral AI 近日宣布其自主研发的全新文档识别模型 OCR4 已正式亮相。该模型在处理多语言文档方面表现出色，能够支持跨越10个语族的170种语言。 根据公开评估数据，Mistral OCR4在 OmniDocBench 测试中取得了93.07分的成绩，在用户体验测评中表现优于 GPT5.5Pro 和 Gemini3.1Pro Preview 等业界领先的同类产品。 Mistra...",
+      "link": "https://www.oschina.net/news/467954",
+      "category": "AI News"
+    },
+    {
+      "title": "DXVK 3.0 发布",
+      "source": "开源中国",
+      "published": "2026-06-26",
+      "summary": "DXVK 3.0 现已发布，这是基于 Vulkan API 的 Direct3D 8/9/10/11 实现的最新主要功能版本，可供 Wine 和 Valve 的 Steam Play (Proton) 使用。 DXVK 3.0 的一项重大改进是使用 dxbc-spirv 进行着色器编译，替换了所有受支持着色器模型的旧版着色器转换代码。这修复了许多以前无法解决的问题： 游戏中的渲染问题，可能是由...",
+      "link": "https://www.oschina.net/news/467943/dxvk-3-0-released",
+      "category": "AI News"
+    },
+    {
+      "title": "他把 AI 助手挂在公网上让全世界来黑它，两千人没一个成功",
+      "source": "开源中国",
+      "published": "2026-06-26",
+      "summary": "Fernando Irarrázaval 做了一个实验。他把自己的 AI 助手 \"Fiu\" 部署在一台 VPS 上，给了它访问邮箱、日历、文件系统和网络的权限，然后建了一个网站 hackmyclaw.com，邀请全世界来黑它。 目标是让 Fiu 交出一个名为 secrets.env 的文件。 2026 年 6 月 25 日，他在博客上公布了结果：超过 2000 人发来了 6000 多封邮件...",
+      "link": "https://www.oschina.net/news/467910",
+      "category": "AI News"
+    },
+    {
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
       "source": "36氪",
       "published": "2026-06-26",
-      "summary": "文｜胡香赟编辑｜海若镜36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部",
-      "link": "https://36kr.com/p/3867943030395913?f=rss",
+      "summary": "大公司：五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应当履行而未履行的承诺事项。京东大药房在烟台成立新公司36氪获悉，天眼查App显示，近",
+      "link": "https://36kr.com/p/3869884559332356?f=rss",
       "category": "AI News"
     },
     {
-      "title": "[EN] Run a vLLM Server on HF Jobs in One Command",
-      "source": "Hugging Face Blog",
+      "title": "《走进AIE》，谁是下一个主角",
+      "source": "36氪",
       "published": "2026-06-26",
-      "summary": "",
-      "link": "https://huggingface.co/blog/vllm-jobs",
+      "summary": "一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。走进企业，解码产业 用专业内容讲好\"中国智造\"围绕行业前沿趋势，从实验室到生产线，从技",
+      "link": "https://36kr.com/p/3869838577620231?f=rss",
       "category": "AI News"
     },
     {
-      "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-      "source": "量子位",
-      "published": "2026-06-25",
-      "summary": "7月17-7月20",
-      "link": "https://www.qbitai.com/2026/06/438364.html",
-      "category": "AI News"
-    },
-    {
-      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-      "source": "量子位",
-      "published": "2026-06-25",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/438658.html",
-      "category": "AI News"
-    },
-    {
-      "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
-      "source": "量子位",
-      "published": "2026-06-25",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/438638.html",
-      "category": "AI News"
-    },
-    {
-      "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
-      "source": "量子位",
-      "published": "2026-06-25",
-      "summary": "3D生成领域的Anthropic",
-      "link": "https://www.qbitai.com/2026/06/438468.html",
-      "category": "AI News"
-    },
-    {
-      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-      "source": "量子位",
-      "published": "2026-06-25",
-      "summary": "Claude已经，俨然成为了新一代电子老公。",
-      "link": "https://www.qbitai.com/2026/06/438365.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GitHub 推出 Copilot 桌面应用，支持并行 Agent 开发工作流",
-      "source": "InfoQ 中文",
-      "published": "2026-06-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/GaAsWkrJQW2NFf06kgyG?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI 智能体的身份与权限挑战：Uber 和 Auth0 如何重新思考访问控制",
-      "source": "InfoQ 中文",
-      "published": "2026-06-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/tDY9pS7LlrVIBq1pPotd?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "最大开源第一视角数据集 EgoLive 来了，名校站台、近百家机构争相申请",
-      "source": "InfoQ 中文",
-      "published": "2026-06-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/3HqTDUKziZE3ukwbwHyC?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Code 工程一号位亲自给 Agent 热潮降温：狂烧 Token 时代已过，现在该算ROI了",
-      "source": "InfoQ 中文",
-      "published": "2026-06-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/XebV3B8Vy3Yx0A4HZX4b?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "狂烧 Token 却赚不到钱？这家清华系 AI Infra 独角兽已破解算力成本难题",
-      "source": "InfoQ 中文",
-      "published": "2026-06-25",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/szKShGMPxfQMVbOU4IbX?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "NumPy 2.5.0 发布",
-      "source": "开源中国",
-      "published": "2026-06-25",
-      "summary": "Numpy 2.5.0 现已发布，这是一个过渡版本。它不再支持 Python 3.11，标志着 distutils 的终结，并废除了 2.0.x 版本中大量已弃用的依赖项。 此外，它还改进了自由线程，并通过新增降序排序，使排序功能符合 array-api 标准。 同时，它也为 Python 3.15 做了大量准备工作，并将从第一个 rc 开始支持 Python 3.15。 此版本...",
-      "link": "https://www.oschina.net/news/467386/numpy-2-5-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "上线第二天，腾讯云 Makers 登顶 Product Hunt 日榜",
-      "source": "开源中国",
-      "published": "2026-06-25",
-      "summary": "Makers 是腾讯云旗下 EdgeOne 的边缘 Web 和 AI Agent 托管平台，前一天刚发布 Agent 开发托管能力。Product Hunt 是全球独立开发者和早期用户的「新品试金石」，日榜第一意味着当天的投票和讨论热度超过了同时上架的所有产品。一个中国大厂的平台级产品能拿到这个位置，不算常见。...",
-      "link": "https://my.oschina.net/u/4487475/blog/19711940",
-      "category": "AI News"
-    },
-    {
-      "title": "基于 MoonBit 的开源深度学习训练框架 MoonXi-net ，性能达 PyTorch 2 倍",
-      "source": "开源中国",
-      "published": "2026-06-25",
-      "summary": "近期，MoonBit 社区开发者、清华大学计算机科学与技术博士Kaiwei Li开发了开源项目：深度学习训练框架MoonXi-net。这是一个基于 MoonBit 构建、采用 Tagless Final 架构设计、支持 CPU/GPU 多后端扩展的训练框架项目。 在不到一个月的业余开发时间里，开发者借助国产大模型与开源 Agent 工具链完成了框架原型设计、训练系...",
-      "link": "https://www.oschina.net/news/467339",
-      "category": "AI News"
-    },
-    {
-      "title": "RoboScience 发布 Visics 大模型，实现跨场景自主执行",
-      "source": "开源中国",
-      "published": "2026-06-25",
-      "summary": "RoboScience 机器科学正式发布了通用具身大模型 Visics，并披露了其核心技术架构 VLOA（Vision-Language-Object-Action）。这一进展意味着机器人不再局限于针对单一任务的重复训练，而是具备了跨本体、跨物体、跨任务的通用操作能力。 过去，具身智能行业普遍采取“动作复刻”模式，即让机器人死记硬背特定的关节运动轨迹...",
-      "link": "https://www.oschina.net/news/467328",
-      "category": "AI News"
-    },
-    {
-      "title": "文心一言发布服务升级公告，数据迁移即将开启",
-      "source": "开源中国",
-      "published": "2026-06-25",
-      "summary": "文心一言正式发布服务升级公告，宣告其平台架构与服务入口的深度整合。 根据公告，自2026年6月25日零时起，文心一言官网的提问入口已正式开启升级。未来用户若想继续使用智能对话、创意写作、高效办公辅助以及专业信息查询等 AI 功能，并将体验最新的文心大模型强大算力，需统一迁移至百度文心网站进行操作。 为了确保用...",
-      "link": "https://www.oschina.net/news/467308",
-      "category": "AI News"
-    },
-    {
-      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
       "source": "36氪",
-      "published": "2026-06-25",
-      "summary": "今日热点导览Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能马斯克曾直言混动车只是过渡阶段韩国5200万人开了1.08亿股票账户，半年增超1000万逾八成澳大利亚未成年人“绕过”了社媒禁令IBM发布全球首款亚纳米芯片技术TOP 3大新闻苹果官宣涨价：iPad和Mac率先调价6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件",
-      "link": "https://36kr.com/p/3869243269387269?f=rss",
+      "published": "2026-06-26",
+      "summary": "文 | 海若镜访谈 | 海若镜 巴芮6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵化公司只是自然长出的",
+      "link": "https://36kr.com/p/3866837793952769?f=rss",
       "category": "AI News"
     },
     {
-      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
       "source": "36氪",
-      "published": "2026-06-25",
-      "summary": "减重1亿斤，是什么概念？简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用户定制饮食和运动方案，以及即将开启的减重挑战赛。如果按照阿福现有的1亿用户体量来算，平均每人只需减重1斤，就能实现“1亿斤”的小目标。减肥这件事，曾经是一个人的苦修：",
-      "link": "https://36kr.com/p/3868596994069509?f=rss",
+      "published": "2026-06-26",
+      "summary": "本文约900字，建议阅读2分钟作者 | 彭孝秋6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿港币。在昨日下午先行的暗盘中，其以115.40港元收盘，较发行价60.70港元大涨90.12%，对应市值199.76亿港元（约合人民币175亿）。按每手200股算，一手账面浮盈约1.09万港元；盘中最高冲到128港元",
+      "link": "https://36kr.com/p/3869622921041156?f=rss",
       "category": "AI News"
     },
     {
-      "title": "美光的好财报，黄金的坏消息",
+      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
       "source": "36氪",
-      "published": "2026-06-25",
-      "summary": "美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份SCA的细节，表示即便按照价格下限计算，现有签约订单在剩余合同周期内的累计价值仍高达1000亿美元，同时相关协议可为公司锁定220亿美元现金保证金及金融承诺。受益于超预期业绩与千亿长协利好共振，截至发稿，美光盘后股",
-      "link": "https://36kr.com/p/3868523068298499?f=rss",
+      "published": "2026-06-26",
+      "summary": "北京时间  2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称\"大搜车\"或\"公司\"，纳斯达克代码：\"DSC\"）正式在美国纳斯达克全球市场挂牌交易，成为2026 年首家赴美上市的中国企业。公司本次发行3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另授予承销商 30 天的超额配售权，可按发行价额外购买最多450,000 份 ADS。大搜车在纳斯达克挂牌上市大搜车创始人兼CEO姚军红在上市仪式上表示：“大搜车的发展历程是一个为他人解决问题、创造价值的故事。二手车流通是一个非常复",
+      "link": "https://36kr.com/p/3869474592363528?f=rss",
       "category": "AI News"
     }
   ]

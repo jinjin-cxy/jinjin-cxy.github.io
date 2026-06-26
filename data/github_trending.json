@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-26T00:26:58.841145+00:00",
+  "updated": "2026-06-26T12:36:17.206635+00:00",
   "repositories": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "stars": 11810,
+      "stars_today": 191,
+      "language": "Haskell",
+      "link": "https://github.com/simplex-chat/simplex-chat"
+    },
     {
       "name": "google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 19168,
+      "stars": 20474,
       "stars_today": 1475,
       "language": "TypeScript",
       "link": "https://github.com/google-labs-code/design.md"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 22048,
-      "stars_today": 3434,
+      "name": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": 61632,
+      "stars_today": 67,
       "language": "Python",
-      "link": "https://github.com/calesthio/OpenMontage"
+      "link": "https://github.com/commaai/openpilot"
     },
     {
-      "name": "xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
-      "stars": 1847,
-      "stars_today": 309,
-      "language": "Python",
-      "link": "https://github.com/xbtlin/ai-berkshire"
-    },
-    {
-      "name": "mauriceboe/TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "stars": 6637,
-      "stars_today": 241,
-      "language": "TypeScript",
-      "link": "https://github.com/mauriceboe/TREK"
-    },
-    {
-      "name": "apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 43201,
-      "stars_today": 1351,
-      "language": "Swift",
-      "link": "https://github.com/apple/container"
-    },
-    {
-      "name": "JCodesMore/ai-website-cloner-template",
-      "description": "Clone any website with one command using AI coding agents",
-      "stars": 20413,
-      "stars_today": 1024,
-      "language": "TypeScript",
-      "link": "https://github.com/JCodesMore/ai-website-cloner-template"
-    },
-    {
-      "name": "every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": 2505,
-      "stars_today": 57,
-      "language": "TypeScript",
-      "link": "https://github.com/every-app/open-seo"
-    },
-    {
-      "name": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 115790,
-      "stars_today": 767,
-      "language": "TypeScript",
-      "link": "https://github.com/garrytan/gstack"
-    },
-    {
-      "name": "aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "stars": 1128,
-      "stars_today": 47,
-      "language": "Python",
-      "link": "https://github.com/aws/agent-toolkit-for-aws"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with",
-      "stars": 21222,
-      "stars_today": 571,
-      "language": "Python",
-      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 19793,
-      "stars_today": 163,
-      "language": "TypeScript",
-      "link": "https://github.com/alibaba/page-agent"
-    },
-    {
-      "name": "IceWhaleTech/CasaOS",
-      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "stars": 34814,
-      "stars_today": 223,
+      "name": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "stars": 3146,
+      "stars_today": 996,
       "language": "Go",
-      "link": "https://github.com/IceWhaleTech/CasaOS"
+      "link": "https://github.com/kunchenguid/no-mistakes"
+    },
+    {
+      "name": "grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "stars": 74720,
+      "stars_today": 17,
+      "language": "TypeScript",
+      "link": "https://github.com/grafana/grafana"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 123514,
+      "stars_today": 48,
+      "language": "HTML",
+      "link": "https://github.com/ripienaar/free-for-dev"
     },
     {
       "name": "opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": 69558,
+      "stars": 70073,
       "stars_today": 644,
       "language": "Python",
       "link": "https://github.com/opendatalab/MinerU"
     },
     {
-      "name": "Free-TV/IPTV",
-      "description": "M3U Playlist for free TV channels",
-      "stars": 18204,
-      "stars_today": 139,
-      "language": "Python",
-      "link": "https://github.com/Free-TV/IPTV"
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "stars": 9154,
+      "stars_today": 220,
+      "language": "",
+      "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "stars": 60523,
-      "stars_today": 287,
-      "language": "HTML",
-      "link": "https://github.com/shanraisshan/claude-code-best-practice"
+      "name": "mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "stars": 7241,
+      "stars_today": 241,
+      "language": "TypeScript",
+      "link": "https://github.com/mauriceboe/TREK"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
+      "stars": 2812,
+      "stars_today": 309,
+      "language": "Python",
+      "link": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 23018,
+      "stars_today": 3434,
+      "language": "Python",
+      "link": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 1255,
+      "stars_today": 47,
+      "language": "Python",
+      "link": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars": 53221,
+      "stars_today": 398,
+      "language": "Python",
+      "link": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 116265,
+      "stars_today": 767,
+      "language": "TypeScript",
+      "link": "https://github.com/garrytan/gstack"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "stars": 35101,
+      "stars_today": 223,
+      "language": "Go",
+      "link": "https://github.com/IceWhaleTech/CasaOS"
     }
   ]
 }
