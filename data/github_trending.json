@@ -1,125 +1,125 @@
 {
-  "updated": "2026-06-27T00:24:46.898979+00:00",
+  "updated": "2026-06-27T12:21:30.663224+00:00",
   "repositories": [
     {
       "name": "simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "stars": 12538,
-      "stars_today": 432,
+      "stars": 13214,
+      "stars_today": 1470,
       "language": "Haskell",
       "link": "https://github.com/simplex-chat/simplex-chat"
     },
     {
-      "name": "google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "stars": 21238,
-      "stars_today": 2407,
-      "language": "TypeScript",
-      "link": "https://github.com/google-labs-code/design.md"
-    },
-    {
-      "name": "commaai/openpilot",
-      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "stars": 61777,
-      "stars_today": 80,
-      "language": "Python",
-      "link": "https://github.com/commaai/openpilot"
-    },
-    {
-      "name": "kunchenguid/no-mistakes",
-      "description": "git push no-mistakes",
-      "stars": 3416,
-      "stars_today": 398,
-      "language": "Go",
-      "link": "https://github.com/kunchenguid/no-mistakes"
-    },
-    {
-      "name": "grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "stars": 74893,
-      "stars_today": 32,
-      "language": "TypeScript",
-      "link": "https://github.com/grafana/grafana"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": 123726,
-      "stars_today": 90,
-      "language": "HTML",
-      "link": "https://github.com/ripienaar/free-for-dev"
-    },
-    {
-      "name": "opendatalab/MinerU",
-      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "stars": 70409,
-      "stars_today": 960,
-      "language": "Python",
-      "link": "https://github.com/opendatalab/MinerU"
-    },
-    {
-      "name": "alchaincyf/zhangxuefeng-skill",
-      "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-      "stars": 9248,
-      "stars_today": 160,
-      "language": "",
-      "link": "https://github.com/alchaincyf/zhangxuefeng-skill"
-    },
-    {
-      "name": "mauriceboe/TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "stars": 7650,
-      "stars_today": 1060,
-      "language": "TypeScript",
-      "link": "https://github.com/mauriceboe/TREK"
-    },
-    {
       "name": "xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial a",
-      "stars": 3104,
-      "stars_today": 1274,
+      "stars": 3493,
+      "stars_today": 686,
       "language": "Python",
       "link": "https://github.com/xbtlin/ai-berkshire"
     },
     {
-      "name": "calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": 23595,
-      "stars_today": 1754,
+      "name": "commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": 61938,
+      "stars_today": 322,
       "language": "Python",
-      "link": "https://github.com/calesthio/OpenMontage"
-    },
-    {
-      "name": "aws/agent-toolkit-for-aws",
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "stars": 1347,
-      "stars_today": 243,
-      "language": "Python",
-      "link": "https://github.com/aws/agent-toolkit-for-aws"
-    },
-    {
-      "name": "NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": 53344,
-      "stars_today": 673,
-      "language": "Python",
-      "link": "https://github.com/NanmiCoder/MediaCrawler"
-    },
-    {
-      "name": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "stars": 116621,
-      "stars_today": 950,
-      "language": "TypeScript",
-      "link": "https://github.com/garrytan/gstack"
+      "link": "https://github.com/commaai/openpilot"
     },
     {
       "name": "IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "stars": 35364,
-      "stars_today": 619,
+      "stars": 35589,
+      "stars_today": 502,
       "language": "Go",
       "link": "https://github.com/IceWhaleTech/CasaOS"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 123953,
+      "stars_today": 459,
+      "language": "HTML",
+      "link": "https://github.com/ripienaar/free-for-dev"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": 21955,
+      "stars_today": 1542,
+      "language": "TypeScript",
+      "link": "https://github.com/google-labs-code/design.md"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars": 135593,
+      "stars_today": 67,
+      "language": "C",
+      "link": "https://github.com/microsoft/PowerToys"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b",
+      "stars": 32657,
+      "stars_today": 589,
+      "language": "Python",
+      "link": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "stars": 21743,
+      "stars_today": 750,
+      "language": "TypeScript",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": 116906,
+      "stars_today": 674,
+      "language": "TypeScript",
+      "link": "https://github.com/garrytan/gstack"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars": 53603,
+      "stars_today": 394,
+      "language": "Python",
+      "link": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license",
+      "stars": 21177,
+      "stars_today": 254,
+      "language": "JavaScript",
+      "link": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 23569,
+      "stars_today": 729,
+      "language": "Python",
+      "link": "https://github.com/topoteretes/cognee"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "stars": 13095,
+      "stars_today": 17,
+      "language": "Rust",
+      "link": "https://github.com/dbt-labs/dbt-core"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 38436,
+      "stars_today": 138,
+      "language": "Python",
+      "link": "https://github.com/luongnv89/claude-howto"
     }
   ]
 }

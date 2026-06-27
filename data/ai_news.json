@@ -1,6 +1,86 @@
 {
-  "updated": "2026-06-27T00:24:55.585590+00:00",
+  "updated": "2026-06-27T12:21:41.703639+00:00",
   "articles": [
+    {
+      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+      "source": "量子位",
+      "published": "2026-06-27",
+      "summary": "28页干货爆炸",
+      "link": "https://www.qbitai.com/2026/06/439032.html",
+      "category": "AI News"
+    },
+    {
+      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+      "source": "量子位",
+      "published": "2026-06-27",
+      "summary": "一口气端出三款GPT 5.6系列模型",
+      "link": "https://www.qbitai.com/2026/06/438895.html",
+      "category": "AI News"
+    },
+    {
+      "title": ".NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果",
+      "source": "InfoQ 中文",
+      "published": "2026-06-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "source": "InfoQ 中文",
+      "published": "2026-06-27",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "调问更新 6.13~6.26：新增分组题、自增题、随机抽题、一键答题、答案解析，全面提升测评与考试能力",
+      "source": "开源中国",
+      "published": "2026-06-27",
+      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源💯，助力企业建设属于自己的问卷调研系统👏。 🔥官网地址： https://www.diaowen.net 🔥 在线服务： https://www.surveyform.cn 🔥 源码下载： https://gitee.com/wkeyuan/DWSurvey 本次更新全面增强了表单与考试场景的应用能力，全新上线“分组题”、“自增题...",
+      "link": "https://www.oschina.net/news/468519",
+      "category": "AI News"
+    },
+    {
+      "title": "VibeCoding v1.1.52 已经发布，单文件的code agent工具",
+      "source": "开源中国",
+      "published": "2026-06-27",
+      "summary": "VibeCoding v1.1.52 已经发布，单文件的code agent工具 此版本更新内容包括： 更新日志 v1.1.52 优化 Provider HTTP/1.1 fallback 配置 新增 providers.<name>.forceHTTP11，可为单个 provider HTTP client 禁用 HTTP/2。 当代理或 API 网关偶发将 HTTP/2 SSE 流重置并报出 stream ID ... INTERNAL_ERROR 时，可用该配置...",
+      "link": "https://www.oschina.net/news/468485",
+      "category": "AI News"
+    },
+    {
+      "title": "Spring Boot → Solon 注解迁移实战指南：一张对照表说清楚",
+      "source": "开源中国",
+      "published": "2026-06-27",
+      "summary": "写给正在做技术选型或迁移调研的 Java 开发者 一、写在前面 如果你会 Spring Boot，那你已经会了一大半 Solon。 Solon 不是 Spring 的分支或封装，它是独立发展的全栈应用开发框架。但在设计哲学上，Solon 遵循了 Java 主流的 IoC、AOP、MVC 范式——概念相同，注解名不同。 这篇文章把 Spring Boot 到 Solon 的注解映射...",
+      "link": "https://www.oschina.net/news/468346",
+      "category": "AI News"
+    },
+    {
+      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+      "source": "36氪",
+      "published": "2026-06-27",
+      "summary": "本文约2500字，建议阅读5分钟作者 | 彭孝秋编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。6月26日，储能公司大秦数字能源向港交所递交了上市申请。2025年，大秦数字能源收入25.25亿元，同比增长244.3%；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利1.25亿。一家刚从“亏损”爬出来的公司，",
+      "link": "https://36kr.com/p/3871109381035011?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "source": "36氪",
+      "published": "2026-06-27",
+      "summary": "作者｜黄楠编辑｜袁斯来6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%过去几年，行业花了大量精力把车上的事“看",
+      "link": "https://36kr.com/p/3869740772316162?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "source": "36氪",
+      "published": "2026-06-27",
+      "summary": "今日热点导览OpenAI官宣推出GPT-5.6亚洲“果链”股价几乎全线大幅下跌SpaceX计划为美国消费者推出新的星链移动服务美团股价低迷，王兴回应小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹TOP3大新闻苹果涨价引山姆代购潮，部分门店已卖断货近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，店内已基本无货。多家山姆超市门店",
+      "link": "https://36kr.com/p/3870720040588295?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
       "source": "量子位",
@@ -23,22 +103,6 @@
       "published": "2026-06-26",
       "summary": "这不能是营销计划的一部分吧？",
       "link": "https://www.qbitai.com/2026/06/438789.html",
-      "category": "AI News"
-    },
-    {
-      "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
-      "source": "量子位",
-      "published": "2026-06-26",
-      "summary": "精准识别设计系统",
-      "link": "https://www.qbitai.com/2026/06/438750.html",
-      "category": "AI News"
-    },
-    {
-      "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
-      "source": "量子位",
-      "published": "2026-06-26",
-      "summary": "共建工业物理智能“数据底座与智能大脑”",
-      "link": "https://www.qbitai.com/2026/06/438741.html",
       "category": "AI News"
     },
     {
@@ -66,19 +130,11 @@
       "category": "AI News"
     },
     {
-      "title": "API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验",
-      "source": "InfoQ 中文",
+      "title": "OpenAuth.Net 8.4 已经发布，权限管理系统",
+      "source": "开源中国",
       "published": "2026-06-26",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "不下班、不摸鱼，晓途机器狗已在上海“开工”：7×24小时自主巡逻执勤",
-      "source": "InfoQ 中文",
-      "published": "2026-06-26",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/BvOA2HoC0d1IzKMZjsdy?utm_source=rss&utm_medium=article",
+      "summary": "OpenAuth.Net 8.4 已经发布，权限管理系统 此版本更新内容包括： 更新内容 refactor: 重构IdentityServer为OpenIddict refactor: 重构驳回的逻辑 ⚠️feat: 增加一个强制退出程序的脚本 fix: 修复召回 fix: #IJR8AQ 模板编号和发布时间更改无效 fix: #IJQXD6 概念容易混淆，建议列表上方撤销改名为召回 fix: 修复不同意时...",
+      "link": "https://www.oschina.net/news/468252",
       "category": "AI News"
     },
     {
@@ -87,38 +143,6 @@
       "published": "2026-06-26",
       "summary": "MyEMS v6.6.0 已经发布，能源管理系统 此版本更新内容包括： 新增功能 在 myems-admin 数据点页面增加搜索框 在 myems-web 报表中新增 DeepSeek AI 分析功能 在 myems-web 门店看板中增加地图组件 功能变更 更新 myems-api 与 myems-web 中的计量表批量报表 更新 myems-api 与 myems-web 中的虚拟表批量报表 升级 myems-...",
       "link": "https://www.oschina.net/news/468181",
-      "category": "AI News"
-    },
-    {
-      "title": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "ThingsPanel v1.2.3 发布：设备分组统计、协议插件统一、ThingsVis 卡片模式 开源物联网平台 ThingsPanel 于 2026 年 6 月 18 日发布 v1.2.3 版本。这是 1.2.x 系列的第三个迭代，重点增强了设备管理能力、统一了协议插件体系，并对 ThingsVis 可视化引擎和自动化联动做了持续升级。 一、v1.2.3 更新亮点 1. 设备分组统计...",
-      "link": "https://www.oschina.net/news/468070/thingspanel-1-2-3-released",
-      "category": "AI News"
-    },
-    {
-      "title": "首个开源鸿蒙机器人操作系统社区启动运营，M-Robots公布年度运营路线",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "6月26日，M-Robots开源社区在2026开放原子开源生态大会上正式启动运营，并同期发布了技术架构、治理体系与年度运营计划，标志着国内首个基于开源鸿蒙的机器人全栈操作系统开源社区从“宣告成立”进入“启动运营”阶段。 从企业自研到产业共治：一条“捐赠-共建”的演进之路 M-Robots开源社区由深开鸿牵头发起、开放原子开...",
-      "link": "https://www.oschina.net/news/468048",
-      "category": "AI News"
-    },
-    {
-      "title": "Mistral AI 发布 OCR4 模型：支持 170 种语言",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "Mistral AI 近日宣布其自主研发的全新文档识别模型 OCR4 已正式亮相。该模型在处理多语言文档方面表现出色，能够支持跨越10个语族的170种语言。 根据公开评估数据，Mistral OCR4在 OmniDocBench 测试中取得了93.07分的成绩，在用户体验测评中表现优于 GPT5.5Pro 和 Gemini3.1Pro Preview 等业界领先的同类产品。 Mistra...",
-      "link": "https://www.oschina.net/news/467954",
-      "category": "AI News"
-    },
-    {
-      "title": "DXVK 3.0 发布",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "DXVK 3.0 现已发布，这是基于 Vulkan API 的 Direct3D 8/9/10/11 实现的最新主要功能版本，可供 Wine 和 Valve 的 Steam Play (Proton) 使用。 DXVK 3.0 的一项重大改进是使用 dxbc-spirv 进行着色器编译，替换了所有受支持着色器模型的旧版着色器转换代码。这修复了许多以前无法解决的问题： 游戏中的渲染问题，可能是由...",
-      "link": "https://www.oschina.net/news/467943/dxvk-3-0-released",
       "category": "AI News"
     },
     {
@@ -133,32 +157,8 @@
       "title": "追赶FSD V14，理想在补哪些课？｜最前线",
       "source": "36氪",
       "published": "2026-06-26",
-      "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。最早比的是硬件：激��雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。这也是为什么越来越多车企开始走向自研。特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自研芯片的全部环节。国内，无论小鹏、蔚来，还是理想，也都在不断向更底层延伸。今年发布的",
+      "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。这也是为什么越来越多车企开始走向自研。特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自研芯片的全部环节。国内，无论小鹏、蔚来，还是理想，也都在不断向更底层延伸。今年发布的 ",
       "link": "https://36kr.com/p/3870292939658242?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-      "source": "36氪",
-      "published": "2026-06-26",
-      "summary": "大公司：五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即2028年6月19日止），离任后不在公司及控股子公司任职，其离任不会对公司正常经营产生影响。截至本公告披露日，曾从钦未持有公司股份，不存在应当履行而未履行的承诺事项。京东大药房在烟台成立新公司36氪获悉，天眼查App显示，近",
-      "link": "https://36kr.com/p/3869884559332356?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "《走进AIE》，谁是下一个主角",
-      "source": "36氪",
-      "published": "2026-06-26",
-      "summary": "一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方财经、新华网、南方+等权威媒体，重磅推出《走进AIE》专题栏目，全维度挖掘产业、科研与场景应用的创新价值，彰显湾区智造硬实力，吸引全球产业资源加速汇聚。走进企业，解码产业 用专业内容讲好\"中国智造\"围绕行业前沿趋势，从实验室到生产线，从技",
-      "link": "https://36kr.com/p/3869838577620231?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
-      "source": "36氪",
-      "published": "2026-06-26",
-      "summary": "文 | 海若镜访谈 | 海若镜 巴芮6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元”。其中，华深智药、它石智航等独角兽，在资本市场备受追捧。1500亿估值是个亮眼数据，但张亚勤却告诉我们：AIR首要任务是做科研；孵化公司只是自然长出的",
-      "link": "https://36kr.com/p/3866837793952769?f=rss",
       "category": "AI News"
     }
   ]
