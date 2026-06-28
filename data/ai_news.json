@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-27T12:21:41.703639+00:00",
+  "updated": "2026-06-28T00:23:20.582571+00:00",
   "articles": [
+    {
+      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+      "source": "量子位",
+      "published": "2026-06-27",
+      "summary": "人类一次录制，Agent就能模拟",
+      "link": "https://www.qbitai.com/2026/06/439393.html",
+      "category": "AI News"
+    },
+    {
+      "title": "第一批一人公司，现在怎么样了？",
+      "source": "量子位",
+      "published": "2026-06-27",
+      "summary": "我们跟一群OPC创业者聊了聊",
+      "link": "https://www.qbitai.com/2026/06/439237.html",
+      "category": "AI News"
+    },
+    {
+      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+      "source": "量子位",
+      "published": "2026-06-27",
+      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
+      "link": "https://www.qbitai.com/2026/06/439236.html",
+      "category": "AI News"
+    },
     {
       "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
       "source": "量子位",
@@ -79,30 +103,6 @@
       "published": "2026-06-27",
       "summary": "今日热点导览OpenAI官宣推出GPT-5.6亚洲“果链”股价几乎全线大幅下跌SpaceX计划为美国消费者推出新的星链移动服务美团股价低迷，王兴回应小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹TOP3大新闻苹果涨价引山姆代购潮，部分门店已卖断货近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，店内已基本无货。多家山姆超市门店",
       "link": "https://36kr.com/p/3870720040588295?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
-      "source": "量子位",
-      "published": "2026-06-26",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/438887.html",
-      "category": "AI News"
-    },
-    {
-      "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
-      "source": "量子位",
-      "published": "2026-06-26",
-      "summary": "Coding为王",
-      "link": "https://www.qbitai.com/2026/06/438848.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
-      "source": "量子位",
-      "published": "2026-06-26",
-      "summary": "这不能是营销计划的一部分吧？",
-      "link": "https://www.qbitai.com/2026/06/438789.html",
       "category": "AI News"
     },
     {
