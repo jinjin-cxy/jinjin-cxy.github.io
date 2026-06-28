@@ -1,6 +1,70 @@
 {
-  "updated": "2026-06-28T00:23:20.582571+00:00",
+  "updated": "2026-06-28T12:22:25.828701+00:00",
   "articles": [
+    {
+      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "source": "量子位",
+      "published": "2026-06-28",
+      "summary": "精髓在于极强的系统工程",
+      "link": "https://www.qbitai.com/2026/06/439548.html",
+      "category": "AI News"
+    },
+    {
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "source": "量子位",
+      "published": "2026-06-28",
+      "summary": "GitHub 20k Star",
+      "link": "https://www.qbitai.com/2026/06/439515.html",
+      "category": "AI News"
+    },
+    {
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "source": "量子位",
+      "published": "2026-06-28",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/06/439464.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
+      "source": "InfoQ 中文",
+      "published": "2026-06-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+      "source": "InfoQ 中文",
+      "published": "2026-06-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+      "source": "InfoQ 中文",
+      "published": "2026-06-28",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "BBS-GO v4.4.2 发布，完善举报处理闭环与话题浏览体验",
+      "source": "开源中国",
+      "published": "2026-06-28",
+      "summary": "BBS-GO 是一个轻量级社区和问答平台，适合搭建论坛、知识库和讨论社区。项目提供帖子 / 文章、评论回复、点赞收藏、关注私信、任务积分、等级徽章、后台运营管理、内容与用户治理、多语言等能力，适合需要快速搭建社区互动场景的团队使用。 BBS-GO v4.4.2 已经发布。本次版本主要围绕举报处理闭环、话题列表与首页导航体...",
+      "link": "https://www.oschina.net/news/468901",
+      "category": "AI News"
+    },
+    {
+      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "source": "36氪",
+      "published": "2026-06-28",
+      "summary": "文｜贺哲馨编辑｜乔芊Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。“有点像抽签，也有点像开盲盒。”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。”Judy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最",
+      "link": "https://36kr.com/p/3867976058803459?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
       "source": "量子位",
@@ -15,30 +79,6 @@
       "published": "2026-06-27",
       "summary": "我们跟一群OPC创业者聊了聊",
       "link": "https://www.qbitai.com/2026/06/439237.html",
-      "category": "AI News"
-    },
-    {
-      "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
-      "source": "量子位",
-      "published": "2026-06-27",
-      "summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
-      "link": "https://www.qbitai.com/2026/06/439236.html",
-      "category": "AI News"
-    },
-    {
-      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "source": "量子位",
-      "published": "2026-06-27",
-      "summary": "28页干货爆炸",
-      "link": "https://www.qbitai.com/2026/06/439032.html",
-      "category": "AI News"
-    },
-    {
-      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "source": "量子位",
-      "published": "2026-06-27",
-      "summary": "一口气端出三款GPT 5.6系列模型",
-      "link": "https://www.qbitai.com/2026/06/438895.html",
       "category": "AI News"
     },
     {
@@ -106,30 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "像玩剧本杀一样，玩好 Agentic AI",
-      "source": "InfoQ 中文",
-      "published": "2026-06-26",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/video/2hp32gR1vuPJuL0ISlB3?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Athena 联盟成立：以协同防御应对开源软件安全风险",
-      "source": "InfoQ 中文",
-      "published": "2026-06-26",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-      "source": "InfoQ 中文",
-      "published": "2026-06-26",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
       "title": "OpenAuth.Net 8.4 已经发布，权限管理系统",
       "source": "开源中国",
       "published": "2026-06-26",
@@ -138,27 +154,11 @@
       "category": "AI News"
     },
     {
-      "title": "MyEMS v6.6.0 已经发布，能源管理系统",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "MyEMS v6.6.0 已经发布，能源管理系统 此版本更新内容包括： 新增功能 在 myems-admin 数据点页面增加搜索框 在 myems-web 报表中新增 DeepSeek AI 分析功能 在 myems-web 门店看板中增加地图组件 功能变更 更新 myems-api 与 myems-web 中的计量表批量报表 更新 myems-api 与 myems-web 中的虚拟表批量报表 升级 myems-...",
-      "link": "https://www.oschina.net/news/468181",
-      "category": "AI News"
-    },
-    {
       "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
       "source": "36氪",
       "published": "2026-06-26",
       "summary": "图源视觉中国动力电池一直是新能源汽车里高频博弈的战场。它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。这意味着，围绕动力电池的博弈在车企与供应商之间，甚至电池产业内部从未间断。过去几年，无论是特斯拉、比亚迪、吉利，还是国内头部新势力，都相继走向电池的自研或自制。理想汽车同样如此。伴随理想新款L8上市，“理想牌电池”也正式搭载上车。理想汽车首次对外回应了布局“理想牌电池”的思考。随着新能源车一路普及，突破60%渗透率，电池厂商成为消费者买车的决策硬指标。宁德时代效仿英特",
       "link": "https://36kr.com/p/3866946087867394?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-      "source": "36氪",
-      "published": "2026-06-26",
-      "summary": "过去几年，智能驾驶行业的竞争重心经历了几次明显变化。最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。这也是为什么越来越多车企开始走向自研。特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自研芯片的全部环节。国内，无论小鹏、蔚来，还是理想，也都在不断向更底层延伸。今年发布的 ",
-      "link": "https://36kr.com/p/3870292939658242?f=rss",
       "category": "AI News"
     }
   ]
