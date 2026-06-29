@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-28T12:22:25.828701+00:00",
+  "updated": "2026-06-29T00:25:01.719220+00:00",
   "articles": [
+    {
+      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+      "source": "量子位",
+      "published": "2026-06-28",
+      "summary": "杀进一众大厂中间",
+      "link": "https://www.qbitai.com/2026/06/439603.html",
+      "category": "AI News"
+    },
     {
       "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
       "source": "量子位",
@@ -50,11 +58,35 @@
       "category": "AI News"
     },
     {
+      "title": "FocusAny v2.0.0 拖一拖，点一点，你的自动化工作流就搭好了",
+      "source": "开源中国",
+      "published": "2026-06-28",
+      "summary": "不再重复复制粘贴、不再手动执行一串命令——可视化编排，一次搭好无限复用。 FocusAny 是一款融合全局搜索、AI 大模型、MCP 协议和插件生态的开源效率工具。v2.0 带来的可视化工作流引擎，让你像搭积木一样搭建自动化流程，从简单的定时任务到复杂的 AI 判断链路，全部在画布上完成。 🧩 可视化编排：6 种节点，想怎么...",
+      "link": "https://www.oschina.net/news/469183",
+      "category": "AI News"
+    },
+    {
+      "title": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增 HTML 原型模式",
+      "source": "开源中国",
+      "published": "2026-06-28",
+      "summary": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增HTML原型模式 无垠式通用代码生成器冰雪女王尝鲜版四已发布，新增HTML原型模式。并对此的复杂版面功能深入出错，更多测试，更优质量。由于现在编译后的war包已达155M。无法下载。所以请所有用户使用Maven自行从源码编译。 项目地址： https://gitee.com/jerryshensjf/Inf...",
+      "link": "https://www.oschina.net/news/469077",
+      "category": "AI News"
+    },
+    {
       "title": "BBS-GO v4.4.2 发布，完善举报处理闭环与话题浏览体验",
       "source": "开源中国",
       "published": "2026-06-28",
       "summary": "BBS-GO 是一个轻量级社区和问答平台，适合搭建论坛、知识库和讨论社区。项目提供帖子 / 文章、评论回复、点赞收藏、关注私信、任务积分、等级徽章、后台运营管理、内容与用户治理、多语言等能力，适合需要快速搭建社区互动场景的团队使用。 BBS-GO v4.4.2 已经发布。本次版本主要围绕举报处理闭环、话题列表与首页导航体...",
       "link": "https://www.oschina.net/news/468901",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
+      "source": "36氪",
+      "published": "2026-06-28",
+      "summary": "今日热点导览《给阿嬷的情书》总票房已突破19亿元梁文锋署名，DeepSeek发布最新论文WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查TOP 3大新闻韩国将于6月29日宣布三星、SK集团的多个大型项目韩国将于6月29日宣布“三大工程”计划，韩国总统李在明将与政府各部门、三星电子和SK的官员会面，并发布政策和投资公告。李在明将于下午2点在总统府青瓦台发表讲话，届时韩国产业通商部、科学技术信息通信部、气候能源环境部和国土交通部将公布三大工程的",
+      "link": "https://36kr.com/p/3873476968272902?f=rss",
       "category": "AI News"
     },
     {
@@ -66,19 +98,19 @@
       "category": "AI News"
     },
     {
+      "title": "[EN] HP Inc. launches Frontier strategic partnership with OpenAI",
+      "source": "OpenAI Blog",
+      "published": "2026-06-28",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "category": "AI News"
+    },
+    {
       "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
       "source": "量子位",
       "published": "2026-06-27",
       "summary": "人类一次录制，Agent就能模拟",
       "link": "https://www.qbitai.com/2026/06/439393.html",
-      "category": "AI News"
-    },
-    {
-      "title": "第一批一人公司，现在怎么样了？",
-      "source": "量子位",
-      "published": "2026-06-27",
-      "summary": "我们跟一群OPC创业者聊了聊",
-      "link": "https://www.qbitai.com/2026/06/439237.html",
       "category": "AI News"
     },
     {
@@ -114,14 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "Spring Boot → Solon 注解迁移实战指南：一张对照表说清楚",
-      "source": "开源中国",
-      "published": "2026-06-27",
-      "summary": "写给正在做技术选型或迁移调研的 Java 开发者 一、写在前面 如果你会 Spring Boot，那你已经会了一大半 Solon。 Solon 不是 Spring 的分支或封装，它是独立发展的全栈应用开发框架。但在设计哲学上，Solon 遵循了 Java 主流的 IoC、AOP、MVC 范式——概念相同，注解名不同。 这篇文章把 Spring Boot 到 Solon 的注解映射...",
-      "link": "https://www.oschina.net/news/468346",
-      "category": "AI News"
-    },
-    {
       "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
       "source": "36氪",
       "published": "2026-06-27",
@@ -135,30 +159,6 @@
       "published": "2026-06-27",
       "summary": "作者｜黄楠编辑｜袁斯来6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%过去几年，行业花了大量精力把车上的事“看",
       "link": "https://36kr.com/p/3869740772316162?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "source": "36氪",
-      "published": "2026-06-27",
-      "summary": "今日热点导览OpenAI官宣推出GPT-5.6亚洲“果链”股价几乎全线大幅下跌SpaceX计划为美国消费者推出新的星链移动服务美团股价低迷，王兴回应小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹TOP3大新闻苹果涨价引山姆代购潮，部分门店已卖断货近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，店内已基本无货。多家山姆超市门店",
-      "link": "https://36kr.com/p/3870720040588295?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenAuth.Net 8.4 已经发布，权限管理系统",
-      "source": "开源中国",
-      "published": "2026-06-26",
-      "summary": "OpenAuth.Net 8.4 已经发布，权限管理系统 此版本更新内容包括： 更新内容 refactor: 重构IdentityServer为OpenIddict refactor: 重构驳回的逻辑 ⚠️feat: 增加一个强制退出程序的脚本 fix: 修复召回 fix: #IJR8AQ 模板编号和发布时间更改无效 fix: #IJQXD6 概念容易混淆，建议列表上方撤销改名为召回 fix: 修复不同意时...",
-      "link": "https://www.oschina.net/news/468252",
-      "category": "AI News"
-    },
-    {
-      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-      "source": "36氪",
-      "published": "2026-06-26",
-      "summary": "图源视觉中国动力电池一直是新能源汽车里高频博弈的战场。它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。这意味着，围绕动力电池的博弈在车企与供应商之间，甚至电池产业内部从未间断。过去几年，无论是特斯拉、比亚迪、吉利，还是国内头部新势力，都相继走向电池的自研或自制。理想汽车同样如此。伴随理想新款L8上市，“理想牌电池”也正式搭载上车。理想汽车首次对外回应了布局“理想牌电池”的思考。随着新能源车一路普及，突破60%渗透率，电池厂商成为消费者买车的决策硬指标。宁德时代效仿英特",
-      "link": "https://36kr.com/p/3866946087867394?f=rss",
       "category": "AI News"
     }
   ]
