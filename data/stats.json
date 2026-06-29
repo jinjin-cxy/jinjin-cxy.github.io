@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-29T00:25:01.721802+00:00",
+  "updated": "2026-06-29T13:19:53.830677+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
-    "github_trending": 13,
+    "github_trending": 14,
     "rss_news": 20,
     "ai_tools": 12,
     "dev_tips": 10
@@ -11,11 +11,11 @@
   "top_tags": [
     {
       "tag": "transformers",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "safetensors",
-      "count": 13
+      "count": 12
     },
     {
       "tag": "text-generation",
@@ -53,18 +53,18 @@
   "top_languages": [
     {
       "language": "Python",
-      "count": 8
+      "count": 7
+    },
+    {
+      "language": "TypeScript",
+      "count": 2
     },
     {
       "language": "Haskell",
       "count": 1
     },
     {
-      "language": "HTML",
-      "count": 1
-    },
-    {
-      "language": "C",
+      "language": "Shell",
       "count": 1
     },
     {

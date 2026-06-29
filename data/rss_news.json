@@ -1,164 +1,164 @@
 {
-  "updated": "2026-06-29T00:25:01.719220+00:00",
+  "updated": "2026-06-29T13:19:53.828020+00:00",
   "articles": [
     {
-      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+      "title": "Claude Mythos让梁文锋决定融资",
       "source": "量子位",
-      "published": "2026-06-28",
-      "summary": "杀进一众大厂中间",
-      "link": "https://www.qbitai.com/2026/06/439603.html",
+      "published": "2026-06-29",
+      "summary": "DeepSeek不储备弹药根本没法打下去了",
+      "link": "https://www.qbitai.com/2026/06/439863.html",
       "category": "AI News"
     },
     {
-      "title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+      "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
       "source": "量子位",
-      "published": "2026-06-28",
-      "summary": "精髓在于极强的系统工程",
-      "link": "https://www.qbitai.com/2026/06/439548.html",
+      "published": "2026-06-29",
+      "summary": "让AI真正“读懂”企业",
+      "link": "https://www.qbitai.com/2026/06/439876.html",
       "category": "AI News"
     },
     {
-      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "title": "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片",
       "source": "量子位",
-      "published": "2026-06-28",
-      "summary": "GitHub 20k Star",
-      "link": "https://www.qbitai.com/2026/06/439515.html",
+      "published": "2026-06-29",
+      "summary": "大湾区首个200亿具身智能独角兽诞生！“最像特斯拉”智平方吸金50亿，全矩阵顶级资本重仓",
+      "link": "https://www.qbitai.com/2026/06/439861.html",
       "category": "AI News"
     },
     {
-      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "title": "AI当老板，快给10家公司干破产了…",
       "source": "量子位",
-      "published": "2026-06-28",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/06/439464.html",
+      "published": "2026-06-29",
+      "summary": "画出那个矩阵的能力——还属于人类。",
+      "link": "https://www.qbitai.com/2026/06/439864.html",
       "category": "AI News"
     },
     {
-      "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
+      "title": "啥？做AI短剧可以免费，免费，免费了！",
+      "source": "量子位",
+      "published": "2026-06-29",
+      "summary": "我反手做了个修仙爽剧",
+      "link": "https://www.qbitai.com/2026/06/439750.html",
+      "category": "AI News"
+    },
+    {
+      "title": "超越 CLEAN 和 MVP：在 Android 中构建离线优先的响应式数据层",
       "source": "InfoQ 中文",
-      "published": "2026-06-28",
+      "published": "2026-06-29",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/dPgYc639VWEXxbPzmBK1?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+      "title": "物理 AI 如何定义下一代平台革新？",
       "source": "InfoQ 中文",
-      "published": "2026-06-28",
+      "published": "2026-06-29",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/article/sMq6bwGfrp5vRsc22hZj?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+      "title": "分库分表后查询变慢？TDSQL 全局索引破解数据定位难题",
       "source": "InfoQ 中文",
-      "published": "2026-06-28",
+      "published": "2026-06-29",
       "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+      "link": "https://www.infoq.cn/video/0Qd7LCv7PIRaoUL5MQ1m?utm_source=rss&utm_medium=article",
       "category": "AI News"
     },
     {
-      "title": "FocusAny v2.0.0 拖一拖，点一点，你的自动化工作流就搭好了",
+      "title": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+      "source": "InfoQ 中文",
+      "published": "2026-06-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
+      "source": "InfoQ 中文",
+      "published": "2026-06-29",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Rspack 2.1 发布：React Compiler 提速 10 倍",
       "source": "开源中国",
-      "published": "2026-06-28",
-      "summary": "不再重复复制粘贴、不再手动执行一串命令——可视化编排，一次搭好无限复用。 FocusAny 是一款融合全局搜索、AI 大模型、MCP 协议和插件生态的开源效率工具。v2.0 带来的可视化工作流引擎，让你像搭积木一样搭建自动化流程，从简单的定时任务到复杂的 AI 判断链路，全部在画布上完成。 🧩 可视化编排：6 种节点，想怎么...",
-      "link": "https://www.oschina.net/news/469183",
+      "published": "2026-06-29",
+      "summary": "Rust 前端打包工具 Rspack 2.1 现已正式发布。 Rspack （读音为 /'ɑrspæk/）是基于 Rust 语言开发的 Web 构建工具，拥有高性能、兼容 Webpack 生态、定制性强等多种优点。一些值得关注的变更如下： 性能提升 React Compiler Rust 版本 构建性能优化 TypeScript 7 支持 更快的循环依赖检查 新特性 支持 import.meta.gl...",
+      "link": "https://www.oschina.net/news/469668/rspack-2-1-released",
       "category": "AI News"
     },
     {
-      "title": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增 HTML 原型模式",
+      "title": "《OSChina 的朋友们》非正式官宣：不搞访谈，只攒个聊天局",
       "source": "开源中国",
-      "published": "2026-06-28",
-      "summary": "无垠式通用代码生成器冰雪女王尝鲜版四发布，新增HTML原型模式 无垠式通用代码生成器冰雪女王尝鲜版四已发布，新增HTML原型模式。并对此的复杂版面功能深入出错，更多测试，更优质量。由于现在编译后的war包已达155M。无法下载。所以请所有用户使用Maven自行从源码编译。 项目地址： https://gitee.com/jerryshensjf/Inf...",
-      "link": "https://www.oschina.net/news/469077",
+      "published": "2026-06-29",
+      "summary": "来到年中，老板让我们盘一盘与我们合作过的 KOL，一整理才发觉好些朋友已经陪伴我们走过了很多年，也因此想做这么个节目把这些朋友们聚在一起聊一聊。 名字很直白，是借鉴了《脱口秀和 Ta 的朋友们》，希望这个栏目区别于以往请嘉宾讲 PPT、介绍技术产品。这次我们把这些熟悉的技术博主们拉过来，聊他们跟 OSChina 社区合...",
+      "link": "https://www.oschina.net/news/469598/oschina-and-its-friends",
       "category": "AI News"
     },
     {
-      "title": "BBS-GO v4.4.2 发布，完善举报处理闭环与话题浏览体验",
+      "title": "开源游戏引擎 Godot 4.7 发布，代号“导演剪辑版”",
       "source": "开源中国",
-      "published": "2026-06-28",
-      "summary": "BBS-GO 是一个轻量级社区和问答平台，适合搭建论坛、知识库和讨论社区。项目提供帖子 / 文章、评论回复、点赞收藏、关注私信、任务积分、等级徽章、后台运营管理、内容与用户治理、多语言等能力，适合需要快速搭建社区互动场景的团队使用。 BBS-GO v4.4.2 已经发布。本次版本主要围绕举报处理闭环、话题列表与首页导航体...",
-      "link": "https://www.oschina.net/news/468901",
+      "published": "2026-06-29",
+      "summary": "开源游戏引擎 Godot 4.7 已正式发布，代号\"Director's Cut\"（导演剪辑版）。这个名字不是拍脑袋想的——从 4.0 到 4.7，三年时间，14 个稳定版本，这个引擎已经迭代到了一种\"该有的都有了\"的状态。 先看这次最抓眼球的更新：HDR 输出。 Godot 内部渲染管线一直跑在 HDR 色彩空间里，这不算新鲜事。但在此之前，引擎没有能...",
+      "link": "https://www.oschina.net/news/469594",
       "category": "AI News"
     },
     {
-      "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
+      "title": "阿里云发布 Kafka 原生零 ETL 入湖方案",
+      "source": "开源中国",
+      "published": "2026-06-29",
+      "summary": "在 AI 驱动的数据应用场景中，企业越来越需要一套同时支撑实时消费、历史沉淀与多引擎复用的数据底座。Kafka、Iceberg 开放表格式与对象存储的组合，正成为流数据入湖的重要方向。但传统依赖 Flink、Spark 等外部 ETL 作业的方式，也带来了链路长、系统边界多、运维复杂等问题。本文围绕 \"零 ETL\" 这一趋势，讨论流数据入...",
+      "link": "https://my.oschina.net/u/3874284/blog/19708997",
+      "category": "AI News"
+    },
+    {
+      "title": "Anthropic 获准恢复 Mythos 5 模型",
+      "source": "开源中国",
+      "published": "2026-06-29",
+      "summary": "据 Semafor 和路透社报道，在禁令实施两周后，美国政府正准备放宽限制，允许 Anthropic 公司向 100 多家美国政府机构和公司提供 Mythos 5 模型，包括允许这些机构的非美国籍员工访问该模型；也包括曾被列入禁令的 Anthropic 公司自身的非美国籍员工。 据 Semafor 看到的信件显示，商务部长 Howard Lutnick 日前在写给 An...",
+      "link": "https://www.oschina.net/news/469581",
+      "category": "AI News"
+    },
+    {
+      "title": "烧光5000亿后，京东方开始给股民赚钱",
       "source": "36氪",
-      "published": "2026-06-28",
-      "summary": "今日热点导览《给阿嬷的情书》总票房已突破19亿元梁文锋署名，DeepSeek发布最新论文WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查TOP 3大新闻韩国将于6月29日宣布三星、SK集团的多个大型项目韩国将于6月29日宣布“三大工程”计划，韩国总统李在明将与政府各部门、三星电子和SK的官员会面，并发布政策和投资公告。李在明将于下午2点在总统府青瓦台发表讲话，届时韩国产业通商部、科学技术信息通信部、气候能源环境部和国土交通部将公布三大工程的",
-      "link": "https://36kr.com/p/3873476968272902?f=rss",
+      "published": "2026-06-29",
+      "summary": "作者 | 范亮编辑 | 张帆很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。面板行业的重资产投入和强周期特征，是制约京东方股价表现的核心因素。上市以来，京东方累计资本开支超过5000亿元，增发募资超过900亿元；累计实现约700亿归母净利润、加回折旧摊销后超过4000亿元的经营净现金流，也大多被继续投入再生产，累计分红规模仅242亿元。因",
+      "link": "https://36kr.com/p/3874045136720899?f=rss",
       "category": "AI News"
     },
     {
-      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
       "source": "36氪",
-      "published": "2026-06-28",
-      "summary": "文｜贺哲馨编辑｜乔芊Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。“有点像抽签，也有点像开盲盒。”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。”Judy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最",
-      "link": "https://36kr.com/p/3867976058803459?f=rss",
+      "published": "2026-06-29",
+      "summary": "大公司：蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。中国移动确认设立Token办公室6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动",
+      "link": "https://36kr.com/p/3873626425332743?f=rss",
       "category": "AI News"
     },
     {
-      "title": "[EN] HP Inc. launches Frontier strategic partnership with OpenAI",
-      "source": "OpenAI Blog",
-      "published": "2026-06-28",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "link": "https://openai.com/index/hp-frontier-partnership",
-      "category": "AI News"
-    },
-    {
-      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-      "source": "量子位",
-      "published": "2026-06-27",
-      "summary": "人类一次录制，Agent就能模拟",
-      "link": "https://www.qbitai.com/2026/06/439393.html",
-      "category": "AI News"
-    },
-    {
-      "title": ".NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果",
-      "source": "InfoQ 中文",
-      "published": "2026-06-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
-      "source": "InfoQ 中文",
-      "published": "2026-06-27",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "调问更新 6.13~6.26：新增分组题、自增题、随机抽题、一键答题、答案解析，全面提升测评与考试能力",
-      "source": "开源中国",
-      "published": "2026-06-27",
-      "summary": "调问自开源以来一直坚持前后端所有代码 100% 开源💯，助力企业建设属于自己的问卷调研系统👏。 🔥官网地址： https://www.diaowen.net 🔥 在线服务： https://www.surveyform.cn 🔥 源码下载： https://gitee.com/wkeyuan/DWSurvey 本次更新全面增强了表单与考试场景的应用能力，全新上线“分组题”、“自增题...",
-      "link": "https://www.oschina.net/news/468519",
-      "category": "AI News"
-    },
-    {
-      "title": "VibeCoding v1.1.52 已经发布，单文件的code agent工具",
-      "source": "开源中国",
-      "published": "2026-06-27",
-      "summary": "VibeCoding v1.1.52 已经发布，单文件的code agent工具 此版本更新内容包括： 更新日志 v1.1.52 优化 Provider HTTP/1.1 fallback 配置 新增 providers.<name>.forceHTTP11，可为单个 provider HTTP client 禁用 HTTP/2。 当代理或 API 网关偶发将 HTTP/2 SSE 流重置并报出 stream ID ... INTERNAL_ERROR 时，可用该配置...",
-      "link": "https://www.oschina.net/news/468485",
-      "category": "AI News"
-    },
-    {
-      "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
       "source": "36氪",
-      "published": "2026-06-27",
-      "summary": "本文约2500字，建议阅读5分钟作者 | 彭孝秋编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。6月26日，储能公司大秦数字能源向港交所递交了上市申请。2025年，大秦数字能源收入25.25亿元，同比增长244.3%；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利1.25亿。一家刚从“亏损”爬出来的公司，",
-      "link": "https://36kr.com/p/3871109381035011?f=rss",
+      "published": "2026-06-29",
+      "summary": "作者｜黄楠编辑｜袁斯来近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设备基于对话、观看等功能交互，而抚摸、按压、揉捏等人类原始的感知与表达方式，在陪伴类产品中鲜少被真正回应。柔性电子皮肤技术的成熟正在改变这一局面。Moxy摸喜的核心技术支撑，源于其团队自主研发的离电型触觉传感系统。相较于传统压",
+      "link": "https://36kr.com/p/3874015941645570?f=rss",
       "category": "AI News"
     },
     {
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
       "source": "36氪",
-      "published": "2026-06-27",
-      "summary": "作者｜黄楠编辑｜袁斯来6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%过去几年，行业花了大量精力把车上的事“看",
-      "link": "https://36kr.com/p/3869740772316162?f=rss",
+      "published": "2026-06-29",
+      "summary": "“每一代模型，我们都在押注一个非共识。”文｜邓咏仪编辑｜张雨忻Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。彼时，市场的主流叙事是 Diffusion 路线，几乎没有人认为曹越选择的自回归（Autoregressive）路线是一种正解。而在2025年初，发布基于自回归架构训练的模型 Magi-1 后，曹越很快意识到“只有画面是不够的”，于是团队开始探索音画同出。后来，Sa",
+      "link": "https://36kr.com/p/3873965241931014?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+      "source": "36氪",
+      "published": "2026-06-29",
+      "summary": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。2020年前，中国CGM市场几乎被外资品牌垄断。从2021年首款国产产品获批到如今，国产品牌在国内的市场份额不仅快速增长，甚至开始在欧洲等海外市场与国际巨头正面交锋。专注糖尿病管理类医疗器械产品研发的微泰医疗是CGM出海浪潮中的典型代表，",
+      "link": "https://36kr.com/p/3873902389794053?f=rss",
       "category": "AI News"
     }
   ]
