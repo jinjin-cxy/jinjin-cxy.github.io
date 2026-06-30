@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T00:24:46.972342+00:00",
+  "updated": "2026-06-30T12:34:52.446357+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -56,19 +56,19 @@
       "count": 7
     },
     {
-      "language": "Shell",
-      "count": 2
-    },
-    {
       "language": "TypeScript",
       "count": 2
     },
     {
-      "language": "Haskell",
+      "language": "Shell",
       "count": 1
     },
     {
       "language": "Swift",
+      "count": 1
+    },
+    {
+      "language": "HTML",
       "count": 1
     }
   ]
