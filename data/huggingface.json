@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T13:19:37.666433+00:00",
+  "updated": "2026-06-30T00:24:33.414121+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
@@ -38,7 +38,7 @@
       "name": "Qwen3-8B",
       "author": "Qwen",
       "downloads": 13624078,
-      "likes": 1167,
+      "likes": 1169,
       "tags": [
         "transformers",
         "safetensors",
@@ -54,7 +54,7 @@
       "name": "gpt2",
       "author": "openai-community",
       "downloads": 13032158,
-      "likes": 3320,
+      "likes": 3322,
       "tags": [
         "transformers",
         "pytorch",
@@ -134,7 +134,7 @@
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
       "downloads": 10081174,
-      "likes": 6170,
+      "likes": 6173,
       "tags": [
         "transformers",
         "safetensors",
@@ -214,7 +214,7 @@
       "name": "gpt-oss-20b",
       "author": "openai",
       "downloads": 7000887,
-      "likes": 4740,
+      "likes": 4741,
       "tags": [
         "transformers",
         "safetensors",
@@ -230,7 +230,7 @@
       "name": "deepseek-v4-gguf",
       "author": "antirez",
       "downloads": 6434367,
-      "likes": 281,
+      "likes": 282,
       "tags": [
         "gguf",
         "quantized",
