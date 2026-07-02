@@ -1,164 +1,164 @@
 {
-  "updated": "2026-07-02T00:25:14.640819+00:00",
+  "updated": "2026-07-02T12:34:35.837497+00:00",
   "articles": [
     {
-      "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "source": "量子位",
+      "published": "2026-07-02",
+      "summary": "与社区共同推进自演进智能体生态发展",
+      "link": "https://www.qbitai.com/2026/07/442134.html",
+      "category": "AI News"
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "source": "量子位",
+      "published": "2026-07-02",
+      "summary": "霸榜OpenR ou",
+      "link": "https://www.qbitai.com/2026/07/442047.html",
+      "category": "AI News"
+    },
+    {
+      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+      "source": "量子位",
+      "published": "2026-07-02",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/442048.html",
+      "category": "AI News"
+    },
+    {
+      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "source": "量子位",
+      "published": "2026-07-02",
+      "summary": "7月17日至7月20日",
+      "link": "https://www.qbitai.com/2026/07/442037.html",
+      "category": "AI News"
+    },
+    {
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "source": "量子位",
+      "published": "2026-07-02",
+      "summary": "和人并肩工作",
+      "link": "https://www.qbitai.com/2026/07/442030.html",
+      "category": "AI News"
+    },
+    {
+      "title": "一人公司创业，如何找对方法论、选准装备库？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
+      "source": "InfoQ 中文",
+      "published": "2026-07-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境",
+      "source": "InfoQ 中文",
+      "published": "2026-07-02",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Kimi K2.7 Code 上线 GitHub Copilot，模型选择器首次纳入开放权重模型",
+      "source": "开源中国",
+      "published": "2026-07-02",
+      "summary": "7 月 1 日，GitHub 正式在 Copilot 中上线了 Kimi K2.7 Code，这是 Copilot 模型选择器中首次出现开放权重（open-weight）模型。该模型由 GitHub 托管在 Microsoft Azure 上，按用量计费，首批面向 Copilot Pro、Pro+ 和 Max 订阅用户推出，Business 和 Enterprise 将在未来几周内开放。 GitHub 在变更日志中特别强调，对...",
+      "link": "https://www.oschina.net/news/471446/kimi-k2-7-is-now-available-in-github-copilot",
+      "category": "AI News"
+    },
+    {
+      "title": "CCleaner v7.9 发布，系统清理工具",
+      "source": "开源中国",
+      "published": "2026-07-02",
+      "summary": "CCleaner 是一款系统优化和隐私保护工具，主要用来清除 Windows 系统的垃圾文件与使用者的上网记录。CCleaner 的体积小，运行速度极快，可以对临时文件夹、历史记录、回收站、注册表等进行垃圾清理。 Cleaner v7.9 现已发布，主要更新内容如下： Startup Manager 现在会显示右键菜单项。用户可以查看和管理添加到右键菜单...",
+      "link": "https://www.oschina.net/news/471445/ccleaner-v7-9",
+      "category": "AI News"
+    },
+    {
+      "title": "基于后验采样的图像恢复方法 LearnIR：人脸去阴影、去雾",
+      "source": "开源中国",
+      "published": "2026-07-02",
+      "summary": "真实场景图像复原因复杂异质退化而极具挑战，现有扩散模型方法存在保真度不足、误差累积或依赖未知前向算子等问题。本文提出 LearnIR，通过训练轻量网络预测梯度校正分布，实现无需前向算子的扩散后验采样校正；并设计动态分辨率模块，进一步抑制噪声。在多个图像复原基准上，LearnIR 的 PSNR、SSIM、LPIPS 均达到先进水...",
+      "link": "https://my.oschina.net/vivotech/blog/19715714",
+      "category": "AI News"
+    },
+    {
+      "title": "630GB 机密文件泄露，苹果供应链遭遇史上最严重安全事件",
+      "source": "开源中国",
+      "published": "2026-07-02",
+      "summary": "印度塔塔电子（Tata Electronics）的一个工厂机房，成了苹果近年来最不愿意看到的安全噩梦。 6月中旬，勒索组织\"World Leaks\"在暗网上陆续放出超过20万份文件，总规模约630GB。这些文件来自塔塔电子——苹果在印度的核心代工与零部件供应商，承担着印度约三分之一的iPhone产量。路透社随后确认了泄露数据的真实性。 泄露...",
+      "link": "https://www.oschina.net/news/471442/apple-tata-leak-iphone-18-pro",
+      "category": "AI News"
+    },
+    {
+      "title": "Akka 2.10.20 发布，Scala 编写的 Actor 模型开发库",
+      "source": "开源中国",
+      "published": "2026-07-02",
+      "summary": "Akka 是一个用 Scala 编写的库，能够简化 JVM 上并发和分布式应用的构建。Akka 支持多种并发的编程模型，其灵感来自于 Erlang。Akka 的首个版本于 2009 年发布，距今已有 13 年积极维护的历史。 Akka 2.10.20 现已发布，具体更新内容包括： build：MiMa after 2.10.19 #32935 docs：Clarity jackson-modules 配置覆盖 #3...",
+      "link": "https://www.oschina.net/news/471440/akka-2-10-20-released",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
       "source": "36氪",
       "published": "2026-07-02",
-      "summary": "今日热点导览OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半苹果首次上架iPhone16e官翻机，仅有黑色与白色可选国内航线燃油附加费7月5日起大幅下调巴菲特“断供”盖茨基金会董明珠喊话股东：家电不换成格力，凭什么要分红詹姆斯发文告别湖人TOP3大新闻二手豪华燃油车价格大跳水：宾利近27万、保时捷15万7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6.8万元。此外，奔驰、路虎多款中大型豪华SUV同步出现大幅跳水，昔日百万级豪车如今跌至家用车价位区间。报道提及，青岛宝",
-      "link": "https://36kr.com/p/3877746956611847?f=rss",
+      "summary": "我们是一群每天深度使用 AI 工具的人最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。不同的人拿到同一个 AI 工具，产出能差出好几个量级。不是不愿意用，可能是你缺一种灵感。自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，跑得更快。主打共赢、利他。加入流程📍「36氪 AI 工具测评·抢跑营」感兴趣的伙伴们建联后，我们会先送你一份资料包。为了更好的匹配大家的需求，我们会做人群筛选，通过筛选的，将进入「36氪 AI 工具测评·抢跑营。进群之后，我们希望你坚持",
+      "link": "https://36kr.com/p/3878412963508486?f=rss",
       "category": "AI News"
     },
     {
-      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
-      "source": "量子位",
-      "published": "2026-07-01",
-      "summary": "全新的持续学习范式",
-      "link": "https://www.qbitai.com/2026/07/441396.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OceanBase湖库一体，重新定义AI数据库",
-      "source": "量子位",
-      "published": "2026-07-01",
-      "summary": "一套技术栈实现离在线统一",
-      "link": "https://www.qbitai.com/2026/07/441386.html",
-      "category": "AI News"
-    },
-    {
-      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
-      "source": "量子位",
-      "published": "2026-07-01",
-      "summary": "Taste，决定天花板。",
-      "link": "https://www.qbitai.com/2026/07/441246.html",
-      "category": "AI News"
-    },
-    {
-      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
-      "source": "量子位",
-      "published": "2026-07-01",
-      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级",
-      "link": "https://www.qbitai.com/2026/07/441240.html",
-      "category": "AI News"
-    },
-    {
-      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
-      "source": "量子位",
-      "published": "2026-07-01",
-      "summary": "共同推进物理AI前沿技术探索。",
-      "link": "https://www.qbitai.com/2026/07/441237.html",
-      "category": "AI News"
-    },
-    {
-      "title": "前后端一起消失：AI Coding 正在改写大厂工程师分工",
-      "source": "InfoQ 中文",
-      "published": "2026-07-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Argo CD 3.5 推出内部双向 TLS 与源码完整性校验支持，强化软件供应链安全",
-      "source": "InfoQ 中文",
-      "published": "2026-07-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/MfHAiaeQbq6VWPHLD4pB?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁",
-      "source": "InfoQ 中文",
-      "published": "2026-07-01",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/S9zHYQqfFCXt8GoLlM5W?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Visual Studio Code 1.127 发布",
-      "source": "开源中国",
-      "published": "2026-07-01",
-      "summary": "Visual Studio Code 1.127 版本现已发布。此版本新增了可在浏览器中构建和测试 Web 应用程序的智能体、更安全的单站点浏览以及用于管理繁忙代理会话的新方法。 Browser tools for agents：允许 Agent 打开页面、截屏并点击验证自己的工作，现已全面上线。 Per-site browser permissions：允许页面访问摄像头、位置、设备...",
-      "link": "https://www.oschina.net/news/470899/vs-code-1-127-released",
-      "category": "AI News"
-    },
-    {
-      "title": "云风说微信不该用 SQLite，然后技术圈炸了",
-      "source": "开源中国",
-      "published": "2026-07-01",
-      "summary": "6 月 29 日，一位开发者在 X 上随口问了一句「还是搞不懂为啥你们的微信能聊出几百 G」，结果炸出了中文技术圈过去两天最大的一场争论。 引爆点来自云风（@cloudwu）的回复。作为前网易《梦幻西游》《大话西游》引擎架构师，他在中文开发者圈子里有相当的分量。他的原话是： 「微信的开发人员根本就不懂该怎么储存数据。...",
-      "link": "https://www.oschina.net/news/470878",
-      "category": "AI News"
-    },
-    {
-      "title": "软银完成对 OpenAI 的百亿追加投资，10 月将再投 100 亿美元",
-      "source": "开源中国",
-      "published": "2026-07-01",
-      "summary": "软银集团（SBG）今日宣布，已于 2026 年 7 月 1 日（日本时间）通过 SoftBank Vision Fund 2 完成对 OpenAI 集团的后续投资（第二期），金额为 100 亿美元 此次投资是此前于 2026 年 2 月 27 日发布的《对 OpenAI 的后续投资》文件中宣布的总额为 300 亿美元的后续投资计划的一部分。软银计划于当地时间 2026 年 10 月 ...",
-      "link": "https://www.oschina.net/news/470846",
-      "category": "AI News"
-    },
-    {
-      "title": "Dante Cloud 4.1.0.3 发布，Maven 中央仓库发布限流，同步调整发布策略",
-      "source": "开源中国",
-      "published": "2026-07-01",
-      "summary": "[一] 更新说明 因 Maven 中央仓库将于 2026年08月11日 开启 发布配额限制措施（当前为普通用户每月限制发布 7 次、内容大小 80 M、文件数量 1000）， Maven 中央仓库发布限制详情：【原文地址】 为了降低 Maven 中央仓库新措施对项目的影响，对项目进行了多项重构措施： 将 Maven 坐标及包名由原来 Dromara 社区的 org....",
-      "link": "https://www.oschina.net/news/470824/dante-cloud-4-1-0-3-released",
-      "category": "AI News"
-    },
-    {
-      "title": "AI Coding 的底层框架：一切优化都是在对抗熵增",
-      "source": "开源中国",
-      "published": "2026-07-01",
-      "summary": "为什么 Prompt 写得再细，AI 还是会输出奇怪的结果？为什么新项目 AI 很好用，历史业务却总是翻车？本文作者从信息论出发，用一个简单的框架帮你拆解 AI Coding 里的种种困惑 —— 当你不再跟着新概念焦虑，而是回到 \"信息\" 和 \"不确定性\" 的底层逻辑，很多问题会清晰得多。",
-      "link": "https://my.oschina.net/u/4939618/blog/19715254",
-      "category": "AI News"
-    },
-    {
-      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "title": "享道被困16%“平台税”",
       "source": "36氪",
-      "published": "2026-07-01",
-      "summary": "文｜周鑫雨编辑｜张雨忻《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同样需要构建一整套涵盖数据采集、模型研发、硬件部署的系统方案。“世界模型的第一性原理，不是走什么技术路线，而是最终解决什么问题。”他告诉《智能涌现》，所谓的世界模型，只是“一匹运送荔枝的马”",
-      "link": "https://36kr.com/p/3877109751803904?f=rss",
+      "published": "2026-07-02",
+      "summary": "作者 | 张帆编辑 | 黄绎达2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。01 增长悖论：司机流失与单量增长的“剪刀差”近年来，享道出行的营业收入规模在稳步扩张的同时，业绩表现及盈利能力的改善相对更为亮眼。数据显示，2023年至2025年，公司营收从57.18亿元增长至67.74亿元；净亏损则从6.04亿元大幅收窄至2.46亿元；整体毛利率更是从6.6%跃升至11.0%。公司业绩的持续改善，主要",
+      "link": "https://36kr.com/p/3878254740549638?f=rss",
       "category": "AI News"
     },
     {
-      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+      "title": "秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股",
       "source": "36氪",
-      "published": "2026-07-01",
-      "summary": "硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾任北航机器人所863项目负责人，曾负责家用康复器械新零售业务，打造的“械药联动”新模式用户数过千万。CTO栾胜是北航博士及博士后，意大利博洛尼亚大学访问学者，长期从事机器人模组、医疗健康领域机器人及AI技术的研究。代万",
-      "link": "https://36kr.com/p/3877060559433984?f=rss",
+      "published": "2026-07-02",
+      "summary": "本文约3300字，建议阅读7分钟作者 | 彭孝秋编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。上个月，古瑞瓦特第三次向港交所递交招股书。古瑞瓦特的IPO之路命运多舛，曾于2022年6月第一次递交，聆讯通过后未启动招股；2023年3月第二次递交，再次推迟上市。直到最近第三次递交，保荐人也从瑞信、中金换为华泰。事实上，早在2017年，古瑞瓦特前身公司就曾计划申请深",
+      "link": "https://36kr.com/p/3878131056701447?f=rss",
       "category": "AI News"
     },
     {
-      "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
       "source": "36氪",
-      "published": "2026-07-01",
-      "summary": "硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联网领域，关注分布式光纤传感、FMCW激光雷达及光I/O方向。其创始人陈教授是清华大学电子工程系教授，曾担任清华大学信息光电子研究所副所长。2009年，陈教授在在麻省理工访学期间开启了硅基光子技术的研发工作，灵动芯光的技",
-      "link": "https://36kr.com/p/3877057215393793?f=rss",
+      "published": "2026-07-02",
+      "summary": "作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。可立点科技总部位于深圳，是一家聚焦“AI+机器人”养老场景的科技公司，围绕银发群体布局家庭陪伴与院内康复两大产品线。目前，公司已推出面向居家养老场景的主动陪伴机器人，以及与四川大学华西医院联合研发的康复助行转运机器人，两款产品均已完成工程样机开发，正在推进小批量试产和商业化。随着人口老龄化持续加深，银发经济正成为重要的新兴市场。业内预计，2035年我国银发经济市场规模",
+      "link": "https://36kr.com/p/3877863381741577?f=rss",
       "category": "AI News"
     },
     {
-      "title": "硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注",
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
       "source": "36氪",
-      "published": "2026-07-01",
-      "summary": "硬氪获悉，智能眼镜企业「众见科技」已完成数千万元三轮融资，投资方为韶音、高秉强教授旗下高锋耐心基金、昊辰资本、SEEFund、上市公司光峰科技、高秉强教授个人等，此次融资主要用于研发推进，目前初代产品已完成落地。奇域资本将担任独家财务顾问。众见科技成立于2023年，是一家从事先进光学技术及智能眼镜产品研发的科技创新企业，针对视光需求，致力于帮助用户解决相关问题。创始人赵鹏是26届全国物理竞赛金牌，本科和博士均毕业于清华大学电子工程系，对新型显示和微纳光学光电子技术应用有深入研究，著有多篇SCI文章。毕业后，赵鹏曾就职光峰科技(688007)，任研究院负责人，负责公司前沿���术研发和产业化，主",
-      "link": "https://36kr.com/p/3877054691930118?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "source": "Hugging Face Blog",
-      "published": "2026-07-01",
-      "summary": "",
-      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "category": "AI News"
-    },
-    {
-      "title": "[EN] How ChatGPT adoption has expanded",
-      "source": "OpenAI Blog",
-      "published": "2026-06-30",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "published": "2026-07-02",
+      "summary": "作者丨欧雪编辑丨袁斯来硬氪获悉，聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，在种子轮耀途资本之后，锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本相继入局。资金用途方面，现阶段融资将主要⽤于扩充关键岗位的团队建设、推进产品线的商业化落地与规模化交付，以及加速技术平台的持续迭代。硅羽科技成立于2026年2月，专注于通用空中智能，致力于推动飞行器从传统遥控工具，进化为能够理解环境、思考决策并自主完成任务的空中智能体。硅羽核心团队来自全球顶尖研究机构及大疆、华为等头部企业，拥有十余年前沿技术积累与产业化经验。公司构建了多模态感知、端到端小脑、世界导航模型大脑以及灵巧",
+      "link": "https://36kr.com/p/3877830625046535?f=rss",
       "category": "AI News"
     }
   ]

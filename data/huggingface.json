@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-02T00:24:59.918600+00:00",
+  "updated": "2026-07-02T12:34:17.082491+00:00",
   "models": [
     {
       "id": "Qwen/Qwen3-0.6B",
       "name": "Qwen3-0.6B",
       "author": "Qwen",
-      "downloads": 27983322,
-      "likes": 1376,
+      "downloads": 28147234,
+      "likes": 1377,
       "tags": [
         "transformers",
         "safetensors",
@@ -21,8 +21,8 @@
       "id": "Qwen/Qwen3-8B",
       "name": "Qwen3-8B",
       "author": "Qwen",
-      "downloads": 14359927,
-      "likes": 1172,
+      "downloads": 14829147,
+      "likes": 1173,
       "tags": [
         "transformers",
         "safetensors",
@@ -37,7 +37,7 @@
       "id": "facebook/opt-125m",
       "name": "opt-125m",
       "author": "facebook",
-      "downloads": 13197777,
+      "downloads": 13411863,
       "likes": 267,
       "tags": [
         "transformers",
@@ -53,8 +53,8 @@
       "id": "openai-community/gpt2",
       "name": "gpt2",
       "author": "openai-community",
-      "downloads": 13152281,
-      "likes": 3323,
+      "downloads": 13253362,
+      "likes": 3325,
       "tags": [
         "transformers",
         "pytorch",
@@ -69,7 +69,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "name": "Qwen2.5-7B-Instruct",
       "author": "Qwen",
-      "downloads": 12885351,
+      "downloads": 12878382,
       "likes": 1393,
       "tags": [
         "transformers",
@@ -85,8 +85,8 @@
       "id": "Qwen/Qwen3-4B",
       "name": "Qwen3-4B",
       "author": "Qwen",
-      "downloads": 12641936,
-      "likes": 643,
+      "downloads": 12016396,
+      "likes": 644,
       "tags": [
         "transformers",
         "safetensors",
@@ -101,7 +101,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "name": "Qwen2.5-1.5B-Instruct",
       "author": "Qwen",
-      "downloads": 11601536,
+      "downloads": 11447651,
       "likes": 754,
       "tags": [
         "transformers",
@@ -117,8 +117,8 @@
       "id": "Qwen/Qwen3-Embedding-0.6B",
       "name": "Qwen3-Embedding-0.6B",
       "author": "Qwen",
-      "downloads": 10250078,
-      "likes": 1088,
+      "downloads": 10324389,
+      "likes": 1090,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -133,8 +133,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "name": "Llama-3.1-8B-Instruct",
       "author": "meta-llama",
-      "downloads": 9867583,
-      "likes": 6200,
+      "downloads": 9688941,
+      "likes": 6204,
       "tags": [
         "transformers",
         "safetensors",
@@ -149,7 +149,7 @@
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "name": "tiny-Qwen2ForCausalLM-2.5",
       "author": "trl-internal-testing",
-      "downloads": 9299768,
+      "downloads": 9115765,
       "likes": 8,
       "tags": [
         "transformers",
@@ -165,7 +165,7 @@
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "name": "Llama-3.2-1B-Instruct",
       "author": "meta-llama",
-      "downloads": 8713391,
+      "downloads": 8768440,
       "likes": 1504,
       "tags": [
         "transformers",
@@ -181,8 +181,8 @@
       "id": "deepseek-ai/DeepSeek-R1",
       "name": "DeepSeek-R1",
       "author": "deepseek-ai",
-      "downloads": 7663567,
-      "likes": 13424,
+      "downloads": 7849894,
+      "likes": 13425,
       "tags": [
         "transformers",
         "safetensors",
@@ -197,8 +197,8 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "name": "Qwen2.5-3B-Instruct",
       "author": "Qwen",
-      "downloads": 7524515,
-      "likes": 516,
+      "downloads": 7331162,
+      "likes": 517,
       "tags": [
         "transformers",
         "safetensors",
@@ -213,8 +213,8 @@
       "id": "openai/gpt-oss-20b",
       "name": "gpt-oss-20b",
       "author": "openai",
-      "downloads": 7011565,
-      "likes": 4753,
+      "downloads": 6969652,
+      "likes": 4754,
       "tags": [
         "transformers",
         "safetensors",
@@ -229,8 +229,8 @@
       "id": "antirez/deepseek-v4-gguf",
       "name": "deepseek-v4-gguf",
       "author": "antirez",
-      "downloads": 6424594,
-      "likes": 290,
+      "downloads": 6422841,
+      "likes": 292,
       "tags": [
         "gguf",
         "quantized",

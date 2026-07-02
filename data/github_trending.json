@@ -1,125 +1,125 @@
 {
-  "updated": "2026-07-02T00:25:04.191583+00:00",
+  "updated": "2026-07-02T12:34:21.652813+00:00",
   "repositories": [
-    {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 123361,
-      "stars_today": 2114,
-      "language": "Shell",
-      "link": "https://github.com/msitarzewski/agency-agents"
-    },
     {
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 29679,
+      "stars": 30866,
       "stars_today": 1211,
       "language": "Python",
       "link": "https://github.com/usestrix/strix"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 16511,
-      "stars_today": 694,
-      "language": "Python",
-      "link": "https://github.com/HKUDS/Vibe-Trading"
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": 79602,
+      "stars_today": 866,
+      "language": "JavaScript",
+      "link": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars": 124984,
+      "stars_today": 2114,
+      "language": "Shell",
+      "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": 8396,
+      "stars": 8907,
       "stars_today": 2470,
       "language": "HTML",
       "link": "https://github.com/hasaneyldrm/exercises-dataset"
     },
     {
-      "name": "facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 2622,
-      "stars_today": 708,
-      "language": "TypeScript",
-      "link": "https://github.com/facebook/astryx"
+      "name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 57343,
+      "stars_today": 322,
+      "language": "JavaScript",
+      "link": "https://github.com/santifer/career-ops"
     },
     {
-      "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
-      "stars": 9505,
-      "stars_today": 1010,
-      "language": "TypeScript",
-      "link": "https://github.com/diegosouzapw/OmniRoute"
-    },
-    {
-      "name": "allenai/olmocr",
-      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "stars": 18264,
-      "stars_today": 334,
-      "language": "Python",
-      "link": "https://github.com/allenai/olmocr"
-    },
-    {
-      "name": "logto-io/logto",
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "stars": 13256,
-      "stars_today": 113,
-      "language": "TypeScript",
-      "link": "https://github.com/logto-io/logto"
-    },
-    {
-      "name": "togatoga/karukan",
-      "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "stars": 574,
-      "stars_today": 42,
-      "language": "Rust",
-      "link": "https://github.com/togatoga/karukan"
-    },
-    {
-      "name": "Mebus/cupp",
-      "description": "Common User Passwords Profiler (CUPP)",
-      "stars": 6243,
-      "stars_today": 184,
-      "language": "Python",
-      "link": "https://github.com/Mebus/cupp"
-    },
-    {
-      "name": "Unclecheng-li/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "stars": 1564,
-      "stars_today": 132,
-      "language": "Python",
-      "link": "https://github.com/Unclecheng-li/VulnClaw"
-    },
-    {
-      "name": "microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 50417,
-      "stars_today": 1096,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/microsoft/AI-For-Beginners"
-    },
-    {
-      "name": "refactoringhq/tolaria",
-      "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 18016,
-      "stars_today": 150,
-      "language": "TypeScript",
-      "link": "https://github.com/refactoringhq/tolaria"
-    },
-    {
-      "name": "ogulcancelik/herdr",
-      "description": "agent multiplexer that lives in your terminal.",
-      "stars": 9588,
-      "stars_today": 609,
-      "language": "Rust",
-      "link": "https://github.com/ogulcancelik/herdr"
-    },
-    {
-      "name": "0xNyk/council-of-high-intelligence",
-      "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One co",
-      "stars": 2612,
-      "stars_today": 161,
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 243992,
+      "stars_today": 1047,
       "language": "Shell",
-      "link": "https://github.com/0xNyk/council-of-high-intelligence"
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 44932,
+      "stars_today": 92,
+      "language": "TypeScript",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "name": "browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 13527,
+      "stars_today": 693,
+      "language": "Python",
+      "link": "https://github.com/browser-use/video-use"
+    },
+    {
+      "name": "actions/checkout",
+      "description": "Action for checking out a repo",
+      "stars": 8093,
+      "stars_today": 5,
+      "language": "TypeScript",
+      "link": "https://github.com/actions/checkout"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 224882,
+      "stars_today": 721,
+      "language": "JavaScript",
+      "link": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17120,
+      "stars_today": 694,
+      "language": "Python",
+      "link": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 21418,
+      "stars_today": 47,
+      "language": "Python",
+      "link": "https://github.com/agentskills/agentskills"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 22308,
+      "stars_today": 72,
+      "language": "JavaScript",
+      "link": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150418,
+      "stars_today": 74,
+      "language": "Python",
+      "link": "https://github.com/langflow-ai/langflow"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101074,
+      "stars_today": 45,
+      "language": "Python",
+      "link": "https://github.com/pytorch/pytorch"
     }
   ]
 }
