@@ -1,123 +1,123 @@
 {
-  "updated": "2026-07-01T12:51:00.735494+00:00",
+  "updated": "2026-07-02T00:25:04.191583+00:00",
   "repositories": [
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
-      "stars": 122073,
-      "stars_today": 1791,
+      "stars": 123361,
+      "stars_today": 2114,
       "language": "Shell",
       "link": "https://github.com/msitarzewski/agency-agents"
     },
     {
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 28775,
-      "stars_today": 515,
+      "stars": 29679,
+      "stars_today": 1211,
       "language": "Python",
       "link": "https://github.com/usestrix/strix"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 16201,
-      "stars_today": 721,
+      "stars": 16511,
+      "stars_today": 694,
       "language": "Python",
       "link": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
       "name": "hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "stars": 7979,
-      "stars_today": 1343,
+      "stars": 8396,
+      "stars_today": 2470,
       "language": "HTML",
       "link": "https://github.com/hasaneyldrm/exercises-dataset"
     },
     {
       "name": "facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 2148,
-      "stars_today": 364,
+      "stars": 2622,
+      "stars_today": 708,
       "language": "TypeScript",
       "link": "https://github.com/facebook/astryx"
     },
     {
       "name": "diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
-      "stars": 9120,
-      "stars_today": 387,
+      "stars": 9505,
+      "stars_today": 1010,
       "language": "TypeScript",
       "link": "https://github.com/diegosouzapw/OmniRoute"
     },
     {
       "name": "allenai/olmocr",
       "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "stars": 18082,
-      "stars_today": 295,
+      "stars": 18264,
+      "stars_today": 334,
       "language": "Python",
       "link": "https://github.com/allenai/olmocr"
     },
     {
       "name": "logto-io/logto",
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "stars": 13083,
-      "stars_today": 561,
+      "stars": 13256,
+      "stars_today": 113,
       "language": "TypeScript",
       "link": "https://github.com/logto-io/logto"
     },
     {
       "name": "togatoga/karukan",
       "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-      "stars": 530,
-      "stars_today": 29,
+      "stars": 574,
+      "stars_today": 42,
       "language": "Rust",
       "link": "https://github.com/togatoga/karukan"
     },
     {
       "name": "Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
-      "stars": 6199,
-      "stars_today": 32,
+      "stars": 6243,
+      "stars_today": 184,
       "language": "Python",
       "link": "https://github.com/Mebus/cupp"
     },
     {
       "name": "Unclecheng-li/VulnClaw",
       "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "stars": 1497,
-      "stars_today": 123,
+      "stars": 1564,
+      "stars_today": 132,
       "language": "Python",
       "link": "https://github.com/Unclecheng-li/VulnClaw"
     },
     {
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": 49981,
-      "stars_today": 252,
+      "stars": 50417,
+      "stars_today": 1096,
       "language": "Jupyter Notebook",
       "link": "https://github.com/microsoft/AI-For-Beginners"
     },
     {
       "name": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
-      "stars": 17911,
-      "stars_today": 435,
+      "stars": 18016,
+      "stars_today": 150,
       "language": "TypeScript",
       "link": "https://github.com/refactoringhq/tolaria"
     },
     {
       "name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
-      "stars": 9329,
-      "stars_today": 486,
+      "stars": 9588,
+      "stars_today": 609,
       "language": "Rust",
       "link": "https://github.com/ogulcancelik/herdr"
     },
     {
       "name": "0xNyk/council-of-high-intelligence",
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One co",
-      "stars": 2417,
-      "stars_today": 473,
+      "stars": 2612,
+      "stars_today": 161,
       "language": "Shell",
       "link": "https://github.com/0xNyk/council-of-high-intelligence"
     }
