@@ -1,164 +1,164 @@
 {
-  "updated": "2026-07-03T00:22:50.118285+00:00",
+  "updated": "2026-07-03T12:33:13.973033+00:00",
   "articles": [
     {
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/442531.html",
+      "category": "AI News"
+    },
+    {
+      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/442517.html",
+      "category": "AI News"
+    },
+    {
+      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/442503.html",
+      "category": "AI News"
+    },
+    {
+      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "创业30年，6次低谷",
+      "link": "https://www.qbitai.com/2026/07/442224.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "超越人类超导体发现100年效率",
+      "link": "https://www.qbitai.com/2026/07/442452.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+      "source": "InfoQ 中文",
+      "published": "2026-07-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Agent 上岗之后，企业如何治理硅基团队？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "从 Coding 到 Anything，Agent 正在重写工作流",
+      "source": "InfoQ 中文",
+      "published": "2026-07-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+      "source": "InfoQ 中文",
+      "published": "2026-07-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
+      "source": "InfoQ 中文",
+      "published": "2026-07-03",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Google 就 Android 反垄断 41 亿欧元罚单上诉失败，八年拉锯战终结",
+      "source": "开源中国",
+      "published": "2026-07-03",
+      "summary": "7 月 2 日，欧盟最高法院 European Court of Justice 驳回了 Google 对 41 亿欧元（约合 46.7 亿美元）反垄断罚单的最终上诉。这场自 2018 年起持续八年的法律拉锯，画上了句号。 案件追溯到 2018 年。欧盟委员会当时裁定 Google 利用 Android 的市场支配地位，通过三类行为排挤竞争对手：要求手机厂商预装 Google Searc...",
+      "link": "https://www.oschina.net/news/471475",
+      "category": "AI News"
+    },
+    {
+      "title": "Vite+ 发布 Beta 版本，一个命令搞定前端工具链",
+      "source": "开源中国",
+      "published": "2026-07-03",
+      "summary": "尤雨溪创立的前端工具链公司 VoidZero 发布了 Vite+ 的 Beta 版本。这是一个基于 Vite 8 的统一前端工具链，用一个 vp 命令整合了开发服务器、测试、构建、检查、打包和任务运行。 Vite+ 从 Alpha 到 Beta 合并了超过 500 个 PR。这次更新的看点：vp run 的任务缓存更智能了，不再需要手动声明输入输出和环境变量；vp mi...",
+      "link": "https://www.oschina.net/news/471474/vite-plus-beta",
+      "category": "AI News"
+    },
+    {
+      "title": "Podman v6.0.0 发布，网络栈全面转向 Netavark 与 nftables",
+      "source": "开源中国",
+      "published": "2026-07-03",
+      "summary": "Podman 团队发布了 v6.0.0 正式版。这是一次网络基础设施全面换代的重大更新，同时改进了 machine 管理、Quadlet 和配置系统。 网络层是本次升级的核心。Podman 告别了 slirp4netns 和 iptables，全面转向 Netavark、Pasta 和 nftables。团队表示，这一迁移不仅是技术债清理，更意味着网络栈维护简化，未来可以在此基础上...",
+      "link": "https://www.oschina.net/news/471473/podman-v6-0-0",
+      "category": "AI News"
+    },
+    {
+      "title": "阿里内部全面禁用 Claude Code",
+      "source": "开源中国",
+      "published": "2026-07-03",
+      "summary": "智东西消息称阿里巴巴内部宣布反向禁用 Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。禁令于7月10日正式生效。 据消息人士透露，自今年初以来，阿里内部为鼓励员工采用AI技术，不仅推出内部模型免费额度，还对外部模型使用实行大额报销政策。...",
+      "link": "https://www.oschina.net/news/471471",
+      "category": "AI News"
+    },
+    {
+      "title": "从 10 分钟到 1 秒：ES 深度分页任意跳页的三轮优化实战",
+      "source": "开源中国",
+      "published": "2026-07-03",
+      "summary": "本文介绍了一种基于 search_after + Redis 多级锚点缓存的 Elasticsearch 深度分页跳页方案。针对 Elasticsearch 原生不支持随机跳页的限制，通过三轮优化 —— 分段预热缓存、最近锚点定位 + Elasticsearch 查询提速（禁用 _source / 关闭 track_total_hits）、大区间预热 + 小分页精细锚点 —— 将 50 万数据量下的任意...",
+      "link": "https://my.oschina.net/vivotech/blog/19715664",
+      "category": "AI News"
+    },
+    {
+      "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
       "source": "36氪",
       "published": "2026-07-03",
-      "summary": "今日热点导览苹果拟于今明两年推出至少五款新iPhoneAI版支付宝开放公测，上线72项办事技能特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱LV起诉茉莉奶白，茉莉奶白被判赔1030万元6月赴日航班取消1488个安克创新港股上市首日破发TOP3大新闻证监会同意宇树科技科创板IPO注册7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。宇树科技从今年3月20日科创板IPO申请获受理，再到7月2日注册生效，仅用时104天。其创下科创板预先审阅机制落地以来的最快审核纪录，也成为",
-      "link": "https://36kr.com/p/3879158039834629?f=rss",
+      "summary": "文｜胡香赟编辑｜海若镜2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就在这里完成。本次，医院方面对36氪表示，支持完成这场“有里程碑意义的儿科手术”的核心设备，来自中国手术机器人公司术锐机器人。这是瓦尔德希伯伦大学医院首次以直销形式采购中国医疗器械，落地后，预计每年可为医院新增200-300台",
+      "link": "https://36kr.com/p/3879807100023040?f=rss",
       "category": "AI News"
     },
     {
-      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "source": "量子位",
-      "published": "2026-07-02",
-      "summary": "与社区共同推进自演进智能体生态发展",
-      "link": "https://www.qbitai.com/2026/07/442134.html",
-      "category": "AI News"
-    },
-    {
-      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
-      "source": "量子位",
-      "published": "2026-07-02",
-      "summary": "霸榜OpenR ou",
-      "link": "https://www.qbitai.com/2026/07/442047.html",
-      "category": "AI News"
-    },
-    {
-      "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
-      "source": "量子位",
-      "published": "2026-07-02",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/442048.html",
-      "category": "AI News"
-    },
-    {
-      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
-      "source": "量子位",
-      "published": "2026-07-02",
-      "summary": "7月17日至7月20日",
-      "link": "https://www.qbitai.com/2026/07/442037.html",
-      "category": "AI News"
-    },
-    {
-      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
-      "source": "量子位",
-      "published": "2026-07-02",
-      "summary": "和人并肩工作",
-      "link": "https://www.qbitai.com/2026/07/442030.html",
-      "category": "AI News"
-    },
-    {
-      "title": "一人公司创业，如何找对方法论、选准装备库？",
-      "source": "InfoQ 中文",
-      "published": "2026-07-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/pxXOLZMIk90UTXOJ8aNE?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "用户太蠢不配用 Fable？被Anthropic的回应气笑了：最贵的模型，最憋屈的体验",
-      "source": "InfoQ 中文",
-      "published": "2026-07-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/HDE9Hoe3RVyNlX3CCGzV?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？",
-      "source": "InfoQ 中文",
-      "published": "2026-07-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？",
-      "source": "InfoQ 中文",
-      "published": "2026-07-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境",
-      "source": "InfoQ 中文",
-      "published": "2026-07-02",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Kimi K2.7 Code 上线 GitHub Copilot，模型选择器首次纳入开放权重模型",
-      "source": "开源中国",
-      "published": "2026-07-02",
-      "summary": "7 月 1 日，GitHub 正式在 Copilot 中上线了 Kimi K2.7 Code，这是 Copilot 模型选择器中首次出现开放权重（open-weight）模型。该模型由 GitHub 托管在 Microsoft Azure 上，按用量计费，首批面向 Copilot Pro、Pro+ 和 Max 订阅用户推出，Business 和 Enterprise 将在未来几周内开放。 GitHub 在变更日志中特别强调，对...",
-      "link": "https://www.oschina.net/news/471446/kimi-k2-7-is-now-available-in-github-copilot",
-      "category": "AI News"
-    },
-    {
-      "title": "CCleaner v7.9 发布，系统清理工具",
-      "source": "开源中国",
-      "published": "2026-07-02",
-      "summary": "CCleaner 是一款系统优化和隐私保护工具，主要用来清除 Windows 系统的垃圾文件与使用者的上网记录。CCleaner 的体积小，运行速度极快，可以对临时文件夹、历史记录、回收站、注册表等进行垃圾清理。 Cleaner v7.9 现已发布，主要更新内容如下： Startup Manager 现在会显示右键菜单项。用户可以查看和管理添加到右键菜单...",
-      "link": "https://www.oschina.net/news/471445/ccleaner-v7-9",
-      "category": "AI News"
-    },
-    {
-      "title": "基于后验采样的图像恢复方法 LearnIR：人脸去阴影、去雾",
-      "source": "开源中国",
-      "published": "2026-07-02",
-      "summary": "真实场景图像复原因复杂异质退化而极具挑战，现有扩散模型方法存在保真度不足、误差累积或依赖未知前向算子等问题。本文提出 LearnIR，通过训练轻量网络预测梯度校正分布，实现无需前向算子的扩散后验采样校正；并设计动态分辨率模块，进一步抑制噪声。在多个图像复原基准上，LearnIR 的 PSNR、SSIM、LPIPS 均达到先进水...",
-      "link": "https://my.oschina.net/vivotech/blog/19715714",
-      "category": "AI News"
-    },
-    {
-      "title": "630GB 机密文件泄露，苹果供应链遭遇史上最严重安全事件",
-      "source": "开源中国",
-      "published": "2026-07-02",
-      "summary": "印度塔塔电子（Tata Electronics）的一个工厂机房，成了苹果近年来最不愿意看到的安全噩梦。 6月中旬，勒索组织\"World Leaks\"在暗网上陆续放出超过20万份文件，总规模约630GB。这些文件来自塔塔电子——苹果在印度的核心代工与零部件供应商，承担着印度约三分之一的iPhone产量。路透社随后确认了泄露数据的真实性。 泄露...",
-      "link": "https://www.oschina.net/news/471442/apple-tata-leak-iphone-18-pro",
-      "category": "AI News"
-    },
-    {
-      "title": "Akka 2.10.20 发布，Scala 编写的 Actor 模型开发库",
-      "source": "开源中国",
-      "published": "2026-07-02",
-      "summary": "Akka 是一个用 Scala 编写的库，能够简化 JVM 上并发和分布式应用的构建。Akka 支持多种并发的编程模型，其灵感来自于 Erlang。Akka 的首个版本于 2009 年发布，距今已有 13 年积极维护的历史。 Akka 2.10.20 现已发布，具体更新内容包括： build：MiMa after 2.10.19 #32935 docs：Clarity jackson-modules 配置覆盖 #3...",
-      "link": "https://www.oschina.net/news/471440/akka-2-10-20-released",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
       "source": "36氪",
-      "published": "2026-07-02",
-      "summary": "大公司：奥飞娱乐：上半年净利润同比预增305.30%—413.38%36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。雀巢称消费者因价格压力避开中等包装产品雀巢表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，该公司正努力控制价格。（新浪财经）盐湖股份：上半年净利润同比预增131.38%—142.95%36氪获悉，盐湖股份发布业绩预告，预计上半年净利润60亿元—63亿元，同比增长131.38%—142.95%。Meta“带崩”科技",
-      "link": "https://36kr.com/p/3878550357946625?f=rss",
+      "published": "2026-07-03",
+      "summary": "本文约2700字，建议阅读6分钟作者 | 彭孝秋编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。如果你在AI开发者圈子，硅基流动（SiliconFlow）这个名字不会陌生。它就是那个在DeepSeek爆火时，第一个把R1/V3部署到国产芯片上跑t",
+      "link": "https://36kr.com/p/3879814941437956?f=rss",
       "category": "AI News"
     },
     {
-      "title": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
       "source": "36氪",
-      "published": "2026-07-02",
-      "summary": "撰文｜深海网文里的“系统流”，被拍成了职场短剧千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。这三大爽文战神体横空出世时，对IP界几乎是降维打击。当传统小说还在费劲搭世界观、铺人物成长弧光时，系统流已经绕过漫长的发育过程，直接把爽感推到最大。系统，这个堪称bug的存在，无论主角进入什么样的世界副本，面对不同的任务、危机和奖励，它总会尽职尽责地当好一个无情的辅助工具，记录进度、提示规则、保存道具、结算积分、解锁技能……换句话说，一切琐事都干扰不到主角的成长，主角只管尽情体验人生。20年前这还只是一种遥不可及的畅想，但2026年，这个AI能力超速发展的时代，系统流已经",
-      "link": "https://36kr.com/p/3878522627518471?f=rss",
+      "published": "2026-07-03",
+      "summary": "大公司：德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假设75%实现销售、每GW年化收入100亿至150亿美元，Meta 2027年可新增收",
+      "link": "https://36kr.com/p/3879796756754694?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪 AI 工具测评，正在找第一批「抢跑者」",
+      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
       "source": "36氪",
-      "published": "2026-07-02",
-      "summary": "我们是一群每天深度使用 AI 工具的人最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。不同的人拿到同一个 AI 工具，产出能差出好几个量级。不是不愿意用，可能是你缺一种灵感。自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，跑得更快。主打共赢、利他。加入流程📍「36氪 AI 工具测评·抢跑营」感兴趣的伙伴们建联后，我们会先送你一份资料包。为了更好的匹配大家的需求，我们会做人群筛选，通过筛选的，将进入「36氪 AI 工具测评·抢跑营。进群之后，我们希望你坚持",
-      "link": "https://36kr.com/p/3878412963508486?f=rss",
+      "published": "2026-07-03",
+      "summary": "图源视觉中国文｜肖漫编辑｜李勤、杨轩“回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。了解调整动向的人士向36氪汽车透露，目前调整主要针对电动本体和自动驾驶等核心产品定义团队，其中已经明确的是，产品部的电动本体定义团队，拆分并入刘立国带领的整车研发部门；自动驾驶终端产品团队将并进詹锟带领的基座模型研发团队。“可能也有一部分体验",
+      "link": "https://36kr.com/p/3877919172047111?f=rss",
       "category": "AI News"
     },
     {
-      "title": "享道被困16%“平台税”",
+      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
       "source": "36氪",
-      "published": "2026-07-02",
-      "summary": "作者 | 张帆编辑 | 黄绎达2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。01 增长悖论：司机流失与单量增长的“剪刀差”近年来，享道出行的营业收入规模在稳步扩张的同时，业绩表现及盈利能力的改善相对更为亮眼。数据显示，2023年至2025年，公司营收从57.18亿元增长至67.74亿元；净亏损则从6.04亿元大幅收窄至2.46亿元；整体毛利率更是从6.6%跃升至11.0%。公司业绩的持续改善，主要",
-      "link": "https://36kr.com/p/3878254740549638?f=rss",
+      "published": "2026-07-03",
+      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联创设立）等新能源产业投资方。得益于充足资金和产业资源的支持，OMOWAY产品在全球市场的商业化落地也在咋加",
+      "link": "https://36kr.com/p/3877990989819909?f=rss",
       "category": "AI News"
     }
   ]
