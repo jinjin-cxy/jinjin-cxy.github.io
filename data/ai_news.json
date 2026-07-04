@@ -1,6 +1,62 @@
 {
-  "updated": "2026-07-04T00:22:14.816189+00:00",
+  "updated": "2026-07-04T12:20:51.442503+00:00",
   "articles": [
+    {
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "source": "量子位",
+      "published": "2026-07-04",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/442958.html",
+      "category": "AI News"
+    },
+    {
+      "title": "苹果首次将私有云计算平台扩展至谷歌云",
+      "source": "InfoQ 中文",
+      "published": "2026-07-04",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "uniTerm v1.3 重磅发布：超轻量全能型终端，20+ 远程协议，内置 AI Agent",
+      "source": "开源中国",
+      "published": "2026-07-04",
+      "summary": "关于 uniTerm uniTerm 是一款轻量级、跨平台的一站式终端软件，基于 Wails v2 + Go + Vue 3 构建。它将远程终端、文件传输、远程桌面、数据库客户端、服务器监控、AI 助理整合进一个不到 10MB 的软件包中，覆盖 20 余种网络协议，支持 Windows、macOS、Linux 三大平台。 从 SSH 命令行管理到 RDP 远程桌面，从 SFTP 双栏...",
+      "link": "https://www.oschina.net/news/471478",
+      "category": "AI News"
+    },
+    {
+      "title": ":fire: 用 ChatModel 构建 LLM 驱动的 Java 应用",
+      "source": "开源中国",
+      "published": "2026-07-04",
+      "summary": "如果你尝试过在 Java 应用中集成大语言模型（LLM），大概率写过不少样板代码：HTTP 客户端、JSON 解析、流式处理、会话管理……Solon AI 4.0 的 ChatModel 用一套简洁的 Builder API 把这些都封装好了。 本文将通过真实的代码示例，带你一步步用 ChatModel 构建 AI 功能——从简单的单次调用，到带记忆的流式聊天机器人。...",
+      "link": "https://www.oschina.net/news/471477",
+      "category": "AI News"
+    },
+    {
+      "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+      "source": "36氪",
+      "published": "2026-07-04",
+      "summary": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技、户外美学与湖岸风光融为一体，让参与者沉浸式解锁人机协同的徒步方式，感受徒步的松弛感与探索感。作为人类身体力量的延伸，以傲鲨",
+      "link": "https://36kr.com/p/3880770270425089?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "source": "36氪",
+      "published": "2026-07-04",
+      "summary": "今日热点导览三部门：调整节能汽车、新能源汽车车船税优惠政策三星传获Meta超10万亿韩元AI芯片代工订单茉莉奶白小程序更换彩色LogoMeta打算出售富余算力引发科技股回落英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗TOP3大新闻因存在植入后门风险，阿里内部全面禁用Claude Code36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。FF洛杉矶总部人去楼空？公司回应：不实7月3日，法拉第",
+      "link": "https://36kr.com/p/3880629882679301?f=rss",
+      "category": "AI News"
+    },
+    {
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "source": "36氪",
+      "published": "2026-07-04",
+      "summary": "图源/企业作者丨欧雪编辑丨袁斯来硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增长率8.8",
+      "link": "https://36kr.com/p/3879991356157952?f=rss",
+      "category": "AI News"
+    },
     {
       "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
       "source": "量子位",
@@ -31,14 +87,6 @@
       "published": "2026-07-03",
       "summary": "",
       "link": "https://www.qbitai.com/2026/07/442517.html",
-      "category": "AI News"
-    },
-    {
-      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
-      "source": "量子位",
-      "published": "2026-07-03",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/442503.html",
       "category": "AI News"
     },
     {
@@ -74,11 +122,11 @@
       "category": "AI News"
     },
     {
-      "title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
-      "source": "InfoQ 中文",
+      "title": ":fire:JPA mybatis mybatis-plus xbatis 谁更强，比一比",
+      "source": "开源中国",
       "published": "2026-07-03",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
+      "summary": "为了让你更清晰地了解 xbatis 在 Java ORM 生态中的定位，我们将它与最主流的三个持久层框架进行深度对比：MyBatis-Plus（国内最流行）、Spring Data JPA / Hibernate（国际标准）以及原生 MyBatis。 :bar_chart: 核心多维对比 特性 / 维度 原生 MyBatis MyBatis-Plus (MP) xbatis Spring Data JPA / Hibernate 核心定位...",
+      "link": "https://www.oschina.net/news/471476",
       "category": "AI News"
     },
     {
@@ -98,30 +146,6 @@
       "category": "AI News"
     },
     {
-      "title": "Podman v6.0.0 发布，网络栈全面转向 Netavark 与 nftables",
-      "source": "开源中国",
-      "published": "2026-07-03",
-      "summary": "Podman 团队发布了 v6.0.0 正式版。这是一次网络基础设施全面换代的重大更新，同时改进了 machine 管理、Quadlet 和配置系统。 网络层是本次升级的核心。Podman 告别了 slirp4netns 和 iptables，全面转向 Netavark、Pasta 和 nftables。团队表示，这一迁移不仅是技术债清理，更意味着网络栈维护简化，未来可以在此基础上...",
-      "link": "https://www.oschina.net/news/471473/podman-v6-0-0",
-      "category": "AI News"
-    },
-    {
-      "title": "阿里内部全面禁用 Claude Code",
-      "source": "开源中国",
-      "published": "2026-07-03",
-      "summary": "智东西消息称阿里巴巴内部宣布反向禁用 Claude。阿里全员被要求卸载Anthropic相关产品，包括Sonnet、Opus、Fable等多个系列模型，以及Claude Code在内的Agent产品。禁令于7月10日正式生效。 据消息人士透露，自今年初以来，阿里内部为鼓励员工采用AI技术，不仅推出内部模型免费额度，还对外部模型使用实行大额报销政策。...",
-      "link": "https://www.oschina.net/news/471471",
-      "category": "AI News"
-    },
-    {
-      "title": "从 10 分钟到 1 秒：ES 深度分页任意跳页的三轮优化实战",
-      "source": "开源中国",
-      "published": "2026-07-03",
-      "summary": "本文介绍了一种基于 search_after + Redis 多级锚点缓存的 Elasticsearch 深度分页跳页方案。针对 Elasticsearch 原生不支持随机跳页的限制，通过三轮优化 —— 分段预热缓存、最近锚点定位 + Elasticsearch 查询提速（禁用 _source / 关闭 track_total_hits）、大区间预热 + 小分页精细锚点 —— 将 50 万数据量下的任意...",
-      "link": "https://my.oschina.net/vivotech/blog/19715664",
-      "category": "AI News"
-    },
-    {
       "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
       "source": "36氪",
       "published": "2026-07-03",
@@ -135,30 +159,6 @@
       "published": "2026-07-03",
       "summary": "本文约2700字，建议阅读6分钟作者 | 彭孝秋编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。如果你在AI开发者圈子，硅基流动（SiliconFlow）这个名字不会陌生。它就是那个在DeepSeek爆火时，第一个把R1/V3部署到国产芯片上跑t",
       "link": "https://36kr.com/p/3879814941437956?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
-      "source": "36氪",
-      "published": "2026-07-03",
-      "summary": "大公司：德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假设75%实现销售、每GW年化收入100亿至150亿美元，Meta 2027年可新增收",
-      "link": "https://36kr.com/p/3879796756754694?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
-      "source": "36氪",
-      "published": "2026-07-03",
-      "summary": "图源视觉中国文｜肖漫编辑｜李勤、杨轩“回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。了解调整动向的人士向36氪汽车透露，目前调整主要针对电动本体和自动驾驶等核心产品定义团队，其中已经明确的是，产品部的电动本体定义团队，拆分并入刘立国带领的整车研发部门；自动驾驶终端产品团队将并进詹锟带领的基座模型研发团队。“可能也有一部分体验",
-      "link": "https://36kr.com/p/3877919172047111?f=rss",
-      "category": "AI News"
-    },
-    {
-      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-      "source": "36氪",
-      "published": "2026-07-03",
-      "summary": "作者 | 张子怡编辑 | 袁斯来硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）、惠友资本（比亚迪联创设立）等新能源产业投资方。得益于充足资金和产业资源的支持，OMOWAY产品在全球市场的商业化落地也在咋加",
-      "link": "https://36kr.com/p/3877990989819909?f=rss",
       "category": "AI News"
     }
   ]
