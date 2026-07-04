@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-03T12:33:13.973033+00:00",
+  "updated": "2026-07-04T00:22:14.816189+00:00",
   "articles": [
+    {
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
+      "link": "https://www.qbitai.com/2026/07/442746.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "source": "量子位",
+      "published": "2026-07-03",
+      "summary": "单词数r也是风险问题？！",
+      "link": "https://www.qbitai.com/2026/07/442567.html",
+      "category": "AI News"
+    },
     {
       "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
       "source": "量子位",
@@ -23,22 +39,6 @@
       "published": "2026-07-03",
       "summary": "",
       "link": "https://www.qbitai.com/2026/07/442503.html",
-      "category": "AI News"
-    },
-    {
-      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
-      "source": "量子位",
-      "published": "2026-07-03",
-      "summary": "创业30年，6次低谷",
-      "link": "https://www.qbitai.com/2026/07/442224.html",
-      "category": "AI News"
-    },
-    {
-      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
-      "source": "量子位",
-      "published": "2026-07-03",
-      "summary": "超越人类超导体发现100年效率",
-      "link": "https://www.qbitai.com/2026/07/442452.html",
       "category": "AI News"
     },
     {
