@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T00:21:42.286019+00:00",
+  "updated": "2026-07-05T12:24:35.279243+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -15,7 +15,7 @@
     },
     {
       "tag": "safetensors",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "text-generation",
@@ -52,19 +52,19 @@
   ],
   "top_languages": [
     {
-      "language": "TypeScript",
-      "count": 4
+      "language": "JavaScript",
+      "count": 5
     },
     {
       "language": "Python",
-      "count": 4
-    },
-    {
-      "language": "JavaScript",
-      "count": 3
+      "count": 5
     },
     {
       "language": "Rust",
+      "count": 2
+    },
+    {
+      "language": "TypeScript",
       "count": 2
     },
     {
