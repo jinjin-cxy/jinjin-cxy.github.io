@@ -1,123 +1,123 @@
 {
-  "updated": "2026-07-05T12:24:18.287130+00:00",
+  "updated": "2026-07-06T00:21:57.649193+00:00",
   "repositories": [
     {
       "name": "Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
-      "stars": 15870,
-      "stars_today": 718,
+      "stars": 16940,
+      "stars_today": 1409,
       "language": "Rust",
       "link": "https://github.com/Zackriya-Solutions/meetily"
     },
     {
       "name": "openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 25119,
-      "stars_today": 718,
+      "stars": 25449,
+      "stars_today": 1532,
       "language": "JavaScript",
       "link": "https://github.com/openai/codex-plugin-cc"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-      "stars": 49387,
-      "stars_today": 471,
+      "stars": 49928,
+      "stars_today": 981,
       "language": "JavaScript",
       "link": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 56897,
-      "stars_today": 850,
+      "stars": 57458,
+      "stars_today": 863,
       "language": "JavaScript",
       "link": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "name": "alirezarezvani/claude-skills",
       "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
-      "stars": 20317,
-      "stars_today": 136,
+      "stars": 20552,
+      "stars_today": 392,
       "language": "Python",
       "link": "https://github.com/alirezarezvani/claude-skills"
     },
     {
       "name": "rommapp/romm",
       "description": "A beautiful, powerful, self-hosted rom manager and player.",
-      "stars": 10362,
-      "stars_today": 398,
+      "stars": 10529,
+      "stars_today": 410,
       "language": "Python",
       "link": "https://github.com/rommapp/romm"
     },
     {
       "name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
-      "stars": 11737,
-      "stars_today": 707,
+      "stars": 12048,
+      "stars_today": 651,
       "language": "Rust",
       "link": "https://github.com/ogulcancelik/herdr"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 23497,
-      "stars_today": 742,
+      "stars": 23855,
+      "stars_today": 805,
       "language": "TypeScript",
       "link": "https://github.com/alibaba/page-agent"
     },
     {
       "name": "harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
-      "stars": 26712,
-      "stars_today": 443,
+      "stars": 26832,
+      "stars_today": 329,
       "language": "Python",
       "link": "https://github.com/harvard-edge/cs249r_book"
     },
     {
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "stars": 36586,
-      "stars_today": 1904,
+      "stars": 37091,
+      "stars_today": 1114,
       "language": "Python",
       "link": "https://github.com/usestrix/strix"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
-      "stars": 48115,
-      "stars_today": 133,
+      "stars": 48351,
+      "stars_today": 148,
       "language": "Python",
       "link": "https://github.com/hesreallyhim/awesome-claude-code"
     },
     {
       "name": "coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "stars": 36183,
-      "stars_today": 126,
+      "stars": 36418,
+      "stars_today": 145,
       "language": "JavaScript",
       "link": "https://github.com/coreyhaines31/marketingskills"
     },
     {
       "name": "JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": 84458,
-      "stars_today": 1089,
+      "stars": 84850,
+      "stars_today": 1052,
       "language": "JavaScript",
       "link": "https://github.com/JuliusBrussee/caveman"
     },
     {
       "name": "CoplayDev/unity-mcp",
       "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "stars": 11789,
-      "stars_today": 69,
+      "stars": 11913,
+      "stars_today": 414,
       "language": "C#",
       "link": "https://github.com/CoplayDev/unity-mcp"
     },
     {
       "name": "facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
-      "stars": 5620,
-      "stars_today": 903,
+      "stars": 5875,
+      "stars_today": 522,
       "language": "TypeScript",
       "link": "https://github.com/facebook/astryx"
     }
