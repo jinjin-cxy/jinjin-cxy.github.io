@@ -1,164 +1,164 @@
 {
-  "updated": "2026-07-07T00:23:57.345868+00:00",
+  "updated": "2026-07-07T12:43:42.436386+00:00",
   "articles": [
     {
-      "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+      "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+      "source": "量子位",
+      "published": "2026-07-07",
+      "summary": "难怪DeepSeek要着重强调招HR（doge）",
+      "link": "https://www.qbitai.com/2026/07/445608.html",
+      "category": "AI News"
+    },
+    {
+      "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+      "source": "量子位",
+      "published": "2026-07-07",
+      "summary": "“共识与非共识”的深度思辨",
+      "link": "https://www.qbitai.com/2026/07/445443.html",
+      "category": "AI News"
+    },
+    {
+      "title": "我宣布这是中国最神奇的造车新势力",
+      "source": "量子位",
+      "published": "2026-07-07",
+      "summary": "仅靠一款车5年不倒",
+      "link": "https://www.qbitai.com/2026/07/445292.html",
+      "category": "AI News"
+    },
+    {
+      "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+      "source": "量子位",
+      "published": "2026-07-07",
+      "summary": "从文字说明书到多模态经验库",
+      "link": "https://www.qbitai.com/2026/07/445229.html",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "source": "量子位",
+      "published": "2026-07-07",
+      "summary": "来自蚂蚁灵波",
+      "link": "https://www.qbitai.com/2026/07/445230.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级",
+      "source": "InfoQ 中文",
+      "published": "2026-07-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/WNWuMomRvix0FT0dZ8yI?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "把世界学习拆成两条互补路径，悟界·RoboBrain Orca 成通用世界基础模型基石",
+      "source": "InfoQ 中文",
+      "published": "2026-07-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/HpkpCVSwAHQXAhphZm34?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
+      "source": "InfoQ 中文",
+      "published": "2026-07-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "让 AI 真正“懂时间”：QC-MHM 时序知识图谱问答的全新突破 | AAAI",
+      "source": "InfoQ 中文",
+      "published": "2026-07-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/pAGx3GoLbi16BwUsoKw7?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "开源AI编程工具第一来啦：智谱GLM-5.2上线模力工场，还有专属折扣！",
+      "source": "InfoQ 中文",
+      "published": "2026-07-07",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/woKuALR13UH0o9XicUlZ?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "我成长过程中所熟悉的互联网已经不复存在了",
+      "source": "开源中国",
+      "published": "2026-07-07",
+      "summary": "一篇题为《The Internet I Grew Up With Doesn't Exist Anymore》的博客近日在 Hacker News 登上首页，文章很朴素，没有技术干货，没有任何新概念。就是一个 90 年代末出生、从小在美国乡下长大的工程师，用自己的记忆串联起互联网 25 年的变迁。 作者 Christian Cleberg 以一个 90 年代末出生的美国小镇青年的视角，分五...",
+      "link": "https://www.oschina.net/news/471541",
+      "category": "AI News"
+    },
+    {
+      "title": "Kdenlive 26.04.3 发布",
+      "source": "开源中国",
+      "published": "2026-07-07",
+      "summary": "Kdenlive 是一种基于 MLT 框架、KDE 和 Qt 的开源非线性视频编辑器，注重灵活性和易用性。该项目最初由 Jason Wood 在 2002 年开发，如今已经成为了官方 KDE 项目的一部分。 Kdenlive 26.04.3 现已发布，这是 26.04 系列的最后一个维护版本，带来了一系列常规的错误修复、工作流程优化和稳定性改进。亮点包括修复了撤销序...",
+      "link": "https://www.oschina.net/news/471540/kdenlive-26-04-3-released",
+      "category": "AI News"
+    },
+    {
+      "title": "字节 Seed 开源 EdgeBench 基准测试",
+      "source": "开源中国",
+      "published": "2026-07-07",
+      "summary": "字节 Seed 宣布推出了用于衡量真实世界环境学习的超长程评测集 EdgeBench。该评测集包含 134 个真实且多样的任务，横跨六大能力领域，Agent 在每个任务上都可持续工作至少 12 小时。其中 51 个任务及完整评测框架已开源。 “基于这些任务上的长程环境交互运行结果，我们发现，Agent 在“环境学习”过程中的整体表现遵循一...",
+      "link": "https://www.oschina.net/news/471539",
+      "category": "AI News"
+    },
+    {
+      "title": "分布式 API 设计 下：REST",
+      "source": "开源中国",
+      "published": "2026-07-07",
+      "summary": "REST 的核心思想就是，客户端发出的指令都是 \"标准动词 + 操作资源\" 的结构。比如，GET /orders/1 这个命令，GET 是动词，/orders/1 是宾语，这里的 1 是指订单编号为 1 的订单。",
+      "link": "https://my.oschina.net/xiandafu/blog/18612369",
+      "category": "AI News"
+    },
+    {
+      "title": "Memcached 1.6.44 发布，高性能分布式缓存系统",
+      "source": "开源中国",
+      "published": "2026-07-07",
+      "summary": "Memcached 1.6.44 现已发布，这是一个安全修复版本。 修复 proxy：后端数据过大会导致溢出。 ascii：启用身份验证且存在空换行符时崩溃 crawler：修复 unlocked mutex 被再次解锁的问题 crawler：修复空闲客户端的缓冲区溢出问题 binprot：允许禁用统计详情 详情可查看更新说明：https://github.com/memcached/memcache...",
+      "link": "https://www.oschina.net/news/471534/memcached-1-6-44-released",
+      "category": "AI News"
+    },
+    {
+      "title": "易控智驾暗盘破发：盘中一度跌近两成、收涨4%｜敲钟时刻",
       "source": "36氪",
       "published": "2026-07-07",
-      "summary": "今日热点导览华为Mate90系列有望搭载基于韬定律的新麒麟芯片央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置千问大模型升级实时语音识别大模型Fun-ASR-RealtimeWPS回应“滥收费、背刺用户”言论TOP3大新闻SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不过，也有声音对",
-      "link": "https://36kr.com/p/3884831072514309?f=rss",
+      "summary": "《敲钟时刻》栏目聚焦企业正式登陆资本市场的关键时刻。每一次敲钟之后，市场都会给出它对一家企业增长、估值与成色的第一重答案。上市前夜，全球矿区无人驾驶第一股易控智驾（07687.HK）在富途暗盘走出一条 V 形。截至 7 月 7 日 18:30 暗盘收盘，报91.50 港元，较发行价 87.92 港元上涨4.07%。但这抹红并不轻松，全天振幅接近 25%，是一场典型的开盘破发、盘中深跌、尾盘拉回。关于易控智驾深度报道，请看上市前夜｜套现十几亿后，他把矿卡开向港股易控智驾最终以招股区间上限87.92 港元定价，发行市值约 130 亿港元，总股本 1.48 亿股。今天暗盘开盘即破发，以 82.70 ",
+      "link": "https://36kr.com/p/3885481886674951?f=rss",
       "category": "AI News"
     },
     {
-      "title": "[EN] LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "source": "Hugging Face Blog",
+      "title": "氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资",
+      "source": "36氪",
       "published": "2026-07-07",
-      "summary": "",
-      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "summary": "大公司：网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言36氪获悉，近日，有网民发布题为《7月1日新规正式落地！新车智驾芯片自主化率不低于70%》的文章。文中称“7月1日，工信部联合市监总局出台的《新能源汽车车规级AI芯片技术规范》正式强制执行”，并称“国内生产、销售的所有新能源乘用车，智驾芯片全链路关键技术自主化率必须达到70%以上，不达标车型禁止申报、生产、上牌”。经工业和信息化部核查，并未发布过该文件，也从未就新能源车芯片技术自主化率作出规定。新希望：6月商品猪销售收入13.84亿元，同比下降17.18%36氪获悉，新希望公告，6月销售商品猪125.44万头，环比增长1.70",
+      "link": "https://36kr.com/p/3885457443385346?f=rss",
       "category": "AI News"
     },
     {
-      "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
-      "source": "量子位",
-      "published": "2026-07-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/444733.html",
-      "category": "AI News"
-    },
-    {
-      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
-      "source": "量子位",
-      "published": "2026-07-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/444721.html",
-      "category": "AI News"
-    },
-    {
-      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
-      "source": "量子位",
-      "published": "2026-07-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/444049.html",
-      "category": "AI News"
-    },
-    {
-      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
-      "source": "量子位",
-      "published": "2026-07-06",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/444043.html",
-      "category": "AI News"
-    },
-    {
-      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
-      "source": "量子位",
-      "published": "2026-07-06",
-      "summary": "把世界模型用活了",
-      "link": "https://www.qbitai.com/2026/07/443868.html",
-      "category": "AI News"
-    },
-    {
-      "title": "世界模型炒作了半年，反应速度还不如 VLA？穆尧团队和百度智能云给出最新解法",
-      "source": "InfoQ 中文",
-      "published": "2026-07-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Lb4pQTNTQdq657Gzj7EI?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "硬件原生FP8加持，摩尔线程完成美团LongCat-2.0 Day-0 极速适配",
-      "source": "InfoQ 中文",
-      "published": "2026-07-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/vRzlWZxXMaxC6aZM7Ufw?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
-      "source": "InfoQ 中文",
-      "published": "2026-07-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Agentic 范式下的视频画质优化：火山引擎的新路径",
-      "source": "InfoQ 中文",
-      "published": "2026-07-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/Gx6eXWNCqcVkET9wFZq9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
-      "source": "InfoQ 中文",
-      "published": "2026-07-06",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Anthropic 每招一个人，就要为算力多支付 200 万美元",
-      "source": "开源中国",
-      "published": "2026-07-06",
-      "summary": "硅谷知名投资人 Tomasz Tunguz 在 Theory Ventures 的博客上发了一组数据，干净利落地解释了一个让很多人困惑的问题：AI 行业的钱到底花到哪里去了。 先说最扎眼的数字。Anthropic 有大约 5000 名员工，2026 年在模型推理和训练上的支出约 100 亿美元。平均下来，每个员工头上顶着 200 万美元的年均算力账单。而 Anthro...",
-      "link": "https://www.oschina.net/news/471517/ai-spend-breakeven-2029",
-      "category": "AI News"
-    },
-    {
-      "title": "腾讯混元 Hy3 开源发布",
-      "source": "开源中国",
-      "published": "2026-07-06",
-      "summary": "继 4 月底发布 Hy3 preview 后，腾讯混元 Hy3 现已开源发布，基于 preview 版本进一步提升了后训练数据的质量和多样性，扩大了 RL 算力规模。 公告称，Hy3 在推理、智能体、长上下文等任务上显著进步，取得了比肩国内外更大尺寸旗舰模型（参数规模往往是 Hy3 的 2～5 倍）的效果。Hy3 在软件开发、办公生产、金融建模、前...",
-      "link": "https://www.oschina.net/news/471516",
-      "category": "AI News"
-    },
-    {
-      "title": "璀璨之星 :fire: xbatis 1.10.6 正式发版，最好用最简单最方便的 ORM !!!",
-      "source": "开源中国",
-      "published": "2026-07-06",
-      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用过的都来体验，虽然有 AI 了，但是真正好用的 ORM 的还不能忽略的，除非你以后不维护。 1.10.6 - 2026-07-02 1：新增 COALESCE 函数 2：新增 Map结果 强制包含value为nul...",
-      "link": "https://www.oschina.net/news/471515/xbatis-1-10-6-released",
-      "category": "AI News"
-    },
-    {
-      "title": "MKVToolNix v100.0 发布，MKV 视频编辑工具",
-      "source": "开源中国",
-      "published": "2026-07-06",
-      "summary": "MKVToolNix 是一套功能强大的 mkv (Matroska) 格式制作和处理的工具，支持将多种视频、音频、字幕等格式封装成 mkv 格式。 MKVToolNix 100.0 现已正式发布，具体更新内容包括： New features and enhancements all：为所有应用程序添加了新的可缩放（SVG）应用程序图标， 替换现有的像素图（PNG、ICO）图标。 mkvmerge：...",
-      "link": "https://www.oschina.net/news/471514/mkvtoolnix-100-0-released",
-      "category": "AI News"
-    },
-    {
-      "title": "F5 NGINX Ingress Controller 5.3.0 新增功能",
-      "source": "开源中国",
-      "published": "2026-07-06",
-      "summary": "F5 NGINX Ingress Controller 5.3.0 正值关键时刻发布。随着 Kubernetes 社区在 2025 年 KubeCon North America 大会上宣布社区维护的 ingress-nginx 项目将于 2026 年 3 月停用，全球用户纷纷重新思考其 ingress 战略。对于那些寻求熟悉的、生产级开源替代方案的用户来说，F5 NGINX Ingress Controller 提供了由 NGINX ...",
-      "link": "https://my.oschina.net/u/5246775/blog/19717391",
-      "category": "AI News"
-    },
-    {
-      "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+      "title": "不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期",
       "source": "36氪",
-      "published": "2026-07-06",
-      "summary": "大公司：郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销”知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社）千问大模型升级实时语音识别大模型Fun-ASR-Realtime36氪获悉，千问大模型正式升级实",
-      "link": "https://36kr.com/p/3884024701874183?f=rss",
+      "published": "2026-07-07",
+      "summary": "“理性的人让自己适应世界，不理性的人坚持让世界适应自己。因此，一切进步都取决于不理性的人。”萧伯纳在《人与超人》里的论断，其实缺少了一个前提：让世界适应自己，你得先看见一个别人还没看见的世界。无法否认的是，过去二十年在中国的科技行业里，有一条相对成熟的路径：fast follow。看硅谷做了什么，更快、更便宜地做一遍。这种方式催生了一批优秀的公司，却难免也带来了一个盲区：当前方没有参照物的时候，我们应该往何处前进？6月27日晚上，我们第一次走出北京，携手蔚来资本在上海举办了“离线聚会第三期·寻找萤火虫”。firefly萤火虫是蔚来旗下的智能电动高端小车品牌，但对于我们这一场沙龙来说，它还有另一",
+      "link": "https://36kr.com/p/3885415199076352?f=rss",
       "category": "AI News"
     },
     {
-      "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发",
       "source": "36氪",
-      "published": "2026-07-06",
-      "summary": "文｜吴思瑾编辑｜邓咏仪01 一句话介绍北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom Capi",
-      "link": "https://36kr.com/p/3883591654895873?f=rss",
+      "published": "2026-07-07",
+      "summary": "文 | 阿至太空算力赛道又有新玩家入场。36氪获悉，太空算力卫星系统解决方案提供商星际原点航天科技（上海）有限公司（以下简称“星际原点”）已于近期连续完成种子轮、天使轮两轮融资，累计规模为数千万元。种子轮投资方为九合创投。天使轮由老股东九合创投、梅花创投和上海国投旗下上海科创集团策源基金联合领投，上海天使会以联合投资形式参与。一苇资本担任独家财务顾问。星际原点成立于2025年，业务聚焦太空算力卫星。核心团队由中科院北斗三号核心骨干、哈工大专家联合组建，拥有北斗三号中高轨卫星10余颗、低轨互联网卫星30余颗的国家级卫星工程研制经验。创始人孙小雷拥有超15年航天工程经验，先后在中科院微小卫星创新研",
+      "link": "https://36kr.com/p/3885413484163074?f=rss",
       "category": "AI News"
     },
     {
-      "title": "36氪首发｜前西门子、罗罗电动飞行团队创业做航空电驱系统，两轮连融数千万元",
+      "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
       "source": "36氪",
-      "published": "2026-07-06",
-      "summary": "本文约3000字，建议阅读6分钟作者 | 乔钰杰编辑 | 袁斯来硬氪获悉，开普动能航空技术有限责任公司（以下简称“开普动能”）近期连续完成种子轮及天使轮融资，两轮融资合计金额达数千万元人民币，由零以资本领投、新鼎资本跟投，唯快资本担任长期财务顾问。随着eVTOL产业进入工程化阶段，航空电驱系统正成为产业链中技术壁垒最高的核心环节之一。作为电动飞行器“三电系统”的关键组成部分，航空电驱系统成本约占整机成本的30-40%，不仅需要兼顾高功率密度、高扭矩密度和高效率，还需满足极高的安全性、可靠性、可测试维护性等适航要求（包括多通道冗余设计、单点失效保护以及复杂热管理等能力），同时电机控制器的软/硬件",
-      "link": "https://36kr.com/p/3883721315971078?f=rss",
+      "published": "2026-07-07",
+      "summary": "本文约3100字，建议阅读7分钟作者 | 彭孝秋编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。2017年前后，36岁的蓝水生完成了人生中第一次大退出。那是一家做游戏出海的公司，叫广州易幻网络。当年被A股上市公司宝通科技以超过17亿元对价收购，按公开交易安排及后续减持情况粗算，蓝水生相关方整体退出规模约在15亿元上下。按照创业常见剧本，故事到这里基本就可以收尾了。毕竟一个江西财经大学毕业的连续创业者，靠游戏出海完成财富跃迁。接下来，他可以做投资人，可以继续在熟悉的游戏行业滚雪球，也可以躺在资产负债表上享受余",
+      "link": "https://36kr.com/p/3885318981366023?f=rss",
       "category": "AI News"
     }
   ]
