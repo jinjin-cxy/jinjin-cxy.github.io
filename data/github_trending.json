@@ -1,106 +1,106 @@
 {
-  "updated": "2026-07-06T13:09:16.307649+00:00",
+  "updated": "2026-07-07T00:23:47.041798+00:00",
   "repositories": [
     {
       "name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-      "stars": 50804,
-      "stars_today": 1386,
+      "stars": 51497,
+      "stars_today": 1378,
       "language": "JavaScript",
       "link": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 70333,
-      "stars_today": 1114,
+      "stars": 70778,
+      "stars_today": 1112,
       "language": "Shell",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
-      "stars": 18389,
-      "stars_today": 2493,
+      "stars": 19348,
+      "stars_today": 2494,
       "language": "Rust",
       "link": "https://github.com/Zackriya-Solutions/meetily"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 77026,
-      "stars_today": 471,
+      "stars": 77502,
+      "stars_today": 470,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "stars": 58362,
-      "stars_today": 1453,
+      "stars": 58900,
+      "stars_today": 1458,
       "language": "JavaScript",
       "link": "https://github.com/Leonxlnx/taste-skill"
     },
     {
       "name": "alirezarezvani/claude-skills",
-      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
-      "stars": 20930,
-      "stars_today": 611,
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
+      "stars": 21139,
+      "stars_today": 610,
       "language": "Python",
       "link": "https://github.com/alirezarezvani/claude-skills"
     },
     {
       "name": "openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "stars": 26031,
-      "stars_today": 910,
+      "stars": 26268,
+      "stars_today": 906,
       "language": "JavaScript",
       "link": "https://github.com/openai/codex-plugin-cc"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 49512,
-      "stars_today": 237,
+      "stars": 49730,
+      "stars_today": 458,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
-      "stars": 12543,
-      "stars_today": 783,
+      "stars": 12859,
+      "stars_today": 779,
       "language": "Rust",
       "link": "https://github.com/ogulcancelik/herdr"
     },
     {
       "name": "bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 3820,
-      "stars_today": 368,
+      "stars": 4214,
+      "stars_today": 427,
       "language": "Python",
       "link": "https://github.com/bradautomates/claude-video"
     },
     {
       "name": "karakeep-app/karakeep",
       "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
-      "stars": 26698,
-      "stars_today": 178,
+      "stars": 26883,
+      "stars_today": 199,
       "language": "TypeScript",
       "link": "https://github.com/karakeep-app/karakeep"
     },
     {
       "name": "firecrawl/firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "stars": 145680,
-      "stars_today": 834,
+      "stars": 146236,
+      "stars_today": 867,
       "language": "TypeScript",
       "link": "https://github.com/firecrawl/firecrawl"
     },
     {
       "name": "steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 16569,
+      "stars": 16725,
       "stars_today": 598,
       "language": "Swift",
       "link": "https://github.com/steipete/CodexBar"
@@ -108,16 +108,16 @@
     {
       "name": "alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 13189,
-      "stars_today": 355,
+      "stars": 13493,
+      "stars_today": 382,
       "language": "C++",
       "link": "https://github.com/alibaba/zvec"
     },
     {
       "name": "sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics",
-      "stars": 482012,
-      "stars_today": 352,
+      "stars": 482275,
+      "stars_today": 345,
       "language": "",
       "link": "https://github.com/sindresorhus/awesome"
     }
