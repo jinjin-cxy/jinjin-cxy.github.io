@@ -1,123 +1,123 @@
 {
-  "updated": "2026-07-08T12:28:33.908062+00:00",
+  "updated": "2026-07-09T00:23:07.735458+00:00",
   "repositories": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "stars": 13460,
-      "stars_today": 2514,
-      "language": "TypeScript",
-      "link": "https://github.com/MadsLorentzen/ai-job-search"
-    },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 72871,
-      "stars_today": 1317,
+      "stars": 74014,
+      "stars_today": 1297,
       "language": "JavaScript",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 78849,
-      "stars_today": 1129,
+      "stars": 79127,
+      "stars_today": 799,
       "language": "Rust",
       "link": "https://github.com/ruvnet/RuView"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 7341,
-      "stars_today": 610,
+      "stars": 7620,
+      "stars_today": 318,
       "language": "TypeScript",
       "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
       "name": "prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "stars": 46386,
-      "stars_today": 30,
+      "stars": 46544,
+      "stars_today": 46,
       "language": "TypeScript",
       "link": "https://github.com/prisma/prisma"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "stars": 50495,
-      "stars_today": 659,
+      "stars": 50732,
+      "stars_today": 352,
       "language": "Python",
       "link": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "name": "argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
-      "stars": 23362,
-      "stars_today": 20,
+      "stars": 23425,
+      "stars_today": 29,
       "language": "Go",
       "link": "https://github.com/argoproj/argo-cd"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
-      "stars": 10985,
-      "stars_today": 893,
+      "stars": 11766,
+      "stars_today": 1717,
       "language": "C#",
       "link": "https://github.com/iOfficeAI/OfficeCLI"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-      "stars": 53625,
-      "stars_today": 1691,
+      "stars": 54164,
+      "stars_today": 1218,
       "language": "JavaScript",
       "link": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 249398,
-      "stars_today": 999,
+      "stars": 249799,
+      "stars_today": 1116,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
-      "stars": 14219,
-      "stars_today": 685,
+      "stars": 14387,
+      "stars_today": 395,
       "language": "C++",
       "link": "https://github.com/alibaba/zvec"
     },
     {
       "name": "Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
-      "stars": 14649,
-      "stars_today": 2031,
+      "stars": 15024,
+      "stars_today": 1125,
       "language": "CSS",
       "link": "https://github.com/Diolinux/PhotoGIMP"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6287,
-      "stars_today": 20,
+      "stars": 6372,
+      "stars_today": 28,
       "language": "TypeScript",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
+      "name": "huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "stars": 1992,
+      "stars_today": 296,
+      "language": "C++",
+      "link": "https://github.com/huxingyi/autoremesher"
+    },
+    {
       "name": "bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 5697,
-      "stars_today": 965,
+      "stars": 6041,
+      "stars_today": 951,
       "language": "Python",
       "link": "https://github.com/bradautomates/claude-video"
     },
     {
       "name": "TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "stars": 8722,
-      "stars_today": 664,
+      "stars": 8915,
+      "stars_today": 564,
       "language": "Rust",
       "link": "https://github.com/TencentCloud/CubeSandbox"
     }
