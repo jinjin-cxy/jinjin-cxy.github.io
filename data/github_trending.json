@@ -1,125 +1,125 @@
 {
-  "updated": "2026-07-10T00:23:08.842709+00:00",
+  "updated": "2026-07-10T12:42:05.974593+00:00",
   "repositories": [
-    {
-      "name": "MadsLorentzen/ai-job-search",
-      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "stars": 18947,
-      "stars_today": 3716,
-      "language": "TypeScript",
-      "link": "https://github.com/MadsLorentzen/ai-job-search"
-    },
-    {
-      "name": "SmartlyDressedGames/U3-SDK",
-      "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-      "stars": 2007,
-      "stars_today": 524,
-      "language": "C#",
-      "link": "https://github.com/SmartlyDressedGames/U3-SDK"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 75852,
-      "stars_today": 2554,
-      "language": "JavaScript",
-      "link": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "VoltAgent/awesome-design-md",
-      "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": 99649,
-      "stars_today": 1391,
-      "language": "",
-      "link": "https://github.com/VoltAgent/awesome-design-md"
-    },
-    {
-      "name": "iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
-      "stars": 13399,
-      "stars_today": 1929,
-      "language": "C#",
-      "link": "https://github.com/iOfficeAI/OfficeCLI"
-    },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6568,
-      "stars_today": 185,
+      "stars": 6815,
+      "stars_today": 349,
       "language": "TypeScript",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "stars": 47147,
-      "stars_today": 194,
-      "language": "Jupyter Notebook",
-      "link": "https://github.com/anthropics/claude-cookbooks"
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": 93906,
+      "stars_today": 82,
+      "language": "Rust",
+      "link": "https://github.com/oven-sh/bun"
     },
     {
-      "name": "vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": 19382,
-      "stars_today": 535,
-      "language": "Go",
-      "link": "https://github.com/vxcontrol/pentagi"
-    },
-    {
-      "name": "unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-      "stars": 71814,
-      "stars_today": 215,
-      "language": "Python",
-      "link": "https://github.com/unclecode/crawl4ai"
-    },
-    {
-      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
-      "description": "An evolving how-to guide for securing a Linux server.",
-      "stars": 29075,
-      "stars_today": 243,
-      "language": "",
-      "link": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
-    },
-    {
-      "name": "huxingyi/autoremesher",
-      "description": "Automatic quad remeshing tool",
-      "stars": 2356,
-      "stars_today": 403,
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "stars": 17470,
+      "stars_today": 3,
       "language": "C++",
-      "link": "https://github.com/huxingyi/autoremesher"
+      "link": "https://github.com/abseil/abseil-cpp"
     },
     {
-      "name": "bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": 6687,
-      "stars_today": 718,
-      "language": "Python",
-      "link": "https://github.com/bradautomates/claude-video"
-    },
-    {
-      "name": "prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "stars": 46893,
-      "stars_today": 376,
-      "language": "TypeScript",
-      "link": "https://github.com/prisma/prisma"
-    },
-    {
-      "name": "kyutai-labs/pocket-tts",
-      "description": "A TTS that fits in your CPU (and pocket)",
-      "stars": 6969,
-      "stars_today": 235,
-      "language": "Python",
-      "link": "https://github.com/kyutai-labs/pocket-tts"
-    },
-    {
-      "name": "asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
-      "stars": 55140,
-      "stars_today": 1125,
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 76482,
+      "stars_today": 1114,
       "language": "JavaScript",
-      "link": "https://github.com/asgeirtj/system_prompts_leaks"
+      "link": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "stars": 6048,
+      "stars_today": 65,
+      "language": "C++",
+      "link": "https://github.com/jbeder/yaml-cpp"
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 163989,
+      "stars_today": 1728,
+      "language": "Shell",
+      "link": "https://github.com/mattpocock/skills"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 251462,
+      "stars_today": 1096,
+      "language": "Shell",
+      "link": "https://github.com/obra/superpowers"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "stars": 109723,
+      "stars_today": 166,
+      "language": "TypeScript",
+      "link": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "stars": 20569,
+      "stars_today": 69,
+      "language": "C++",
+      "link": "https://github.com/catchorg/Catch2"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "stars": 6034,
+      "stars_today": 87,
+      "language": "C++",
+      "link": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 8084,
+      "stars_today": 581,
+      "language": "TypeScript",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 28651,
+      "stars_today": 104,
+      "language": "Python",
+      "link": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "description": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars": 7972,
+      "stars_today": 86,
+      "language": "C++",
+      "link": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars": 33463,
+      "stars_today": 66,
+      "language": "Go",
+      "link": "https://github.com/tailscale/tailscale"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars": 6578,
+      "stars_today": 101,
+      "language": "TypeScript",
+      "link": "https://github.com/google-labs-code/stitch-skills"
     }
   ]
 }
