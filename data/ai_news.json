@@ -1,164 +1,164 @@
 {
-  "updated": "2026-07-09T00:23:17.490399+00:00",
+  "updated": "2026-07-10T00:23:19.588232+00:00",
   "articles": [
     {
-      "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
+      "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+      "source": "量子位",
+      "published": "2026-07-09",
+      "summary": "“已经出现泛化涌现”",
+      "link": "https://www.qbitai.com/2026/07/447508.html",
+      "category": "AI News"
+    },
+    {
+      "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
+      "source": "量子位",
+      "published": "2026-07-09",
+      "summary": "",
+      "link": "https://www.qbitai.com/2026/07/446843.html",
+      "category": "AI News"
+    },
+    {
+      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
+      "source": "量子位",
+      "published": "2026-07-09",
+      "summary": "李开复笑着回应了",
+      "link": "https://www.qbitai.com/2026/07/446778.html",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "source": "量子位",
+      "published": "2026-07-09",
+      "summary": "To safe AGI.",
+      "link": "https://www.qbitai.com/2026/07/446658.html",
+      "category": "AI News"
+    },
+    {
+      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+      "source": "量子位",
+      "published": "2026-07-09",
+      "summary": "视频生成的下一站，或是机器人大脑",
+      "link": "https://www.qbitai.com/2026/07/446568.html",
+      "category": "AI News"
+    },
+    {
+      "title": "Agent 进化论：从对话到协作",
+      "source": "InfoQ 中文",
+      "published": "2026-07-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "AI Infra 拼什么？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳",
+      "source": "InfoQ 中文",
+      "published": "2026-07-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "Snowflake CoWork：每位知识工作者的专属工作 Agent ｜ 技术趋势",
+      "source": "InfoQ 中文",
+      "published": "2026-07-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？",
+      "source": "InfoQ 中文",
+      "published": "2026-07-09",
+      "summary": "点击查看原文>",
+      "link": "https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&utm_medium=article",
+      "category": "AI News"
+    },
+    {
+      "title": "MoonBit Skills Marketplace ：让工具可发布、可运行、可被 Agent 调用",
+      "source": "开源中国",
+      "published": "2026-07-09",
+      "summary": "当 Agent 开始参与真实开发任务时，它需要的不只是模型本身，还需要一组可以调用的工具。MoonBit Skills 提供了一种新的工具分发方式：开发者可以用 MoonBit 编写工具，将其编译为 WebAssembly，并通过 mooncakes.io / Skills Marketplace 发布。用户或 Agent 可以用统一方式发现、理解并调用这些工具。 “安装一个库”只...",
+      "link": "https://www.oschina.net/news/471616",
+      "category": "AI News"
+    },
+    {
+      "title": "Angular 22.0.6 发布",
+      "source": "开源中国",
+      "published": "2026-07-09",
+      "summary": "Angular 22.0.6 现已发布，具体更新内容如下：、 compiler 修复 fd4ddcafed 在 TCB 中使用常规的可选链式表达式来实现安全的函数调用 compiler-cli 修复 534fe81a89 对所需的信号查询应用 debugName 转换 修复 3b08201bfb 使用三元运算符检测绑定表达式中未调用的信号 forms/signals 修复 171669f7b2 为了兼容 Abstract...",
+      "link": "https://www.oschina.net/news/471615/angular-22-0-6-released",
+      "category": "AI News"
+    },
+    {
+      "title": "腾讯云 Agent Bucket 发布",
+      "source": "开源中国",
+      "published": "2026-07-09",
+      "summary": "腾讯云宣布正式发布 Agent Bucket（智能体桶）。可以为亿级Agent提供独立云空间，统一存放用户上传的资料，以及Agent生成的报告、图片、代码等文件和工作产物。 开发者仅需兼容标准S3接口，就能用熟悉的接入方式，快速为海量Agent构建原生独立空间，无需自研多租户隔离、权限管理等复杂能力。目前，Agent Bucket 已搭载在...",
+      "link": "https://www.oschina.net/news/471614",
+      "category": "AI News"
+    },
+    {
+      "title": "Wireshark 4.6.7 发布，最强开源网络数据包分析器",
+      "source": "开源中国",
+      "published": "2026-07-09",
+      "summary": "Wireshark 4.6.7 现已发布。Windows 安装程序现在使用 Visual Studio 2026 构建。 在 UN*X 系统上（不包括通过应用程序包运行的 macOS，例如官方安装程序），extcap 二进制文件现在默认在 libexec 目录下查找，例如/usr/libexec/wireshark/extcap ，而不是/usr/lib64/wireshark/extcap/或类似路径。这是辅助二进制文件的...",
+      "link": "https://www.oschina.net/news/471613/wireshark-4-6-7-released",
+      "category": "AI News"
+    },
+    {
+      "title": "2026 年 6 月国产数据库大事记",
+      "source": "开源中国",
+      "published": "2026-07-09",
+      "summary": "IDC 公布 2025 年下半年中国关系型数据库市场份额（26.1 亿美元，同比增长 14.6%），其中阿里云第一，腾讯第二，华为第三。信创世界发布《2026 中国国产数据库厂商能力象限》，达梦数据、OceanBase、电科金仓稳居领导者象；华为、OceanBase、SelectDB、瀚高等完成全系 AI 能力升级；开源领域 VexDB、崖山、PingCAP 持续开...",
+      "link": "https://my.oschina.net/u/4559794/blog/19719321",
+      "category": "AI News"
+    },
+    {
+      "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
       "source": "36氪",
       "published": "2026-07-09",
-      "summary": "本文约3300字，建议阅读7分钟作者 | 彭孝秋编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名第二，份额14.5%；它的指纹传感器已经装进了中国十大手机品牌里的八家。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股东名册和人脉网，远比中国第二要曲折。光",
-      "link": "https://36kr.com/p/3887659913083392?f=rss",
+      "summary": "今日热点导览花呗就还款页面无法正常打开致歉中芯国际市值超越贵州茅台iPhone 18 Pro Max成本大涨，起步价或维持在9999元英伟达将与Hugging Face合作开发机器人开源模型美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易TOP 3大新闻老乡鸡五年五次冲击上市失败LXJ International Holdings Limited（简称“老乡鸡”）于2026年1月8日递交港交所的招股书于7月8日失效。这家被称为“中式快餐第一”的企业，五年间已第五次冲击资本市场失败。（界面新闻）两款燃油车重回销量榜前十在短暂告别销量榜前十后，燃油车又杀回来了。在新能源车渗透率连续三个月维持在60%",
+      "link": "https://36kr.com/p/3889047503354625?f=rss",
       "category": "AI News"
     },
     {
-      "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
+      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
       "source": "36氪",
       "published": "2026-07-09",
-      "summary": "今日热点导览工信部：AI编程工具Claude Code存在安全后门隐患，危害严重字节绩效规则调整：加大半年激励，加强字节范与领导力考核沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍TOP3大新闻小米汽车新产品系列命名为SKYNOMAD，雷军回复上市时间7月8日，小米汽车官方微博发布主题为“SKYNOMAD”的海报，“SKY”指天空，“NOMAD”指游牧者，海报上带有小米品牌LOGO。据媒体报道，小米汽车首款增程式SUV将归属全新独立子品牌“SKYNOMAD”，计划于20",
-      "link": "https://36kr.com/p/3887648675133960?f=rss",
+      "summary": "7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。0.000S 无机容差应变瞬息万变的混沌不确定性，为自动充电场景带来 “反应速度” 核心挑战目前，自动充电演示和概念产品层出不穷，但距真正规模商用始终一步之遥。其核心原因在于，从精准控制的演示环节走向真实而复杂的落地应用时，这不再是一个 ",
+      "link": "https://36kr.com/p/3888567864851204?f=rss",
       "category": "AI News"
     },
     {
-      "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
-      "source": "量子位",
-      "published": "2026-07-08",
-      "summary": "华为联想都投了",
-      "link": "https://www.qbitai.com/2026/07/446411.html",
-      "category": "AI News"
-    },
-    {
-      "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
-      "source": "量子位",
-      "published": "2026-07-08",
-      "summary": "具身测评界的珠峰来了：RoboDojo",
-      "link": "https://www.qbitai.com/2026/07/446363.html",
-      "category": "AI News"
-    },
-    {
-      "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
-      "source": "量子位",
-      "published": "2026-07-08",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/446356.html",
-      "category": "AI News"
-    },
-    {
-      "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
-      "source": "量子位",
-      "published": "2026-07-08",
-      "summary": "",
-      "link": "https://www.qbitai.com/2026/07/446226.html",
-      "category": "AI News"
-    },
-    {
-      "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
-      "source": "量子位",
-      "published": "2026-07-08",
-      "summary": "Hugging Face论文月榜第一",
-      "link": "https://www.qbitai.com/2026/07/446075.html",
-      "category": "AI News"
-    },
-    {
-      "title": "Claude、Cursor、OpenClaw 集体上手机，不摸鱼、不请假、24h 为你打工",
-      "source": "InfoQ 中文",
-      "published": "2026-07-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/77YytRGDYm7T9ovQKaW9?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
-      "source": "InfoQ 中文",
-      "published": "2026-07-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Cube Sandbox正式支持Arm架构！腾讯云与Arm联手解锁Agent多架构算力",
-      "source": "InfoQ 中文",
-      "published": "2026-07-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/c4GEoZLWvNZQhSSSWAoH?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐",
-      "source": "InfoQ 中文",
-      "published": "2026-07-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
-      "source": "InfoQ 中文",
-      "published": "2026-07-08",
-      "summary": "点击查看原文>",
-      "link": "https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&utm_medium=article",
-      "category": "AI News"
-    },
-    {
-      "title": "Visual Studio Code 1.128 发布",
-      "source": "开源中国",
-      "published": "2026-07-08",
-      "summary": "Visual Studio Code 1.128 现已发布。此版本带来了更丰富的 multi-chat agent 会话、聊天中普遍可用的 image 支持以及操作系统级别的键盘快捷键。 Multi-chat agent sessions：在一个 Claude 会话中同时运行多个相关聊天，以便比较不同方法并并行处理工作。 快速聊天：无需先打开工作区，即可在 Agents 窗口中提问。 Co...",
-      "link": "https://www.oschina.net/news/471575/vs-code-1-128-released",
-      "category": "AI News"
-    },
-    {
-      "title": "JuiceFS 社区版 1.4 发布：让海量数据管理更低成本、更高效、更可控",
-      "source": "开源中国",
-      "published": "2026-07-08",
-      "summary": "JuiceFS 社区版 1.4 今日正式发布，这是自 2021 年推出开源版本以来的第五个重要版本。该版本为长期支持版本（LTS），我们将继续维护 v1.4 和 v1.3，v1.2 将停止更新。目前，JuiceFS 在 GitHub 上已获得超过 14.2K Stars。根据用户匿名上报数据，社区版数据总量超过 1.4 EB，较 2022 年增长超 700 倍。 随着 JuiceFS 被用...",
-      "link": "https://www.oschina.net/news/471574",
-      "category": "AI News"
-    },
-    {
-      "title": "从结构化到多模态：Apache Flink，多模态数据处理的流式底座",
-      "source": "开源中国",
-      "published": "2026-07-08",
-      "summary": "过去很长一段时间里，数据处理系统主要围绕结构化记录展开：订单、日志、点击、交易、指标、维表、事实表。数据被抽象成一行行 schema 清晰的记录，核心任务是清洗、关联、聚合、统计。这类链路支撑了搜索、BI、风控、推荐、广告等大量传统业务，也塑造了我们对数据工程的默认想象：数据处理首先是对结构化字段的加工。...",
-      "link": "https://my.oschina.net/u/2828172/blog/19718842",
-      "category": "AI News"
-    },
-    {
-      "title": "蚂蚁推出 LingBot-Depth 2.0，并开源 LingBot-Vision",
-      "source": "开源中国",
-      "published": "2026-07-08",
-      "summary": "在 2026 年 1 月开源 LingBot-Depth 1.0 后，蚂蚁集团旗下具身智能公司灵波科技宣布推出全新一代空间感知模型 LingBot-Depth 2.0，以及同步开源视觉基座模型 LingBot-Vision。 根据介绍，LingBot-Depth 是一种面向真实场景的深度补全模型，相当于机器人在物理世界的眼睛。LingBot-Depth 2.0 的训练数据从 1.0 版本的 30...",
-      "link": "https://www.oschina.net/news/471571",
-      "category": "AI News"
-    },
-    {
-      "title": "工信部提示 AI 编程工具 Claude Code 存在安全后门隐患",
-      "source": "开源中国",
-      "published": "2026-07-08",
-      "summary": "近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI编程工具Claude Code存在安全后门隐患，危害严重。 Claude Code是美国Anthropic公司开发的AI编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影...",
-      "link": "https://www.oschina.net/news/471570",
-      "category": "AI News"
-    },
-    {
-      "title": "eVTOL 走向商业化，难点不只在“飞起来”",
+      "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
       "source": "36氪",
-      "published": "2026-07-08",
-      "summary": "低空经济的热度，很多时候是从一架飞行器开始的。过去几年，eVTOL真机亮相、飞行汽车概念升温、低空航线试点、地方产业基金入场，让这个行业快速成为新兴产业里的高频词。相比传统无人机，eVTOL为代表的载人载货飞行器，显然承载了更大的想象力：它不仅指向低空物流、应急救援、城市治理，也指向未来城市空中交通、城际运输和立体出行。这股热度背后，更值得关注的不是市场空间想象，而是产业正在从概念展示进入审定、取证和运行体系建设阶段。公开资料显示，国内无人驾驶、电动垂直起降等新技术快速突破，已完成19个无人驾驶航空器型号审定工作，在审新兴航空器型号数量超过70个。与此同时，新修订的《中华人民共和国民用航空法》",
-      "link": "https://36kr.com/p/3886750049808389?f=rss",
+      "published": "2026-07-09",
+      "summary": "Alpha will be made, not found。麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融��，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不得不学会的新手艺）。与此同时，主线变了。一级",
+      "link": "https://36kr.com/p/3888289009678854?f=rss",
       "category": "AI News"
     },
     {
-      "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+      "title": "2026·Under36丨绕过旧答案的一代人",
       "source": "36氪",
-      "published": "2026-07-08",
-      "summary": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品从来不是固定的，会跟着国家的产业能力变迁。这种变迁的剧本也正在今天中国出海人的身上重演。2015年，李露薇从宁波赴法留学。彼时国内大厂刚开始试水跨境电商业务，中国商品开始借助亚马逊、速卖通、eBay等线上渠道进入欧美市场，海运等跨境物流网络",
-      "link": "https://36kr.com/p/3886574096265481?f=rss",
+      "published": "2026-07-09",
+      "summary": "为什么颠覆性的突破总是由年轻人完成？因为他们还没有被旧范式驯服。几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。而库恩试图回答的问题是，为什么颠覆性的突破总是由年轻人完成？答案是简单而残酷的，因为他们还没有被旧范式驯服。在整理完2026年度Under 36入选者的资料之后，我们很难不想起这个判断：新的范式不靠说服旧的人，而是靠一代新人改写。无",
+      "link": "https://36kr.com/p/3888279614274048?f=rss",
       "category": "AI News"
     },
     {
-      "title": "地产AI进入落地战，深度智联又甩出一张牌",
+      "title": "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
       "source": "36氪",
-      "published": "2026-07-08",
-      "summary": "7月7日，易居（中国）控股有限公司董事局主席、总裁周忻再一次来到台前，给公司的AI产品站台，推出其核心战略产品“地产模数通——企业专属大模型一体机”。同时，克而瑞地产AI分析师“小瑞”正式上岗。不到两个月前，易居旗下的深度智联刚刚发布了全球首个房地产经纪人智能体“易居·小新”，用中立无佣模式替代传统中介。迹象显示，深度智联在加速AI产品落地。周忻说，地产模数通“是第一个开箱即用的硬软件结合的AI应用，我把它称之为DEEPLINK IN-HOUSE MODEL，它是一台机器，里面有芯片、API，有企业的各种数据、知识、knowhow，还有最上层的CoWork平台。这个是地产行业的第一个全新的产品",
-      "link": "https://36kr.com/p/3886709249241349?f=rss",
+      "published": "2026-07-09",
+      "summary": "大公司：LG Innotek将在越南海防投资10亿美元新建半导体基板厂据6月8日声明，LG集团子公司、韩国电子元件制造商LG Innotek已获得越南海防经济区管理委员会（HEZA）颁发的投资登记证，将投资10亿美元在海防自由贸易区内的DEEP C海防2工业园新建半导体基板制造基地。该厂预计占地约33公顷，计划今年三季度动工，预计明年四季度完工。Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务Waymo周三宣布，将在未来几周内陆续在美国四个新城市推出无人驾驶出租车服务，进一步��固其在本土市场对特斯拉和Zoox的领先优势。新增服务城市分别为圣迭戈、拉斯维加斯、佛罗里达州坦帕以及丹佛。",
+      "link": "https://36kr.com/p/3888230589152008?f=rss",
       "category": "AI News"
     }
   ]

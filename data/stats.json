@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T00:23:17.492912+00:00",
+  "updated": "2026-07-10T00:23:19.591146+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -11,23 +11,23 @@
   "top_tags": [
     {
       "tag": "transformers",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "safetensors",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "text-generation",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "qwen3",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "conversational",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "qwen2",
@@ -56,20 +56,20 @@
       "count": 3
     },
     {
+      "language": "Python",
+      "count": 3
+    },
+    {
+      "language": "C#",
+      "count": 2
+    },
+    {
       "language": "JavaScript",
       "count": 2
     },
     {
-      "language": "Rust",
-      "count": 2
-    },
-    {
-      "language": "Python",
-      "count": 2
-    },
-    {
-      "language": "C++",
-      "count": 2
+      "language": "Jupyter Notebook",
+      "count": 1
     }
   ]
 }
