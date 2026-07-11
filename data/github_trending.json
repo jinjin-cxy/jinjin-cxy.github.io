@@ -1,123 +1,123 @@
 {
-  "updated": "2026-07-10T12:42:05.974593+00:00",
+  "updated": "2026-07-11T00:18:03.012638+00:00",
   "repositories": [
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 6815,
-      "stars_today": 349,
+      "stars": 7273,
+      "stars_today": 328,
       "language": "TypeScript",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
       "name": "oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 93906,
-      "stars_today": 82,
+      "stars": 94210,
+      "stars_today": 209,
       "language": "Rust",
       "link": "https://github.com/oven-sh/bun"
     },
     {
       "name": "abseil/abseil-cpp",
       "description": "Abseil Common Libraries (C++)",
-      "stars": 17470,
-      "stars_today": 3,
+      "stars": 17515,
+      "stars_today": 89,
       "language": "C++",
       "link": "https://github.com/abseil/abseil-cpp"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 76482,
-      "stars_today": 1114,
+      "stars": 76813,
+      "stars_today": 1116,
       "language": "JavaScript",
       "link": "https://github.com/addyosmani/agent-skills"
     },
     {
       "name": "jbeder/yaml-cpp",
       "description": "A YAML parser and emitter in C++",
-      "stars": 6048,
-      "stars_today": 65,
+      "stars": 6079,
+      "stars_today": 69,
       "language": "C++",
       "link": "https://github.com/jbeder/yaml-cpp"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 163989,
-      "stars_today": 1728,
+      "stars": 164596,
+      "stars_today": 1712,
       "language": "Shell",
       "link": "https://github.com/mattpocock/skills"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 251462,
-      "stars_today": 1096,
+      "stars": 251771,
+      "stars_today": 1013,
       "language": "Shell",
       "link": "https://github.com/obra/superpowers"
     },
     {
       "name": "microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "stars": 109723,
-      "stars_today": 166,
+      "stars": 109769,
+      "stars_today": 177,
       "language": "TypeScript",
       "link": "https://github.com/microsoft/TypeScript"
     },
     {
       "name": "catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "stars": 20569,
-      "stars_today": 69,
+      "stars": 20609,
+      "stars_today": 76,
       "language": "C++",
       "link": "https://github.com/catchorg/Catch2"
     },
     {
       "name": "chriskohlhoff/asio",
       "description": "Asio C++ Library",
-      "stars": 6034,
-      "stars_today": 87,
+      "stars": 6068,
+      "stars_today": 92,
       "language": "C++",
       "link": "https://github.com/chriskohlhoff/asio"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 8084,
-      "stars_today": 581,
+      "stars": 8224,
+      "stars_today": 123,
       "language": "TypeScript",
       "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
     },
     {
       "name": "davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 28651,
-      "stars_today": 104,
+      "stars": 28759,
+      "stars_today": 118,
       "language": "Python",
       "link": "https://github.com/davila7/claude-code-templates"
     },
     {
       "name": "zeux/meshoptimizer",
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "stars": 7972,
-      "stars_today": 86,
+      "stars": 8021,
+      "stars_today": 91,
       "language": "C++",
       "link": "https://github.com/zeux/meshoptimizer"
     },
     {
       "name": "tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "stars": 33463,
-      "stars_today": 66,
+      "stars": 33635,
+      "stars_today": 143,
       "language": "Go",
       "link": "https://github.com/tailscale/tailscale"
     },
     {
       "name": "google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
-      "stars": 6578,
-      "stars_today": 101,
+      "stars": 6737,
+      "stars_today": 117,
       "language": "TypeScript",
       "link": "https://github.com/google-labs-code/stitch-skills"
     }

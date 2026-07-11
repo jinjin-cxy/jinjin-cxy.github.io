@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-10T12:42:15.552446+00:00",
+  "updated": "2026-07-11T00:18:12.411876+00:00",
   "articles": [
+    {
+      "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+      "source": "量子位",
+      "published": "2026-07-10",
+      "summary": "四大方向，奖金直给",
+      "link": "https://www.qbitai.com/2026/07/447846.html",
+      "category": "AI News"
+    },
+    {
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "source": "量子位",
+      "published": "2026-07-10",
+      "summary": "AI变为研发流程的“组织者”",
+      "link": "https://www.qbitai.com/2026/07/447832.html",
+      "category": "AI News"
+    },
     {
       "title": "一群做自动驾驶的人，盯上了睡眠这件事",
       "source": "量子位",
@@ -23,22 +39,6 @@
       "published": "2026-07-10",
       "summary": "",
       "link": "https://www.qbitai.com/2026/07/447682.html",
-      "category": "AI News"
-    },
-    {
-      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
-      "source": "量子位",
-      "published": "2026-07-10",
-      "summary": "agent时代来了",
-      "link": "https://www.qbitai.com/2026/07/447681.html",
-      "category": "AI News"
-    },
-    {
-      "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-      "source": "量子位",
-      "published": "2026-07-10",
-      "summary": "开源第四弹：LingBot-VA 2.0",
-      "link": "https://www.qbitai.com/2026/07/447627.html",
       "category": "AI News"
     },
     {
