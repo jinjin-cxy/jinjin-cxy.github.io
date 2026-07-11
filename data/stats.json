@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T00:18:12.414611+00:00",
+  "updated": "2026-07-11T12:14:16.862300+00:00",
   "counts": {
     "arxiv": 0,
     "huggingface": 15,
@@ -23,14 +23,18 @@
     },
     {
       "tag": "qwen3",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "conversational",
-      "count": 5
+      "count": 4
     },
     {
       "tag": "qwen2",
+      "count": 4
+    },
+    {
+      "tag": "chat",
       "count": 3
     },
     {
@@ -44,31 +48,27 @@
     {
       "tag": "jax",
       "count": 2
-    },
-    {
-      "tag": "chat",
-      "count": 2
     }
   ],
   "top_languages": [
     {
       "language": "C++",
-      "count": 5
+      "count": 4
     },
     {
       "language": "TypeScript",
       "count": 4
     },
     {
-      "language": "Shell",
+      "language": "Python",
       "count": 2
     },
     {
-      "language": "Rust",
-      "count": 1
+      "language": "JavaScript",
+      "count": 2
     },
     {
-      "language": "JavaScript",
+      "language": "Go",
       "count": 1
     }
   ]

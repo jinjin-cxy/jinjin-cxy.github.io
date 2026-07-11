@@ -1,125 +1,125 @@
 {
-  "updated": "2026-07-11T00:18:03.012638+00:00",
+  "updated": "2026-07-11T12:14:05.763241+00:00",
   "repositories": [
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 7273,
-      "stars_today": 328,
-      "language": "TypeScript",
-      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
-    },
-    {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 94210,
-      "stars_today": 209,
-      "language": "Rust",
-      "link": "https://github.com/oven-sh/bun"
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "stars": 17515,
-      "stars_today": 89,
-      "language": "C++",
-      "link": "https://github.com/abseil/abseil-cpp"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "stars": 76813,
-      "stars_today": 1116,
-      "language": "JavaScript",
-      "link": "https://github.com/addyosmani/agent-skills"
-    },
-    {
-      "name": "jbeder/yaml-cpp",
-      "description": "A YAML parser and emitter in C++",
-      "stars": 6079,
-      "stars_today": 69,
-      "language": "C++",
-      "link": "https://github.com/jbeder/yaml-cpp"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "stars": 164596,
-      "stars_today": 1712,
-      "language": "Shell",
-      "link": "https://github.com/mattpocock/skills"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "stars": 251771,
-      "stars_today": 1013,
-      "language": "Shell",
-      "link": "https://github.com/obra/superpowers"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "stars": 109769,
-      "stars_today": 177,
-      "language": "TypeScript",
-      "link": "https://github.com/microsoft/TypeScript"
-    },
     {
       "name": "catchorg/Catch2",
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "stars": 20609,
-      "stars_today": 76,
+      "stars": 20685,
+      "stars_today": 117,
       "language": "C++",
       "link": "https://github.com/catchorg/Catch2"
     },
     {
-      "name": "chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "stars": 6068,
-      "stars_today": 92,
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "stars": 17586,
+      "stars_today": 120,
       "language": "C++",
-      "link": "https://github.com/chriskohlhoff/asio"
-    },
-    {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 8224,
-      "stars_today": 123,
-      "language": "TypeScript",
-      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      "link": "https://github.com/abseil/abseil-cpp"
     },
     {
       "name": "davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 28759,
-      "stars_today": 118,
+      "stars": 28871,
+      "stars_today": 230,
       "language": "Python",
       "link": "https://github.com/davila7/claude-code-templates"
     },
     {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars": 6901,
+      "stars_today": 338,
+      "language": "TypeScript",
+      "link": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "stars": 49266,
+      "stars_today": 229,
+      "language": "Go",
+      "link": "https://github.com/hashicorp/terraform"
+    },
+    {
       "name": "zeux/meshoptimizer",
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "stars": 8021,
-      "stars_today": 91,
+      "stars": 8076,
+      "stars_today": 111,
       "language": "C++",
       "link": "https://github.com/zeux/meshoptimizer"
     },
     {
-      "name": "tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "stars": 33635,
-      "stars_today": 143,
-      "language": "Go",
-      "link": "https://github.com/tailscale/tailscale"
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 4309,
+      "stars_today": 112,
+      "language": "JavaScript",
+      "link": "https://github.com/openai/plugins"
     },
     {
-      "name": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
-      "stars": 6737,
-      "stars_today": 117,
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars": 7662,
+      "stars_today": 900,
       "language": "TypeScript",
-      "link": "https://github.com/google-labs-code/stitch-skills"
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "description": "Asio C++ Library",
+      "stars": 6104,
+      "stars_today": 75,
+      "language": "C++",
+      "link": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars": 94486,
+      "stars_today": 654,
+      "language": "Rust",
+      "link": "https://github.com/oven-sh/bun"
+    },
+    {
+      "name": "actions/checkout",
+      "description": "Action for checking out a repo",
+      "stars": 8425,
+      "stars_today": 8,
+      "language": "TypeScript",
+      "link": "https://github.com/actions/checkout"
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "stars": 88455,
+      "stars_today": 125,
+      "language": "Python",
+      "link": "https://github.com/home-assistant/core"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars": 136319,
+      "stars_today": 130,
+      "language": "C",
+      "link": "https://github.com/microsoft/PowerToys"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars": 50535,
+      "stars_today": 75,
+      "language": "TypeScript",
+      "link": "https://github.com/cypress-io/cypress"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 140838,
+      "stars_today": 331,
+      "language": "JavaScript",
+      "link": "https://github.com/vercel/next.js"
     }
   ]
 }
