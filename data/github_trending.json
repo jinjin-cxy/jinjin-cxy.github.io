@@ -1,125 +1,125 @@
 {
-  "updated": "2026-07-12T00:18:05.567024+00:00",
+  "updated": "2026-07-12T12:14:06.260504+00:00",
   "repositories": [
     {
-      "name": "catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "stars": 21028,
-      "stars_today": 113,
-      "language": "C++",
-      "link": "https://github.com/catchorg/Catch2"
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "stars": 17796,
-      "stars_today": 118,
-      "language": "C++",
-      "link": "https://github.com/abseil/abseil-cpp"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "stars": 29012,
-      "stars_today": 232,
-      "language": "Python",
-      "link": "https://github.com/davila7/claude-code-templates"
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
-      "stars": 7051,
-      "stars_today": 340,
-      "language": "TypeScript",
-      "link": "https://github.com/google-labs-code/stitch-skills"
-    },
-    {
-      "name": "hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
-      "stars": 49362,
-      "stars_today": 229,
-      "language": "Go",
-      "link": "https://github.com/hashicorp/terraform"
-    },
-    {
-      "name": "zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "stars": 8136,
-      "stars_today": 110,
-      "language": "C++",
-      "link": "https://github.com/zeux/meshoptimizer"
-    },
-    {
-      "name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "stars": 4401,
-      "stars_today": 29,
-      "language": "JavaScript",
-      "link": "https://github.com/openai/plugins"
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars": 2321,
+      "stars_today": 444,
+      "language": "Rust",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "stars": 7768,
-      "stars_today": 909,
+      "stars": 7865,
+      "stars_today": 207,
       "language": "TypeScript",
       "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
     },
     {
-      "name": "chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "stars": 6137,
-      "stars_today": 76,
-      "language": "C++",
-      "link": "https://github.com/chriskohlhoff/asio"
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 20046,
+      "stars_today": 776,
+      "language": "Python",
+      "link": "https://github.com/HKUDS/Vibe-Trading"
     },
     {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 94564,
-      "stars_today": 658,
-      "language": "Rust",
-      "link": "https://github.com/oven-sh/bun"
+      "name": "PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "stars": 23002,
+      "stars_today": 55,
+      "language": "Python",
+      "link": "https://github.com/PrefectHQ/prefect"
     },
     {
-      "name": "actions/checkout",
-      "description": "Action for checking out a repo",
-      "stars": 8463,
-      "stars_today": 8,
-      "language": "TypeScript",
-      "link": "https://github.com/actions/checkout"
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 118207,
+      "stars_today": 549,
+      "language": "Python",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 48132,
+      "stars_today": 464,
+      "language": "Jupyter Notebook",
+      "link": "https://github.com/anthropics/claude-cookbooks"
     },
     {
       "name": "home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "stars": 88686,
-      "stars_today": 80,
+      "stars": 88846,
+      "stars_today": 404,
       "language": "Python",
       "link": "https://github.com/home-assistant/core"
     },
     {
-      "name": "microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "stars": 136426,
-      "stars_today": 39,
-      "language": "C",
-      "link": "https://github.com/microsoft/PowerToys"
-    },
-    {
-      "name": "cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "stars": 50616,
-      "stars_today": 19,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 33602,
+      "stars_today": 122,
       "language": "TypeScript",
-      "link": "https://github.com/cypress-io/cypress"
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad"
     },
     {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "stars": 140945,
-      "stars_today": 334,
-      "language": "JavaScript",
-      "link": "https://github.com/vercel/next.js"
+      "name": "ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "stars": 2149,
+      "stars_today": 9,
+      "language": "TypeScript",
+      "link": "https://github.com/ColeMurray/background-agents"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars": 6545,
+      "stars_today": 661,
+      "language": "C#",
+      "link": "https://github.com/k1tbyte/Wand-Enhancer"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "",
+      "stars": 13632,
+      "stars_today": 79,
+      "language": "TypeScript",
+      "link": "https://github.com/pingdotgg/t3code"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 61223,
+      "stars_today": 109,
+      "language": "Python",
+      "link": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "stars": 45107,
+      "stars_today": 151,
+      "language": "Dart",
+      "link": "https://github.com/chen08209/FlClash"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 29137,
+      "stars_today": 274,
+      "language": "Python",
+      "link": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "stars": 987,
+      "stars_today": 436,
+      "language": "C#",
+      "link": "https://github.com/par274/sharpemu"
     }
   ]
 }
